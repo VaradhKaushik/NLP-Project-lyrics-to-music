@@ -1,0 +1,77 @@
+{
+    "midi_file_path": "archive-new\\Britney_Spears\\Stronger.mid",
+    "artist_band_name": "Britney Spears",
+    "song_title": "Stronger",
+    "lyrics": {
+        "Verse": [
+            "Hush, just stop",
+            "There\u2019s nothing you can do or say (Baby)",
+            "I've had enough",
+            "I'm not your property as from today (Baby)",
+            "",
+            "Than I ever thought that I could be (Baby)",
+            "I used to go with the flow",
+            "Didn't really care 'bout me",
+            ""
+        ],
+        "Chorus": [
+            "You might think that I won't make it",
+            "On my own",
+            "",
+            "But now I'm stronger than yesterday",
+            "Now it\u2019s nothing but my way",
+            "My loneliness ain't killing me no more",
+            "I, I'm stronger",
+            "",
+            "You might think that I can't take it",
+            "But you're wrong",
+            "'Cause now I'm stronger than yesterday",
+            "Now it\u2019s nothing but my way",
+            "My loneliness ain't killing me no more",
+            "I, I'm stronger",
+            "",
+            "[Post-Chorus]",
+            "Come on now",
+            "Oh, yeah",
+            "",
+            "Stronger than yesterday",
+            "It\u2019s nothing but my way",
+            "My loneliness ain't killing me no more",
+            "I, I'm stronger than yesterday",
+            "Now it\u2019s nothing but my way",
+            "My loneliness ain't killing me no more",
+            "And I'm stronger than yesterday",
+            "Now it\u2019s nothing but my way",
+            "My loneliness ain't killing me no more (No more)",
+            "(I'm) I, I'm stronger16Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Here I go, on my own",
+            "I don't need nobody, better off alone",
+            "Here I go, on my own now",
+            "I don't need nobody, not anybody",
+            "Here I go (Here I go, here I go, here I go...)",
+            "Alright",
+            "(Here I go, here I go, here I go) Here I go",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.923,
+        "acousticness": 0.128,
+        "danceability": 0.707,
+        "instrumentalness": 0.000437,
+        "liveness": 0.273,
+        "speechiness": 0.0521,
+        "loudness": -3.957,
+        "tempo": 108.049,
+        "time_signature": 4,
+        "valence": 0.842,
+        "genre": [
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 69
+    }
+}

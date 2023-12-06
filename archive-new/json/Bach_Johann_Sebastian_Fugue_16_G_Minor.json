@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Fugue_16_G_Minor.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Fugue 16 G Minor",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0351,
+        "acousticness": 0.917,
+        "danceability": 0.102,
+        "instrumentalness": 0.95,
+        "liveness": 0.138,
+        "speechiness": 0.036,
+        "loudness": -23.05,
+        "tempo": 76.088,
+        "time_signature": 4,
+        "valence": 0.261,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 5
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "midi_file_path": "archive-new\\Aretha_Franklin\\I_Never_Loved_a_Man_The_Way_I_Love_You_.mid",
+    "artist_band_name": "Aretha Franklin",
+    "song_title": "I Never Loved a Man The Way I Love You ",
+    "lyrics": {
+        "Verse": [
+            "You're a no good heartbreaker",
+            "You're a liar and you're a cheat",
+            "And I don't know why",
+            "I let you do these things to me",
+            "My friends keep telling me",
+            "That you ain't no good",
+            "But oh, they don't know",
+            "That I'd leave you if I could",
+            "I guess I'm uptight",
+            "And I'm stuck like glue",
+            "",
+            "Some time ago I thought",
+            "You had run out of fools",
+            "But I was so wrong",
+            "You got one that you'll never lose",
+            "The way you treat me is a shame",
+            "How could you hurt me so bad?",
+            "Baby, you know that I'm the best thing",
+            "That you ever had"
+        ],
+        "Chorus": [
+            "'Cause I ain't never",
+            "I ain't never, I ain't never, no, no",
+            "Loved a man, the way that I, I love you",
+            "",
+            "Kiss me once again",
+            "Don't you never, never say that we we're through",
+            "",
+            "'Cause I ain't never",
+            "Never, Never, no, no",
+            "Loved a man, the way that I, I love you",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I can't sleep at night",
+            "And I can't eat a bite",
+            "I guess I'll never be free",
+            "Since you got, your hooks, in me",
+            "Oh, oh, oh, yeah, yeah",
+            "",
+            "[Outro]",
+            "I ain't never loved a man",
+            "I ain't never loved a man, baby",
+            "Ain't never had a man hurt me so bad, no",
+            "Well, this is what I'm gonna do about it",
+            "I tell you, I'm gonna hold on to it",
+            "Yeah, I'm gonna hold on to it, yeah1Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.371,
+        "acousticness": 0.367,
+        "danceability": 0.657,
+        "instrumentalness": 0.0459,
+        "liveness": 0.157,
+        "speechiness": 0.0359,
+        "loudness": -9.186,
+        "tempo": 134.867,
+        "time_signature": 4,
+        "valence": 0.709,
+        "genre": [
+            "classic soul",
+            "jazz blues",
+            "memphis soul",
+            "neo soul",
+            "soul",
+            "southern soul",
+            "vocal jazz"
+        ],
+        "popularity": 58
+    }
+}

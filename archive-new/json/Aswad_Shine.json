@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Aswad\\Shine.mid",
+    "artist_band_name": "Aswad",
+    "song_title": "Shine",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.871,
+        "acousticness": 0.014,
+        "danceability": 0.757,
+        "instrumentalness": 0.00246,
+        "liveness": 0.0544,
+        "speechiness": 0.0507,
+        "loudness": -5.543,
+        "tempo": 104.994,
+        "time_signature": 4,
+        "valence": 0.553,
+        "genre": [
+            "reggae",
+            "roots reggae",
+            "uk reggae"
+        ],
+        "popularity": 39
+    }
+}

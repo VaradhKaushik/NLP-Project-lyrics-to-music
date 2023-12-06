@@ -1,0 +1,79 @@
+{
+    "midi_file_path": "archive-new\\BOWIE_DAVID\\China_Girl.1.mid",
+    "artist_band_name": "BOWIE DAVID",
+    "song_title": "China Girl.1",
+    "lyrics": {
+        "Verse": [
+            "I could escape this feeling with my China Girl",
+            "I feel a wreck without my little China Girl",
+            "I hear her heart beating loud as thunder",
+            "Saw the stars crashing",
+            "",
+            "I'm a mess without my little China Girl",
+            "Wake up in the mornings, where's my little China Girl?",
+            "I hear her hearts beating loud as thunder",
+            "I saw the stars crashing down",
+            "",
+            "I stumble into town just like a sacred cow",
+            "Visions of swastikas in my head, plans for everyone",
+            "It's in the white of my eyes"
+        ],
+        "Chorus": [
+            "I'm feeling tragic like I'm Marlon Brando",
+            "When I look at my China Girl",
+            "I could pretend that nothing really meant too much",
+            "When I look at my China Girl",
+            "",
+            "And when I get excited",
+            "My little China Girl says",
+            "Oh baby, just you shut your mouth",
+            "She says... shh",
+            "She says... shh",
+            "She says...",
+            "",
+            "And when I get excited",
+            "My little China Girl says",
+            "Oh baby, just you shut your mouth",
+            "And when I get excited",
+            "My little China Girl says",
+            "Oh baby, just you shut your mouth",
+            "She says... shh",
+            "She says...",
+            "[Outro]",
+            "Oh-oh-oh-oh, little China Girl",
+            "Oh-oh-oh-oh, little China Girl",
+            "Oh-oh-oh-oh, little China Girl",
+            "Oh-oh-oh-oh, little China Girl11Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "My little china girl",
+            "You shouldn't mess with me",
+            "I'll ruin everything you are",
+            "You know, I'll give you television",
+            "I'll give you eyes of blue",
+            "I'll give you a man who wants to rule the world",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.857,
+        "acousticness": 0.00399,
+        "danceability": 0.358,
+        "instrumentalness": 0.405,
+        "liveness": 0.538,
+        "speechiness": 0.0794,
+        "loudness": -9.282,
+        "tempo": 137.293,
+        "time_signature": 4,
+        "valence": 0.42,
+        "genre": [
+            "art rock",
+            "classic rock",
+            "glam rock",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 17
+    }
+}

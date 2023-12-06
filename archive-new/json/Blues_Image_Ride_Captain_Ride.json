@@ -1,0 +1,49 @@
+{
+    "midi_file_path": "archive-new\\Blues_Image\\Ride_Captain_Ride.mid",
+    "artist_band_name": "Blues Image",
+    "song_title": "Ride Captain Ride",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "",
+            "Seventy-three men sailed up from the San Francisco Bay",
+            "Rolled off of their ship, and here's what they had to say",
+            "\"We're callin' everyone to ride along to another shore",
+            "We can laugh our lives away and be free once more\"",
+            "",
+            "But no one heard them callin', no one came at all",
+            "Cause they were too busy watchin' those old raindrops fall",
+            "As a storm was blowin' out on the peaceful sea",
+            "Seventy-three men sailed off to history",
+            "You might also likeRide, captain ride upon your mystery ship",
+            "Be amazed at the friends you have here on your trip",
+            "Ride captain ride upon your mystery ship",
+            "On your way to a world that others might have missed",
+            "",
+            "Ride, captain ride upon your mystery ship",
+            "Be amazed at the friends you have here on your trip",
+            "",
+            "[Outro]1Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.655,
+        "acousticness": 0.136,
+        "danceability": 0.547,
+        "instrumentalness": 0.00737,
+        "liveness": 0.116,
+        "speechiness": 0.0414,
+        "loudness": -11.707,
+        "tempo": 125.545,
+        "time_signature": 4,
+        "valence": 0.649,
+        "genre": [
+            "classic garage rock",
+            "psychedelic rock",
+            "southern rock"
+        ],
+        "popularity": 52
+    }
+}

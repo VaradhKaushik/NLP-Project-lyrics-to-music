@@ -1,0 +1,64 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\1000_Oceans.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "1000 Oceans",
+    "lyrics": {
+        "Verse": [
+            "These tears I\u2019ve cried, I\u2019ve cried a thousand oceans",
+            "And if it seems I\u2019m floating in the darkness, well",
+            "",
+            "[Refrain]",
+            "I can\u2019t believe that I would keep, keep you from flying",
+            "And I would cry a thousand more if that\u2019s what it takes",
+            "To sail you home, sail you home, sail you home",
+            "",
+            "And if I find you, will you still remember playing at the trains?",
+            "Or does this li-, little blue ball just fade away",
+            "",
+            "These tears I\u2019ve cried, I\u2019ve cried a thousand oceans",
+            "And if it seems I\u2019m floating in the darkness, well",
+            "You might also like[Refrain]",
+            "I can\u2019t believe that I would keep, keep you from flying",
+            "So I will cry a thousand more if that\u2019s what it takes",
+            "To sail you home, sail you home, sail you home",
+            "Sail, sail you homeEmbed"
+        ],
+        "Chorus": [
+            "I\u2019m aware what the rules are, but you know that I will run",
+            "You know that I will follow you",
+            "Over Silbury hill, through the solar field",
+            "You know that I will follow you",
+            "",
+            "Over Silbury hill, though the solar field",
+            "You know that I will follow you",
+            "I\u2019m aware what the rules are, but you know that I will run",
+            "You know that I will follow you",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.242,
+        "acousticness": 0.751,
+        "danceability": 0.538,
+        "instrumentalness": 0.00025,
+        "liveness": 0.102,
+        "speechiness": 0.0296,
+        "loudness": -12.918,
+        "tempo": 136.009,
+        "time_signature": 4,
+        "valence": 0.2,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 0
+    }
+}

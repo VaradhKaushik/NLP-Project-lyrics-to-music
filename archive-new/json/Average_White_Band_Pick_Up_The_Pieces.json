@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Average_White_Band\\Pick_Up_The_Pieces.mid",
+    "artist_band_name": "Average White Band",
+    "song_title": "Pick Up The Pieces",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.853,
+        "acousticness": 0.0548,
+        "danceability": 0.768,
+        "instrumentalness": 0.13,
+        "liveness": 0.0188,
+        "speechiness": 0.0427,
+        "loudness": -5.915,
+        "tempo": 107.234,
+        "time_signature": 4,
+        "valence": 0.889,
+        "genre": [
+            "classic soul",
+            "disco",
+            "funk",
+            "p funk",
+            "quiet storm",
+            "soul"
+        ],
+        "popularity": 56
+    }
+}

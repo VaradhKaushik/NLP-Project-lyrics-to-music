@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\Here_I_Go.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "Here I Go",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.975,
+        "acousticness": 0.0614,
+        "danceability": 0.664,
+        "instrumentalness": 0,
+        "liveness": 0.36,
+        "speechiness": 0.157,
+        "loudness": -7.46,
+        "tempo": 138.871,
+        "time_signature": 4,
+        "valence": 0.315,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 36
+    }
+}

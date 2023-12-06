@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Il_veliero.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Il veliero",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.488,
+        "acousticness": 0.0495,
+        "danceability": 0.726,
+        "instrumentalness": 0.177,
+        "liveness": 0.0729,
+        "speechiness": 0.0329,
+        "loudness": -15.48,
+        "tempo": 121.055,
+        "time_signature": 4,
+        "valence": 0.826,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 44
+    }
+}

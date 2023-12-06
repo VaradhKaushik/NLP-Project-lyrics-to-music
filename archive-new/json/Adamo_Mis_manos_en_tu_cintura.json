@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Adamo\\Mis_manos_en_tu_cintura.mid",
+    "artist_band_name": "Adamo",
+    "song_title": "Mis manos en tu cintura",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.579,
+        "acousticness": 0.256,
+        "danceability": 0.635,
+        "instrumentalness": 0,
+        "liveness": 0.082,
+        "speechiness": 0.0422,
+        "loudness": -8.292,
+        "tempo": 118.956,
+        "time_signature": 4,
+        "valence": 0.784,
+        "genre": [],
+        "popularity": 59
+    }
+}

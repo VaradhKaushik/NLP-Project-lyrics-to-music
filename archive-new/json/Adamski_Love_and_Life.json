@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Adamski\\Love_and_Life.mid",
+    "artist_band_name": "Adamski",
+    "song_title": "Love and Life",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.874,
+        "acousticness": 0.00185,
+        "danceability": 0.649,
+        "instrumentalness": 0.683,
+        "liveness": 0.578,
+        "speechiness": 0.0427,
+        "loudness": -15.087,
+        "tempo": 123.269,
+        "time_signature": 4,
+        "valence": 0.852,
+        "genre": [
+            "acid house",
+            "hip house"
+        ],
+        "popularity": 4
+    }
+}

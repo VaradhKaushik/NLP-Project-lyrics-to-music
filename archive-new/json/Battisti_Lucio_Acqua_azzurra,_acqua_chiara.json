@@ -1,0 +1,50 @@
+{
+    "midi_file_path": "archive-new\\Battisti_Lucio\\Acqua_azzurra,_acqua_chiara.mid",
+    "artist_band_name": "Battisti Lucio",
+    "song_title": "Acqua azzurra, acqua chiara",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Da quando ci sei tu",
+            "Tutto questo non c'\u00e8 pi\u00f9",
+            "",
+            "Acqua azzurra, acqua chiara",
+            "Con le mani posso finalmente bere",
+            "Acqua azzurra...",
+            "",
+            "[Strofa 3]",
+            "Sono le quattro e mezza ormai",
+            "Non ho voglia di dormir",
+            "A quest'ora, cosa vuoi",
+            "Mi va bene pure lei",
+            "Ma da quando ci sei tu",
+            "Tutto questo non c'\u00e8 pi\u00f9",
+            "",
+            "[Outro]",
+            "Acqua azzurra, acqua chiara",
+            "Con le mani posso finalmente bere",
+            "Acqua azzurra, acqua chiara...",
+            "Nei tuoi occhi innocenti...Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.652,
+        "acousticness": 0.265,
+        "danceability": 0.409,
+        "instrumentalness": 0,
+        "liveness": 0.524,
+        "speechiness": 0.0598,
+        "loudness": -10.263,
+        "tempo": 91.686,
+        "time_signature": 3,
+        "valence": 0.455,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 58
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alma_Cogan\\Tennessee_Waltz.mid",
+    "artist_band_name": "Alma Cogan",
+    "song_title": "Tennessee Waltz",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.875,
+        "acousticness": 0.21,
+        "danceability": 0.543,
+        "instrumentalness": 0.0018,
+        "liveness": 0.165,
+        "speechiness": 0.033,
+        "loudness": -8.679,
+        "tempo": 109.62,
+        "time_signature": 4,
+        "valence": 0.916,
+        "genre": [
+            "classic uk pop",
+            "deep adult standards"
+        ],
+        "popularity": 15
+    }
+}

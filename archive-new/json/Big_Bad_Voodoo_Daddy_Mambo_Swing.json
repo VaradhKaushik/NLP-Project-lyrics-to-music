@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Big_Bad_Voodoo_Daddy\\Mambo_Swing.mid",
+    "artist_band_name": "Big Bad Voodoo Daddy",
+    "song_title": "Mambo Swing",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.916,
+        "acousticness": 0.0425,
+        "danceability": 0.618,
+        "instrumentalness": 0.019,
+        "liveness": 0.0502,
+        "speechiness": 0.0403,
+        "loudness": -6.288,
+        "tempo": 111.151,
+        "time_signature": 4,
+        "valence": 0.902,
+        "genre": [
+            "swing",
+            "swing revival"
+        ],
+        "popularity": 37
+    }
+}

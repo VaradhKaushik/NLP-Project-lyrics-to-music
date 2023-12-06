@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Blumchen\\Kleiner_Satellit_Piep_Piep_.mid",
+    "artist_band_name": "Blumchen",
+    "song_title": "Kleiner Satellit Piep Piep ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.925,
+        "acousticness": 0.00601,
+        "danceability": 0.575,
+        "instrumentalness": 0.201,
+        "liveness": 0.0731,
+        "speechiness": 0.0481,
+        "loudness": -5.309,
+        "tempo": 179.974,
+        "time_signature": 4,
+        "valence": 0.293,
+        "genre": [
+            "eurodance",
+            "german pop"
+        ],
+        "popularity": 31
+    }
+}

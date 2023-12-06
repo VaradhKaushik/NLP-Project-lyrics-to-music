@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Amici_non_ne_ho.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Amici non ne ho",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.656,
+        "acousticness": 0.0459,
+        "danceability": 0.73,
+        "instrumentalness": 1.34e-06,
+        "liveness": 0.0677,
+        "speechiness": 0.0383,
+        "loudness": -10.318,
+        "tempo": 100.987,
+        "time_signature": 4,
+        "valence": 0.57,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 23
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Alanis_Morissette\\Baba.mid",
+    "artist_band_name": "Alanis Morissette",
+    "song_title": "Baba",
+    "lyrics": {
+        "Verse": [
+            "I've seen them kneel with bated breath for their ritual",
+            "I've watched this experience raise them to pseudo higher levels",
+            "I've watched them leave their families in pursuit of your nirvana",
+            "I've seen them coming to line up from Switzerland and America",
+            "",
+            "I've seen them give their drugs up in place of makeshift altars",
+            "I've heard them chanting \"Kali Kali\" frantically",
+            "I've heard them rotely repeat your teachings with elitism",
+            "I've seen them boasting robes and foreign sandalwood beads",
+            "",
+            "I've seen men overlooking God in their own essence",
+            "I've seen their upward glances in hopes of instant salvation",
+            "I've seen their righteousness mixed without loving compassion",
+            "I've watched you smile as the students bow to kiss your feet",
+            ""
+        ],
+        "Chorus": [
+            "How long will this take, baba?",
+            "And how long have we been sleeping?",
+            "Do you see me hanging on to every word you say?",
+            "How soon will I be holy?",
+            "How much will this cost, guru?",
+            "How much longer till you completely absolve me?",
+            "",
+            "How long will this take, baba?",
+            "How long have we been sleeping?",
+            "Do you see me hanging on to every word you say?",
+            "How soon will I be holy?",
+            "How much will this cost, guru?",
+            "How much longer till you completely absolve me?",
+            "How long will this take, baba?",
+            "How long have we been sleeping?",
+            "Do you see me hanging on to every word you say?",
+            "How soon will I be holy?",
+            "How much will this cost, guru?",
+            "How much longer till you completely absolve me?",
+            "Give me strength, all-knowing one",
+            "How long 'til enlightenment?",
+            "How much longer until you completely absolve me?",
+            "",
+            "[Outro]",
+            "Ave Maria",
+            "Ave Maria",
+            "Ave Maria",
+            "Ave Maria1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Ave Maria",
+            "Ave Maria",
+            "Ave Maria",
+            "Ave Maria",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.676,
+        "acousticness": 0.0014,
+        "danceability": 0.467,
+        "instrumentalness": 1.28e-06,
+        "liveness": 0.128,
+        "speechiness": 0.0412,
+        "loudness": -7.25,
+        "tempo": 131.484,
+        "time_signature": 4,
+        "valence": 0.54,
+        "genre": [
+            "canadian pop",
+            "canadian singer-songwriter",
+            "lilith",
+            "neo mellow",
+            "pop rock",
+            "singer-songwriter"
+        ],
+        "popularity": 40
+    }
+}

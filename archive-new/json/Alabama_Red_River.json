@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Red_River.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Red River",
+    "lyrics": {
+        "Verse": [
+            "I remember camping all night down by the river's edge",
+            "Skinny dipping in the bright moonlight, diving off the ledge",
+            "Skipping rocks across the water, fishing on an old trot line",
+            "Gigging frogs 'til the early morning, smoking dried cross vine",
+            "",
+            "Floating down the river on a patched up inner tube",
+            "Eating dinner on the ground, made of fresh caught catfish stew",
+            "Lay awake at night when I hear a wildcat scream",
+            "Telling tales around the campfire light about the girls in our dreams",
+            ""
+        ],
+        "Chorus": [
+            "Take me back down where the Red River rolls",
+            "Send me back to Lou'sianne",
+            "Take me back down where the white water flows",
+            "To the Cajun promised land",
+            "Give me my line and my old pirogue",
+            "Get me back as fast as you can",
+            "Take me back home where the Red River rolls",
+            "Take me back down where the Red River rolls",
+            "",
+            "Send me back down where the Red River rolls",
+            "Send me back to Lou'sianne",
+            "Take me back down where the white water flows",
+            "To the Cajun promised land",
+            "Give me my line and my old pirogue",
+            "Get me back as fast as you can",
+            "Take me back home where the Red River rolls",
+            "Take me back down where the Red River rolls",
+            "You might also like[Instrumental Break]",
+            "",
+            "Take me back down where the Red River rolls",
+            "Send me back to Lou'sianne",
+            "Take me back down where the white water flows",
+            "To the Cajun promised land",
+            "Give me my line and my old pirogue",
+            "Get me back as fast as you can",
+            "Take me back home where the Red River rolls",
+            "Take me back down where the Red River rollsEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.593,
+        "acousticness": 0.0718,
+        "danceability": 0.485,
+        "instrumentalness": 0.000158,
+        "liveness": 0.104,
+        "speechiness": 0.0481,
+        "loudness": -14.508,
+        "tempo": 189.11,
+        "time_signature": 4,
+        "valence": 0.877,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 18
+    }
+}

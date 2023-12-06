@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Je_me_suis_fait_tout_petit.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Je me suis fait tout petit",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.152,
+        "acousticness": 0.764,
+        "danceability": 0.671,
+        "instrumentalness": 6.51e-05,
+        "liveness": 0.117,
+        "speechiness": 0.104,
+        "loudness": -14.363,
+        "tempo": 125.04,
+        "time_signature": 4,
+        "valence": 0.509,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 44
+    }
+}

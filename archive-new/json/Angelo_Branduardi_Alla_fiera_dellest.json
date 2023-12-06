@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Angelo_Branduardi\\Alla_fiera_dellest.mid",
+    "artist_band_name": "Angelo Branduardi",
+    "song_title": "Alla fiera dellest",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.41,
+        "acousticness": 0.551,
+        "danceability": 0.42,
+        "instrumentalness": 0,
+        "liveness": 0.181,
+        "speechiness": 0.0456,
+        "loudness": -13.055,
+        "tempo": 126.591,
+        "time_signature": 4,
+        "valence": 0.652,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 39
+    }
+}

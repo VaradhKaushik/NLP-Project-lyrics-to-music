@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Aphrodite_s_Child\\Rain_and_Tears.mid",
+    "artist_band_name": "Aphrodite s Child",
+    "song_title": "Rain and Tears",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.455,
+        "acousticness": 0.0253,
+        "danceability": 0.309,
+        "instrumentalness": 0.000393,
+        "liveness": 0.135,
+        "speechiness": 0.0301,
+        "loudness": -10.538,
+        "tempo": 74.464,
+        "time_signature": 4,
+        "valence": 0.323,
+        "genre": [
+            "canterbury scene",
+            "greek psychedelic rock",
+            "progressive rock",
+            "symphonic rock"
+        ],
+        "popularity": 46
+    }
+}

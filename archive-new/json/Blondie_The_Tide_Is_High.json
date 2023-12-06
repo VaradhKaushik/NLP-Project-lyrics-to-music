@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Blondie\\The_Tide_Is_High.mid",
+    "artist_band_name": "Blondie",
+    "song_title": "The Tide Is High",
+    "lyrics": {
+        "Verse": [
+            "It's not the things you do that tease and hurt me bad",
+            "But it's the way you do the things you do to me",
+            "I'm not the kind-a girl who gives up just like that, oh no",
+            ""
+        ],
+        "Chorus": [
+            "The tide is high but I'm holdin' on",
+            "I'm gonna be your number one",
+            "I'm not the kind-a girl who gives up just like that, oh no",
+            "",
+            "The tide is high but I'm holdin' on",
+            "I'm gonna be your number one, number one",
+            "",
+            "Every girl wants you to be her man",
+            "But I'll wait my dear till it's my turn",
+            "I'm not the kind-a girl who gives up just like that, oh no",
+            "",
+            "The tide is high but I'm holdin' on",
+            "I'm gonna be your number one, number one, number one",
+            "",
+            "Every girl wants you to be her man",
+            "But I'll wait my dear till it's my turn",
+            "I'm not the kind-a girl who gives up just like that, oh no",
+            "",
+            "The tide is high but I'm holding on",
+            "I'm gonna be your number one, number one, number one",
+            "",
+            "[Outro]",
+            "The tide is high but I'm holding on",
+            "I'm gonna be your number one",
+            "The tide is high but I'm holding on",
+            "I'm gonna be your number one",
+            "The tide is high but I'm holding on",
+            "I'm gonna be your number one7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.667,
+        "acousticness": 0.0514,
+        "danceability": 0.778,
+        "instrumentalness": 0.0312,
+        "liveness": 0.092,
+        "speechiness": 0.0258,
+        "loudness": -7.273,
+        "tempo": 96.954,
+        "time_signature": 4,
+        "valence": 0.964,
+        "genre": [
+            "candy pop",
+            "new wave pop",
+            "permanent wave",
+            "power pop",
+            "rock",
+            "synthpop"
+        ],
+        "popularity": 54
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Boney_M\\Malaika.mid",
+    "artist_band_name": "Boney M",
+    "song_title": "Malaika",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.621,
+        "acousticness": 0.299,
+        "danceability": 0.824,
+        "instrumentalness": 1.07e-06,
+        "liveness": 0.356,
+        "speechiness": 0.0458,
+        "loudness": -6.944,
+        "tempo": 119.149,
+        "time_signature": 4,
+        "valence": 0.746,
+        "genre": [
+            "europop"
+        ],
+        "popularity": 43
+    }
+}

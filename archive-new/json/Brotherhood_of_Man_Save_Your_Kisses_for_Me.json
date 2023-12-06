@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Brotherhood_of_Man\\Save_Your_Kisses_for_Me.mid",
+    "artist_band_name": "Brotherhood of Man",
+    "song_title": "Save Your Kisses for Me",
+    "lyrics": {
+        "Verse": [
+            "Though it hurts to go away, it's impossible to stay",
+            "But there's one thing I must say before I go",
+            "I love you (I love you), you know",
+            "I'll be thinking of you in most everything I do",
+            "Now the time is moving on and I really should be gone",
+            "But you keep me hanging on for one more smile",
+            "I love you (I love you), all the while",
+            "With your cute little way will you promise that you'll save",
+            "",
+            "That I've got to work each day and that's why I go away",
+            "But I count the seconds 'til I'm home with you",
+            "I love you (I love you), it's true",
+            "You're so cute, honey gee, won't you save them up for me"
+        ],
+        "Chorus": [
+            "Your kisses for me, save all your kisses for me",
+            "Bye, bye, baby, bye, bye",
+            "Don't cry, honey, don't cry",
+            "Gonna walk out the door",
+            "But I'll soon be back for more",
+            "Kisses for me, save all your kisses for me",
+            "So long, honey, so long",
+            "Hang on, baby, hang on",
+            "Don't you dare me to stay",
+            "'Cause you know I'll have to say",
+            "",
+            "Your kisses for me, save all your kisses for me",
+            "Bye, bye, baby, bye, bye",
+            "Don't cry, honey, don't cry",
+            "Gonna walk out the door",
+            "But I'll soon be back for more",
+            "Kisses for me, save all your kisses for me",
+            "So long, honey, so long",
+            "Hang on, baby, hang on",
+            "Don't you dare me to stay",
+            "'Cause you know you've got to save",
+            "Your kisses for me, save all your kisses for me",
+            "Bye, bye, baby, bye, bye",
+            "Don't cry, honey, don't cry",
+            "Won't you save them for me even though you're only threeEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.644,
+        "acousticness": 0.246,
+        "danceability": 0.736,
+        "instrumentalness": 0,
+        "liveness": 0.371,
+        "speechiness": 0.0334,
+        "loudness": -6.945,
+        "tempo": 93.757,
+        "time_signature": 4,
+        "valence": 0.865,
+        "genre": [
+            "bubblegum pop",
+            "classic uk pop"
+        ],
+        "popularity": 41
+    }
+}

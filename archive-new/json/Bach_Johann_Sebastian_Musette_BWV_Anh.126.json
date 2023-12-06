@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Musette_BWV_Anh.126.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Musette BWV Anh.126",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.262,
+        "acousticness": 0.949,
+        "danceability": 0.452,
+        "instrumentalness": 0.942,
+        "liveness": 0.0903,
+        "speechiness": 0.0922,
+        "loudness": -10.926,
+        "tempo": 170.949,
+        "time_signature": 4,
+        "valence": 0.502,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 15
+    }
+}

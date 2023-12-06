@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Giulio_Cesare.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Giulio Cesare",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.708,
+        "acousticness": 0.25,
+        "danceability": 0.566,
+        "instrumentalness": 0,
+        "liveness": 0.129,
+        "speechiness": 0.037,
+        "loudness": -11.662,
+        "tempo": 85.39,
+        "time_signature": 4,
+        "valence": 0.522,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 37
+    }
+}

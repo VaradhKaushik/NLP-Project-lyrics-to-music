@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Vinton\\Sealed_With_a_Kiss.mid",
+    "artist_band_name": "Bobby Vinton",
+    "song_title": "Sealed With a Kiss",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.317,
+        "acousticness": 0.678,
+        "danceability": 0.414,
+        "instrumentalness": 2.56e-05,
+        "liveness": 0.213,
+        "speechiness": 0.026,
+        "loudness": -12.9,
+        "tempo": 86.111,
+        "time_signature": 4,
+        "valence": 0.673,
+        "genre": [
+            "adult standards",
+            "bubblegum pop",
+            "doo-wop",
+            "easy listening",
+            "rock-and-roll",
+            "rockabilly"
+        ],
+        "popularity": 51
+    }
+}

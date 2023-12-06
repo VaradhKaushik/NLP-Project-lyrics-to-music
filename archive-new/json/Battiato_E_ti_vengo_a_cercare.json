@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\E_ti_vengo_a_cercare.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "E ti vengo a cercare",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.67,
+        "acousticness": 0.52,
+        "danceability": 0.339,
+        "instrumentalness": 0.000223,
+        "liveness": 0.174,
+        "speechiness": 0.0306,
+        "loudness": -6.11,
+        "tempo": 104.207,
+        "time_signature": 3,
+        "valence": 0.217,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 27
+    }
+}

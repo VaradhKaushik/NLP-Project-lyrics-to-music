@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Melanie.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Melanie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.295,
+        "acousticness": 0.796,
+        "danceability": 0.836,
+        "instrumentalness": 0.000412,
+        "liveness": 0.118,
+        "speechiness": 0.13,
+        "loudness": -8.03,
+        "tempo": 115.683,
+        "time_signature": 4,
+        "valence": 0.693,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 10
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bruce_Hornsby\\China_Doll.mid",
+    "artist_band_name": "Bruce Hornsby",
+    "song_title": "China Doll",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.754,
+        "acousticness": 0.0473,
+        "danceability": 0.595,
+        "instrumentalness": 0.00499,
+        "liveness": 0.282,
+        "speechiness": 0.0323,
+        "loudness": -9.594,
+        "tempo": 100.037,
+        "time_signature": 4,
+        "valence": 0.499,
+        "genre": [
+            "album rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 15
+    }
+}

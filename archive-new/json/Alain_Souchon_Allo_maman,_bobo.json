@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Allo_maman,_bobo.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Allo maman, bobo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.411,
+        "acousticness": 0.681,
+        "danceability": 0.429,
+        "instrumentalness": 3.88e-06,
+        "liveness": 0.774,
+        "speechiness": 0.056,
+        "loudness": -13.427,
+        "tempo": 112.098,
+        "time_signature": 4,
+        "valence": 0.224,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 8
+    }
+}

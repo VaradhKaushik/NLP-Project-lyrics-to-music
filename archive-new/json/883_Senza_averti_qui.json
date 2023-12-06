@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Senza_averti_qui.mid",
+    "artist_band_name": "883",
+    "song_title": "Senza averti qui",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.856,
+        "acousticness": 0.0336,
+        "danceability": 0.558,
+        "instrumentalness": 1.6e-06,
+        "liveness": 0.324,
+        "speechiness": 0.0355,
+        "loudness": -8.002,
+        "tempo": 107.987,
+        "time_signature": 4,
+        "valence": 0.863,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 44
+    }
+}

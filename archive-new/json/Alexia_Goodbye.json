@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Alexia\\Goodbye.mid",
+    "artist_band_name": "Alexia",
+    "song_title": "Goodbye",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.946,
+        "acousticness": 0.175,
+        "danceability": 0.725,
+        "instrumentalness": 0.000163,
+        "liveness": 0.217,
+        "speechiness": 0.057,
+        "loudness": -6.074,
+        "tempo": 132.962,
+        "time_signature": 4,
+        "valence": 0.498,
+        "genre": [
+            "classic greek pop",
+            "eurodance",
+            "italo dance"
+        ],
+        "popularity": 30
+    }
+}

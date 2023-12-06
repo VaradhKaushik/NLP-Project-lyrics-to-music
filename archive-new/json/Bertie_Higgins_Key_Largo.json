@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Bertie_Higgins\\Key_Largo.mid",
+    "artist_band_name": "Bertie Higgins",
+    "song_title": "Key Largo",
+    "lyrics": {
+        "Verse": [
+            "Wrapped around each other, trying so hard to stay warm",
+            "That first cold winter together, lying in each other's arms",
+            "Watching those old movies, falling in love so desperately",
+            "Honey I was your hero, and you were my leading lady",
+            "",
+            "Honey, can't you remember? We played all the parts",
+            "That sweet scene of surrender, when you gave me your heart",
+            "Please say you will, play it again",
+            "'Cause I love you still, baby this can't be the end",
+            ""
+        ],
+        "Chorus": [
+            "We had it all",
+            "Just like Bogie and Bacall",
+            "Starring in our own late, late show",
+            "Sailing away to Key Largo",
+            "Here's lookin' at you, kid",
+            "Missing all the things we did",
+            "We can find it once again, I know",
+            "Just like they did in Key Largo",
+            "Ooo-ooo",
+            "",
+            "We had it all (we had it all)",
+            "Just like Bogie and Bacall",
+            "Starring in our old late, late show",
+            "Sailing away to Key Largo",
+            "Here's lookin' at you, kid (here's lookin' at you, kid)",
+            "Missing all the things we did",
+            "We can find it once again, I know",
+            "Just like they did in Key Largo",
+            "We had it all (we had it all)",
+            "Just like Bogie and Bacall",
+            "Starring in our old late, late show",
+            "Sailing away to Key Largo",
+            "Here's lookin' at you, kid (here's lookin' at you, kid)",
+            "Missing all the things we did [fade]2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.659,
+        "acousticness": 0.443,
+        "danceability": 0.503,
+        "instrumentalness": 0,
+        "liveness": 0.153,
+        "speechiness": 0.0356,
+        "loudness": -6.829,
+        "tempo": 101.668,
+        "time_signature": 4,
+        "valence": 0.33,
+        "genre": [],
+        "popularity": 57
+    }
+}

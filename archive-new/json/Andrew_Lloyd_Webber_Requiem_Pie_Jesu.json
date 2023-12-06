@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andrew_Lloyd_Webber\\Requiem_Pie_Jesu.mid",
+    "artist_band_name": "Andrew Lloyd Webber",
+    "song_title": "Requiem Pie Jesu",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0222,
+        "acousticness": 0.968,
+        "danceability": 0.127,
+        "instrumentalness": 0.219,
+        "liveness": 0.108,
+        "speechiness": 0.0518,
+        "loudness": -28.677,
+        "tempo": 66.643,
+        "time_signature": 4,
+        "valence": 0.039,
+        "genre": [
+            "broadway",
+            "west end"
+        ],
+        "popularity": 42
+    }
+}

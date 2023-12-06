@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Broadway\\Cabaret.mid",
+    "artist_band_name": "Broadway",
+    "song_title": "Cabaret",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.65,
+        "acousticness": 0.247,
+        "danceability": 0.558,
+        "instrumentalness": 0,
+        "liveness": 0.145,
+        "speechiness": 0.0531,
+        "loudness": -6.431,
+        "tempo": 78.361,
+        "time_signature": 4,
+        "valence": 0.724,
+        "genre": [],
+        "popularity": 4
+    }
+}

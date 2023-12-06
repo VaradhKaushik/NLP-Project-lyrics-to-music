@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Venus_callipyge.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Venus callipyge",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.318,
+        "acousticness": 0.886,
+        "danceability": 0.568,
+        "instrumentalness": 1.04e-05,
+        "liveness": 0.203,
+        "speechiness": 0.167,
+        "loudness": -10.391,
+        "tempo": 76.686,
+        "time_signature": 4,
+        "valence": 0.83,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 12
+    }
+}

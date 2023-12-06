@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Laquila.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Laquila",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.167,
+        "acousticness": 0.692,
+        "danceability": 0.568,
+        "instrumentalness": 6.46e-06,
+        "liveness": 0.138,
+        "speechiness": 0.0404,
+        "loudness": -13.679,
+        "tempo": 105.275,
+        "time_signature": 4,
+        "valence": 0.155,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

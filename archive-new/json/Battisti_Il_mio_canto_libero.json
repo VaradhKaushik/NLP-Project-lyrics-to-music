@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Il_mio_canto_libero.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Il mio canto libero",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.219,
+        "acousticness": 0.355,
+        "danceability": 0.429,
+        "instrumentalness": 2.69e-06,
+        "liveness": 0.106,
+        "speechiness": 0.0471,
+        "loudness": -14.25,
+        "tempo": 133.837,
+        "time_signature": 4,
+        "valence": 0.0778,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 63
+    }
+}

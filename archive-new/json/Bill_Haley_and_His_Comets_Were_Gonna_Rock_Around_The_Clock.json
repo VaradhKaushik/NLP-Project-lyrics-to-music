@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Bill_Haley_and_His_Comets\\Were_Gonna_Rock_Around_The_Clock.mid",
+    "artist_band_name": "Bill Haley and His Comets",
+    "song_title": "Were Gonna Rock Around The Clock",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.859,
+        "acousticness": 0.205,
+        "danceability": 0.811,
+        "instrumentalness": 3.73e-06,
+        "liveness": 0.0761,
+        "speechiness": 0.168,
+        "loudness": -6.317,
+        "tempo": 90.686,
+        "time_signature": 4,
+        "valence": 0.784,
+        "genre": [
+            "rock-and-roll",
+            "rockabilly"
+        ],
+        "popularity": 65
+    }
+}

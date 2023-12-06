@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Happy_Family.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Happy Family",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.779,
+        "acousticness": 0.11,
+        "danceability": 0.486,
+        "instrumentalness": 5.84e-05,
+        "liveness": 0.105,
+        "speechiness": 0.0401,
+        "loudness": -9.942,
+        "tempo": 181.822,
+        "time_signature": 4,
+        "valence": 0.644,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 5
+    }
+}

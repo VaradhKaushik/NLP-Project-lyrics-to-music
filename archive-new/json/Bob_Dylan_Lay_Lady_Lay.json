@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Bob_Dylan\\Lay_Lady_Lay.mid",
+    "artist_band_name": "Bob Dylan",
+    "song_title": "Lay Lady Lay",
+    "lyrics": {
+        "Verse": [
+            "Lay, lady, lay",
+            "Lay across my big brass bed",
+            "Lay, lady, lay",
+            "Lay across my big brass bed",
+            "Whatever colors you have in your mind",
+            "I\u2019ll show them to you and you\u2019ll see them shine",
+            "",
+            "Lay, lady, lay",
+            "Lay across my big brass bed",
+            "Stay, lady, stay",
+            "Stay with your man awhile",
+            "Until the break of day, let me see ya' make him smile",
+            "His clothes are dirty but his, his hands are clean",
+            "And you\u2019re the best thing that he\u2019s ever seen",
+            "",
+            "Stay, lady, stay",
+            "Stay with your man awhile",
+            "",
+            "Lay, lady, lay",
+            "Lay across my big brass bed",
+            "Stay, lady, stay",
+            "Stay while the night is still ahead",
+            "I long to see you in the morning light",
+            "I long to reach for you in the night",
+            "",
+            "[Outro]",
+            "Stay, lady, stay",
+            "Stay while the night is still ahead8Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Why wait any longer for the world to begin",
+            "You can have your cake and eat it too",
+            "Why wait any longer for the one you love",
+            "When he\u2019s standing in front of you"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.179,
+        "acousticness": 0.356,
+        "danceability": 0.52,
+        "instrumentalness": 0.00344,
+        "liveness": 0.131,
+        "speechiness": 0.0454,
+        "loudness": -21.976,
+        "tempo": 155.746,
+        "time_signature": 4,
+        "valence": 0.407,
+        "genre": [
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "rock",
+            "roots rock",
+            "singer-songwriter"
+        ],
+        "popularity": 64
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Boris_Gardiner\\Wrong_End_of_the_Rainbow.mid",
+    "artist_band_name": "Boris Gardiner",
+    "song_title": "Wrong End of the Rainbow",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.489,
+        "acousticness": 0.237,
+        "danceability": 0.713,
+        "instrumentalness": 1.19e-06,
+        "liveness": 0.0623,
+        "speechiness": 0.0256,
+        "loudness": -13.859,
+        "tempo": 94.786,
+        "time_signature": 4,
+        "valence": 0.933,
+        "genre": [],
+        "popularity": 11
+    }
+}

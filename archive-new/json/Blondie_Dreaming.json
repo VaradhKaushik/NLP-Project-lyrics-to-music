@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Blondie\\Dreaming.mid",
+    "artist_band_name": "Blondie",
+    "song_title": "Dreaming",
+    "lyrics": {
+        "Verse": [
+            "When I met you in the restaurant",
+            "You could tell I was no debutante",
+            "You asked me what's my pleasure",
+            "A movie or a measure?",
+            "I'll have a cup of tea and tell you of my",
+            "",
+            "I don't want to live on charity",
+            "Pleasure's real or is it fantasy?",
+            "Reel to reel is living rarity",
+            "People stop and stare at me",
+            "We just walk on by - we just keep on dreaming",
+            "",
+            "I sit by and watch the river flow",
+            "I sit by and watch the traffic go",
+            "Imagine something of your very own",
+            "Something you can have and hold",
+            "I'd build a road in gold just to have some",
+            ""
+        ],
+        "Chorus": [
+            "Dreaming, dreaming is free",
+            "Dreaming, dreaming is free",
+            "",
+            "Dreaming, dreaming is free",
+            "Dreaming, dreaming is free",
+            "Dreaming, dreaming is free",
+            "Dreaming, dreaming is free8Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Feet feet, walking a two mile",
+            "Meet meet, meet me at the turnstile",
+            "I never met him, I'll never forget him",
+            "Dream, dream, even for a little while",
+            "Dream, dream, filling up an idle hour",
+            "Fade away, radiate"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.92,
+        "acousticness": 0.0048,
+        "danceability": 0.299,
+        "instrumentalness": 0.00022,
+        "liveness": 0.122,
+        "speechiness": 0.0552,
+        "loudness": -3.377,
+        "tempo": 160.449,
+        "time_signature": 4,
+        "valence": 0.675,
+        "genre": [
+            "candy pop",
+            "new wave pop",
+            "permanent wave",
+            "power pop",
+            "rock",
+            "synthpop"
+        ],
+        "popularity": 56
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Blattschuss\\Kreuzberger_Nachte.mid",
+    "artist_band_name": "Blattschuss",
+    "song_title": "Kreuzberger Nachte",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.94,
+        "acousticness": 0.146,
+        "danceability": 0.666,
+        "instrumentalness": 0,
+        "liveness": 0.357,
+        "speechiness": 0.161,
+        "loudness": -2.412,
+        "tempo": 136.126,
+        "time_signature": 4,
+        "valence": 0.625,
+        "genre": [
+            "classic schlager"
+        ],
+        "popularity": 7
+    }
+}

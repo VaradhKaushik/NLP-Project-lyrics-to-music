@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\America\\Daisy_Jane.mid",
+    "artist_band_name": "America",
+    "song_title": "Daisy Jane",
+    "lyrics": {
+        "Verse": [
+            "Flying me back to Memphis, gotta find my Daisy Jane",
+            "Well, the summer's gone and I hope she's feeling the same",
+            "Well I left her just to roam the city, thinking it would ease the pain",
+            "I'm a crazy man and I'm playing my crazy game, game",
+            "",
+            "[Hook]",
+            "Does she really love me? I think she does",
+            "Like the stars above me, I know because",
+            "When the sky is bright",
+            "Everything's alright",
+            "",
+            "Flying me back to Memphis",
+            "Honey, keep the oven warm",
+            "All the clouds are clearing",
+            "And I think we're over the storm",
+            "Well I've been picking it up around me",
+            "Daisy I think I'm sane",
+            "But I'm awful glad",
+            "And I guess you're really to blame, blame",
+            ""
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Do you really love me? I hope you do",
+            "Like the stars above me, how I love you",
+            "When it's cold at night",
+            "Everything's alright",
+            "You might also like[Hook]1Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.208,
+        "acousticness": 0.84,
+        "danceability": 0.52,
+        "instrumentalness": 4.63e-06,
+        "liveness": 0.0996,
+        "speechiness": 0.0319,
+        "loudness": -17.092,
+        "tempo": 90.1,
+        "time_signature": 4,
+        "valence": 0.282,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 51
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Ogni_volta.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Ogni volta",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.571,
+        "acousticness": 0.316,
+        "danceability": 0.507,
+        "instrumentalness": 0.000333,
+        "liveness": 0.124,
+        "speechiness": 0.0282,
+        "loudness": -5.427,
+        "tempo": 129.962,
+        "time_signature": 4,
+        "valence": 0.23,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 47
+    }
+}

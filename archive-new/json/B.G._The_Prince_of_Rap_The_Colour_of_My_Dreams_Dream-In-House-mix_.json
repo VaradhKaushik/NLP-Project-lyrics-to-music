@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\B.G._The_Prince_of_Rap\\The_Colour_of_My_Dreams_Dream-In-House-mix_.mid",
+    "artist_band_name": "B.G. The Prince of Rap",
+    "song_title": "The Colour of My Dreams Dream-In-House-mix ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.823,
+        "acousticness": 0.000746,
+        "danceability": 0.69,
+        "instrumentalness": 0.396,
+        "liveness": 0.343,
+        "speechiness": 0.0303,
+        "loudness": -8.246,
+        "tempo": 135.959,
+        "time_signature": 4,
+        "valence": 0.89,
+        "genre": [
+            "eurodance",
+            "hip house"
+        ],
+        "popularity": 11
+    }
+}

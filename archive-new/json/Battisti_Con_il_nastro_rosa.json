@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Con_il_nastro_rosa.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Con il nastro rosa",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.515,
+        "acousticness": 0.0654,
+        "danceability": 0.666,
+        "instrumentalness": 0.0152,
+        "liveness": 0.0687,
+        "speechiness": 0.0331,
+        "loudness": -10.74,
+        "tempo": 119.559,
+        "time_signature": 4,
+        "valence": 0.687,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 63
+    }
+}

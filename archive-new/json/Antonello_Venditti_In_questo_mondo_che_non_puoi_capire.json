@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\In_questo_mondo_che_non_puoi_capire.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "In questo mondo che non puoi capire",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.738,
+        "acousticness": 0.0525,
+        "danceability": 0.693,
+        "instrumentalness": 0.0007,
+        "liveness": 0.189,
+        "speechiness": 0.0348,
+        "loudness": -10.16,
+        "tempo": 107.99,
+        "time_signature": 4,
+        "valence": 0.365,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 13
+    }
+}

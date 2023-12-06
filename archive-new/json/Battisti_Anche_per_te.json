@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Anche_per_te.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Anche per te",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.21,
+        "acousticness": 0.728,
+        "danceability": 0.507,
+        "instrumentalness": 0,
+        "liveness": 0.0802,
+        "speechiness": 0.0359,
+        "loudness": -15.17,
+        "tempo": 106.353,
+        "time_signature": 4,
+        "valence": 0.309,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 50
+    }
+}

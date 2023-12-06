@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andy_Kim\\Baby_I_Love_You.mid",
+    "artist_band_name": "Andy Kim",
+    "song_title": "Baby I Love You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.722,
+        "acousticness": 0.485,
+        "danceability": 0.556,
+        "instrumentalness": 0.000324,
+        "liveness": 0.142,
+        "speechiness": 0.0331,
+        "loudness": -6.962,
+        "tempo": 109.155,
+        "time_signature": 4,
+        "valence": 0.717,
+        "genre": [
+            "bubblegum pop",
+            "classic uk pop"
+        ],
+        "popularity": 41
+    }
+}

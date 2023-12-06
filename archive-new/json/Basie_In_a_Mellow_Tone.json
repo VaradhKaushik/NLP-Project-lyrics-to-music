@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Basie\\In_a_Mellow_Tone.mid",
+    "artist_band_name": "Basie",
+    "song_title": "In a Mellow Tone",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.355,
+        "acousticness": 0.516,
+        "danceability": 0.568,
+        "instrumentalness": 0.00665,
+        "liveness": 0.913,
+        "speechiness": 0.0729,
+        "loudness": -13.516,
+        "tempo": 126.58,
+        "time_signature": 4,
+        "valence": 0.387,
+        "genre": [
+            "big band",
+            "jazz",
+            "swing"
+        ],
+        "popularity": 13
+    }
+}

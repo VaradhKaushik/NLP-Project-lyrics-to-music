@@ -1,0 +1,72 @@
+{
+    "midi_file_path": "archive-new\\Bon_Jovi\\Blaze_of_Glory.mid",
+    "artist_band_name": "Bon Jovi",
+    "song_title": "Blaze of Glory",
+    "lyrics": {
+        "Verse": [
+            "I wake up in the morning and I raise my weary head",
+            "I've got an old coat for a pillow, and the earth was last night's bed",
+            "I don't know where I'm goin', only God knows where I've been",
+            "I'm a devil on the run, a six gun lover, a candle in the wind",
+            "",
+            "When you're brought into this world, they say you're born in sin",
+            "Well, at least they gave me somethin', I didn't have to steal or have to win",
+            "Well, they tell me that I'm wanted, yeah, I'm a wanted man",
+            "I'm a colt in your stable, I'm what Cain was to Abel, Mr. Catch-Me-If-You-Can",
+            "",
+            "You ask about my conscience and I offer you my soul",
+            "You ask If I'll grow to be a wise man, well I ask if I'll grow old",
+            "You ask me if I've known love and what it's like to sing songs in the rain",
+            "Well, I've seen love come, I've seen it shot down, I've seen it die in vain",
+            ""
+        ],
+        "Chorus": [
+            "I'm goin' down in a blaze of glory",
+            "Take me now but know the truth",
+            "I'm goin' out in a blaze of glory",
+            "And, Lord, I never drew first, but I drew first blood",
+            "I'm no one's son, call me young gun",
+            "",
+            "Shot down in a blaze of glory",
+            "Take me now but know the truth",
+            "'Cause I'm goin' out in a blaze of glory",
+            "Lord, I never drew first but I drew first blood",
+            "I'm the devil's son, call me young gun",
+            "You might also like[Guitar Solo]",
+            "",
+            "Shot down in a blaze of glory",
+            "Take me now but know the truth",
+            "I'm goin' out in a blaze of glory",
+            "Lord, I never drew first but I drew first blood",
+            "And I'm no one's son, call me young gun",
+            "I'm a young gun",
+            "Young gun",
+            "Young gun1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Each night I go to bed, I pray the Lord my soul to keep",
+            "No, I ain't lookin' for forgiveness, but before I'm six foot deep",
+            "Lord, I gotta ask a favor, and I'll hope you'll understand",
+            "'Cause I've lived life to the fullest, let this boy die like a man",
+            "Starin' down a bullet, let me make my final stand",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.618,
+        "acousticness": 0.0564,
+        "danceability": 0.55,
+        "instrumentalness": 2.62e-05,
+        "liveness": 0.0937,
+        "speechiness": 0.0307,
+        "loudness": -9.822,
+        "tempo": 78.61,
+        "time_signature": 4,
+        "valence": 0.429,
+        "genre": [
+            "hard rock"
+        ],
+        "popularity": 65
+    }
+}

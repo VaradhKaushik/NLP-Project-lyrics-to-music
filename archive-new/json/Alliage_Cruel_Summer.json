@@ -1,0 +1,80 @@
+{
+    "midi_file_path": "archive-new\\Alliage\\Cruel_Summer.mid",
+    "artist_band_name": "Alliage",
+    "song_title": "Cruel Summer",
+    "lyrics": {
+        "Verse": [
+            "[?]",
+            "",
+            "The city is crowded",
+            "My friends are away",
+            "And I'm on my own",
+            "It's too hot to handle",
+            "So I gotta get up and go",
+            ""
+        ],
+        "Chorus": [
+            "It's a cruel (Cruel), cruel summer",
+            "[?]",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone, you're not the only one",
+            "",
+            "It's a cruel (Cruel), cruel summer",
+            "[?]",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone, you're not the only one, it's a cruel",
+            "Cruel (Cruel), cruel summ\u0435r",
+            "[?]",
+            "It's a cruel (It's a cruel), cruel summ\u0435r",
+            "Now you're gone, you're not the only one",
+            "It's a cruel (Cruel), cruel summer",
+            "[?]",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone, you're not the only one, it's a cruel",
+            "Cruel (Cruel), cruel summer",
+            "[?]",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone, you're not the only one",
+            "",
+            "[Outro: Ace of Base]",
+            "Cruel summer",
+            "It's a cruel summer",
+            "Cruel summer",
+            "It's a cruel summer",
+            "Cruel, cruel summer",
+            "It's a cruel summer",
+            "It's a cruel, cruel summer",
+            "It's a cruel summer",
+            "It's a cruel, cruel summer",
+            "It's a cruel summer",
+            "It's a cruel, cruel summer",
+            "It's a cruel summer",
+            "It's a cruel, cruel summer",
+            "[?]Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "It's a cruel summer",
+            "It's a cruel summer",
+            "It's a cruel summer",
+            "Cruel summer",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.922,
+        "acousticness": 0.11,
+        "danceability": 0.719,
+        "instrumentalness": 5.4e-05,
+        "liveness": 0.14,
+        "speechiness": 0.036,
+        "loudness": -3.97,
+        "tempo": 128.999,
+        "time_signature": 4,
+        "valence": 0.968,
+        "genre": [
+            "europop"
+        ],
+        "popularity": 19
+    }
+}

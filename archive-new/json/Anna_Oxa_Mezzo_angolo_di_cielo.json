@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Anna_Oxa\\Mezzo_angolo_di_cielo.mid",
+    "artist_band_name": "Anna Oxa",
+    "song_title": "Mezzo angolo di cielo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.899,
+        "acousticness": 0.172,
+        "danceability": 0.578,
+        "instrumentalness": 0.766,
+        "liveness": 0.0939,
+        "speechiness": 0.0261,
+        "loudness": -7.106,
+        "tempo": 105.005,
+        "time_signature": 4,
+        "valence": 0.475,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 0
+    }
+}

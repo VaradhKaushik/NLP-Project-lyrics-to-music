@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Un_uomo_venuto_da_lontano.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Un uomo venuto da lontano",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.336,
+        "acousticness": 0.816,
+        "danceability": 0.547,
+        "instrumentalness": 0.000169,
+        "liveness": 0.143,
+        "speechiness": 0.0314,
+        "loudness": -11.548,
+        "tempo": 126.12,
+        "time_signature": 4,
+        "valence": 0.191,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 22
+    }
+}

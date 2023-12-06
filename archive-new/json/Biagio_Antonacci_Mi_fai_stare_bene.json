@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Mi_fai_stare_bene.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Mi fai stare bene",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.83,
+        "acousticness": 0.107,
+        "danceability": 0.498,
+        "instrumentalness": 1.61e-06,
+        "liveness": 0.191,
+        "speechiness": 0.043,
+        "loudness": -7.967,
+        "tempo": 162.114,
+        "time_signature": 4,
+        "valence": 0.669,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 45
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\America\\Lonely_People.mid",
+    "artist_band_name": "America",
+    "song_title": "Lonely People",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.473,
+        "acousticness": 0.261,
+        "danceability": 0.557,
+        "instrumentalness": 3.95e-05,
+        "liveness": 0.0658,
+        "speechiness": 0.0262,
+        "loudness": -9.294,
+        "tempo": 79.368,
+        "time_signature": 4,
+        "valence": 0.56,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 65
+    }
+}

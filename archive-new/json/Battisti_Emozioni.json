@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Emozioni.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Emozioni",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.157,
+        "acousticness": 0.715,
+        "danceability": 0.415,
+        "instrumentalness": 3.06e-05,
+        "liveness": 0.0852,
+        "speechiness": 0.0379,
+        "loudness": -16.905,
+        "tempo": 127.064,
+        "time_signature": 4,
+        "valence": 0.232,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 53
+    }
+}

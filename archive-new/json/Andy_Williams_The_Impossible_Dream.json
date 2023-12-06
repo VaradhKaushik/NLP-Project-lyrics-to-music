@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andy_Williams\\The_Impossible_Dream.mid",
+    "artist_band_name": "Andy Williams",
+    "song_title": "The Impossible Dream",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.274,
+        "acousticness": 0.761,
+        "danceability": 0.229,
+        "instrumentalness": 0.00359,
+        "liveness": 0.106,
+        "speechiness": 0.0316,
+        "loudness": -12.961,
+        "tempo": 89.769,
+        "time_signature": 3,
+        "valence": 0.261,
+        "genre": [
+            "adult standards",
+            "easy listening"
+        ],
+        "popularity": 40
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "midi_file_path": "archive-new\\Britney_Spears\\Lucky.mid",
+    "artist_band_name": "Britney Spears",
+    "song_title": "Lucky",
+    "lyrics": {
+        "Verse": [
+            "Early morning, she wakes up",
+            "Knock, knock, knock on the door",
+            "It's time for makeup, perfect smile",
+            "It's you they're all waiting for",
+            "",
+            "Lost in an image, in a dream",
+            "But there's no one there to wake her up",
+            "And the world is spinning, and she keeps on winning",
+            "But tell me, what happens when it stops?",
+            ""
+        ],
+        "Chorus": [
+            "They go, \"Isn't she lovely, this Hollywood girl?\"",
+            "And they say",
+            "",
+            "\"She's so lucky, she's a star\"",
+            "But she cry, cry, cries in her lonely heart, thinking",
+            "\"If there's nothing missing in my life",
+            "Then why do these tears come at night?\"",
+            "",
+            "They go, \"Isn't she lovely, this Hollywood girl?\"",
+            "And they say",
+            "\"She's so lucky, she's a star\"",
+            "But she cry, cry, cries in her lonely heart, thinking",
+            "\"If there's nothing missing in my life",
+            "Then why do these tears come at night?\"",
+            "",
+            "[Interlude]",
+            "\"Best actress, and the winner is, Lucky!\"",
+            "\"I'm Roger Johnson for Pop News, standing outside the arena waiting for Lucky\"",
+            "\"Oh my God, here she comes!\"",
+            "",
+            "\"She's so lucky, she's a star\"",
+            "But she cry, cry, cries in her lonely heart, thinking",
+            "\"If there's nothing missing in my life",
+            "Then why do these tears come at night?\"",
+            "\"She's so lucky, she's a star\"",
+            "But she cry, cry, cries in her lonely heart, thinking",
+            "\"If there's nothing missing in my life",
+            "Then why do these tears come at night?\"9Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Isn't she lovely, this Hollywood girl?",
+            "She is so lucky, but why does she cry?",
+            "If there is nothing missing in her life",
+            "Why do tears come at night?",
+            "And they say",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.791,
+        "acousticness": 0.262,
+        "danceability": 0.765,
+        "instrumentalness": 0.000154,
+        "liveness": 0.0669,
+        "speechiness": 0.0317,
+        "loudness": -5.707,
+        "tempo": 95.026,
+        "time_signature": 4,
+        "valence": 0.966,
+        "genre": [
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 70
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Two_of_a_Kind,_Workin_on_a_Full_House.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Two of a Kind, Workin on a Full House",
+    "lyrics": {
+        "Verse": [
+            "Yeah, she's my lady luck, hey, I'm her wild card man",
+            "Together we're buildin' up a real hot hand",
+            "We live out in the country, hey, she's my little queen of the South",
+            "Yeah, we're two of a kind, workin' on a full house",
+            "",
+            "She wakes me every mornin' with a smile and a kiss",
+            "Her strong country lovin' is hard to resist",
+            "She's my easy lovin' woman, I'm her hard-workin' man, no doubt",
+            "Yeah, we're two of a kind, workin' on a full house",
+            "",
+            "Lord, I need that little woman like the crops need the rain",
+            "She's my honeycomb and I'm her sugar cane",
+            "We really fit together, if you know what I'm talkin' about",
+            "Yeah, we're two of a kind, workin' on a full house",
+            "",
+            "So, draw the curtain, honey, turn the lights down low",
+            "We'll find some country music on the radio",
+            "I'm yours and you're mine, hey, that's what it's all about",
+            "Yeah, we're two of a kind, workin' on a full house",
+            "",
+            "[Outro]",
+            "Lordy, mama, we'll be two of a kind, workin' on a full house2Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Yeah, our pickup truck is her limousine",
+            "And her favorite dress is her faded blue jeans",
+            "She loves me tender when the goin' gets tough",
+            "Sometimes we fight just so we can make up",
+            "",
+            "This time I found a keeper, I made up my mind",
+            "Lord, the perfect combination is her heart and mine",
+            "The sky's the limit, no hill is too steep",
+            "We're playin' for fun, but we're playin' for keeps"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.806,
+        "acousticness": 0.327,
+        "danceability": 0.634,
+        "instrumentalness": 0,
+        "liveness": 0.136,
+        "speechiness": 0.0553,
+        "loudness": -3.733,
+        "tempo": 126.295,
+        "time_signature": 4,
+        "valence": 0.909,
+        "genre": [],
+        "popularity": 43
+    }
+}

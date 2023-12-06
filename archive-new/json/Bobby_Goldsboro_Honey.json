@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Goldsboro\\Honey.mid",
+    "artist_band_name": "Bobby Goldsboro",
+    "song_title": "Honey",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.278,
+        "acousticness": 0.674,
+        "danceability": 0.399,
+        "instrumentalness": 0.000694,
+        "liveness": 0.203,
+        "speechiness": 0.0291,
+        "loudness": -13.122,
+        "tempo": 93.189,
+        "time_signature": 4,
+        "valence": 0.597,
+        "genre": [
+            "adult standards",
+            "bubblegum pop",
+            "easy listening",
+            "merseybeat",
+            "rock-and-roll"
+        ],
+        "popularity": 60
+    }
+}

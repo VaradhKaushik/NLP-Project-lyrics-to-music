@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Articolo_31\\Aria.mid",
+    "artist_band_name": "Articolo 31",
+    "song_title": "Aria",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.591,
+        "acousticness": 0.246,
+        "danceability": 0.808,
+        "instrumentalness": 1.92e-06,
+        "liveness": 0.136,
+        "speechiness": 0.121,
+        "loudness": -9.047,
+        "tempo": 95.026,
+        "time_signature": 4,
+        "valence": 0.918,
+        "genre": [
+            "italian adult pop",
+            "rap italiano old school"
+        ],
+        "popularity": 29
+    }
+}

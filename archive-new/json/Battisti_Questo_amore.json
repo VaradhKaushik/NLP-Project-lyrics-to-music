@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Questo_amore.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Questo amore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.584,
+        "acousticness": 0.137,
+        "danceability": 0.719,
+        "instrumentalness": 0.000219,
+        "liveness": 0.509,
+        "speechiness": 0.0341,
+        "loudness": -11.231,
+        "tempo": 103.521,
+        "time_signature": 4,
+        "valence": 0.831,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 29
+    }
+}

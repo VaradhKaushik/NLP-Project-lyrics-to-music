@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Borg_Andy\\Schenk_mir_eine_Sommerliebe.mid",
+    "artist_band_name": "Borg Andy",
+    "song_title": "Schenk mir eine Sommerliebe",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.891,
+        "acousticness": 0.108,
+        "danceability": 0.61,
+        "instrumentalness": 0.00195,
+        "liveness": 0.292,
+        "speechiness": 0.0365,
+        "loudness": -5.548,
+        "tempo": 122.12,
+        "time_signature": 4,
+        "valence": 0.963,
+        "genre": [
+            "classic schlager",
+            "schlager",
+            "volksmusik"
+        ],
+        "popularity": 0
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Dont_Forget_to_Remember.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Dont Forget to Remember",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.448,
+        "acousticness": 0.178,
+        "danceability": 0.38,
+        "instrumentalness": 1.21e-06,
+        "liveness": 0.315,
+        "speechiness": 0.025,
+        "loudness": -11.043,
+        "tempo": 82.374,
+        "time_signature": 4,
+        "valence": 0.494,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 57
+    }
+}

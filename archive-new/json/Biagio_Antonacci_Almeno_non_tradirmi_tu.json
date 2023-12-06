@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Almeno_non_tradirmi_tu.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Almeno non tradirmi tu",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.367,
+        "acousticness": 0.127,
+        "danceability": 0.806,
+        "instrumentalness": 3.05e-05,
+        "liveness": 0.0789,
+        "speechiness": 0.159,
+        "loudness": -14.695,
+        "tempo": 134.102,
+        "time_signature": 4,
+        "valence": 0.454,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 14
+    }
+}

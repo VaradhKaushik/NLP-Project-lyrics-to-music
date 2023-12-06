@@ -1,0 +1,51 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Run_to_Me.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Run to Me",
+    "lyrics": {
+        "Verse": [
+            "If ever you got rain in your heart",
+            "Someone has hurt you, and torn you apart",
+            "Am I unwise to open up your eyes to love me?",
+            "",
+            "And let it be like they said it could be",
+            "Me loving you girl, and you loving me",
+            "Am I unwise to open up your eyes to love me?",
+            "",
+            "And when you're out in the cold",
+            "No one beside you, and no one to hold",
+            "Am I unwise to open up your eyes to love me?",
+            "",
+            "And when you've got nothing to lose",
+            "Nothing to pay for, nothing to choose",
+            "Am I unwise to open up your eyes to love me?"
+        ],
+        "Chorus": [
+            "Run to me whenever you're lonely. (to love me)",
+            "Run to me if you need a shoulder",
+            "Now and then, you need someone older",
+            "So darling, you run to me",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.322,
+        "acousticness": 0.474,
+        "danceability": 0.399,
+        "instrumentalness": 1.48e-05,
+        "liveness": 0.335,
+        "speechiness": 0.037,
+        "loudness": -14.021,
+        "tempo": 145.743,
+        "time_signature": 4,
+        "valence": 0.33,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 59
+    }
+}

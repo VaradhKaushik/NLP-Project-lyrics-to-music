@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bizet_Georges\\Farandole_from.mid",
+    "artist_band_name": "Bizet Georges",
+    "song_title": "Farandole from",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.413,
+        "acousticness": 0.97,
+        "danceability": 0.503,
+        "instrumentalness": 0.91,
+        "liveness": 0.115,
+        "speechiness": 0.0491,
+        "loudness": -20.027,
+        "tempo": 85.124,
+        "time_signature": 4,
+        "valence": 0.544,
+        "genre": [
+            "classical",
+            "french opera",
+            "french romanticism",
+            "late romantic era"
+        ],
+        "popularity": 4
+    }
+}

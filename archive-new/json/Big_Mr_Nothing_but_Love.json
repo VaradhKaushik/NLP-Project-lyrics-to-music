@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Big_Mr\\Nothing_but_Love.mid",
+    "artist_band_name": "Big Mr",
+    "song_title": "Nothing but Love",
+    "lyrics": {
+        "Verse": [
+            "Guess what, baby, the things we said",
+            "Came true today cause we listened to our hearts",
+            "No one but you will ever do",
+            "Our search is through but our journey's just beginning",
+            "",
+            "Can't read your mind, Lord knows I've tried",
+            "But in your eyes, I see everything I need to know",
+            "Nothing to do, but follow through",
+            "My aim is true, I could never ask for any more",
+            ""
+        ],
+        "Chorus": [
+            "Nothing but love can last forever",
+            "Nothing but love will start",
+            "To mend the place inside your heart that needed healing",
+            "Nothing but love can live forever",
+            "Nothing but love will start",
+            "To make your head spin round and round",
+            "You know you're feeling love",
+            "",
+            "Nothing but love",
+            "Nothing but love",
+            "",
+            "Nothing but love can last forever",
+            "Nothing but love will start",
+            "To mend the place inside your heart that needed healing",
+            "Nothing but love can live forever",
+            "Nothing but love will start",
+            "To make your head spin round and round",
+            "You know you're feeling",
+            "Nothing but love can hold our world together",
+            "Nothing but love can start",
+            "To let us hear the sounds above that have been screaming love",
+            "",
+            "[Outro]",
+            "Nothing but love, nothing but love",
+            "Love, nothing but love, nothing but love",
+            "Oooh, hooo, oooh, ooohEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "And if you walk away",
+            "You know that I will follow",
+            "To steal back your broken heart",
+            "At least until tomorrow",
+            "Because whatever comes in days",
+            "Beside you, I can't hide that you're the one"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.57,
+        "acousticness": 0.299,
+        "danceability": 0.465,
+        "instrumentalness": 0,
+        "liveness": 0.29,
+        "speechiness": 0.0294,
+        "loudness": -5.437,
+        "tempo": 142.326,
+        "time_signature": 4,
+        "valence": 0.472,
+        "genre": [
+            "glam metal",
+            "hard rock"
+        ],
+        "popularity": 44
+    }
+}

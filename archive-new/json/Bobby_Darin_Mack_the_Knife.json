@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Darin\\Mack_the_Knife.mid",
+    "artist_band_name": "Bobby Darin",
+    "song_title": "Mack the Knife",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.529,
+        "acousticness": 0.76,
+        "danceability": 0.549,
+        "instrumentalness": 0,
+        "liveness": 0.206,
+        "speechiness": 0.108,
+        "loudness": -12.291,
+        "tempo": 82.755,
+        "time_signature": 4,
+        "valence": 0.464,
+        "genre": [
+            "adult standards",
+            "easy listening",
+            "lounge",
+            "rock-and-roll",
+            "vocal jazz"
+        ],
+        "popularity": 63
+    }
+}

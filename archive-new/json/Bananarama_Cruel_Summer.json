@@ -1,0 +1,80 @@
+{
+    "midi_file_path": "archive-new\\Bananarama\\Cruel_Summer.mid",
+    "artist_band_name": "Bananarama",
+    "song_title": "Cruel Summer",
+    "lyrics": {
+        "Verse": [
+            "Hot summer streets and the pavements are burning, I sit around",
+            "Trying to smile, but the air is so heavy and dry",
+            "",
+            "Strange voices are saying (What did they say?)",
+            "Things I can't understand",
+            "It's too close for comfort, this heat has got right out of hand",
+            "",
+            "The city is crowded, my friends are away and I'm on my own",
+            "It's too hot to handle so I got to get up and go",
+            ""
+        ],
+        "Chorus": [
+            "It's a cruel (Cruel), cruel summer",
+            "Leaving me here on my own",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone",
+            "",
+            "It's a cruel (Cruel), cruel summer",
+            "Leaving me here on my own",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone",
+            "",
+            "It's a cruel (Cruel), cruel summer",
+            "(Leaving me) Leaving me here on my own",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone",
+            "",
+            "[Instrumental break]",
+            "",
+            "It's a cruel, cruel summer",
+            "Leaving me here on my own",
+            "It's a cruel, cruel summer",
+            "Now you're gone",
+            "",
+            "It's a cruel (Cruel), cruel summer",
+            "(Leaving me) Leaving me here on my own",
+            "It's a cruel (It's a cruel), cruel summer",
+            "Now you're gone",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "You're not the only one",
+            "You're not the only one",
+            "",
+            "You're not the only one",
+            "[Outro]",
+            "It's a cruel (Cruel), cruel summer",
+            "(Leaving me) Leaving me here on my own",
+            "It's a cruel (It's a cruel), cruel summer12Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.871,
+        "acousticness": 0.27,
+        "danceability": 0.666,
+        "instrumentalness": 0.0208,
+        "liveness": 0.263,
+        "speechiness": 0.0272,
+        "loudness": -6.017,
+        "tempo": 108.501,
+        "time_signature": 4,
+        "valence": 0.936,
+        "genre": [
+            "girl group",
+            "hi-nrg",
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 68
+    }
+}

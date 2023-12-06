@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Billy_Ray_Cyrus\\Achy_Breaky_Heart.mid",
+    "artist_band_name": "Billy Ray Cyrus",
+    "song_title": "Achy Breaky Heart",
+    "lyrics": {
+        "Verse": [
+            "You can tell the world you never was my girl",
+            "You can burn my clothes when I'm gone",
+            "Or you can tell your friends just what a fool I've been",
+            "And laugh and joke about me on the phone",
+            "You can tell my arms go back to the farm",
+            "You can tell my feet to hit the floor",
+            "Or you can tell my lips to tell my fingertips",
+            "They won't be reaching out for you no more",
+            "",
+            "You can tell your ma I moved to Arkansas",
+            "You can tell your dog to bite my leg",
+            "Or tell your brother Cliff whose fist can tell my lip",
+            "He never really liked me anyway",
+            "Or tell your Aunt Louise, tell anything you please",
+            "Myself already knows I'm not okay",
+            "Or you can tell my eyes to watch out for my mind",
+            "It might be walking out on me today"
+        ],
+        "Chorus": [
+            "But don't tell my heart, my achy breaky heart",
+            "I just don't think he'd understand",
+            "And if you tell my heart, my achy breaky heart",
+            "He might blow up and kill this man, ooh",
+            "",
+            "But don't tell my heart, my achy breaky heart",
+            "I just don't think he'd understand",
+            "And if you tell my heart, my achy breaky heart",
+            "He might blow up and kill this man, ooh",
+            "",
+            "[Instrumental Break]",
+            "",
+            "Don't tell my heart, my achy breaky heart",
+            "I just don't think he'd understand",
+            "And if you tell my heart, my achy breaky heart",
+            "He might blow up and kill this man",
+            "Don't tell my heart, my achy breaky heart",
+            "I just don't think he'd understand",
+            "And if you tell my heart, my achy breaky heart",
+            "He might blow up and kill this man, ooh-ooh",
+            "Ooh!8Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.563,
+        "acousticness": 0.051,
+        "danceability": 0.8,
+        "instrumentalness": 0,
+        "liveness": 0.0797,
+        "speechiness": 0.0303,
+        "loudness": -10.209,
+        "tempo": 121.808,
+        "time_signature": 4,
+        "valence": 0.961,
+        "genre": [
+            "country rock"
+        ],
+        "popularity": 69
+    }
+}

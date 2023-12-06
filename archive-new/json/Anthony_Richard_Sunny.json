@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Anthony_Richard\\Sunny.mid",
+    "artist_band_name": "Anthony Richard",
+    "song_title": "Sunny",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.768,
+        "acousticness": 0.0999,
+        "danceability": 0.48,
+        "instrumentalness": 0,
+        "liveness": 0.0964,
+        "speechiness": 0.118,
+        "loudness": -10.312,
+        "tempo": 119.96,
+        "time_signature": 4,
+        "valence": 0.512,
+        "genre": [
+            "chanson",
+            "classic french pop",
+            "ye ye"
+        ],
+        "popularity": 8
+    }
+}

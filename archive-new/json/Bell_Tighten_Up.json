@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Bell\\Tighten_Up.mid",
+    "artist_band_name": "Bell",
+    "song_title": "Tighten Up",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.441,
+        "acousticness": 0.242,
+        "danceability": 0.708,
+        "instrumentalness": 0.000147,
+        "liveness": 0.0899,
+        "speechiness": 0.196,
+        "loudness": -12.931,
+        "tempo": 125.191,
+        "time_signature": 4,
+        "valence": 0.724,
+        "genre": [
+            "classic soul",
+            "northern soul",
+            "philly soul",
+            "soul",
+            "southern soul"
+        ],
+        "popularity": 49
+    }
+}

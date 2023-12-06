@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Britney_Spears\\You_Drive_Me_Crazy.mid",
+    "artist_band_name": "Britney Spears",
+    "song_title": "You Drive Me Crazy",
+    "lyrics": {
+        "Verse": [
+            "Baby, I'm so into you",
+            "You got that something, what can I do?",
+            "Baby, you spin me around, oh",
+            "The earth is moving, but I can't feel the ground",
+            "Every time you look at me",
+            "My heart is jumping, it's easy to see",
+            "Loving you means so much more",
+            "More than anything I ever felt before",
+            "",
+            "Tell me you're so into me",
+            "That I'm the only one you will see",
+            "Tell me I'm not in the blue, oh",
+            "That I'm not wasting my feelings on you",
+            "Loving you means so much more",
+            "More than anything I ever felt before",
+            ""
+        ],
+        "Chorus": [
+            "You drive me crazy, I just can't sleep",
+            "I'm so excited, I'm in too deep",
+            "Oh, crazy, but it feels alright",
+            "Baby, thinking of you keeps me up all night",
+            "Oh",
+            "",
+            "You drive me crazy, I just can't sleep",
+            "I'm so excited, I'm in too deep",
+            "Oh, crazy, but it feels alright",
+            "Baby, thinking of you keeps me up all night",
+            "You drive me crazy (You drive me crazy, baby)",
+            "I'm so excited, I'm in too deep",
+            "Oh, crazy (You make me feel alright)",
+            "Baby, thinking of you keeps me up (Oh) all night",
+            "",
+            "[Outro]",
+            "You drive me crazy (You drive me crazy, baby)",
+            "Yeah",
+            "Oh, crazy, but it feels alright",
+            "Baby, thinking of you keeps me up all night",
+            "Baby, thinking of you keeps me up all night5Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Crazy, I just can't sleep",
+            "I'm so excited, I'm in too deep",
+            "Crazy, but it feels alright",
+            "Every day and every night",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.939,
+        "acousticness": 0.0534,
+        "danceability": 0.748,
+        "instrumentalness": 0,
+        "liveness": 0.32,
+        "speechiness": 0.0341,
+        "loudness": -4.288,
+        "tempo": 104.001,
+        "time_signature": 4,
+        "valence": 0.96,
+        "genre": [
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 70
+    }
+}

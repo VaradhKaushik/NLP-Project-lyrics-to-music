@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Ambra\\Aspettavo_te.mid",
+    "artist_band_name": "Ambra",
+    "song_title": "Aspettavo te",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.883,
+        "acousticness": 0.0342,
+        "danceability": 0.611,
+        "instrumentalness": 0,
+        "liveness": 0.0761,
+        "speechiness": 0.0396,
+        "loudness": -5.591,
+        "tempo": 98.009,
+        "time_signature": 4,
+        "valence": 0.912,
+        "genre": [
+            "italian pop rock"
+        ],
+        "popularity": 12
+    }
+}

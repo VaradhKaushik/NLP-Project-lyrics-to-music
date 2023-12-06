@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Adamo\\Non_mi_tenere_il_Broncio.mid",
+    "artist_band_name": "Adamo",
+    "song_title": "Non mi tenere il Broncio",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.306,
+        "acousticness": 0.00514,
+        "danceability": 0.697,
+        "instrumentalness": 0,
+        "liveness": 0.133,
+        "speechiness": 0.0717,
+        "loudness": -19.973,
+        "tempo": 119.73,
+        "time_signature": 4,
+        "valence": 0.689,
+        "genre": [],
+        "popularity": 20
+    }
+}

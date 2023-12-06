@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Barry_Mann\\Who_Put_the_Bomp_In_the_Bomp,_Bomp,_Bomp_.mid",
+    "artist_band_name": "Barry Mann",
+    "song_title": "Who Put the Bomp In the Bomp, Bomp, Bomp ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.678,
+        "acousticness": 0.52,
+        "danceability": 0.446,
+        "instrumentalness": 0,
+        "liveness": 0.281,
+        "speechiness": 0.0551,
+        "loudness": -8.563,
+        "tempo": 84.502,
+        "time_signature": 4,
+        "valence": 0.797,
+        "genre": [
+            "brill building pop",
+            "doo-wop"
+        ],
+        "popularity": 36
+    }
+}

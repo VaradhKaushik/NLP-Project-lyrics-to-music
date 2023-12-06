@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Bad_Manners\\My_Girl_Lollipop.mid",
+    "artist_band_name": "Bad Manners",
+    "song_title": "My Girl Lollipop",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.821,
+        "acousticness": 0.0119,
+        "danceability": 0.533,
+        "instrumentalness": 0.198,
+        "liveness": 0.264,
+        "speechiness": 0.0449,
+        "loudness": -8.589,
+        "tempo": 149.143,
+        "time_signature": 4,
+        "valence": 0.846,
+        "genre": [
+            "ska",
+            "ska revival"
+        ],
+        "popularity": 31
+    }
+}

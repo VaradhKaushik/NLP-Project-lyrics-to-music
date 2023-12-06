@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Alizee\\Moi..._Lolita.mid",
+    "artist_band_name": "Alizee",
+    "song_title": "Moi... Lolita",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.888,
+        "acousticness": 0.0519,
+        "danceability": 0.628,
+        "instrumentalness": 0.000191,
+        "liveness": 0.233,
+        "speechiness": 0.0277,
+        "loudness": -3.74,
+        "tempo": 107.958,
+        "time_signature": 4,
+        "valence": 0.577,
+        "genre": [],
+        "popularity": 65
+    }
+}

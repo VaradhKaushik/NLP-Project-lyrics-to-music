@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andrew_Lloyd_Webber\\Phantom_of_the_Opera.mid",
+    "artist_band_name": "Andrew Lloyd Webber",
+    "song_title": "Phantom of the Opera",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.608,
+        "acousticness": 0.168,
+        "danceability": 0.444,
+        "instrumentalness": 3.36e-06,
+        "liveness": 0.118,
+        "speechiness": 0.0532,
+        "loudness": -12.175,
+        "tempo": 119.985,
+        "time_signature": 4,
+        "valence": 0.354,
+        "genre": [
+            "broadway",
+            "west end"
+        ],
+        "popularity": 67
+    }
+}

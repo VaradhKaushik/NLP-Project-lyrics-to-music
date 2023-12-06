@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andre_van_Duin\\Er_staat_een_paard_in_de_gang.mid",
+    "artist_band_name": "Andre van Duin",
+    "song_title": "Er staat een paard in de gang",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.426,
+        "acousticness": 0.746,
+        "danceability": 0.797,
+        "instrumentalness": 0,
+        "liveness": 0.762,
+        "speechiness": 0.0389,
+        "loudness": -16.163,
+        "tempo": 112.987,
+        "time_signature": 4,
+        "valence": 0.93,
+        "genre": [
+            "dutch cabaret",
+            "levenslied",
+            "nederpop"
+        ],
+        "popularity": 12
+    }
+}

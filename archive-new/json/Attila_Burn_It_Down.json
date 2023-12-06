@@ -1,0 +1,52 @@
+{
+    "midi_file_path": "archive-new\\Attila\\Burn_It_Down.mid",
+    "artist_band_name": "Attila",
+    "song_title": "Burn It Down",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "Light it up, let it go",
+            "Light up everything we think we know",
+            "Burn it down, all attachments",
+            "Burn right through the safety catches",
+            "We are all book of matches waiting to be turned",
+            "You might also likeWatch the fire take control",
+            "Prayed for rain, for the roof to hold",
+            "The O'Brians brought us coats for the cold in December",
+            "I saw my dad weep as the walls gave away",
+            "We thought about the sofa and the jar of money he had saved",
+            "The kitchen table and all the love he left behind",
+            "And then he looked at mom and smiled",
+            "Said they'll be with me the whole time",
+            "",
+            "So light it up, let it go",
+            "Light up everything we think we know",
+            "Burn it down, all attachments",
+            "Burn right through the safety catches",
+            "We are all book of matches waiting to be turned",
+            "",
+            "Light it up, let it go",
+            "Light up everything we think we know",
+            "Burn it down, all attachments",
+            "Burn right through the safety catches",
+            "We are all book of matches waiting to be turned",
+            "Waiting to be turnedEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.458,
+        "acousticness": 0.174,
+        "danceability": 0.678,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "speechiness": 0.0397,
+        "loudness": -13.042,
+        "tempo": 89.114,
+        "time_signature": 4,
+        "valence": 0.819,
+        "genre": [],
+        "popularity": 0
+    }
+}

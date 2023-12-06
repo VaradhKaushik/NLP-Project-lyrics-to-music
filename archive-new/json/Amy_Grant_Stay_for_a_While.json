@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Amy_Grant\\Stay_for_a_While.mid",
+    "artist_band_name": "Amy Grant",
+    "song_title": "Stay for a While",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.712,
+        "acousticness": 0.0429,
+        "danceability": 0.744,
+        "instrumentalness": 0.000409,
+        "liveness": 0.268,
+        "speechiness": 0.0263,
+        "loudness": -6.294,
+        "tempo": 117.3,
+        "time_signature": 4,
+        "valence": 0.615,
+        "genre": [
+            "christian music"
+        ],
+        "popularity": 27
+    }
+}

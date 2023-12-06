@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Israel.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Israel",
+    "lyrics": {
+        "Verse": [
+            "You've had your troubles Israel",
+            "I've seen them all",
+            "But you put the writing on the wall",
+            "Israel, Israel",
+            "",
+            "You know I've seen you fall so many times",
+            "I've cried for you and that's a crime",
+            "Israel, Israel, Israel",
+            "",
+            "I like the smiles up on your people's faces",
+            "They make you feel warm embraces",
+            "And I want that kind of smile",
+            "That kind of smile",
+            "Israel you make the whole world think about you",
+            "And if they don't they'll find a reason",
+            "To shout about Israel, Israel",
+            "You're the only one, Israel, Israel",
+            "Tell me all about it!",
+            "Tell me all about it",
+            "Tell me all about it",
+            "Oh, take me into your arms",
+            "And make me feel your goodness",
+            "Be with me Israel",
+            "Take me into your arms",
+            "Let me hold hold you to myself",
+            "Oh, I want to, Israel",
+            "",
+            "[Outro]",
+            "Israel, take me back into into your arms",
+            "Israel, Israel, Israel, Israel",
+            "IsraelEmbed"
+        ],
+        "Chorus": [
+            "Where there's sand",
+            "Where there's beautiful sand",
+            "You know you got a kind of feeling",
+            "That's just grand",
+            "Take me into your arms",
+            "Let me be with you",
+            "Israel, Israel, Israel",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.43,
+        "acousticness": 0.172,
+        "danceability": 0.413,
+        "instrumentalness": 2.51e-06,
+        "liveness": 0.137,
+        "speechiness": 0.0444,
+        "loudness": -13.835,
+        "tempo": 142.278,
+        "time_signature": 4,
+        "valence": 0.534,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 22
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Ode_to_the_Banana_King.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Ode to the Banana King",
+    "lyrics": {
+        "Verse": [
+            "Turning back ten thousand years",
+            "It's all a blur where the taxis go",
+            "Monster man, a willing friend",
+            "Lucy serves the melon cold",
+            "",
+            "Boats made out of paper float",
+            "Dreams made up for the banana king, darling",
+            "Crumbs you have lapped freely of",
+            "Devious we all have been",
+            ""
+        ],
+        "Chorus": [
+            "Vi-vi-violent and delicious souls",
+            "Oh-oh-oh, four red trucks dressed illegally",
+            "Mother knows how the bugle blows",
+            "Gonna get caught, gonna get caught",
+            "Gonna get caught in her rug, babe",
+            "",
+            "This is not a conclusion",
+            "No revolution",
+            "Just a little confusion",
+            "On where your head has been",
+            "",
+            "Vi-vi-violent and delicious souls",
+            "Vi-vi-violent and delicious souls",
+            "This is not a conclusion",
+            "No revolution",
+            "Just a little confusion",
+            "On where your head has beenEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.244,
+        "acousticness": 0.852,
+        "danceability": 0.524,
+        "instrumentalness": 4.8e-06,
+        "liveness": 0.107,
+        "speechiness": 0.0267,
+        "loudness": -13.171,
+        "tempo": 101.748,
+        "time_signature": 4,
+        "valence": 0.528,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 23
+    }
+}

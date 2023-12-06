@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Blondie\\Picture_This.mid",
+    "artist_band_name": "Blondie",
+    "song_title": "Picture This",
+    "lyrics": {
+        "Verse": [
+            "All I want is a room with a view",
+            "A sight worth seeing, a vision of you",
+            "All I want is a room with view, oh-oh",
+            "I will give you my finest hour",
+            "The one I spent watching you shower",
+            "I will give you my finest hour, oh yeah",
+            "",
+            "All I want is a photo in my wallet",
+            "A small remembrance of something more solid",
+            "All I want is a picture of you",
+            "",
+            "All I want is 20-20 vision",
+            "A total portrait with no omissions",
+            "All I want is a vision of you, oh-oh"
+        ],
+        "Chorus": [
+            "Picture this - a day in December",
+            "Picture this - freezing cold weather",
+            "You got clouds on your lids and you'd be on the skids",
+            "If it weren't for your job at the garage",
+            "If you could only oh-oh",
+            "Picture this - a sky full of thunder",
+            "Picture this - my telephone number",
+            "One and one is what I'm telling you, oh yeah",
+            "",
+            "If you can picture this - a day in December",
+            "Picture this - freezing cold weather",
+            "You got clouds on your lids and you'd be on the skids",
+            "If it weren't for your job at the garage",
+            "If you could only oh-oh",
+            "Picture this - a sky full of thunder",
+            "Picture this - my telephone number",
+            "One and one is what I'm telling you",
+            "Get a pocket computer",
+            "Try to do what you used to do yeah1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.767,
+        "acousticness": 0.246,
+        "danceability": 0.583,
+        "instrumentalness": 0.0165,
+        "liveness": 0.17,
+        "speechiness": 0.0266,
+        "loudness": -3.004,
+        "tempo": 127.959,
+        "time_signature": 4,
+        "valence": 0.846,
+        "genre": [
+            "candy pop",
+            "new wave pop",
+            "permanent wave",
+            "power pop",
+            "rock",
+            "synthpop"
+        ],
+        "popularity": 41
+    }
+}

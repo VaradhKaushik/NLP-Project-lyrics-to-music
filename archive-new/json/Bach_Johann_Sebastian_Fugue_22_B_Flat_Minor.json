@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Fugue_22_B_Flat_Minor.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Fugue 22 B Flat Minor",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0142,
+        "acousticness": 0.993,
+        "danceability": 0.547,
+        "instrumentalness": 0.92,
+        "liveness": 0.0697,
+        "speechiness": 0.0702,
+        "loudness": -26.186,
+        "tempo": 55.174,
+        "time_signature": 4,
+        "valence": 0.343,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 23
+    }
+}

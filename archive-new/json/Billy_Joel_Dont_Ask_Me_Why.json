@@ -1,0 +1,81 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Dont_Ask_Me_Why.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Dont Ask Me Why",
+    "lyrics": {
+        "Verse": [
+            "All the waiters in your grand caf\u00e9",
+            "Leave their tables when you blink",
+            "Ohh, every dog must have his every day",
+            "Every drunk must have his drink",
+            "",
+            "All your life you had to stand in line",
+            "Still you're standing on your feet",
+            "Ohh, all your choices made you change your mind",
+            "Now your calendar's complete",
+            "",
+            "All the servants in your new hotel",
+            "Throw their roses at your feet",
+            "Fool them all but baby I can tell",
+            "You're no stranger to the street",
+            "",
+            "Yesterday you were an only child",
+            "Now your ghosts have gone away",
+            "You can kill them in the classic style",
+            "Now you, \"Parlez-vous fran\u00e7ais ?\"",
+            ""
+        ],
+        "Chorus": [
+            "Don't wait for answers",
+            "Just take your chances",
+            "Don't ask me why",
+            "",
+            "Don't wait for answers",
+            "Just take your chances",
+            "Don't ask me why",
+            "",
+            "Don't ask for favors",
+            "Don't talk to strangers",
+            "Don't ask me why",
+            "",
+            "Don't look for answers",
+            "You took your chances",
+            "Don't ask me why",
+            "",
+            "[Outro]",
+            "Don't ask me why3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Mmm, you can say the human heart",
+            "Is only make-believe",
+            "And I am only fighting fire with fire",
+            "But you are still a victim",
+            "Of the accidents you leave",
+            "As sure as I'm a victim of desire"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.726,
+        "acousticness": 0.138,
+        "danceability": 0.691,
+        "instrumentalness": 0,
+        "liveness": 0.11,
+        "speechiness": 0.0543,
+        "loudness": -7.353,
+        "tempo": 98.418,
+        "time_signature": 4,
+        "valence": 0.868,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 60
+    }
+}

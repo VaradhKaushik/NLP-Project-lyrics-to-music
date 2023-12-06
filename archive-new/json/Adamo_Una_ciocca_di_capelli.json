@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Adamo\\Una_ciocca_di_capelli.mid",
+    "artist_band_name": "Adamo",
+    "song_title": "Una ciocca di capelli",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.357,
+        "acousticness": 0.00405,
+        "danceability": 0.695,
+        "instrumentalness": 0,
+        "liveness": 0.0862,
+        "speechiness": 0.0525,
+        "loudness": -21.537,
+        "tempo": 107.867,
+        "time_signature": 4,
+        "valence": 0.565,
+        "genre": [],
+        "popularity": 14
+    }
+}

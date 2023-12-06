@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bob_James\\Orpheus.mid",
+    "artist_band_name": "Bob James",
+    "song_title": "Orpheus",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.414,
+        "acousticness": 0.369,
+        "danceability": 0.673,
+        "instrumentalness": 0.855,
+        "liveness": 0.0721,
+        "speechiness": 0.0442,
+        "loudness": -18.122,
+        "tempo": 120.495,
+        "time_signature": 4,
+        "valence": 0.183,
+        "genre": [
+            "jazz funk",
+            "jazz piano",
+            "smooth jazz"
+        ],
+        "popularity": 9
+    }
+}

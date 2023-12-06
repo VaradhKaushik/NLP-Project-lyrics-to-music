@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Sotto_il_segno_dei_pesci.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Sotto il segno dei pesci",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.648,
+        "acousticness": 0.252,
+        "danceability": 0.447,
+        "instrumentalness": 3.83e-06,
+        "liveness": 0.2,
+        "speechiness": 0.0422,
+        "loudness": -12.519,
+        "tempo": 85.583,
+        "time_signature": 4,
+        "valence": 0.569,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 54
+    }
+}

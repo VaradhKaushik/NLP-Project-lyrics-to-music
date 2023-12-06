@@ -1,0 +1,60 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\I_Got_the_Feelin.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "I Got the Feelin",
+    "lyrics": {
+        "Verse": [
+            "You don't know what you do to me",
+            "People are heavy, down in misery",
+            "Hey, yeah, alright",
+            "Hey, hey, good lord",
+            "",
+            "I got the feelin' baby",
+            "Baby, sometimes I'm down",
+            "My heart, I'm around the town",
+            "",
+            "I'm level with the ground, baby",
+            "I said level with the ground",
+            "Well baby, you treat me bad",
+            "",
+            "No, no. I know no",
+            "You don't mean it now",
+            "Sometimes I roam",
+            "But, I'll be coming back home",
+            "Sometimes, I seem to be fly",
+            "I just don't know when to say, \"bye bye\"",
+            "You might also likeHey baby, baby",
+            "I got that feelin' baby",
+            "I have it, alright",
+            "",
+            "Baby, baby, baby",
+            "Baby, baby, baby",
+            "Baby, baby, baby",
+            "Baby, baby",
+            "",
+            "Come on now",
+            "Come on now",
+            "Oh, oh, oh...Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.573,
+        "acousticness": 0.399,
+        "danceability": 0.903,
+        "instrumentalness": 0.000363,
+        "liveness": 0.0495,
+        "speechiness": 0.235,
+        "loudness": -11.568,
+        "tempo": 128.779,
+        "time_signature": 4,
+        "valence": 0.871,
+        "genre": [
+            "funk",
+            "soul"
+        ],
+        "popularity": 49
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Barry_and_Eileen\\Ibiza.mid",
+    "artist_band_name": "Barry and Eileen",
+    "song_title": "Ibiza",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.553,
+        "acousticness": 0.516,
+        "danceability": 0.396,
+        "instrumentalness": 5.49e-05,
+        "liveness": 0.191,
+        "speechiness": 0.0308,
+        "loudness": -10.07,
+        "tempo": 185.816,
+        "time_signature": 4,
+        "valence": 0.618,
+        "genre": [
+            "nederpop"
+        ],
+        "popularity": 7
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Dimmelo_Tu_Cose.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Dimmelo Tu Cose",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.267,
+        "acousticness": 0.738,
+        "danceability": 0.475,
+        "instrumentalness": 0.000299,
+        "liveness": 0.13,
+        "speechiness": 0.035,
+        "loudness": -19.108,
+        "tempo": 107.712,
+        "time_signature": 4,
+        "valence": 0.434,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 45
+    }
+}

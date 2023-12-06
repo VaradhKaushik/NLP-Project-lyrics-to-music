@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Prins\\Hello_Mary_Lou.mid",
+    "artist_band_name": "Bobby Prins",
+    "song_title": "Hello Mary Lou",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.857,
+        "acousticness": 0.153,
+        "danceability": 0.723,
+        "instrumentalness": 9.94e-06,
+        "liveness": 0.178,
+        "speechiness": 0.0421,
+        "loudness": -2.98,
+        "tempo": 97.477,
+        "time_signature": 4,
+        "valence": 0.794,
+        "genre": [
+            "classic belgian pop"
+        ],
+        "popularity": 0
+    }
+}

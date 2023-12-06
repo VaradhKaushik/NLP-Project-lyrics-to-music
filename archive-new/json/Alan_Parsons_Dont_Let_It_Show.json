@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Alan_Parsons\\Dont_Let_It_Show.mid",
+    "artist_band_name": "Alan Parsons",
+    "song_title": "Dont Let It Show",
+    "lyrics": {
+        "Verse": [
+            "If it's getting harder to face every day",
+            "Don't let it show, don't let it show",
+            "Though it's getting harder to take what they say",
+            "Just let it go, just let it go",
+            "",
+            "Even though you know it's the wrong thing to say",
+            "Say you don't care, say you don't care",
+            "Even if you want to believe there's a way",
+            "I won't be there, I won't be there"
+        ],
+        "Chorus": [
+            "And if it hurts, when they mention my name",
+            "Say you don't know me",
+            "And if it helps, when they say I'm to blame",
+            "Say you don't owe me",
+            "Ooh-ooh-ooh, ooh-ooh",
+            "",
+            "Even if it's taking the easy way out",
+            "Keep it inside of you",
+            "Don't give in, don't tell them anything",
+            "Don't let it, don't let it show",
+            "",
+            "[Instrumental Break]",
+            "",
+            "But if you smile when they mention my name",
+            "They'll never know you",
+            "And if you laugh when they say I'm to blame",
+            "They'll never own you",
+            "Ooh-ooh-ooh, ooh-ooh-ooh-ooh",
+            "",
+            "Even if you feel you've got nothing to hide",
+            "Keep it inside of you",
+            "Don't give in, don't tell them anything",
+            "Don't let it, don't let it show",
+            "",
+            "[Instrumental Break]",
+            "",
+            "[Instrumental Outro]2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.506,
+        "acousticness": 0.436,
+        "danceability": 0.354,
+        "instrumentalness": 0.0403,
+        "liveness": 0.0941,
+        "speechiness": 0.037,
+        "loudness": -8.16,
+        "tempo": 131.808,
+        "time_signature": 4,
+        "valence": 0.115,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 39
+    }
+}

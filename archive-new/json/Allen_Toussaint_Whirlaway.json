@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Allen_Toussaint\\Whirlaway.mid",
+    "artist_band_name": "Allen Toussaint",
+    "song_title": "Whirlaway",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.948,
+        "acousticness": 0.1,
+        "danceability": 0.552,
+        "instrumentalness": 0.895,
+        "liveness": 0.33,
+        "speechiness": 0.0456,
+        "loudness": -5.595,
+        "tempo": 119.466,
+        "time_signature": 4,
+        "valence": 0.817,
+        "genre": [
+            "louisiana blues",
+            "new orleans blues",
+            "new orleans soul",
+            "rock keyboard",
+            "southern soul"
+        ],
+        "popularity": 8
+    }
+}

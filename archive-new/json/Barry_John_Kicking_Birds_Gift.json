@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\Kicking_Birds_Gift.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "Kicking Birds Gift",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0392,
+        "acousticness": 0.86,
+        "danceability": 0.118,
+        "instrumentalness": 0.935,
+        "liveness": 0.0943,
+        "speechiness": 0.0403,
+        "loudness": -28.806,
+        "tempo": 150.064,
+        "time_signature": 4,
+        "valence": 0.0468,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 6
+    }
+}

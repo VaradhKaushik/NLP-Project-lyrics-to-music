@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\La_stagione_dellamore.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "La stagione dellamore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.533,
+        "acousticness": 0.575,
+        "danceability": 0.689,
+        "instrumentalness": 2.47e-05,
+        "liveness": 0.262,
+        "speechiness": 0.0486,
+        "loudness": -10.3,
+        "tempo": 117.364,
+        "time_signature": 4,
+        "valence": 0.367,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 18
+    }
+}

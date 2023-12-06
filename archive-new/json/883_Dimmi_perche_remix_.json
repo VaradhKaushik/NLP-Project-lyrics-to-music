@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Dimmi_perche_remix_.mid",
+    "artist_band_name": "883",
+    "song_title": "Dimmi perche remix ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.94,
+        "acousticness": 0.108,
+        "danceability": 0.722,
+        "instrumentalness": 0.00051,
+        "liveness": 0.109,
+        "speechiness": 0.0381,
+        "loudness": -5.317,
+        "tempo": 119.999,
+        "time_signature": 4,
+        "valence": 0.767,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 21
+    }
+}

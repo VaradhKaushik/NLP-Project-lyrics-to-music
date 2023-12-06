@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Brandy\\Almost_Doesnt_Count.mid",
+    "artist_band_name": "Brandy",
+    "song_title": "Almost Doesnt Count",
+    "lyrics": {
+        "Verse": [
+            "Almost made you love me, almost made you cry",
+            "Almost made you happy, babe, didn't I, didn't I?",
+            "You almost had me thinkin' you were turned around",
+            "But everybody knows, almost doesn't count",
+            "Almost heard you sayin' you were finally free",
+            "What was always missing for you, babe, you found it in me",
+            "But you can't get to heaven half off the ground",
+            "Everybody knows, almost doesn't count",
+            "",
+            "Gonna find me somebody not afraid to let go",
+            "Want a no doubt, be there kind of man - you came real close",
+            "But every time you built me up, you only let me down",
+            "But everybody knows (Everybody knows)",
+            "Almost doesn't count (Almost doesn't count)",
+            "You might also like[Break]",
+            "Hey (Oh, oh), hey (Ooh-oh, oh, everybody knows)",
+            "Hey (Yeah, yeah, yeah), hey",
+            "I can't keep on, baby, can't keep on tryin'",
+            "Everybody knows (Everybody knows)",
+            "Almost doesn't count (I can't keep on)",
+            "",
+            "Maybe you'll be sorry, and maybe you'll be cold",
+            "Maybe you'll come runnin' back, babe, from the cruel, cruel world",
+            "Almost convinced me you're gonna stick around",
+            "But everybody knows (Everybody knows)",
+            "Almost doesn't count",
+            "",
+            "[Outro]",
+            "So maybe I'll be here, maybe I'll see you around",
+            "That's the way it goes, almost doesn't count1Embed"
+        ],
+        "Chorus": [
+            "I can't keep on loving you one foot outside the door",
+            "I hear a funny hesitation of a heart that's never really sure",
+            "Can't keep on tryin' if you're looking for more",
+            "Than all that I could give you, than what you came here for",
+            "",
+            "I can't keep on lovin' you one foot outside the door (Ooh, ooh, I hear a)",
+            "I hear a funny hesitation of a heart that's never really sure (Ooh, never really sure)",
+            "Can't keep on tryin'  if you're looking for more (No, no)",
+            "Than all that I could give you, than what you came here for (Ooh, babe)",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.543,
+        "acousticness": 0.494,
+        "danceability": 0.682,
+        "instrumentalness": 0,
+        "liveness": 0.158,
+        "speechiness": 0.0454,
+        "loudness": -7.063,
+        "tempo": 71.582,
+        "time_signature": 4,
+        "valence": 0.478,
+        "genre": [
+            "contemporary r&b",
+            "dance pop",
+            "hip pop",
+            "r&b",
+            "urban contemporary"
+        ],
+        "popularity": 58
+    }
+}

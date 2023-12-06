@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\That_Aint_No_Way_to_Go.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "That Aint No Way to Go",
+    "lyrics": {
+        "Verse": [
+            "Lipstick letter 'cross the mirror this mornin'",
+            "Said, \"Goodbye, baby,\" you left without warnin'",
+            "Like a thief in the night, you ran away with my heart",
+            "",
+            "I can't believe my eyes, must be a bad dream",
+            "You always said we had a good thing",
+            "You never once let on we were fallin' apart",
+            "",
+            "Gettin' nowhere, I'm tired of thinkin'",
+            "Guess I'll do a little wishful drinkin'",
+            "And make a whiskey wish upon a star",
+            "",
+            "Train whistle blowin' down the track",
+            "Lonesome sound says she ain't comin' back",
+            "It's such a cold blow from out of the dark"
+        ],
+        "Chorus": [
+            "That ain't no way to go, girl, it just ain't right",
+            "Don't you think that I deserve to hear you say goodbye",
+            "That ain't no way to go, was it all a lie?",
+            "After all this time, that ain't no way to go",
+            "",
+            "That ain't no way to go, girl, it just ain't right",
+            "Don't you think that I deserve to hear you say goodbye",
+            "That ain't no way to go, now was it all a lie?",
+            "After all this time\u2026",
+            "",
+            "[Outro]",
+            "That ain't no way to go, now girl, it just ain't right",
+            "Don't you think that I deserve to hear you say goodbye",
+            "That ain't no way to go, now was it all a lie?",
+            "After all this time, that ain't no way to goEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.709,
+        "acousticness": 0.192,
+        "danceability": 0.686,
+        "instrumentalness": 0,
+        "liveness": 0.264,
+        "speechiness": 0.0364,
+        "loudness": -5.144,
+        "tempo": 106.344,
+        "time_signature": 4,
+        "valence": 0.538,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 49
+    }
+}

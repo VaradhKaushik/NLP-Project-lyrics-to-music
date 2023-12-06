@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Le_tre_verita.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Le tre verita",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.45,
+        "acousticness": 0.107,
+        "danceability": 0.404,
+        "instrumentalness": 0.0404,
+        "liveness": 0.0788,
+        "speechiness": 0.0359,
+        "loudness": -13.022,
+        "tempo": 138.945,
+        "time_signature": 4,
+        "valence": 0.215,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 20
+    }
+}

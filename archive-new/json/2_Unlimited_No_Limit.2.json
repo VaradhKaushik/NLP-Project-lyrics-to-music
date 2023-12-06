@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\No_Limit.2.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "No Limit.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.86,
+        "acousticness": 0.00157,
+        "danceability": 0.659,
+        "instrumentalness": 0.841,
+        "liveness": 0.0808,
+        "speechiness": 0.0343,
+        "loudness": -12.283,
+        "tempo": 139.316,
+        "time_signature": 4,
+        "valence": 0.753,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 13
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Borodin\\Polovtsian_Dance.mid",
+    "artist_band_name": "Borodin",
+    "song_title": "Polovtsian Dance",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.246,
+        "acousticness": 0.922,
+        "danceability": 0.292,
+        "instrumentalness": 0.525,
+        "liveness": 0.107,
+        "speechiness": 0.0385,
+        "loudness": -14.96,
+        "tempo": 109.766,
+        "time_signature": 4,
+        "valence": 0.0859,
+        "genre": [
+            "classical",
+            "early modern classical",
+            "late romantic era",
+            "russian romanticism"
+        ],
+        "popularity": 50
+    }
+}

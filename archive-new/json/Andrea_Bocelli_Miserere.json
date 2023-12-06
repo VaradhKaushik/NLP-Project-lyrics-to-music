@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Miserere.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Miserere",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.662,
+        "acousticness": 0.613,
+        "danceability": 0.251,
+        "instrumentalness": 0.000371,
+        "liveness": 0.986,
+        "speechiness": 0.0472,
+        "loudness": -6.455,
+        "tempo": 80.633,
+        "time_signature": 3,
+        "valence": 0.227,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 36
+    }
+}

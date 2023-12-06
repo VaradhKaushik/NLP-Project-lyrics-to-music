@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Armani\\Solo_con_lanima_mia.mid",
+    "artist_band_name": "Armani",
+    "song_title": "Solo con lanima mia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.542,
+        "acousticness": 0.0945,
+        "danceability": 0.783,
+        "instrumentalness": 0,
+        "liveness": 0.229,
+        "speechiness": 0.0871,
+        "loudness": -8.402,
+        "tempo": 85.068,
+        "time_signature": 4,
+        "valence": 0.614,
+        "genre": [
+            "classic italian pop"
+        ],
+        "popularity": 0
+    }
+}

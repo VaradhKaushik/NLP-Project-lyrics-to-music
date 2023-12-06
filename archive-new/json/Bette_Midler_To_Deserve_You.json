@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Bette_Midler\\To_Deserve_You.mid",
+    "artist_band_name": "Bette Midler",
+    "song_title": "To Deserve You",
+    "lyrics": {
+        "Verse": [
+            "I see so many golden women, when they walk their feet don't touch the ground",
+            "How I want, how I want to deserve you",
+            "But me? I'm always out of rhythm, my needs too demanding, too proud",
+            "How I want, how I want to deserve you",
+            "",
+            "I would die for you, could you ever love me that much?",
+            "How I want, how I want to deserve you",
+            "Yes, you tell me this and I want to believe that it's true",
+            "Ah, how I want, how I want to deserve you",
+            ""
+        ],
+        "Chorus": [
+            "I didn't want you to see me like this, the light of the dawn can be cruel",
+            "How I want, how I want to deserve you",
+            "And if I could be granted a wish I'd shine in your eye like a jewel",
+            "How I want to deserve you",
+            "",
+            "I didn't want you to see me like this, I'm weak and I fight like a fool",
+            "How I want, how I want to deserve you",
+            "And if I could be granted a wish I'd shine in your eye like a jewel",
+            "How I want to deserve you",
+            "",
+            "I didn't want you to see me like this, so frightened of losing so soon",
+            "How I want, how I want to deserve you",
+            "And if I've caught our love in a grip just tell me and I'll shake it loose",
+            "How I want to deserve you",
+            "",
+            "[Refrain]",
+            "Oh, na, na, na, na, na, oh, oh",
+            "How I want to deserve you",
+            "Na, na, na, na, na, na, na, whoa, oh",
+            "How I want to deserve you",
+            "Oh, I want to deserve you",
+            "Na na na na na naEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "If I could be your angel I'd trade in my arms for some wings",
+            "To keep you close to me",
+            "And if I could trade my voice for the silence I know that you need",
+            "Ah, how I want, how I want to deserve you"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.573,
+        "acousticness": 0.142,
+        "danceability": 0.645,
+        "instrumentalness": 0.00328,
+        "liveness": 0.0962,
+        "speechiness": 0.0254,
+        "loudness": -9.421,
+        "tempo": 102.979,
+        "time_signature": 4,
+        "valence": 0.246,
+        "genre": [
+            "adult standards",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 31
+    }
+}

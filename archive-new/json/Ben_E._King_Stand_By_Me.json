@@ -1,0 +1,64 @@
+{
+    "midi_file_path": "archive-new\\Ben_E._King\\Stand_By_Me.mid",
+    "artist_band_name": "Ben E. King",
+    "song_title": "Stand By Me",
+    "lyrics": {
+        "Verse": [
+            "When the night has come",
+            "And the land is dark",
+            "And the moon is the only light we'll see",
+            "No, I won't be afraid",
+            "Oh, I won't be afraid",
+            "Just as long as you stand, stand by me",
+            "",
+            "If the sky that we look upon",
+            "Should tumble and fall",
+            "Or the mountains should crumble to the sea",
+            "I won't cry, I won't cry",
+            "No, I won't shed a tear",
+            "Just as long as you stand, stand by me",
+            ""
+        ],
+        "Chorus": [
+            "So darlin', darlin', stand by me",
+            "Oh, stand by me",
+            "Oh, stand",
+            "Stand by me, stand by me",
+            "",
+            "And darlin', darlin', stand by me",
+            "Oh, stand by me",
+            "Woah, stand now",
+            "Stand by me, stand by me",
+            "You might also like[Interlude]",
+            "",
+            "Darlin', darlin', stand by me",
+            "Oh, stand by me",
+            "Oh, stand now",
+            "Stand by me, stand by me",
+            "",
+            "Whenever you're in trouble, won't you stand by me?",
+            "Oh, stand by me",
+            "Woah, just stand now",
+            "Oh, stand, stand by me88Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.306,
+        "acousticness": 0.57,
+        "danceability": 0.65,
+        "instrumentalness": 7.07e-06,
+        "liveness": 0.0707,
+        "speechiness": 0.0393,
+        "loudness": -9.443,
+        "tempo": 118.068,
+        "time_signature": 4,
+        "valence": 0.605,
+        "genre": [
+            "rock-and-roll",
+            "soul"
+        ],
+        "popularity": 80
+    }
+}

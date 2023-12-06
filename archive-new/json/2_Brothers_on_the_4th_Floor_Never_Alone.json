@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\2_Brothers_on_the_4th_Floor\\Never_Alone.mid",
+    "artist_band_name": "2 Brothers on the 4th Floor",
+    "song_title": "Never Alone",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.866,
+        "acousticness": 0.171,
+        "danceability": 0.705,
+        "instrumentalness": 0.000162,
+        "liveness": 0.645,
+        "speechiness": 0.0563,
+        "loudness": -5.036,
+        "tempo": 127.986,
+        "time_signature": 4,
+        "valence": 0.816,
+        "genre": [
+            "eurodance",
+            "hip house"
+        ],
+        "popularity": 59
+    }
+}

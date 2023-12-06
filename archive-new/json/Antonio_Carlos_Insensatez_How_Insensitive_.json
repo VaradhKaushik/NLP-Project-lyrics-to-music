@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Antonio_Carlos\\Insensatez_How_Insensitive_.mid",
+    "artist_band_name": "Antonio Carlos",
+    "song_title": "Insensatez How Insensitive ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.216,
+        "acousticness": 0.51,
+        "danceability": 0.419,
+        "instrumentalness": 0.0959,
+        "liveness": 0.121,
+        "speechiness": 0.0301,
+        "loudness": -18.034,
+        "tempo": 106.217,
+        "time_signature": 4,
+        "valence": 0.237,
+        "genre": [
+            "bossa nova",
+            "brazilian classical",
+            "brazilian jazz",
+            "latin classical",
+            "mpb",
+            "violao"
+        ],
+        "popularity": 44
+    }
+}

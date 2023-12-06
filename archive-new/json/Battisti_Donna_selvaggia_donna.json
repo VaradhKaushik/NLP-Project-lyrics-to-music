@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Donna_selvaggia_donna.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Donna selvaggia donna",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.213,
+        "acousticness": 0.513,
+        "danceability": 0.335,
+        "instrumentalness": 0.0101,
+        "liveness": 0.307,
+        "speechiness": 0.054,
+        "loudness": -18.393,
+        "tempo": 174.605,
+        "time_signature": 3,
+        "valence": 0.38,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 31
+    }
+}

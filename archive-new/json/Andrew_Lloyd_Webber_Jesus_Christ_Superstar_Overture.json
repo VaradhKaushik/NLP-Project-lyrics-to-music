@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andrew_Lloyd_Webber\\Jesus_Christ_Superstar_Overture.mid",
+    "artist_band_name": "Andrew Lloyd Webber",
+    "song_title": "Jesus Christ Superstar Overture",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0523,
+        "acousticness": 0.594,
+        "danceability": 0.197,
+        "instrumentalness": 2.79e-05,
+        "liveness": 0.131,
+        "speechiness": 0.032,
+        "loudness": -32.336,
+        "tempo": 109.923,
+        "time_signature": 3,
+        "valence": 0.0292,
+        "genre": [
+            "broadway",
+            "west end"
+        ],
+        "popularity": 2
+    }
+}

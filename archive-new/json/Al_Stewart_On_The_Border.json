@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Al_Stewart\\On_The_Border.mid",
+    "artist_band_name": "Al Stewart",
+    "song_title": "On The Border",
+    "lyrics": {
+        "Verse": [
+            "On my wall the colours of the maps are running",
+            "From Africa the winds they talk of changes coming",
+            "The torches flare up in the night",
+            "The hand that sets the farms alight",
+            "Has spread the word to those who're waiting on the border",
+            "",
+            "In the village where I grew up",
+            "Nothing seems the same",
+            "Still you never see the change from day to day",
+            "And no-one notices the customs slip away",
+            "",
+            "Late last night the rain was knocking on my window",
+            "I moved across the darkened room and in the lampglow",
+            "I thought I saw down in the street",
+            "The spirit of the century",
+            "Telling us that we're all standing on the border",
+            "In the islands where I grew up",
+            "Nothing seems the same",
+            "It's just the patterns that remain",
+            "An empty shell",
+            "But there's a strangeness in the air you feel too well",
+            ""
+        ],
+        "Chorus": [
+            "The fishing boats go out across the evening water",
+            "Smuggling guns and arms across the Spanish border",
+            "The wind whips up the waves so loud",
+            "The ghost moon sails among the clouds",
+            "Turns the rifles into silver on the border",
+            "",
+            "The fishing boats go out across the evening water",
+            "Smuggling guns and arms across the Spanish border",
+            "The wind whips up the waves so loud",
+            "The ghost moon sails among the clouds",
+            "Turns the rifles into silver on the border",
+            "",
+            "[Outro]",
+            "On the border",
+            "On the border",
+            "On the border2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.664,
+        "acousticness": 0.0813,
+        "danceability": 0.5,
+        "instrumentalness": 9.6e-06,
+        "liveness": 0.0804,
+        "speechiness": 0.0332,
+        "loudness": -10.935,
+        "tempo": 98.058,
+        "time_signature": 4,
+        "valence": 0.62,
+        "genre": [
+            "art rock",
+            "folk rock",
+            "mellow gold",
+            "progressive rock",
+            "singer-songwriter",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 41
+    }
+}

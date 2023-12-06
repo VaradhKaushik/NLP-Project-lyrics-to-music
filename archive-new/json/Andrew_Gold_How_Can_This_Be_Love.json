@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\Andrew_Gold\\How_Can_This_Be_Love.mid",
+    "artist_band_name": "Andrew Gold",
+    "song_title": "How Can This Be Love",
+    "lyrics": {
+        "Verse": [
+            "I thought love was everything",
+            "I believed in all the good things it would bring",
+            "But lately, we have hurt each other bad",
+            "And I'm afraid to lose the lovin' that we had",
+            "",
+            "I ask my mama, \"What to do?",
+            "Is it just a passing thing we're goin' through?\"",
+            "She said, \"Baby, don't be blue",
+            "If you get through this, you know your love is true\"",
+            ""
+        ],
+        "Chorus": [
+            "How can this be love if it makes us cry?",
+            "How can this be love if it makes us cry?",
+            "",
+            "I tried to make it good",
+            "I did the best I could",
+            "",
+            "How can this be love if it makes us cry?",
+            "How can this be love if it makes us cry?",
+            "",
+            "We tried to make it good",
+            "We did the best I could",
+            "How can this be love if it makes us cry?",
+            "How can this be love if it makes us cry?",
+            "",
+            "[Instrumental Break]",
+            "",
+            "I tried to make it good, I did the best I could",
+            "We tried and tried, we cried and cried",
+            "We did the best we could",
+            "",
+            "[Chrous]",
+            "How can this be love if it makes us cry? (Woah)",
+            "How can this be love if it makes us cry? (Woah, woah)",
+            "How can this be love if it makes us cry?",
+            "How can this be love if it makes us cry?",
+            "Tell me, mama (Woah)",
+            "How can this be love if it makes us cry? (Woah)",
+            "How can this be love if it makes us cry? (Woah, woah)",
+            "How can this be love if it makes us cry? (Woo!)",
+            "How can this be love if it makes us cry?Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.568,
+        "acousticness": 0.0801,
+        "danceability": 0.669,
+        "instrumentalness": 0,
+        "liveness": 0.151,
+        "speechiness": 0.0348,
+        "loudness": -13.139,
+        "tempo": 123.786,
+        "time_signature": 4,
+        "valence": 0.766,
+        "genre": [
+            "underground power pop"
+        ],
+        "popularity": 30
+    }
+}

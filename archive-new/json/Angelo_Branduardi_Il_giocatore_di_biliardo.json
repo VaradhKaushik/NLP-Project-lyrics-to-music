@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Angelo_Branduardi\\Il_giocatore_di_biliardo.mid",
+    "artist_band_name": "Angelo Branduardi",
+    "song_title": "Il giocatore di biliardo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.573,
+        "acousticness": 0.00194,
+        "danceability": 0.595,
+        "instrumentalness": 0.0121,
+        "liveness": 0.0769,
+        "speechiness": 0.0285,
+        "loudness": -10.326,
+        "tempo": 118.025,
+        "time_signature": 3,
+        "valence": 0.515,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 37
+    }
+}

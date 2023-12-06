@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Barriere\\Rien_quun_homme.mid",
+    "artist_band_name": "Alain Barriere",
+    "song_title": "Rien quun homme",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.835,
+        "acousticness": 0.307,
+        "danceability": 0.664,
+        "instrumentalness": 1.26e-06,
+        "liveness": 0.152,
+        "speechiness": 0.0407,
+        "loudness": -5.729,
+        "tempo": 125.959,
+        "time_signature": 4,
+        "valence": 0.872,
+        "genre": [
+            "chanson",
+            "ye ye"
+        ],
+        "popularity": 35
+    }
+}

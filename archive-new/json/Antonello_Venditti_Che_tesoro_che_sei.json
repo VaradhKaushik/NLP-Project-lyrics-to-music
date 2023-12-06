@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Che_tesoro_che_sei.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Che tesoro che sei",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.521,
+        "acousticness": 0.258,
+        "danceability": 0.667,
+        "instrumentalness": 5.04e-05,
+        "liveness": 0.152,
+        "speechiness": 0.0265,
+        "loudness": -8.822,
+        "tempo": 125.74,
+        "time_signature": 4,
+        "valence": 0.245,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 46
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Amy_Grant\\Stay_for_Awhile.mid",
+    "artist_band_name": "Amy Grant",
+    "song_title": "Stay for Awhile",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.811,
+        "acousticness": 0.0764,
+        "danceability": 0.614,
+        "instrumentalness": 0.00924,
+        "liveness": 0.365,
+        "speechiness": 0.0369,
+        "loudness": -6.35,
+        "tempo": 128.038,
+        "time_signature": 4,
+        "valence": 0.619,
+        "genre": [
+            "christian music"
+        ],
+        "popularity": 12
+    }
+}

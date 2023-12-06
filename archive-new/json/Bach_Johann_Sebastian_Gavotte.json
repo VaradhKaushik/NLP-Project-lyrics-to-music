@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Gavotte.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Gavotte",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.262,
+        "acousticness": 0.894,
+        "danceability": 0.619,
+        "instrumentalness": 0.332,
+        "liveness": 0.125,
+        "speechiness": 0.0324,
+        "loudness": -16.193,
+        "tempo": 88.226,
+        "time_signature": 4,
+        "valence": 0.837,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 0
+    }
+}

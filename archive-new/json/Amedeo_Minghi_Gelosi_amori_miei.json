@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Gelosi_amori_miei.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Gelosi amori miei",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.635,
+        "acousticness": 0.575,
+        "danceability": 0.676,
+        "instrumentalness": 8.22e-06,
+        "liveness": 0.108,
+        "speechiness": 0.0299,
+        "loudness": -8.248,
+        "tempo": 118.01,
+        "time_signature": 4,
+        "valence": 0.529,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 27
+    }
+}

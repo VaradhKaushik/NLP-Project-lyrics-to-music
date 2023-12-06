@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Bonzo_Dog_Doo_Dah_Band\\Monster_Mash.mid",
+    "artist_band_name": "Bonzo Dog Doo Dah Band",
+    "song_title": "Monster Mash",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.544,
+        "acousticness": 0.383,
+        "danceability": 0.481,
+        "instrumentalness": 0.000505,
+        "liveness": 0.682,
+        "speechiness": 0.0771,
+        "loudness": -11.228,
+        "tempo": 80.994,
+        "time_signature": 4,
+        "valence": 0.881,
+        "genre": [
+            "zolo"
+        ],
+        "popularity": 17
+    }
+}

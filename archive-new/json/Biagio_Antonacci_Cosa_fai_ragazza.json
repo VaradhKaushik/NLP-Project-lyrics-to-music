@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Cosa_fai_ragazza.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Cosa fai ragazza",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.815,
+        "acousticness": 0.178,
+        "danceability": 0.582,
+        "instrumentalness": 0,
+        "liveness": 0.262,
+        "speechiness": 0.0273,
+        "loudness": -5.652,
+        "tempo": 137.044,
+        "time_signature": 4,
+        "valence": 0.744,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 31
+    }
+}

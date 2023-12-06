@@ -1,0 +1,80 @@
+{
+    "midi_file_path": "archive-new\\Alanis_Morissette\\Thank_U.mid",
+    "artist_band_name": "Alanis Morissette",
+    "song_title": "Thank U",
+    "lyrics": {
+        "Verse": [
+            "How 'bout getting off of these antibiotics",
+            "How 'bout stopping eating when I'm full up",
+            "How 'bout them transparent dangling carrots",
+            "How 'bout that ever elusive kudo",
+            "",
+            "How 'bout me not blaming you for everything",
+            "How 'bout me enjoying the moment for once",
+            "How 'bout how good it feels to finally forgive you",
+            "How 'bout grieving it all one at a time",
+            "",
+            "How 'bout no longer being masochistic",
+            "How 'bout remembering your divinity",
+            "How 'bout unabashedly bawling your eyes out",
+            "How 'bout not equating death with stopping",
+            ""
+        ],
+        "Chorus": [
+            "Thank you India",
+            "Thank you terror",
+            "Thank you disillusionment",
+            "Thank you frailty",
+            "Thank you consequence",
+            "Thank you, thank you silence",
+            "",
+            "Thank you India",
+            "Thank you terror",
+            "Thank you disillusionment",
+            "Thank you frailty",
+            "Thank you consequence",
+            "Thank you, thank you silence",
+            "Thank you India",
+            "Thank you providence",
+            "Thank you disillusionment",
+            "Thank you nothingness",
+            "Thank you clarity",
+            "Thank you, thank you silence",
+            "",
+            "[Outro]",
+            "Yeah, yeah",
+            "Oh, oh, oh-oh",
+            "No, oh, oh, oh",
+            "No, oh, oh, oh12Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "The moment I let go of it",
+            "Was the moment I got more than I could handle",
+            "The moment I jumped off of it",
+            "Was the moment I touched down",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.616,
+        "acousticness": 0.379,
+        "danceability": 0.672,
+        "instrumentalness": 2.73e-05,
+        "liveness": 0.0887,
+        "speechiness": 0.0258,
+        "loudness": -5.764,
+        "tempo": 92.094,
+        "time_signature": 4,
+        "valence": 0.566,
+        "genre": [
+            "canadian pop",
+            "canadian singer-songwriter",
+            "lilith",
+            "neo mellow",
+            "pop rock",
+            "singer-songwriter"
+        ],
+        "popularity": 68
+    }
+}

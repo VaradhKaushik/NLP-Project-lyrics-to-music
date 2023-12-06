@@ -1,0 +1,75 @@
+{
+    "midi_file_path": "archive-new\\Ben_Folds_Five\\Julianne.mid",
+    "artist_band_name": "Ben Folds Five",
+    "song_title": "Julianne",
+    "lyrics": {
+        "Verse": [
+            "I met this girl, she looked like Axl Rose",
+            "Got drunk and took her home and we slept in our clothes",
+            "And in the morning, put my feet on the floor and thought:",
+            "\"Being awake never felt like this before\"",
+            "",
+            "And Julianne, you know she wouldn't approve",
+            "Talked all day on the phone 'cause I had nothing to do",
+            "Got rid of Axl by the afternoon",
+            "Being awake never felt so clear and blue",
+            "",
+            "My friend, she told me she felt sorry for me",
+            "She said the truth would come crashing down on me",
+            "That I'd feel sorry but the truth of it is",
+            "That I feel guilty for not giving a sh-",
+            "",
+            "This week, I feel like I've been born again",
+            "You know that Julianne, she would have a fit",
+            "She'd find a reason for the things that I did",
+            "And gave me credit for the things that I've never been",
+            ""
+        ],
+        "Chorus": [
+            "That's all I knew",
+            "Guess that I was innocent too",
+            "I sing a song, yeah, and it won't be the blues",
+            "'Cause I don't miss Julianne",
+            "",
+            "That's all I knew",
+            "Guess that I was innocent too",
+            "I'll sing a song, yeah, and it won't be the blues",
+            "'Cause I don't miss Julianne",
+            "That's all I knew",
+            "Guess that I was innocent too",
+            "I can try just as hard as I can",
+            "And I don't miss Julianne",
+            "",
+            "That's all I knew",
+            "Guess that I was innocent too",
+            "Yeah, I can try just as hard as I can",
+            "But I don't miss JulianneEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I got a bag of trash, I got my bag of trash",
+            "I walk it up and down, I drag it up and down the road",
+            "How could she miss a man",
+            "Who drags a bag of trash down the road?",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.872,
+        "acousticness": 0.00964,
+        "danceability": 0.463,
+        "instrumentalness": 5.68e-05,
+        "liveness": 0.199,
+        "speechiness": 0.0574,
+        "loudness": -7.425,
+        "tempo": 142.534,
+        "time_signature": 4,
+        "valence": 0.842,
+        "genre": [
+            "permanent wave",
+            "piano rock",
+            "pop rock"
+        ],
+        "popularity": 29
+    }
+}

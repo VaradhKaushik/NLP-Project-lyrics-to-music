@@ -1,0 +1,65 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\What_the_Hell_Have_I.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "What the Hell Have I",
+    "lyrics": {
+        "Verse": [
+            "The face before me flies",
+            "Laughs at me inside",
+            "Masks are made to hide the glow",
+            "Shining eyes",
+            "Distance between us grows",
+            "Feeding lies",
+            "",
+            "Something I should say",
+            "It takes you every day",
+            "What you give is not alive",
+            "Today",
+            "Your soul served on a plate",
+            "Throw it away",
+            ""
+        ],
+        "Chorus": [
+            "It's hard to start things over",
+            "You can feel the fire around us",
+            "All the time, yeah",
+            "",
+            "It's hard to start things over",
+            "You can feel the fire around us all the time, yeah",
+            "",
+            "[Guitar Solo]",
+            "It's hard to start things over, ah yeah",
+            "You can feel the fire around us all the time, yeah",
+            "It's hard to start things over, ah yeah",
+            "You can feel the fire around us all the time, yeah",
+            "",
+            "[Outro]",
+            "All the time",
+            "What the hell have I?",
+            "Little pride1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.917,
+        "acousticness": 0.00127,
+        "danceability": 0.445,
+        "instrumentalness": 0.0028,
+        "liveness": 0.356,
+        "speechiness": 0.0407,
+        "loudness": -4.683,
+        "tempo": 100.254,
+        "time_signature": 4,
+        "valence": 0.564,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 47
+    }
+}

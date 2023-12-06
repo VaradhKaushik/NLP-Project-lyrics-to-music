@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Ancora_tu_coda_.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Ancora tu coda ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0678,
+        "acousticness": 0.578,
+        "danceability": 0.703,
+        "instrumentalness": 0.00442,
+        "liveness": 0.106,
+        "speechiness": 0.0717,
+        "loudness": -20.242,
+        "tempo": 81.993,
+        "time_signature": 1,
+        "valence": 0.348,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 27
+    }
+}

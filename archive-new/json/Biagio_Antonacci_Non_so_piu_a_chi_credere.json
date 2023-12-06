@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Non_so_piu_a_chi_credere.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Non so piu a chi credere",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.337,
+        "acousticness": 0.63,
+        "danceability": 0.577,
+        "instrumentalness": 0,
+        "liveness": 0.107,
+        "speechiness": 0.0316,
+        "loudness": -10.421,
+        "tempo": 136.055,
+        "time_signature": 4,
+        "valence": 0.358,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 21
+    }
+}

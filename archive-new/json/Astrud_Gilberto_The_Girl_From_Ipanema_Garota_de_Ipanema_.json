@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Astrud_Gilberto\\The_Girl_From_Ipanema_Garota_de_Ipanema_.mid",
+    "artist_band_name": "Astrud Gilberto",
+    "song_title": "The Girl From Ipanema Garota de Ipanema ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0859,
+        "acousticness": 0.899,
+        "danceability": 0.58,
+        "instrumentalness": 6.68e-05,
+        "liveness": 0.689,
+        "speechiness": 0.0405,
+        "loudness": -21.308,
+        "tempo": 119.43,
+        "time_signature": 4,
+        "valence": 0.341,
+        "genre": [
+            "bossa nova",
+            "brazilian jazz",
+            "lounge",
+            "samba-jazz",
+            "vocal jazz"
+        ],
+        "popularity": 0
+    }
+}

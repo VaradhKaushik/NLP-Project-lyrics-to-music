@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Cupidon_sen_fout.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Cupidon sen fout",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0611,
+        "acousticness": 0.851,
+        "danceability": 0.606,
+        "instrumentalness": 7.83e-05,
+        "liveness": 0.107,
+        "speechiness": 0.318,
+        "loudness": -18.022,
+        "tempo": 205.646,
+        "time_signature": 4,
+        "valence": 0.728,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 16
+    }
+}

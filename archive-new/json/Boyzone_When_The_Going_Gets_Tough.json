@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Boyzone\\When_The_Going_Gets_Tough.mid",
+    "artist_band_name": "Boyzone",
+    "song_title": "When The Going Gets Tough",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.893,
+        "acousticness": 0.138,
+        "danceability": 0.686,
+        "instrumentalness": 0,
+        "liveness": 0.349,
+        "speechiness": 0.0461,
+        "loudness": -4.208,
+        "tempo": 128.037,
+        "time_signature": 4,
+        "valence": 0.856,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 25
+    }
+}

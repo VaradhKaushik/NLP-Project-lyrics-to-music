@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\BOWIE_DAVID\\Changes.mid",
+    "artist_band_name": "BOWIE DAVID",
+    "song_title": "Changes",
+    "lyrics": {
+        "Verse": [
+            "Still don't know what I was waiting for",
+            "And my time was running wild, a million dead-end streets and",
+            "Every time I thought I'd got it made",
+            "It seemed the taste was not so sweet",
+            "So I turned myself to face me",
+            "But I've never caught a glimpse",
+            "Of how the others must see the faker",
+            "I'm much too fast to take that test",
+            "",
+            "I watch the ripples change their size",
+            "But never leave the stream of warm impermanence and",
+            "So the days float through my eyes",
+            "But still the days seem the same",
+            "And these children that you spit on",
+            "As they try to change their worlds",
+            "Are immune to your consultations",
+            "They're quite aware of what they're going through"
+        ],
+        "Chorus": [
+            "Ch-ch-ch-ch-changes (Turn and face the strange)",
+            "Ch-ch-changes, don't want to be a richer man",
+            "Ch-ch-ch-ch-changes (Turn and face the strange)",
+            "Ch-ch-changes, just gonna have to be a different man",
+            "Time may change me",
+            "But I can't trace time",
+            "",
+            "[Interlude]",
+            "Oh yeah",
+            "",
+            "Ch-ch-ch-ch-changes (Turn and face the strange)",
+            "Ch-ch-changes, don't tell them to grow up and out of it",
+            "Ch-ch-ch-ch-changes (Turn and face the strange)",
+            "Ch-ch-changes, where's your shame?",
+            "You've left us up to our necks in it",
+            "Time may change me",
+            "But you can't trace time",
+            "",
+            "Ch-ch-ch-ch-changes (Turn and face the strange)",
+            "Ch-ch-changes, oh, look out you rock 'n' rollers",
+            "Ch-ch-ch-ch-changes (Turn and face the strange)",
+            "Ch-ch-changes, pretty soon now you're gonna get older",
+            "Time may change me",
+            "But I can't trace time",
+            "",
+            "[Outro]",
+            "I said that time may change me",
+            "But I can't trace time28Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Strange fascination, fascinating me",
+            "Ah, changes are taking the pace I'm going through",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.308,
+        "acousticness": 0.505,
+        "danceability": 0.559,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "speechiness": 0.0376,
+        "loudness": -11.75,
+        "tempo": 113.633,
+        "time_signature": 4,
+        "valence": 0.414,
+        "genre": [
+            "art rock",
+            "classic rock",
+            "glam rock",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 70
+    }
+}

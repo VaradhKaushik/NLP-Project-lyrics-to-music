@@ -1,0 +1,40 @@
+{
+    "midi_file_path": "archive-new\\Band\\The_Last_Waltz_Refrain.mid",
+    "artist_band_name": "Band",
+    "song_title": "The Last Waltz Refrain",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.392,
+        "acousticness": 0.745,
+        "danceability": 0.281,
+        "instrumentalness": 0.000583,
+        "liveness": 0.123,
+        "speechiness": 0.0373,
+        "loudness": -10.406,
+        "tempo": 158.816,
+        "time_signature": 3,
+        "valence": 0.348,
+        "genre": [
+            "blues rock",
+            "classic canadian rock",
+            "classic rock",
+            "cosmic american",
+            "country rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "jam band",
+            "mellow gold",
+            "rock",
+            "roots rock",
+            "southern rock",
+            "swamp rock"
+        ],
+        "popularity": 25
+    }
+}

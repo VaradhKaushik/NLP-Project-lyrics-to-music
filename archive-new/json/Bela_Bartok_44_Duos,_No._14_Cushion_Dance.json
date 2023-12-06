@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bela_Bartok\\44_Duos,_No._14_Cushion_Dance.mid",
+    "artist_band_name": "Bela Bartok",
+    "song_title": "44 Duos, No. 14 Cushion Dance",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.193,
+        "acousticness": 0.995,
+        "danceability": 0.389,
+        "instrumentalness": 0.2,
+        "liveness": 0.0549,
+        "speechiness": 0.119,
+        "loudness": -17.313,
+        "tempo": 171.202,
+        "time_signature": 4,
+        "valence": 0.982,
+        "genre": [
+            "classical",
+            "early modern classical",
+            "neoclassicism"
+        ],
+        "popularity": 0
+    }
+}

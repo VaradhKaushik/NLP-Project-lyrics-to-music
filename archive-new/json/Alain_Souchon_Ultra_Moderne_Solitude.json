@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Ultra_Moderne_Solitude.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Ultra Moderne Solitude",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.344,
+        "acousticness": 0.661,
+        "danceability": 0.727,
+        "instrumentalness": 0.00161,
+        "liveness": 0.0991,
+        "speechiness": 0.0317,
+        "loudness": -13.212,
+        "tempo": 107.063,
+        "time_signature": 4,
+        "valence": 0.428,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 34
+    }
+}

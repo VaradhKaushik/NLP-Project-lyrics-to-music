@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Luna.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Luna",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.564,
+        "acousticness": 0.483,
+        "danceability": 0.751,
+        "instrumentalness": 4.8e-06,
+        "liveness": 0.109,
+        "speechiness": 0.269,
+        "loudness": -7.879,
+        "tempo": 77.565,
+        "time_signature": 4,
+        "valence": 0.71,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 45
+    }
+}

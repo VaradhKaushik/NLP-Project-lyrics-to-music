@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Temps_passe.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Temps passe",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.32,
+        "acousticness": 0.679,
+        "danceability": 0.807,
+        "instrumentalness": 8e-05,
+        "liveness": 0.111,
+        "speechiness": 0.079,
+        "loudness": -7.618,
+        "tempo": 106.226,
+        "time_signature": 4,
+        "valence": 0.515,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 26
+    }
+}

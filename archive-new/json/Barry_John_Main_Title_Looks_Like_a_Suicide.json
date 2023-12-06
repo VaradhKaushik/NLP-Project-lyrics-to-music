@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\Main_Title_Looks_Like_a_Suicide.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "Main Title Looks Like a Suicide",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0709,
+        "acousticness": 0.839,
+        "danceability": 0.193,
+        "instrumentalness": 0.895,
+        "liveness": 0.143,
+        "speechiness": 0.0394,
+        "loudness": -21.279,
+        "tempo": 119.37,
+        "time_signature": 4,
+        "valence": 0.0372,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 36
+    }
+}

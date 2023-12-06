@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Killer_Is_Me.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Killer Is Me",
+    "lyrics": {
+        "Verse": [
+            "Don't need a gun",
+            "Pointed at me",
+            "No need to run",
+            "Killer is me",
+            "Killer is me",
+            "",
+            "Insane, the mind",
+            "In the name of me",
+            "Can't find the time",
+            "To let things be",
+            "",
+            "Insane, the mind",
+            "In the name of me",
+            "Can't find the time",
+            "To let things be",
+            "Let things be"
+        ],
+        "Chorus": [
+            "So, the sun",
+            "Shines upon me",
+            "I'm havin' fun",
+            "The killer is me",
+            "",
+            "Oh, yeah... Can I start over?",
+            "Oh, yeah... Can I start over",
+            "And get over it?",
+            "",
+            "So, the sun",
+            "Shines upon me",
+            "I'm havin' fun",
+            "The killer is me",
+            "The killer is me",
+            "The killer is me",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Oh, yeah, can I start over?",
+            "Oh, yeah, I start over",
+            "And get over it",
+            "Let things be3Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.682,
+        "acousticness": 0.277,
+        "danceability": 0.468,
+        "instrumentalness": 0.195,
+        "liveness": 0.829,
+        "speechiness": 0.0418,
+        "loudness": -10.156,
+        "tempo": 121.983,
+        "time_signature": 4,
+        "valence": 0.327,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 47
+    }
+}

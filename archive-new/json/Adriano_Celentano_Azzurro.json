@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Adriano_Celentano\\Azzurro.mid",
+    "artist_band_name": "Adriano Celentano",
+    "song_title": "Azzurro",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.74,
+        "acousticness": 0.641,
+        "danceability": 0.525,
+        "instrumentalness": 0,
+        "liveness": 0.204,
+        "speechiness": 0.0357,
+        "loudness": -7.133,
+        "tempo": 118.618,
+        "time_signature": 4,
+        "valence": 0.851,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

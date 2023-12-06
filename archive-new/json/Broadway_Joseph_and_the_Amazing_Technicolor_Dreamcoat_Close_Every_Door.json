@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Broadway\\Joseph_and_the_Amazing_Technicolor_Dreamcoat_Close_Every_Door.mid",
+    "artist_band_name": "Broadway",
+    "song_title": "Joseph and the Amazing Technicolor Dreamcoat Close Every Door",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.126,
+        "acousticness": 0.489,
+        "danceability": 0.316,
+        "instrumentalness": 0,
+        "liveness": 0.136,
+        "speechiness": 0.0334,
+        "loudness": -17.686,
+        "tempo": 89.728,
+        "time_signature": 3,
+        "valence": 0.116,
+        "genre": [],
+        "popularity": 3
+    }
+}

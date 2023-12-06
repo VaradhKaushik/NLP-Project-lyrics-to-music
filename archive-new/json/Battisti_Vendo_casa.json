@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Vendo_casa.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Vendo casa",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.169,
+        "acousticness": 0.854,
+        "danceability": 0.507,
+        "instrumentalness": 0,
+        "liveness": 0.2,
+        "speechiness": 0.0304,
+        "loudness": -10.094,
+        "tempo": 136.978,
+        "time_signature": 4,
+        "valence": 0.357,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 37
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Ya_Gotta_Try.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Ya Gotta Try",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.442,
+        "acousticness": 0.281,
+        "danceability": 0.537,
+        "instrumentalness": 0.156,
+        "liveness": 0.105,
+        "speechiness": 0.0765,
+        "loudness": -12.83,
+        "tempo": 110.845,
+        "time_signature": 4,
+        "valence": 0.529,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 15
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Summer_Night_City.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Summer Night City",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.858,
+        "acousticness": 0.0138,
+        "danceability": 0.476,
+        "instrumentalness": 0,
+        "liveness": 0.177,
+        "speechiness": 0.0371,
+        "loudness": -5.66,
+        "tempo": 130.703,
+        "time_signature": 4,
+        "valence": 0.765,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 54
+    }
+}

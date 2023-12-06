@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\No_One.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "No One",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.714,
+        "acousticness": 0.0272,
+        "danceability": 0.828,
+        "instrumentalness": 0.000494,
+        "liveness": 0.0611,
+        "speechiness": 0.0457,
+        "loudness": -10.1,
+        "tempo": 132.931,
+        "time_signature": 4,
+        "valence": 0.969,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 47
+    }
+}

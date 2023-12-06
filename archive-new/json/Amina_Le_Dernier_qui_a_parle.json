@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Amina\\Le_Dernier_qui_a_parle.mid",
+    "artist_band_name": "Amina",
+    "song_title": "Le Dernier qui a parle",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.422,
+        "acousticness": 0.64,
+        "danceability": 0.528,
+        "instrumentalness": 4.51e-05,
+        "liveness": 0.134,
+        "speechiness": 0.0411,
+        "loudness": -12.012,
+        "tempo": 91.091,
+        "time_signature": 4,
+        "valence": 0.338,
+        "genre": [],
+        "popularity": 28
+    }
+}

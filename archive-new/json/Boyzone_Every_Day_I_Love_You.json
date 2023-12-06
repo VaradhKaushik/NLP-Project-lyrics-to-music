@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Boyzone\\Every_Day_I_Love_You.mid",
+    "artist_band_name": "Boyzone",
+    "song_title": "Every Day I Love You",
+    "lyrics": {
+        "Verse": [
+            "I don't know, but I believe",
+            "That some things are meant to be",
+            "And that you'll make a better me",
+            "Everyday I love you",
+            "",
+            "I never thought that dreams came true",
+            "But you showed me that they do",
+            "You know that I learn something new",
+            "Everyday I love you",
+            "",
+            "It's a touch when I feel bad",
+            "It's a smile when I get mad",
+            "All the little things I am",
+            "Everyday I love you",
+            "",
+            "[Break]",
+            "Everyday I love you more",
+            "Everyday I love you"
+        ],
+        "Chorus": [
+            "Cause I believe that destiny",
+            "Is out of our control",
+            "(Don't you know that I do)",
+            "And you'll never live until you love",
+            "With all your heart and soul",
+            "",
+            "Cause I believe that destiny",
+            "Is out of our control",
+            "(Don't you know that I do)",
+            "And you'll never live until you love",
+            "With all your heart and soul",
+            "",
+            "[Outro]",
+            "If I asked would you say yes?",
+            "Together we're the very best",
+            "I know that I am truly blessed",
+            "Everyday I love you",
+            "And I'll give you my best, everyday I love you",
+            "Oh yeahEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.346,
+        "acousticness": 0.237,
+        "danceability": 0.452,
+        "instrumentalness": 0,
+        "liveness": 0.162,
+        "speechiness": 0.0264,
+        "loudness": -9.755,
+        "tempo": 163.901,
+        "time_signature": 4,
+        "valence": 0.349,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 62
+    }
+}

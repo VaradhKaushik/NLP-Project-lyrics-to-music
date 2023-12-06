@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Blue_System\\Magic_Symphony.mid",
+    "artist_band_name": "Blue System",
+    "song_title": "Magic Symphony",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.868,
+        "acousticness": 0.00882,
+        "danceability": 0.669,
+        "instrumentalness": 0.000122,
+        "liveness": 0.0969,
+        "speechiness": 0.0569,
+        "loudness": -8.488,
+        "tempo": 117.979,
+        "time_signature": 4,
+        "valence": 0.932,
+        "genre": [
+            "italo disco",
+            "new italo disco"
+        ],
+        "popularity": 46
+    }
+}

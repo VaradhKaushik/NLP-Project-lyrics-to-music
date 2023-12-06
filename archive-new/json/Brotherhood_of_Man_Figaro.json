@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brotherhood_of_Man\\Figaro.mid",
+    "artist_band_name": "Brotherhood of Man",
+    "song_title": "Figaro",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.629,
+        "acousticness": 0.00812,
+        "danceability": 0.727,
+        "instrumentalness": 0,
+        "liveness": 0.0915,
+        "speechiness": 0.0398,
+        "loudness": -9.683,
+        "tempo": 128.73,
+        "time_signature": 4,
+        "valence": 0.888,
+        "genre": [
+            "bubblegum pop",
+            "classic uk pop"
+        ],
+        "popularity": 29
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "midi_file_path": "archive-new\\Bilk\\More.mid",
+    "artist_band_name": "Bilk",
+    "song_title": "More",
+    "lyrics": {
+        "Verse": [
+            "Eyes on the road ahead",
+            "I'm forgetting my reflection now",
+            "Drowning in words unsaid",
+            "Trying to hide what's inside underground",
+            "",
+            "Hand on a stranger again",
+            "If I cover it up will it turn into love?",
+            "How long will I pretend?",
+            "Try to hide what's inside up above",
+            ""
+        ],
+        "Chorus": [
+            "If I could have back all the times that we argued",
+            "Maybe I'd see it through your eyes not mine",
+            "If I could have back all the time we fell silent",
+            "I'm alright, I'll be fine, I'm a liar",
+            "",
+            "'Cause deep down I more than just miss you",
+            "The truth is I more-oh-oh than just care",
+            "Deep down I more than just need you",
+            "Truth is I'm more-oh-oh than just scared",
+            "'Cause you're still alive in my head",
+            "",
+            "If I could have back all the times that we argued",
+            "Maybe I'd see it through your eyes not mine",
+            "If I could have back all the time we fell silent",
+            "I'm alright, I'll be fine, I'm a liar",
+            "I'm alright, I'll be fine, I'm a liar",
+            "'Cause deep down I more than just miss you",
+            "The truth is I more-oh-oh than just care",
+            "Deep down I more than just need you",
+            "Truth is I'm more-oh-oh than just scared",
+            "'Cause you're still alive in my headEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.43,
+        "acousticness": 0.349,
+        "danceability": 0.698,
+        "instrumentalness": 0.674,
+        "liveness": 0.089,
+        "speechiness": 0.0316,
+        "loudness": -15.171,
+        "tempo": 99.535,
+        "time_signature": 4,
+        "valence": 0.445,
+        "genre": [],
+        "popularity": 5
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Voglio_vederti_danzare.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Voglio vederti danzare",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.464,
+        "acousticness": 0.656,
+        "danceability": 0.587,
+        "instrumentalness": 0.000106,
+        "liveness": 0.214,
+        "speechiness": 0.028,
+        "loudness": -7.879,
+        "tempo": 137.145,
+        "time_signature": 4,
+        "valence": 0.668,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 56
+    }
+}

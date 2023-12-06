@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\America\\Tin_Man.mid",
+    "artist_band_name": "America",
+    "song_title": "Tin Man",
+    "lyrics": {
+        "Verse": [
+            "Sometimes late when things are real",
+            "And people share the gift of gab between themselves",
+            "Some are quick to take the bait",
+            "And catch the perfect prize that waits among the shells",
+            ""
+        ],
+        "Chorus": [
+            "But Oz never did give nothing to the Tin Man",
+            "That he didn't, didn't already have",
+            "And cause never was the reason for the evening",
+            "Or the tropic of Sir Galahad",
+            "",
+            "[Post-Chorus]",
+            "So please believe in me",
+            "When I say I'm spinning round, round, round, round",
+            "Smoke glass stain bright color",
+            "Image going down, down, down, down",
+            "Soapsuds green like bubbles",
+            "",
+            "Oh, Oz never did give nothing to the Tin Man",
+            "That he didn't, didn't already have",
+            "And Cause never was the reason for the evening",
+            "Or the tropic of Sir Galahad",
+            "You might also like[Post-Chorus]",
+            "So please believe in me",
+            "When I say I'm spinning round, round, round, round",
+            "Smoke glass stain bright color",
+            "Image going down, down, down, down",
+            "Soapsuds green like bubbles",
+            "",
+            "No, Oz never did give nothing to the Tin Man",
+            "That he didn't, didn't already have",
+            "And Cause never was the reason for the evening",
+            "Or the tropic of Sir Galahad",
+            "",
+            "So please believe in me",
+            "",
+            "[Vocal/Instrumental Outro]\u200b13Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.531,
+        "acousticness": 0.528,
+        "danceability": 0.646,
+        "instrumentalness": 0.0133,
+        "liveness": 0.0836,
+        "speechiness": 0.0671,
+        "loudness": -10.785,
+        "tempo": 172.02,
+        "time_signature": 4,
+        "valence": 0.655,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 63
+    }
+}

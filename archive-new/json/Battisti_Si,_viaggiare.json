@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Si,_viaggiare.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Si, viaggiare",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.692,
+        "acousticness": 0.073,
+        "danceability": 0.675,
+        "instrumentalness": 4.08e-05,
+        "liveness": 0.0572,
+        "speechiness": 0.0432,
+        "loudness": -10.502,
+        "tempo": 113.426,
+        "time_signature": 4,
+        "valence": 0.929,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 50
+    }
+}

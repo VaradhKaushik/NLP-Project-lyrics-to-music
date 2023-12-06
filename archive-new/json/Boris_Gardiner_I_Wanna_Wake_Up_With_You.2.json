@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Boris_Gardiner\\I_Wanna_Wake_Up_With_You.2.mid",
+    "artist_band_name": "Boris Gardiner",
+    "song_title": "I Wanna Wake Up With You.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.514,
+        "acousticness": 0.505,
+        "danceability": 0.699,
+        "instrumentalness": 4.21e-06,
+        "liveness": 0.142,
+        "speechiness": 0.112,
+        "loudness": -11.721,
+        "tempo": 165.372,
+        "time_signature": 4,
+        "valence": 0.57,
+        "genre": [],
+        "popularity": 5
+    }
+}

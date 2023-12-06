@@ -1,0 +1,54 @@
+{
+    "midi_file_path": "archive-new\\B.W._Stevenson\\My_Maria.mid",
+    "artist_band_name": "B.W. Stevenson",
+    "song_title": "My Maria",
+    "lyrics": {
+        "Verse": [
+            "My Maria",
+            "Don't you know I have come a long, long way?",
+            "I've been longin' to see her, when she's around, she takes my blues away",
+            "",
+            "Sweet Maria",
+            "The sunlight surely hurts my eyes",
+            "I'm a lonely dreamer on a highway in the skies",
+            "",
+            "My Maria",
+            "There were some blue and sorrow times",
+            "Just my thoughts about you bring back my peace of mind",
+            "",
+            "Gypsy lady",
+            "You're a miracle worker for me",
+            "You set my soul free like a ship sailin' on the sea",
+            ""
+        ],
+        "Chorus": [
+            "Maria (Oh, Maria, I love you, girl, oh, my Maria)",
+            "Maria (Oh, Maria, I love you, girl), I love you",
+            "",
+            "Maria (Oh, Maria, I love you, girl, oh, my Maria)",
+            "Maria (Oh, Maria, I love you, girl), I love you",
+            "",
+            "Maria (Oh, Maria, I love you, girl, oh, my Maria)",
+            "Maria (Oh, Maria, I love you, girl), I love you1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "She is the sunlight when the skies are grey",
+            "She treat me so right, lady, take me away"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.622,
+        "acousticness": 0.0828,
+        "danceability": 0.74,
+        "instrumentalness": 0.00673,
+        "liveness": 0.0577,
+        "speechiness": 0.0361,
+        "loudness": -10.613,
+        "tempo": 121.576,
+        "time_signature": 4,
+        "valence": 0.961,
+        "genre": [],
+        "popularity": 47
+    }
+}

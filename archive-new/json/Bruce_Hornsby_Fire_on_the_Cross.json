@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bruce_Hornsby\\Fire_on_the_Cross.mid",
+    "artist_band_name": "Bruce Hornsby",
+    "song_title": "Fire on the Cross",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.915,
+        "acousticness": 0.122,
+        "danceability": 0.573,
+        "instrumentalness": 0.000381,
+        "liveness": 0.22,
+        "speechiness": 0.0315,
+        "loudness": -7.474,
+        "tempo": 121.924,
+        "time_signature": 4,
+        "valence": 0.592,
+        "genre": [
+            "album rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 15
+    }
+}

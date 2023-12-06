@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Banda_Blanca\\Fiesta.mid",
+    "artist_band_name": "Banda Blanca",
+    "song_title": "Fiesta",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.625,
+        "acousticness": 0.095,
+        "danceability": 0.748,
+        "instrumentalness": 0.00026,
+        "liveness": 0.0258,
+        "speechiness": 0.0598,
+        "loudness": -15.594,
+        "tempo": 134.804,
+        "time_signature": 4,
+        "valence": 0.909,
+        "genre": [
+            "musica hondurena",
+            "punta",
+            "punta rock"
+        ],
+        "popularity": 50
+    }
+}

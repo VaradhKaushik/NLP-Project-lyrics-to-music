@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Berger_Michel\\Diego,_libre_dans_sa_tete.mid",
+    "artist_band_name": "Berger Michel",
+    "song_title": "Diego, libre dans sa tete",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.134,
+        "acousticness": 0.944,
+        "danceability": 0.563,
+        "instrumentalness": 0.00129,
+        "liveness": 0.118,
+        "speechiness": 0.0391,
+        "loudness": -16.058,
+        "tempo": 66.212,
+        "time_signature": 4,
+        "valence": 0.136,
+        "genre": [
+            "chanson"
+        ],
+        "popularity": 55
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\52nd_Street.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "52nd Street",
+    "lyrics": {
+        "Verse": [
+            "They say it takes a lot to keep a love alive",
+            "In every heart, there pumps a different beat",
+            "But if we shift the rhythm into overdrive",
+            "Well, we could generate a lot of heat",
+            "On 52nd Street",
+            "On 52nd Street",
+            "",
+            "We're gonna have a little show parade",
+            "Before they know the second bar was played",
+            "We're gonna slip it to 'em short and sweet",
+            "On 52nd StreetYou might also likeEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.35,
+        "acousticness": 0.163,
+        "danceability": 0.698,
+        "instrumentalness": 0.0289,
+        "liveness": 0.329,
+        "speechiness": 0.0395,
+        "loudness": -19.319,
+        "tempo": 130.125,
+        "time_signature": 4,
+        "valence": 0.636,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 35
+    }
+}

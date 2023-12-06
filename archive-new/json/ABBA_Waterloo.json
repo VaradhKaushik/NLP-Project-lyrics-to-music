@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Waterloo.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Waterloo",
+    "lyrics": {
+        "Verse": [
+            "My, my",
+            "At Waterloo Napoleon did surrender",
+            "Oh, yeah",
+            "And I have met my destiny in quite a similar way",
+            "",
+            "My, my",
+            "I tried to hold you back, but you were stronger",
+            "Oh, yeah",
+            "And now it seems my only chance is giving up the fight",
+            ""
+        ],
+        "Chorus": [
+            "The history book on the shelf",
+            "Is always repeating itself",
+            "",
+            "Waterloo, I was defeated, you won the war",
+            "Waterloo, promise to love you forevermore",
+            "Waterloo, couldn't escape if I wanted to",
+            "Waterloo, knowing my fate is to be with you",
+            "Woah, woah, woah, woah, Waterloo",
+            "Finally facing my Waterloo",
+            "",
+            "And how could I ever refuse?",
+            "I feel like I win when I lose",
+            "Waterloo, I was defeated, you won the war",
+            "Waterloo, promise to love you forevermore",
+            "Waterloo, couldn't escape if I wanted to",
+            "Waterloo, knowing my fate is to be with you",
+            "Woah, woah, woah, woah, Waterloo",
+            "Finally facing my Waterloo",
+            "",
+            "So how could I ever refuse?",
+            "I feel like I win when I lose",
+            "",
+            "[Outro]",
+            "Waterloo, couldn't escape if I wanted to",
+            "Waterloo, knowing my fate is to be with you",
+            "Woah, woah, woah, woah, Waterloo",
+            "Finally facing my Waterloo",
+            "Woo-ooh-ooh-ooh",
+            "Waterloo, knowing my fate is to be with you",
+            "Woah, woah, woah, woah, Waterloo",
+            "Finally facing my Waterloo",
+            "Woo-ooh-ooh-ooh",
+            "Waterloo, knowing my fate is to be with you16Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.949,
+        "acousticness": 0.395,
+        "danceability": 0.445,
+        "instrumentalness": 8.18e-06,
+        "liveness": 0.0902,
+        "speechiness": 0.0471,
+        "loudness": -4.682,
+        "tempo": 147.604,
+        "time_signature": 4,
+        "valence": 0.653,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 75
+    }
+}

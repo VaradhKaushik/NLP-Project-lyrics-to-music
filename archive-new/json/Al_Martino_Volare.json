@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Al_Martino\\Volare.mid",
+    "artist_band_name": "Al Martino",
+    "song_title": "Volare",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.804,
+        "acousticness": 0.0358,
+        "danceability": 0.516,
+        "instrumentalness": 0.0243,
+        "liveness": 0.15,
+        "speechiness": 0.0566,
+        "loudness": -9.15,
+        "tempo": 119.397,
+        "time_signature": 4,
+        "valence": 0.639,
+        "genre": [],
+        "popularity": 18
+    }
+}

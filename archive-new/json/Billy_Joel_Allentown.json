@@ -1,0 +1,79 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Allentown.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Allentown",
+    "lyrics": {
+        "Verse": [
+            "Well, we're living here in Allentown",
+            "And they're closing all the factories down",
+            "Out in Bethlehem, they're killing time",
+            "Filling out forms, standing in line",
+            "",
+            "Well, our fathers fought the Second World War",
+            "Spent their weekends on the Jersey Shore",
+            "Met our mothers at the USO",
+            "Asked them to dance, danced with them slow",
+            "",
+            "Well, we're waiting here in Allentown",
+            "For the Pennsylvania we never found",
+            "For the promises our teachers gave",
+            "If we worked hard, if we behaved",
+            "",
+            "So the graduations hang on the wall",
+            "But they never really helped us at all",
+            "No they never taught us what was real",
+            "Iron and coke, chromium steel"
+        ],
+        "Chorus": [
+            "And we're living here in Allentown",
+            "But the restlessness was handed down",
+            "And it's getting very hard to stay",
+            "",
+            "And we're waiting here in Allentown",
+            "But they've taken all the coal from the ground",
+            "And the union people crawled away",
+            "",
+            "Well I'm living here in Allentown",
+            "And it's hard to keep a good man down",
+            "But I won't be getting up today",
+            "",
+            "[Instrumental Break]",
+            "",
+            "[Outro]",
+            "And it\u2019s getting very hard to stay",
+            "And we\u2019re living here in AllentownYou might also like4Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Every child had a pretty good shot",
+            "To get at least as far as their old man got",
+            "But something happened",
+            "On the way to that place",
+            "They threw an American flag in our face",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.837,
+        "acousticness": 0.127,
+        "danceability": 0.69,
+        "instrumentalness": 7.2e-06,
+        "liveness": 0.102,
+        "speechiness": 0.0289,
+        "loudness": -8.312,
+        "tempo": 113.817,
+        "time_signature": 4,
+        "valence": 0.967,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 56
+    }
+}

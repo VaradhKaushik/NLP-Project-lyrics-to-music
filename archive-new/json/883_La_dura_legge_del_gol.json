@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\La_dura_legge_del_gol.mid",
+    "artist_band_name": "883",
+    "song_title": "La dura legge del gol",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.761,
+        "acousticness": 0.0683,
+        "danceability": 0.564,
+        "instrumentalness": 0,
+        "liveness": 0.205,
+        "speechiness": 0.0269,
+        "loudness": -6.777,
+        "tempo": 152.052,
+        "time_signature": 4,
+        "valence": 0.444,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 51
+    }
+}

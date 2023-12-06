@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andre_Moss\\Rosita.mid",
+    "artist_band_name": "Andre Moss",
+    "song_title": "Rosita",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.541,
+        "acousticness": 0.145,
+        "danceability": 0.682,
+        "instrumentalness": 0.701,
+        "liveness": 0.33,
+        "speechiness": 0.0266,
+        "loudness": -8.655,
+        "tempo": 116.789,
+        "time_signature": 4,
+        "valence": 0.881,
+        "genre": [
+            "indorock",
+            "nederpop",
+            "vintage dutch pop"
+        ],
+        "popularity": 26
+    }
+}

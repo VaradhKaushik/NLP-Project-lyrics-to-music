@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Un_giorno_cosi.1.mid",
+    "artist_band_name": "883",
+    "song_title": "Un giorno cosi.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.906,
+        "acousticness": 0.0159,
+        "danceability": 0.57,
+        "instrumentalness": 0.000108,
+        "liveness": 0.659,
+        "speechiness": 0.0358,
+        "loudness": -5.85,
+        "tempo": 114.998,
+        "time_signature": 4,
+        "valence": 0.838,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 44
+    }
+}

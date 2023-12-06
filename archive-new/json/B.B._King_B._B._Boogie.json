@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\B.B._King\\B._B._Boogie.mid",
+    "artist_band_name": "B.B. King",
+    "song_title": "B. B. Boogie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.744,
+        "acousticness": 0.00953,
+        "danceability": 0.371,
+        "instrumentalness": 0.31,
+        "liveness": 0.258,
+        "speechiness": 0.0499,
+        "loudness": -9.552,
+        "tempo": 182.19,
+        "time_signature": 4,
+        "valence": 0.755,
+        "genre": [
+            "blues",
+            "blues rock",
+            "classic rock",
+            "electric blues",
+            "jazz blues",
+            "soul blues",
+            "traditional blues"
+        ],
+        "popularity": 34
+    }
+}

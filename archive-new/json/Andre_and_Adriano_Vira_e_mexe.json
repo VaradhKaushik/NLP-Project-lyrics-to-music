@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Andre_and_Adriano\\Vira_e_mexe.mid",
+    "artist_band_name": "Andre and Adriano",
+    "song_title": "Vira e mexe",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.799,
+        "acousticness": 0.0832,
+        "danceability": 0.504,
+        "instrumentalness": 0,
+        "liveness": 0.744,
+        "speechiness": 0.103,
+        "loudness": -7.508,
+        "tempo": 176.254,
+        "time_signature": 4,
+        "valence": 0.844,
+        "genre": [],
+        "popularity": 5
+    }
+}

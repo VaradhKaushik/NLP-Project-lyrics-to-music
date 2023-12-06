@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\LEpave.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "LEpave",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.28,
+        "acousticness": 0.89,
+        "danceability": 0.77,
+        "instrumentalness": 2.21e-05,
+        "liveness": 0.135,
+        "speechiness": 0.0798,
+        "loudness": -12.018,
+        "tempo": 113.369,
+        "time_signature": 4,
+        "valence": 0.724,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 0
+    }
+}

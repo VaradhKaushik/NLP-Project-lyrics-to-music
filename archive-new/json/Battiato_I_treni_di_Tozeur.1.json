@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\I_treni_di_Tozeur.1.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "I treni di Tozeur.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.444,
+        "acousticness": 0.898,
+        "danceability": 0.305,
+        "instrumentalness": 0.00393,
+        "liveness": 0.767,
+        "speechiness": 0.0433,
+        "loudness": -10.22,
+        "tempo": 109.888,
+        "time_signature": 4,
+        "valence": 0.234,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 8
+    }
+}

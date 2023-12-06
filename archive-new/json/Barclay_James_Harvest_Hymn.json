@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Barclay_James_Harvest\\Hymn.mid",
+    "artist_band_name": "Barclay James Harvest",
+    "song_title": "Hymn",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.426,
+        "acousticness": 0.0506,
+        "danceability": 0.413,
+        "instrumentalness": 3.8e-06,
+        "liveness": 0.148,
+        "speechiness": 0.0287,
+        "loudness": -11.833,
+        "tempo": 137.663,
+        "time_signature": 4,
+        "valence": 0.236,
+        "genre": [
+            "progressive rock",
+            "symphonic rock"
+        ],
+        "popularity": 26
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Gli_anni_96_.mid",
+    "artist_band_name": "883",
+    "song_title": "Gli anni 96 ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.666,
+        "acousticness": 0.00531,
+        "danceability": 0.467,
+        "instrumentalness": 1.67e-06,
+        "liveness": 0.0998,
+        "speechiness": 0.0286,
+        "loudness": -6.144,
+        "tempo": 144.059,
+        "time_signature": 4,
+        "valence": 0.456,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

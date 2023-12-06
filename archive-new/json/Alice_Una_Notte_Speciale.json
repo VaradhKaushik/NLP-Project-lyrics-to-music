@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Alice\\Una_Notte_Speciale.mid",
+    "artist_band_name": "Alice",
+    "song_title": "Una Notte Speciale",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.321,
+        "acousticness": 0.155,
+        "danceability": 0.588,
+        "instrumentalness": 0.00315,
+        "liveness": 0.216,
+        "speechiness": 0.0543,
+        "loudness": -16.596,
+        "tempo": 131.021,
+        "time_signature": 4,
+        "valence": 0.562,
+        "genre": [
+            "classic italian pop"
+        ],
+        "popularity": 47
+    }
+}

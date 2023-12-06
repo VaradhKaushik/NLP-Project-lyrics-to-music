@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\All_of_Me.mid",
+    "artist_band_name": "Basie",
+    "song_title": "All of Me",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.176,
+        "acousticness": 0.762,
+        "danceability": 0.529,
+        "instrumentalness": 0.72,
+        "liveness": 0.0529,
+        "speechiness": 0.0398,
+        "loudness": -17.229,
+        "tempo": 150.108,
+        "time_signature": 4,
+        "valence": 0.791,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 33
+    }
+}

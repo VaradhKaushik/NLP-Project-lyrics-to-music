@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Boz_Scaggs\\Lido_Shuffle.mid",
+    "artist_band_name": "Boz Scaggs",
+    "song_title": "Lido Shuffle",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.612,
+        "acousticness": 0.0124,
+        "danceability": 0.592,
+        "instrumentalness": 4.28e-05,
+        "liveness": 0.153,
+        "speechiness": 0.0325,
+        "loudness": -9.811,
+        "tempo": 141.433,
+        "time_signature": 4,
+        "valence": 0.645,
+        "genre": [
+            "classic rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 62
+    }
+}

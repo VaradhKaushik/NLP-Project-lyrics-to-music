@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Barry_Manilow\\Ships.mid",
+    "artist_band_name": "Barry Manilow",
+    "song_title": "Ships",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.356,
+        "acousticness": 0.719,
+        "danceability": 0.288,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "speechiness": 0.031,
+        "loudness": -8.264,
+        "tempo": 125.808,
+        "time_signature": 4,
+        "valence": 0.107,
+        "genre": [
+            "adult standards",
+            "mellow gold",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 40
+    }
+}

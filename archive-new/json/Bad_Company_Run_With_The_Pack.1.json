@@ -1,0 +1,36 @@
+{
+    "midi_file_path": "archive-new\\Bad_Company\\Run_With_The_Pack.1.mid",
+    "artist_band_name": "Bad Company",
+    "song_title": "Run With The Pack.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.724,
+        "acousticness": 0.311,
+        "danceability": 0.398,
+        "instrumentalness": 0.0483,
+        "liveness": 0.874,
+        "speechiness": 0.0358,
+        "loudness": -8.215,
+        "tempo": 118.906,
+        "time_signature": 4,
+        "valence": 0.561,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "country rock",
+            "glam metal",
+            "hard rock",
+            "mellow gold",
+            "rock",
+            "singer-songwriter",
+            "soft rock",
+            "southern rock"
+        ],
+        "popularity": 9
+    }
+}

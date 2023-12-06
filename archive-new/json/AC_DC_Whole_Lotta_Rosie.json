@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\AC_DC\\Whole_Lotta_Rosie.mid",
+    "artist_band_name": "AC DC",
+    "song_title": "Whole Lotta Rosie",
+    "lyrics": {
+        "Verse": [
+            "Never had a woman",
+            "Never had a woman like you",
+            "Doin' all the things",
+            "Doin' all the things you do",
+            "Ain't no fairy story",
+            "Ain't no skin and bones",
+            "But you give it all you got",
+            "Weighing in at nineteen stone",
+            "",
+            "Oh, honey, you can do it",
+            "Do it to me all night long",
+            "Only one that turn me",
+            "Only one that turn me on",
+            "All through the night time",
+            "And right around the clock",
+            "Woo, to my surprise, Rosie never stopped",
+            ""
+        ],
+        "Chorus": [
+            "You're a whole lotta woman",
+            "A whole lotta woman",
+            "Whole lotta Rosie",
+            "Whole lotta Rosie",
+            "Whole lotta Rosie",
+            "And you're a whole lotta woman",
+            "She was a whole lotta woman",
+            "Whole lotta woman",
+            "Whole lotta Rosie",
+            "Whole lotta Rosie",
+            "Whole lotta Rosie",
+            "A whole lotta woman",
+            "",
+            "[Solo]",
+            "",
+            "Oh, you're a whole lotta woman",
+            "Whole lotta woman",
+            "Whole lotta Rosie",
+            "Whole lotta Rosie",
+            "You're a whole lotta Rosie",
+            "Whole lotta woman-man-man-man-man",
+            "Yeah, yeah, yeah",
+            "Whole lotta Rosie",
+            "Whole lotta woman",
+            "Whole lotta woman6Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.838,
+        "acousticness": 0.0014,
+        "danceability": 0.292,
+        "instrumentalness": 0.479,
+        "liveness": 0.0953,
+        "speechiness": 0.078,
+        "loudness": -4.459,
+        "tempo": 159.176,
+        "time_signature": 4,
+        "valence": 0.423,
+        "genre": [
+            "australian rock",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 66
+    }
+}

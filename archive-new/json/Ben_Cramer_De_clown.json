@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Ben_Cramer\\De_clown.mid",
+    "artist_band_name": "Ben Cramer",
+    "song_title": "De clown",
+    "lyrics": {
+        "Verse": [
+            "Hij was maar een clown",
+            "In 't wit en in 't rood",
+            "Hij was maar een clown",
+            "Maar nu is hij dood",
+            "Hij lachte en sprong",
+            "In 't felgele licht",
+            "Maar onder die lach",
+            "Zat een droevig gezicht",
+            "",
+            "Hij woonde alleen",
+            "In 'n wagen van hout",
+            "Ach, hij was maar een clown",
+            "En zo, ja zo werd hij oud",
+            "Z'n hoed was te klein",
+            "En z'n schoenen te groot",
+            "Hij was maar een clown",
+            "Maar nu is hij dood",
+            "Maar op een avond, hij viel",
+            "Net als elke keer",
+            "En het publiek, het publiek lachte luid",
+            "Maar voor hem, voor hem was 't uit",
+            "Hij was maar een clown",
+            "In 't wit en in 't rood",
+            "Hij was maar een clown",
+            "Maar nu is hij dood",
+            ""
+        ],
+        "Chorus": [
+            "De herinnering blijft aan die clown met z'n lach",
+            "Hij heeft alles gegeven tot de laatste dag",
+            "En niemand kende de pijn van z'n stille verdriet",
+            "Want er was op het einde niemand die hij verliet",
+            "",
+            "De herinnering blijft aan die clown met z'n lach",
+            "Hij heeft alles gegeven tot de laatste dag",
+            "En niemand kende de pijn van z'n stille verdriet",
+            "Want er was op het einde niemand die hij verliet",
+            "",
+            "De herinnering blijft aan die clown met z'n lach",
+            "Hij heeft alles gegeven tot de laatste dag",
+            "En niemand kende de pijn van z'n stille verdriet",
+            "Want er was op het einde niemand die hij verliet",
+            "",
+            "En niemand kende de pijn van z'n stille verdriet",
+            "Want er was op het einde niemand die hij verliet",
+            "",
+            "[Outro]",
+            "Ja, hij was maar een clownEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Lei-lei-lei-lei-lei-la",
+            "Lei-lei-lei-lei-lei-la",
+            "Lei-lei-lei-lei-lei-lei-la",
+            "Lei-lei-lei-lei-lei-la"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.428,
+        "acousticness": 0.833,
+        "danceability": 0.472,
+        "instrumentalness": 0.000121,
+        "liveness": 0.0682,
+        "speechiness": 0.03,
+        "loudness": -11.591,
+        "tempo": 99.038,
+        "time_signature": 3,
+        "valence": 0.477,
+        "genre": [
+            "classic belgian pop",
+            "levenslied",
+            "nederpop",
+            "vintage dutch pop"
+        ],
+        "popularity": 13
+    }
+}

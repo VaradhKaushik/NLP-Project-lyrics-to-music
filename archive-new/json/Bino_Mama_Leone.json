@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Bino\\Mama_Leone.mid",
+    "artist_band_name": "Bino",
+    "song_title": "Mama Leone",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.363,
+        "acousticness": 0.343,
+        "danceability": 0.39,
+        "instrumentalness": 4.88e-05,
+        "liveness": 0.0732,
+        "speechiness": 0.0318,
+        "loudness": -14.678,
+        "tempo": 135.723,
+        "time_signature": 4,
+        "valence": 0.524,
+        "genre": [],
+        "popularity": 43
+    }
+}

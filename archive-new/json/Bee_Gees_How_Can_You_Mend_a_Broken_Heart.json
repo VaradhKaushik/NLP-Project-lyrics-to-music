@@ -1,0 +1,64 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\How_Can_You_Mend_a_Broken_Heart.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "How Can You Mend a Broken Heart",
+    "lyrics": {
+        "Verse": [
+            "I can think of younger days when living for my life",
+            "Was everything a man could want to do",
+            "I could never see tomorrow",
+            "But I was never told about the sorrows",
+            "",
+            "I can still feel the breeze that rustles through the trees",
+            "And misty memories of days gone by",
+            "We could never see tomorrow",
+            "No one said a word about the sorrow",
+            ""
+        ],
+        "Chorus": [
+            "And, how can you mend a broken heart?",
+            "How can you stop the rain from falling down?",
+            "How can you stop the sun from shining?",
+            "What makes the world go round?",
+            "How can you mend this broken man?",
+            "How can a loser ever win?",
+            "Please help me mend my broken heart and let me live again",
+            "",
+            "And how can you mend a broken heart?",
+            "How can you stop the rain from falling down?",
+            "How can you stop the sun from shining?",
+            "What makes the world go round?",
+            "And how can you mend this broken man?",
+            "How can a loser ever win?",
+            "Please help me mend my broken heart and let me live again"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "La la la la la la, la la la la",
+            "La la la la la la, la la la la",
+            "",
+            "[Outro]",
+            "Please help me mend my broken heart and let me live again",
+            "Da da da da",
+            "Da da da da, da da da da da, da1Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.262,
+        "acousticness": 0.548,
+        "danceability": 0.335,
+        "instrumentalness": 0,
+        "liveness": 0.0971,
+        "speechiness": 0.0393,
+        "loudness": -13.832,
+        "tempo": 68.82,
+        "time_signature": 4,
+        "valence": 0.203,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 64
+    }
+}

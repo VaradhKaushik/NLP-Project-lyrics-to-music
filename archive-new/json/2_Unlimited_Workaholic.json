@@ -1,0 +1,58 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\Workaholic.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "Workaholic",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "[Anita:] Work your body, baby work your soul",
+            "Keep on workin' workin' to the bone",
+            "Work your body, baby, work your soul",
+            "I'm a workaholic when I'm on the floor!",
+            "",
+            "[1st person:] OK, OK, OK, OK, OK, OK, OK, let\u2019s go to work!",
+            "[3rd person:] The workaholic!",
+            "You might also like[Ray:] First like a jerk, why you always work?",
+            "Messing up your mind with that paperwork?",
+            "The only think you need is to break ball is work, and yo, and that's all",
+            "They do it for money, but he for fun",
+            "He won't get away until the job is done",
+            "Drinkin' drinkin' like an alchoholic",
+            "The guy is just a workaholic!",
+            "",
+            "[3rd person:] The workaholic!",
+            "",
+            "[Anita:] Work your body, baby work your soul",
+            "Keep on workin', workin' to the bone",
+            "Work your body, baby, work your soul",
+            "I'm a workaholic when I'm on the floor!",
+            "",
+            "Work your body, baby work your soul",
+            "Keep on workin', workin' to the bone",
+            "Work your body, baby, work your soul",
+            "I'm a workaholic when I'm on the floor!",
+            "",
+            "[3rd person:] The workaholic!Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.881,
+        "acousticness": 0.000704,
+        "danceability": 0.57,
+        "instrumentalness": 0.19,
+        "liveness": 0.334,
+        "speechiness": 0.0483,
+        "loudness": -12.808,
+        "tempo": 128.91,
+        "time_signature": 4,
+        "valence": 0.623,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 37
+    }
+}

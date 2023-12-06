@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Annie_Cordy\\Hello_Dolly.mid",
+    "artist_band_name": "Annie Cordy",
+    "song_title": "Hello Dolly",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.472,
+        "acousticness": 0.196,
+        "danceability": 0.606,
+        "instrumentalness": 4.73e-06,
+        "liveness": 0.277,
+        "speechiness": 0.0992,
+        "loudness": -11.05,
+        "tempo": 151.025,
+        "time_signature": 4,
+        "valence": 0.587,
+        "genre": [
+            "chanson paillarde",
+            "classic french pop",
+            "ye ye"
+        ],
+        "popularity": 5
+    }
+}

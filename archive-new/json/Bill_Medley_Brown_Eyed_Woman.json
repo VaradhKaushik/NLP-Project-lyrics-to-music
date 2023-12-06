@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Bill_Medley\\Brown_Eyed_Woman.mid",
+    "artist_band_name": "Bill Medley",
+    "song_title": "Brown Eyed Woman",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.365,
+        "acousticness": 0.915,
+        "danceability": 0.356,
+        "instrumentalness": 0,
+        "liveness": 0.788,
+        "speechiness": 0.0331,
+        "loudness": -10.874,
+        "tempo": 107.456,
+        "time_signature": 4,
+        "valence": 0.389,
+        "genre": [
+            "soft rock"
+        ],
+        "popularity": 15
+    }
+}

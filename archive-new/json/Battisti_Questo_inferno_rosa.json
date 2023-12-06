@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Questo_inferno_rosa.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Questo inferno rosa",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.242,
+        "acousticness": 0.253,
+        "danceability": 0.384,
+        "instrumentalness": 0.0002,
+        "liveness": 0.0889,
+        "speechiness": 0.0336,
+        "loudness": -14.88,
+        "tempo": 135.593,
+        "time_signature": 4,
+        "valence": 0.336,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 28
+    }
+}

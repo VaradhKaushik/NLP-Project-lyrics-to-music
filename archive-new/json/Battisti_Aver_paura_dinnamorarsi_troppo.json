@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Aver_paura_dinnamorarsi_troppo.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Aver paura dinnamorarsi troppo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.281,
+        "acousticness": 0.268,
+        "danceability": 0.736,
+        "instrumentalness": 0.00167,
+        "liveness": 0.0519,
+        "speechiness": 0.0452,
+        "loudness": -17.618,
+        "tempo": 124.355,
+        "time_signature": 4,
+        "valence": 0.882,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 42
+    }
+}

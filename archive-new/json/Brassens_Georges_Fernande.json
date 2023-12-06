@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Fernande.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Fernande",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.242,
+        "acousticness": 0.818,
+        "danceability": 0.738,
+        "instrumentalness": 8.17e-06,
+        "liveness": 0.128,
+        "speechiness": 0.11,
+        "loudness": -14.461,
+        "tempo": 112.794,
+        "time_signature": 4,
+        "valence": 0.851,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 10
+    }
+}

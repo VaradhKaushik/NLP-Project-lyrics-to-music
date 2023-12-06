@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Al_Jarreau\\Mornin.mid",
+    "artist_band_name": "Al Jarreau",
+    "song_title": "Mornin",
+    "lyrics": {
+        "Verse": [
+            "Mornin' Mister Radio",
+            "Mornin' little Cheerios",
+            "Mornin' sister oriole",
+            "Did I tell you everything is fine",
+            "In my mind?",
+            "",
+            "Mornin' Mister Shoeshine man",
+            "Shine 'em bright in white and tan",
+            "My baby said she loves me and",
+            "Need I tell you that everything here is just fine",
+            "In my mind",
+            "",
+            "Mornin' Mister Golden Gate",
+            "I should walk but I can't wait",
+            "I can't wait to set it straight",
+            "I was shakin' but now, I am makin' it fine",
+            "Here in my mind",
+            "Mornin' Mister Radio",
+            "Mornin' little Cheerios",
+            "Mornin' sister oriole",
+            "Did I tell you that everything is just fine",
+            "In my mind",
+            "",
+            "[Refrain]",
+            "So won't you get up, oriole",
+            "So won't you get up, Cheerios",
+            "Wake up, Mister Radio",
+            "It's fine",
+            "Here in my mind",
+            "[Outro]",
+            "Singin' about mornin' little radio",
+            "Mornin' little Cheerios",
+            "Wake up, Mister Radio",
+            "Need I tell you everything right is just doing fine",
+            "Woo, in my mindEmbed"
+        ],
+        "Chorus": [
+            "'Scuse me if I sing",
+            "My heart has found its wings",
+            "Searchin' high and low",
+            "And now, at last, I know",
+            "",
+            "'Scuse me if I sing",
+            "My heart has found its wings",
+            "Searchin' high and low",
+            "And now, at last, I know",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "My heart will soar",
+            "With love that's rare and real",
+            "My smiling face will feel every cloud",
+            "Then higher still beyond the blue until",
+            "I know I can, like any man, reach out my hand",
+            "And touch the face of God",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.464,
+        "acousticness": 0.19,
+        "danceability": 0.58,
+        "instrumentalness": 3e-05,
+        "liveness": 0.263,
+        "speechiness": 0.0339,
+        "loudness": -13.252,
+        "tempo": 89.775,
+        "time_signature": 4,
+        "valence": 0.563,
+        "genre": [
+            "smooth jazz",
+            "yacht rock"
+        ],
+        "popularity": 59
+    }
+}

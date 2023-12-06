@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Invention.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Invention",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.228,
+        "acousticness": 0.723,
+        "danceability": 0.382,
+        "instrumentalness": 0.543,
+        "liveness": 0.22,
+        "speechiness": 0.0438,
+        "loudness": -26.018,
+        "tempo": 147.639,
+        "time_signature": 3,
+        "valence": 0.975,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 0
+    }
+}

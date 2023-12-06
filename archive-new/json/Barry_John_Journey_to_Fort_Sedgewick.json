@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\Journey_to_Fort_Sedgewick.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "Journey to Fort Sedgewick",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0747,
+        "acousticness": 0.875,
+        "danceability": 0.127,
+        "instrumentalness": 0.894,
+        "liveness": 0.118,
+        "speechiness": 0.0388,
+        "loudness": -21.274,
+        "tempo": 80.426,
+        "time_signature": 4,
+        "valence": 0.0476,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 34
+    }
+}

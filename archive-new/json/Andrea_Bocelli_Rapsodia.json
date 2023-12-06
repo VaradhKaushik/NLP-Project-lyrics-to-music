@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Rapsodia.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Rapsodia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.274,
+        "acousticness": 0.736,
+        "danceability": 0.286,
+        "instrumentalness": 0.388,
+        "liveness": 0.104,
+        "speechiness": 0.0324,
+        "loudness": -10.248,
+        "tempo": 127.744,
+        "time_signature": 4,
+        "valence": 0.0684,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 30
+    }
+}

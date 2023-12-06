@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Bare\\Me_and_Bobby_McGee.mid",
+    "artist_band_name": "Bobby Bare",
+    "song_title": "Me and Bobby McGee",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.265,
+        "acousticness": 0.76,
+        "danceability": 0.551,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "speechiness": 0.0296,
+        "loudness": -19.367,
+        "tempo": 80.177,
+        "time_signature": 4,
+        "valence": 0.754,
+        "genre": [
+            "classic country pop",
+            "outlaw country"
+        ],
+        "popularity": 23
+    }
+}

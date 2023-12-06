@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Benjamin_Arthur\\Jamaican_Rhumba.mid",
+    "artist_band_name": "Benjamin Arthur",
+    "song_title": "Jamaican Rhumba",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.351,
+        "acousticness": 0.993,
+        "danceability": 0.591,
+        "instrumentalness": 0.776,
+        "liveness": 0.208,
+        "speechiness": 0.0567,
+        "loudness": -20.907,
+        "tempo": 105.226,
+        "time_signature": 4,
+        "valence": 0.141,
+        "genre": [
+            "australian classical",
+            "early modern classical",
+            "light music"
+        ],
+        "popularity": 0
+    }
+}

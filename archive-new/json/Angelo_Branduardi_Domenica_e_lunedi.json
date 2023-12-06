@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Angelo_Branduardi\\Domenica_e_lunedi.mid",
+    "artist_band_name": "Angelo Branduardi",
+    "song_title": "Domenica e lunedi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.746,
+        "acousticness": 0.166,
+        "danceability": 0.673,
+        "instrumentalness": 1.96e-06,
+        "liveness": 0.0892,
+        "speechiness": 0.0277,
+        "loudness": -7.556,
+        "tempo": 120.005,
+        "time_signature": 4,
+        "valence": 0.85,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 35
+    }
+}

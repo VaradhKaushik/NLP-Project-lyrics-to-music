@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Blumchen\\Herz_an_Herz.mid",
+    "artist_band_name": "Blumchen",
+    "song_title": "Herz an Herz",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.962,
+        "acousticness": 8.04e-05,
+        "danceability": 0.51,
+        "instrumentalness": 0.203,
+        "liveness": 0.339,
+        "speechiness": 0.0537,
+        "loudness": -6.268,
+        "tempo": 180.375,
+        "time_signature": 4,
+        "valence": 0.38,
+        "genre": [
+            "eurodance",
+            "german pop"
+        ],
+        "popularity": 60
+    }
+}

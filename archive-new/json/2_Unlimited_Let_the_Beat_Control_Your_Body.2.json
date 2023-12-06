@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\Let_the_Beat_Control_Your_Body.2.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "Let the Beat Control Your Body.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.867,
+        "acousticness": 0.000144,
+        "danceability": 0.843,
+        "instrumentalness": 0.733,
+        "liveness": 0.0718,
+        "speechiness": 0.0434,
+        "loudness": -12.334,
+        "tempo": 140.004,
+        "time_signature": 4,
+        "valence": 0.89,
+        "genre": [],
+        "popularity": 0
+    }
+}

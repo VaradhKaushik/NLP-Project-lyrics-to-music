@@ -1,0 +1,53 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\A_Man_This_Lonely.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "A Man This Lonely",
+    "lyrics": {
+        "Verse": [
+            "A man this lonely, a man this blue",
+            "A man whose world's, been torn in two",
+            "Needs somebody, with a heart that's true",
+            "A man this lonely needs a woman like you",
+            "",
+            "Two arms this empty, need someone to hold",
+            "A man this lost needs somewhere to go",
+            "When the nights go on forever, and the days do too",
+            "A man this lonely needs a woman like you",
+            "",
+            "Oh, a man this lonely (A man this lonely), a man this blue (A man this blue)",
+            "A man whose world's, been torn in two",
+            "Needs somebody (Needs somebody), with a heart that's true",
+            "A man this lonely needs a woman like you",
+            "",
+            "[Outro]",
+            "A man this lonely needs a woman like youYou might also likeEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I'd lost hope, I was so far down",
+            "Here you come turnin' all that around",
+            "I'd come to think of love as a lie",
+            "All that's on my mind now, is you by my side",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.616,
+        "acousticness": 0.23,
+        "danceability": 0.559,
+        "instrumentalness": 8.81e-06,
+        "liveness": 0.074,
+        "speechiness": 0.0258,
+        "loudness": -4.218,
+        "tempo": 92.377,
+        "time_signature": 4,
+        "valence": 0.288,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 35
+    }
+}

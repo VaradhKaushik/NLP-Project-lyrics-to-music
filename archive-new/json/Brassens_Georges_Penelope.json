@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Penelope.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Penelope",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.15,
+        "acousticness": 0.941,
+        "danceability": 0.563,
+        "instrumentalness": 5.62e-05,
+        "liveness": 0.123,
+        "speechiness": 0.146,
+        "loudness": -16.998,
+        "tempo": 144.609,
+        "time_signature": 3,
+        "valence": 0.75,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 13
+    }
+}

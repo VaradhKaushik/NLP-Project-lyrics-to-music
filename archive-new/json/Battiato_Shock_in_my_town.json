@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Shock_in_my_town.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Shock in my town",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.617,
+        "acousticness": 0.00267,
+        "danceability": 0.531,
+        "instrumentalness": 0.000573,
+        "liveness": 0.0914,
+        "speechiness": 0.0372,
+        "loudness": -9.445,
+        "tempo": 84.996,
+        "time_signature": 4,
+        "valence": 0.251,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 37
+    }
+}

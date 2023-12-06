@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Nella_notte.mid",
+    "artist_band_name": "883",
+    "song_title": "Nella notte",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.924,
+        "acousticness": 0.0282,
+        "danceability": 0.725,
+        "instrumentalness": 1.5e-05,
+        "liveness": 0.0934,
+        "speechiness": 0.041,
+        "loudness": -7.201,
+        "tempo": 113.955,
+        "time_signature": 4,
+        "valence": 0.777,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

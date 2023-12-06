@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Les_sabots_dHelene.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Les sabots dHelene",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.127,
+        "acousticness": 0.931,
+        "danceability": 0.817,
+        "instrumentalness": 1.75e-05,
+        "liveness": 0.151,
+        "speechiness": 0.304,
+        "loudness": -17.008,
+        "tempo": 125.549,
+        "time_signature": 5,
+        "valence": 0.942,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 13
+    }
+}

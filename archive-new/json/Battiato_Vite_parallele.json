@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Vite_parallele.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Vite parallele",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.51,
+        "acousticness": 0.0402,
+        "danceability": 0.729,
+        "instrumentalness": 0.00664,
+        "liveness": 0.137,
+        "speechiness": 0.0292,
+        "loudness": -10.004,
+        "tempo": 96.013,
+        "time_signature": 4,
+        "valence": 0.59,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 19
+    }
+}

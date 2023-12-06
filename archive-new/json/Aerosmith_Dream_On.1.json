@@ -1,0 +1,79 @@
+{
+    "midi_file_path": "archive-new\\Aerosmith\\Dream_On.1.mid",
+    "artist_band_name": "Aerosmith",
+    "song_title": "Dream On.1",
+    "lyrics": {
+        "Verse": [
+            "Every time\u200b that I look in the mirror",
+            "All these lines on my face getting clearer",
+            "The past is gone",
+            "It went by like dusk to dawn",
+            "Isn't that the way?",
+            "Everybody's got their dues in life to pay, yeah",
+            "",
+            "[Interlude]",
+            "I know nobody knows",
+            "Where it comes and where it goes",
+            "I know it's everybody's sin",
+            "You got to lose to know how to win",
+            "",
+            "Half my life's in books' written pages",
+            "Lived and learned from fools and from sages",
+            "You know it's true",
+            "All the feelings come back to you",
+            ""
+        ],
+        "Chorus": [
+            "Sing with me, sing for the year",
+            "Sing for the laughter and sing for the tear",
+            "Sing with me, if it's just for today",
+            "Maybe tomorrow, the good Lord will take you away",
+            "You might also like[Instrumental Break]",
+            "",
+            "Sing with me, sing for the year",
+            "Sing for the laughter and sing for the tear",
+            "Sing with me, if it's just for today",
+            "Maybe tomorrow, the good Lord will take you away",
+            "",
+            "Sing with me, sing for the year",
+            "Sing for the laughter and sing for the tear",
+            "Sing with me, if it's just for today",
+            "Maybe tomorrow, the good Lord will take you away",
+            "Sing with me, sing for the year",
+            "Sing for the laughter and sing for the tear",
+            "Sing with me, if it's just for today",
+            "Maybe tomorrow, the good Lord will take you away105Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Dream on, dream on, dream on",
+            "Dream until your dreams come true",
+            "Dream on, dream on, dream on",
+            "Dream until your dreams come true",
+            "Dream on, dream on",
+            "Dream on, dream on",
+            "Dream on, dream on",
+            "Dream on, ah!",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.598,
+        "acousticness": 0.08,
+        "danceability": 0.228,
+        "instrumentalness": 0.000113,
+        "liveness": 0.894,
+        "speechiness": 0.0268,
+        "loudness": -8.599,
+        "tempo": 76.136,
+        "time_signature": 4,
+        "valence": 0.332,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 29
+    }
+}

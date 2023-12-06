@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Sauf_le_respect_que_je_vous_dois.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Sauf le respect que je vous dois",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.25,
+        "acousticness": 0.828,
+        "danceability": 0.767,
+        "instrumentalness": 4.44e-06,
+        "liveness": 0.119,
+        "speechiness": 0.125,
+        "loudness": -13.246,
+        "tempo": 112.623,
+        "time_signature": 4,
+        "valence": 0.842,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 17
+    }
+}

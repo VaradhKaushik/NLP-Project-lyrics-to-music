@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\Dont_Rain_on_My_Parade.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "Dont Rain on My Parade",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.454,
+        "acousticness": 0.631,
+        "danceability": 0.507,
+        "instrumentalness": 0,
+        "liveness": 0.22,
+        "speechiness": 0.162,
+        "loudness": -9.06,
+        "tempo": 93.791,
+        "time_signature": 4,
+        "valence": 0.634,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 52
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Annie_Lennox\\Angel.mid",
+    "artist_band_name": "Annie Lennox",
+    "song_title": "Angel",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.322,
+        "acousticness": 0.535,
+        "danceability": 0.524,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "speechiness": 0.0285,
+        "loudness": -8.957,
+        "tempo": 126.002,
+        "time_signature": 4,
+        "valence": 0.3,
+        "genre": [
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "singer-songwriter",
+            "soft rock",
+            "synthpop"
+        ],
+        "popularity": 38
+    }
+}

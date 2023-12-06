@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Stai_con_me.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Stai con me",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.357,
+        "acousticness": 0.599,
+        "danceability": 0.391,
+        "instrumentalness": 0,
+        "liveness": 0.137,
+        "speechiness": 0.0342,
+        "loudness": -13.185,
+        "tempo": 93.849,
+        "time_signature": 4,
+        "valence": 0.281,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 32
+    }
+}

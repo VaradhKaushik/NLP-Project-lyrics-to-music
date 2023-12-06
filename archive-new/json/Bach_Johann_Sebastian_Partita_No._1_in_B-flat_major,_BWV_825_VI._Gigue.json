@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Partita_No._1_in_B-flat_major,_BWV_825_VI._Gigue.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Partita No. 1 in B-flat major, BWV 825 VI. Gigue",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.286,
+        "acousticness": 0.992,
+        "danceability": 0.52,
+        "instrumentalness": 0.928,
+        "liveness": 0.147,
+        "speechiness": 0.0453,
+        "loudness": -18.508,
+        "tempo": 100.805,
+        "time_signature": 4,
+        "valence": 0.915,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 34
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andy_Williams\\Cant_Get_Used_To_Losing_You.mid",
+    "artist_band_name": "Andy Williams",
+    "song_title": "Cant Get Used To Losing You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.164,
+        "acousticness": 0.914,
+        "danceability": 0.413,
+        "instrumentalness": 1.4e-05,
+        "liveness": 0.0883,
+        "speechiness": 0.0378,
+        "loudness": -14.579,
+        "tempo": 183.178,
+        "time_signature": 4,
+        "valence": 0.845,
+        "genre": [
+            "adult standards",
+            "easy listening"
+        ],
+        "popularity": 36
+    }
+}

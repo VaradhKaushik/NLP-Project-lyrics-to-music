@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Vent.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Vent",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.266,
+        "acousticness": 0.883,
+        "danceability": 0.882,
+        "instrumentalness": 7.96e-06,
+        "liveness": 0.113,
+        "speechiness": 0.361,
+        "loudness": -13.289,
+        "tempo": 135.962,
+        "time_signature": 4,
+        "valence": 0.961,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 13
+    }
+}

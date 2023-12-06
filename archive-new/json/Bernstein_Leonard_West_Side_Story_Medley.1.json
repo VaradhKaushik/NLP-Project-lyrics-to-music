@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bernstein_Leonard\\West_Side_Story_Medley.1.mid",
+    "artist_band_name": "Bernstein Leonard",
+    "song_title": "West Side Story Medley.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0822,
+        "acousticness": 0.991,
+        "danceability": 0.446,
+        "instrumentalness": 0.852,
+        "liveness": 0.118,
+        "speechiness": 0.0589,
+        "loudness": -23.381,
+        "tempo": 88.575,
+        "time_signature": 4,
+        "valence": 0.0647,
+        "genre": [
+            "american modern classical",
+            "classical",
+            "classical performance",
+            "orchestral performance"
+        ],
+        "popularity": 0
+    }
+}

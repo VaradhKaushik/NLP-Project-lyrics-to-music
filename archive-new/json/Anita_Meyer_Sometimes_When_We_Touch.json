@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Anita_Meyer\\Sometimes_When_We_Touch.mid",
+    "artist_band_name": "Anita Meyer",
+    "song_title": "Sometimes When We Touch",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.372,
+        "acousticness": 0.483,
+        "danceability": 0.447,
+        "instrumentalness": 0,
+        "liveness": 0.261,
+        "speechiness": 0.0307,
+        "loudness": -10.695,
+        "tempo": 119.794,
+        "time_signature": 4,
+        "valence": 0.31,
+        "genre": [
+            "nederpop"
+        ],
+        "popularity": 1
+    }
+}

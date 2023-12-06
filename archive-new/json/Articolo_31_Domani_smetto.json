@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Articolo_31\\Domani_smetto.mid",
+    "artist_band_name": "Articolo 31",
+    "song_title": "Domani smetto",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.956,
+        "acousticness": 0.296,
+        "danceability": 0.655,
+        "instrumentalness": 0,
+        "liveness": 0.445,
+        "speechiness": 0.142,
+        "loudness": -2.632,
+        "tempo": 97.991,
+        "time_signature": 4,
+        "valence": 0.946,
+        "genre": [
+            "italian adult pop",
+            "rap italiano old school"
+        ],
+        "popularity": 53
+    }
+}

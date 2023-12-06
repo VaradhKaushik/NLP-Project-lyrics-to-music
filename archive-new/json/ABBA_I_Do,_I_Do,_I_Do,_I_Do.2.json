@@ -1,0 +1,49 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\I_Do,_I_Do,_I_Do,_I_Do.2.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "I Do, I Do, I Do, I Do.2",
+    "lyrics": {
+        "Verse": [
+            "Love me or leave me, make your choice but believe me",
+            "I love you, I do, I do, I do, I do, I do",
+            "I can't conceal it, don't you see, can't you feel it?",
+            "Don't you too? I do, I do, I do, I do, I do",
+            "",
+            "So come on, now let's try it, I love you, can't deny it",
+            "'Cause it's true, I do, I do, I do, I do, I do",
+            "",
+            "[Interlude]",
+            "",
+            "So come on, now let's try it, I love you, can't deny it",
+            "'Cause it's true, I do, I do, I do, I do, I do",
+            "So love me or leave me, make your choice but believe me",
+            "I love you, I do, I do, I do, I do, I do",
+            "I can't conceal it, don't you see, can't you feel it?",
+            "Don't you too? I do, I do, I do, I do, I doYou might also like5Embed"
+        ],
+        "Chorus": [
+            "Oh, I've been dreaming through my lonely past",
+            "Now I just made it, I found you at last",
+            "",
+            "Oh, no hard feelings between you and me",
+            "If we can't make it, but just wait and see",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.667,
+        "acousticness": 0.201,
+        "danceability": 0.654,
+        "instrumentalness": 2.32e-05,
+        "liveness": 0.131,
+        "speechiness": 0.0338,
+        "loudness": -7.507,
+        "tempo": 120.001,
+        "time_signature": 4,
+        "valence": 0.867,
+        "genre": [],
+        "popularity": 0
+    }
+}

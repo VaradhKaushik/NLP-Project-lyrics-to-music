@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Sotto_la_pioggia.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Sotto la pioggia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.373,
+        "acousticness": 0.442,
+        "danceability": 0.629,
+        "instrumentalness": 7.3e-05,
+        "liveness": 0.34,
+        "speechiness": 0.0609,
+        "loudness": -16.565,
+        "tempo": 80.728,
+        "time_signature": 4,
+        "valence": 0.554,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

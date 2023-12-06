@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Franzosische_Suite_Nr._5,_BWV_816,_Gigue.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Franzosische Suite Nr. 5, BWV 816, Gigue",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.801,
+        "acousticness": 0.967,
+        "danceability": 0.294,
+        "instrumentalness": 0.91,
+        "liveness": 0.212,
+        "speechiness": 0.0355,
+        "loudness": -10.726,
+        "tempo": 103.48,
+        "time_signature": 4,
+        "valence": 0.975,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 0
+    }
+}

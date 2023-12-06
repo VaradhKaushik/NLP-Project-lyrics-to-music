@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Alain_Chamfort\\Souris_puisque_cest_grave.mid",
+    "artist_band_name": "Alain Chamfort",
+    "song_title": "Souris puisque cest grave",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.878,
+        "acousticness": 0.00199,
+        "danceability": 0.669,
+        "instrumentalness": 0.66,
+        "liveness": 0.222,
+        "speechiness": 0.0403,
+        "loudness": -7.122,
+        "tempo": 114.747,
+        "time_signature": 4,
+        "valence": 0.34,
+        "genre": [
+            "chanson",
+            "classic french pop",
+            "french synthpop"
+        ],
+        "popularity": 30
+    }
+}

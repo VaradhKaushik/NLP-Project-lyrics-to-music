@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\Backstreet_Boys\\Larger_Than_Life.mid",
+    "artist_band_name": "Backstreet Boys",
+    "song_title": "Larger Than Life",
+    "lyrics": {
+        "Verse": [
+            "I may run and hide",
+            "When you're screamin' my name, alright",
+            "But let me tell you now",
+            "There are prices to fame, alright",
+            "",
+            "Lookin' at the crowd",
+            "And I see your body sway, come on",
+            "Wishin' I could thank you",
+            "In a different way, come on"
+        ],
+        "Chorus": [
+            "All of our time spent",
+            "In flashes of light",
+            "",
+            "All you people, can't you see, can't you see",
+            "How your love's affecting our reality?",
+            "Every time we're down, you can make it right",
+            "And that makes you larger than life",
+            "(Alright)",
+            "",
+            "'Cause all of your time spent",
+            "Keeps us alive, yeah",
+            "",
+            "All you people, can't you see, can't you see",
+            "How your love's affecting our reality?",
+            "Every time we're down, you can make it right",
+            "And that makes you larger than life",
+            "(Larger than life)",
+            "",
+            "All you people, can't you see, can't you see",
+            "How your love's affecting our reality?",
+            "Every time we're down, you can make it right",
+            "And that makes you larger than life",
+            "",
+            "[Post-Chorus: AJ & (All)]",
+            "(Yeah) Every time we're down",
+            "(Yeah) You can make it right",
+            "(Yeah) That's what makes you larger than life",
+            "(Yeah, yeah) Yeah!",
+            "All you people, can't you see, can't you see",
+            "How your love's affecting our reality?",
+            "Every time we're down, you can make it right",
+            "And that makes you larger\u2014 (That makes you larger than life)",
+            "That makes you larger\u2014",
+            "That makes you larger than life (Life)3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Ooh-ooh (Yeah)",
+            "Ooh-ooh (Ha-ha-ha, that's right)",
+            "All of your time spent",
+            "Keeps us alive (Yeah!)",
+            "Every time we're down",
+            "You can make it right",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.973,
+        "acousticness": 0.11,
+        "danceability": 0.661,
+        "instrumentalness": 1.74e-05,
+        "liveness": 0.617,
+        "speechiness": 0.037,
+        "loudness": -2.994,
+        "tempo": 108.037,
+        "time_signature": 4,
+        "valence": 0.75,
+        "genre": [
+            "boy band",
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 71
+    }
+}

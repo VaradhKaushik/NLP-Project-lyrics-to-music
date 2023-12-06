@@ -1,0 +1,74 @@
+{
+    "midi_file_path": "archive-new\\10,000_Maniacs\\A_Campfire_Song.mid",
+    "artist_band_name": "10,000 Maniacs",
+    "song_title": "A Campfire Song",
+    "lyrics": {
+        "Verse": [
+            "A lie to say, \"o, my mountain has coal veins and beds to dig",
+            "500 men with axes and they all dig for me\"",
+            "A lie to say, \"o, my river where many fish do swim",
+            "Half of the catch is mine when you haul your nets in\"",
+            "",
+            "A lie to say, \"o, my mine gave a diamond as big as a fist\"",
+            "But with every gem in his pocket, the jewels he has missed",
+            "A lie to say, \"o, my garden is growing taller by the day\"",
+            "He only eats the best and tosses the rest away",
+            "",
+            "A lie to say \"o, my forest has trees that block the sun",
+            "And when I cut them down I don't answer to anyone\"",
+            ""
+        ],
+        "Chorus": [
+            "Never will he believe that his greed is a blinding ray",
+            "No devil or redeemer will cheat him",
+            "He'll take his gold to where he's lying cold",
+            "",
+            "Never will he be believe that his greed is a blinding ray",
+            "No devil or redeemer can cheat him",
+            "He'll take his gold to where he's lying cold",
+            "Six deep in the grave",
+            "",
+            "No, no, never will he believe that his greed is a blinding ray",
+            "No devil or redeemer can cheat him",
+            "He'll take his gold where he's lying cold",
+            "Six deep in the graveEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "His oldest pain and fear in life",
+            "There'll not be time",
+            "His oldest pain and fear in life",
+            "There'll not be time",
+            "Hey hey",
+            "Nor can he buy",
+            "You might also likeSomething is out of reach",
+            "Something he wanted",
+            "Something is out of reach",
+            "He's being taunted",
+            "Something is out of reach",
+            "That he can't beg or steal",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.462,
+        "acousticness": 0.0739,
+        "danceability": 0.639,
+        "instrumentalness": 0,
+        "liveness": 0.157,
+        "speechiness": 0.0311,
+        "loudness": -15.233,
+        "tempo": 132.061,
+        "time_signature": 4,
+        "valence": 0.785,
+        "genre": [
+            "ectofolk",
+            "lilith",
+            "new wave",
+            "new wave pop",
+            "pop rock",
+            "singer-songwriter"
+        ],
+        "popularity": 35
+    }
+}

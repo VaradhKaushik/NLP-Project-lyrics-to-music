@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Compagno_di_scuola.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Compagno di scuola",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.329,
+        "acousticness": 0.391,
+        "danceability": 0.374,
+        "instrumentalness": 0,
+        "liveness": 0.514,
+        "speechiness": 0.0356,
+        "loudness": -12.522,
+        "tempo": 131.689,
+        "time_signature": 4,
+        "valence": 0.377,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 44
+    }
+}

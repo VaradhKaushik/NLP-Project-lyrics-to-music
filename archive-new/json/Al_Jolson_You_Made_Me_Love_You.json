@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Al_Jolson\\You_Made_Me_Love_You.mid",
+    "artist_band_name": "Al Jolson",
+    "song_title": "You Made Me Love You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.163,
+        "acousticness": 0.469,
+        "danceability": 0.577,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "speechiness": 0.0486,
+        "loudness": -12.662,
+        "tempo": 104.204,
+        "time_signature": 4,
+        "valence": 0.347,
+        "genre": [
+            "big band",
+            "british dance band",
+            "hot jazz",
+            "swing",
+            "tin pan alley",
+            "vaudeville",
+            "vintage jazz"
+        ],
+        "popularity": 12
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\La_compagnia.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "La compagnia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.286,
+        "acousticness": 0.0421,
+        "danceability": 0.394,
+        "instrumentalness": 1.32e-05,
+        "liveness": 0.104,
+        "speechiness": 0.0302,
+        "loudness": -15.804,
+        "tempo": 169.478,
+        "time_signature": 3,
+        "valence": 0.484,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 39
+    }
+}

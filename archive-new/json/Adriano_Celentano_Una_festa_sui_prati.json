@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Adriano_Celentano\\Una_festa_sui_prati.mid",
+    "artist_band_name": "Adriano Celentano",
+    "song_title": "Una festa sui prati",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.717,
+        "acousticness": 0.442,
+        "danceability": 0.497,
+        "instrumentalness": 0,
+        "liveness": 0.0621,
+        "speechiness": 0.0541,
+        "loudness": -6.292,
+        "tempo": 132.006,
+        "time_signature": 4,
+        "valence": 0.729,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 29
+    }
+}

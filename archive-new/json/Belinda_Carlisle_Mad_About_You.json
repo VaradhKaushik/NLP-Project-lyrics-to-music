@@ -1,0 +1,79 @@
+{
+    "midi_file_path": "archive-new\\Belinda_Carlisle\\Mad_About_You.mid",
+    "artist_band_name": "Belinda Carlisle",
+    "song_title": "Mad About You",
+    "lyrics": {
+        "Verse": [
+            "I'm mad about you",
+            "You're mad about me, babe",
+            "Couple of fools run wild, aren't we?",
+            "Pushing the day into the nighttime",
+            "Somewhere between the two, we start to see",
+            "",
+            "Something about you right here beside me",
+            "Touches the touched part of me like I can't believe",
+            "Pushing the night into the daytime",
+            "Watching the sky's first light",
+            "While the city sleeps",
+            ""
+        ],
+        "Chorus": [
+            "Mad about you (Mad about you)",
+            "Lost in your eyes (Reason aside)",
+            "Mad about love (Mad about you)",
+            "You and I",
+            "",
+            "Mad about you (Mad about you)",
+            "Lost in your eyes (Reason aside)",
+            "Mad about love (Mad about you)",
+            "You and I",
+            "You might also likeMad about you (Mad about you)",
+            "Lost in your eyes (Reason aside)",
+            "Mad about love (Mad about you)",
+            "You and I",
+            "",
+            "Mad about you (Mad about you)",
+            "Lost in your eyes (Reason aside)",
+            "Mad about love (Mad about you)",
+            "You and I",
+            "",
+            "I'm mad about you (Mad about you)",
+            "Lost in your eyes (Reason aside)",
+            "Mad about love (Mad about you)",
+            "You and I",
+            "",
+            "Mad about you (Mad about you)",
+            "Lost in your eyes (Reason aside)",
+            "Mad about love (Mad about you)",
+            "You and I",
+            "I'm mad about you (Mad about you)",
+            "Lost in your eyes (Reason aside)",
+            "Mad about love (Mad about you)1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I'm mad about you",
+            "You're mad about me, babe",
+            "A couple of fools run wild, aren't we?",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.578,
+        "acousticness": 0.0134,
+        "danceability": 0.426,
+        "instrumentalness": 9.08e-05,
+        "liveness": 0.072,
+        "speechiness": 0.0379,
+        "loudness": -11.514,
+        "tempo": 71.706,
+        "time_signature": 4,
+        "valence": 0.45,
+        "genre": [
+            "new romantic",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 50
+    }
+}

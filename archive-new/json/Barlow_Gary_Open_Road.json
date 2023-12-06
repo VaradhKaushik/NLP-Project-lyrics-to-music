@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Barlow_Gary\\Open_Road.mid",
+    "artist_band_name": "Barlow Gary",
+    "song_title": "Open Road",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.613,
+        "acousticness": 0.101,
+        "danceability": 0.626,
+        "instrumentalness": 9.7e-05,
+        "liveness": 0.25,
+        "speechiness": 0.0317,
+        "loudness": -11.066,
+        "tempo": 89.448,
+        "time_signature": 4,
+        "valence": 0.771,
+        "genre": [
+            "talent show"
+        ],
+        "popularity": 37
+    }
+}

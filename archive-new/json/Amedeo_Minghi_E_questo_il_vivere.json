@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\E_questo_il_vivere.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "E questo il vivere",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.933,
+        "acousticness": 0.458,
+        "danceability": 0.665,
+        "instrumentalness": 2.27e-05,
+        "liveness": 0.117,
+        "speechiness": 0.0445,
+        "loudness": -7.132,
+        "tempo": 118.044,
+        "time_signature": 4,
+        "valence": 0.483,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

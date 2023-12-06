@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Annie_Cordy\\Tata_Yoyo.mid",
+    "artist_band_name": "Annie Cordy",
+    "song_title": "Tata Yoyo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.923,
+        "acousticness": 0.639,
+        "danceability": 0.651,
+        "instrumentalness": 0,
+        "liveness": 0.133,
+        "speechiness": 0.148,
+        "loudness": -7.457,
+        "tempo": 131.228,
+        "time_signature": 4,
+        "valence": 0.658,
+        "genre": [
+            "chanson paillarde",
+            "classic french pop",
+            "ye ye"
+        ],
+        "popularity": 39
+    }
+}

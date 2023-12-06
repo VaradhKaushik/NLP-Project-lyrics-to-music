@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Time_to_Say_Goodbye.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Time to Say Goodbye",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.457,
+        "acousticness": 0.922,
+        "danceability": 0.203,
+        "instrumentalness": 0.00188,
+        "liveness": 0.139,
+        "speechiness": 0.0323,
+        "loudness": -6.095,
+        "tempo": 158.494,
+        "time_signature": 3,
+        "valence": 0.409,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 65
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Apollo_100\\Besame_Mucho.mid",
+    "artist_band_name": "Apollo 100",
+    "song_title": "Besame Mucho",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.776,
+        "acousticness": 0.000547,
+        "danceability": 0.527,
+        "instrumentalness": 0.658,
+        "liveness": 0.123,
+        "speechiness": 0.037,
+        "loudness": -9.429,
+        "tempo": 128.02,
+        "time_signature": 4,
+        "valence": 0.55,
+        "genre": [],
+        "popularity": 14
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Rooster.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Rooster",
+    "lyrics": {
+        "Verse": [
+            "Ain't found a way to kill me yet",
+            "Eyes burn with stingin' sweat",
+            "Seems every path leads me to nowhere, mm-mm",
+            "Wife and kids, household pet",
+            "Army green was no safe bet",
+            "The bullets scream to me from somewhere, mm-mm",
+            "",
+            "Walkin' tall, machine-gun man",
+            "They spit on me in my homeland",
+            "Gloria sent me pictures of my boy, mm-mm",
+            "Got my pills 'gainst mosquito death",
+            "My buddy's breathin' his dyin' breath",
+            "Oh, God, please, won't you help me make it through? Mm-mm",
+            ""
+        ],
+        "Chorus": [
+            "Here they come to snuff the Rooster, aw, yeah",
+            "Yeah, here come the Rooster, yeah",
+            "You know he ain't gonna die",
+            "No, no, no, you know he ain't gonna die",
+            "",
+            "[Instrumental Break]",
+            "",
+            "Here they come to snuff the Rooster, aw, yeah",
+            "Yeah, here come the Rooster, yeah",
+            "You know he ain't gonna die",
+            "No, no, no, you know he ain't gonna die",
+            "Here they come to snuff the Rooster, aw yeah",
+            "Yeah, here come the Rooster, yeah",
+            "You know he ain't gonna die",
+            "No, no, you know he ain't gonna die",
+            "",
+            "[Outro]",
+            "Ooh-ooh-ooh-hoo",
+            "Ooh, ooh, ooh",
+            "Ooh-ooh-ooh, ooh, ooh",
+            "Ooh-ooh-ooh-hoo",
+            "Ooh, ooh, ooh",
+            "Ooh-ooh-ooh, ooh, ooh40Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.551,
+        "acousticness": 0.0307,
+        "danceability": 0.271,
+        "instrumentalness": 0.000581,
+        "liveness": 0.118,
+        "speechiness": 0.0272,
+        "loudness": -8.46,
+        "tempo": 143.899,
+        "time_signature": 3,
+        "valence": 0.2,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 72
+    }
+}

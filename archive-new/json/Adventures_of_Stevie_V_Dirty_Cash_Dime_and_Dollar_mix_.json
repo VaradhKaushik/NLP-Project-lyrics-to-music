@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Adventures_of_Stevie_V\\Dirty_Cash_Dime_and_Dollar_mix_.mid",
+    "artist_band_name": "Adventures of Stevie V",
+    "song_title": "Dirty Cash Dime and Dollar mix ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.721,
+        "acousticness": 0.000772,
+        "danceability": 0.781,
+        "instrumentalness": 0.0349,
+        "liveness": 0.0416,
+        "speechiness": 0.0499,
+        "loudness": -13.396,
+        "tempo": 121.221,
+        "time_signature": 4,
+        "valence": 0.739,
+        "genre": [
+            "classic house",
+            "hip house"
+        ],
+        "popularity": 17
+    }
+}

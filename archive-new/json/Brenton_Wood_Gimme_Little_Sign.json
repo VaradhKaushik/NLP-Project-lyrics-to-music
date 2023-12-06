@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Brenton_Wood\\Gimme_Little_Sign.mid",
+    "artist_band_name": "Brenton Wood",
+    "song_title": "Gimme Little Sign",
+    "lyrics": {
+        "Verse": [
+            "If you do want me, gimme little sugar",
+            "If you don't want me, don't lead me on, girl",
+            "But if you need me, show me that you love me",
+            "And when I'm feelin' blue, and I want you",
+            "There's just one thing that you should do",
+            "",
+            "If you do want me, give me little sweet talk",
+            "If you don't want me, don't lead me on, girl",
+            "But if you need me, show me that you love me",
+            "And when I'm feelin' down, wearin' a frown",
+            "You'll be there when I look around",
+            ""
+        ],
+        "Chorus": [
+            "Just gimme some kind of sign, girl, oh, my baby",
+            "To show me that you're mine, girl, oh yeah",
+            "Just gimme some kind of sign, girl, oh, my darlin'",
+            "To show me that you're mine, girl, all right",
+            "",
+            "Just gimme some kind of sign, girl, oh, my baby",
+            "To show me that you're mine, girl, all right",
+            "Just gimme some kind of sign, girl, oh, my baby",
+            "To show me that you're mine, girl, all right, huh!",
+            "You might also like[Organ Solo]",
+            "",
+            "Just gimme some kind of sign, girl, oh, my baby",
+            "To show me that you're mine, girl, oh yeah",
+            "Just gimme some kind of sign, girl, oh, my darlin'",
+            "To show me that you're mine, girl, all right",
+            "",
+            "Just gimme some kind of sign",
+            "Ooh-ooh-ooh-ooh, sign",
+            "Just gimme some kind of sign, girl, oh, my baby",
+            "To show me that you're mine, girl, all right",
+            "Just gimme some kind of sign...2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.663,
+        "acousticness": 0.154,
+        "danceability": 0.742,
+        "instrumentalness": 0,
+        "liveness": 0.197,
+        "speechiness": 0.0321,
+        "loudness": -5.06,
+        "tempo": 113.005,
+        "time_signature": 4,
+        "valence": 0.913,
+        "genre": [
+            "classic soul",
+            "souldies"
+        ],
+        "popularity": 61
+    }
+}

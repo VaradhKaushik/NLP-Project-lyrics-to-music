@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Menuet_in_G-Major.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Menuet in G-Major",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0696,
+        "acousticness": 0.948,
+        "danceability": 0.315,
+        "instrumentalness": 0.879,
+        "liveness": 0.24,
+        "speechiness": 0.0511,
+        "loudness": -23.285,
+        "tempo": 127.781,
+        "time_signature": 5,
+        "valence": 0.398,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 45
+    }
+}

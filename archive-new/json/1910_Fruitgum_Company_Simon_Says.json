@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\1910_Fruitgum_Company\\Simon_Says.mid",
+    "artist_band_name": "1910 Fruitgum Company",
+    "song_title": "Simon Says",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.632,
+        "acousticness": 0.411,
+        "danceability": 0.8,
+        "instrumentalness": 0.00279,
+        "liveness": 0.115,
+        "speechiness": 0.0387,
+        "loudness": -10.803,
+        "tempo": 134.282,
+        "time_signature": 4,
+        "valence": 0.986,
+        "genre": [
+            "bubblegum pop",
+            "classic garage rock",
+            "merseybeat"
+        ],
+        "popularity": 40
+    }
+}

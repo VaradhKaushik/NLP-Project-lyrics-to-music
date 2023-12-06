@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Nene.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Nene",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.604,
+        "acousticness": 0.388,
+        "danceability": 0.615,
+        "instrumentalness": 5.43e-05,
+        "liveness": 0.0889,
+        "speechiness": 0.0293,
+        "loudness": -7.929,
+        "tempo": 96.826,
+        "time_signature": 4,
+        "valence": 0.442,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 23
+    }
+}

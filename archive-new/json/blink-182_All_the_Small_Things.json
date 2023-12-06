@@ -1,0 +1,80 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\All_the_Small_Things.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "All the Small Things",
+    "lyrics": {
+        "Verse": [
+            "All the small things",
+            "True care, truth brings",
+            "I'll take one lift",
+            "Your ride, best trip",
+            "Always, I know",
+            "You'll be at my show",
+            "Watching, waiting",
+            "Commiserating",
+            "",
+            "Late night, come home",
+            "Work sucks, I know",
+            "She left me roses by the stairs",
+            "Surprises let me know she cares"
+        ],
+        "Chorus": [
+            "Say it ain't so, I will not go",
+            "Turn the lights off, carry me home",
+            "",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "",
+            "Just say it ain't so, I will not go",
+            "Turn the lights off, carry me home",
+            "",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "Na-na, na-na, na-na, na-na, na, na",
+            "",
+            "[Instrumental Break]",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Say it ain't so, I will not go",
+            "Turn the lights off, carry me home",
+            "Keep your head still, I'll be your thrill",
+            "The night will go on, my little windmill",
+            "",
+            "[Outro: Tom DeLonge with Mark Hoppus]",
+            "(Na-na, na-na, na-na, na-na, na, na)",
+            "Say it ain't so, I will not go",
+            "(Na-na, na-na, na-na, na-na, na, na)",
+            "Turn the lights off, carry me home",
+            "(Na-na, na-na, na-na, na-na, na, na)",
+            "Keep your head still, I'll be your thrill",
+            "(Na-na, na-na, na-na, na-na, na, na)",
+            "The night will go on, the night will go on, my little windmill44Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.897,
+        "acousticness": 0.0103,
+        "danceability": 0.434,
+        "instrumentalness": 0,
+        "liveness": 0.612,
+        "speechiness": 0.0488,
+        "loudness": -4.918,
+        "tempo": 148.726,
+        "time_signature": 4,
+        "valence": 0.684,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 84
+    }
+}

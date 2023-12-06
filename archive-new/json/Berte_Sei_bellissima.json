@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Sei_bellissima.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Sei bellissima",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.463,
+        "acousticness": 0.595,
+        "danceability": 0.449,
+        "instrumentalness": 2.57e-06,
+        "liveness": 0.193,
+        "speechiness": 0.0355,
+        "loudness": -7.029,
+        "tempo": 118.733,
+        "time_signature": 3,
+        "valence": 0.254,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 50
+    }
+}

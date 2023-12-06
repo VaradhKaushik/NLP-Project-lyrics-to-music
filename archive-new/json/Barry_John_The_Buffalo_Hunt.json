@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\The_Buffalo_Hunt.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "The Buffalo Hunt",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.316,
+        "acousticness": 0.684,
+        "danceability": 0.169,
+        "instrumentalness": 0.968,
+        "liveness": 0.137,
+        "speechiness": 0.0353,
+        "loudness": -15.352,
+        "tempo": 71.189,
+        "time_signature": 3,
+        "valence": 0.364,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 31
+    }
+}

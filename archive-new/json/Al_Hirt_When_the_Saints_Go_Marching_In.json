@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Al_Hirt\\When_the_Saints_Go_Marching_In.mid",
+    "artist_band_name": "Al Hirt",
+    "song_title": "When the Saints Go Marching In",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.658,
+        "acousticness": 0.313,
+        "danceability": 0.472,
+        "instrumentalness": 0.0546,
+        "liveness": 0.124,
+        "speechiness": 0.0569,
+        "loudness": -11.324,
+        "tempo": 121.017,
+        "time_signature": 4,
+        "valence": 0.876,
+        "genre": [
+            "dixieland",
+            "easy listening",
+            "jazz trumpet",
+            "new orleans jazz",
+            "space age pop"
+        ],
+        "popularity": 10
+    }
+}

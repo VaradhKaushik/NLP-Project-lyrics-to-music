@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\BBE\\7_Days_One_Week.mid",
+    "artist_band_name": "BBE",
+    "song_title": "7 Days One Week",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.931,
+        "acousticness": 0.00364,
+        "danceability": 0.777,
+        "instrumentalness": 0.865,
+        "liveness": 0.0602,
+        "speechiness": 0.0509,
+        "loudness": -8.543,
+        "tempo": 137.871,
+        "time_signature": 4,
+        "valence": 0.493,
+        "genre": [
+            "belgian dance",
+            "bubble trance"
+        ],
+        "popularity": 58
+    }
+}

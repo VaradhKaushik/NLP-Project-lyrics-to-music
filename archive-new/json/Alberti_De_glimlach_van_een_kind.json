@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Alberti\\De_glimlach_van_een_kind.mid",
+    "artist_band_name": "Alberti",
+    "song_title": "De glimlach van een kind",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.492,
+        "acousticness": 0.569,
+        "danceability": 0.4,
+        "instrumentalness": 0,
+        "liveness": 0.179,
+        "speechiness": 0.0289,
+        "loudness": -5.737,
+        "tempo": 75.44,
+        "time_signature": 4,
+        "valence": 0.34,
+        "genre": [
+            "dutch pop",
+            "levenslied",
+            "nederpop",
+            "vintage dutch pop"
+        ],
+        "popularity": 14
+    }
+}

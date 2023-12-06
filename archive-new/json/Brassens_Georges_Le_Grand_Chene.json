@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Grand_Chene.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Grand Chene",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.238,
+        "acousticness": 0.878,
+        "danceability": 0.813,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "speechiness": 0.47,
+        "loudness": -12.693,
+        "tempo": 114.347,
+        "time_signature": 4,
+        "valence": 0.817,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 12
+    }
+}

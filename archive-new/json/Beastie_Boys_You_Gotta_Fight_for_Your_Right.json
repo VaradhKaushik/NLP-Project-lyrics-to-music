@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\Beastie_Boys\\You_Gotta_Fight_for_Your_Right.mid",
+    "artist_band_name": "Beastie Boys",
+    "song_title": "You Gotta Fight for Your Right",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.838,
+        "acousticness": 0.0447,
+        "danceability": 0.691,
+        "instrumentalness": 0.000215,
+        "liveness": 0.112,
+        "speechiness": 0.0316,
+        "loudness": -5.321,
+        "tempo": 133.507,
+        "time_signature": 4,
+        "valence": 0.716,
+        "genre": [
+            "alternative rock",
+            "east coast hip hop",
+            "golden age hip hop",
+            "hip hop",
+            "old school hip hop",
+            "rap",
+            "rap rock",
+            "rock"
+        ],
+        "popularity": 38
+    }
+}

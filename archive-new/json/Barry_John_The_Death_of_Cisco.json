@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\The_Death_of_Cisco.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "The Death of Cisco",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.105,
+        "acousticness": 0.901,
+        "danceability": 0.229,
+        "instrumentalness": 0.885,
+        "liveness": 0.108,
+        "speechiness": 0.0381,
+        "loudness": -20.124,
+        "tempo": 78.075,
+        "time_signature": 4,
+        "valence": 0.0601,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 25
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Amy_Grant\\I_Will_Remember_You.mid",
+    "artist_band_name": "Amy Grant",
+    "song_title": "I Will Remember You",
+    "lyrics": {
+        "Verse": [
+            "I will be walking one day",
+            "Down a street far away",
+            "And see a face in the crowd and smile",
+            "Knowing how you made me laugh",
+            "Hearing sweet echoes of you from the past",
+            "I will remember you",
+            "",
+            "Look in my eyes while you're near",
+            "Tell me what's happening here",
+            "See that I don't want to say goodbye",
+            "Our love is frozen in time",
+            "I'll be your champion and you will be mine",
+            "I will remember, I will remember you",
+            "",
+            "So many years come and gone",
+            "And yet the memory is strong",
+            "One word we never could learn",
+            "Goodbye",
+            "True love is frozen in time",
+            "I'll be your champion and you will be mine",
+            "I will remember you",
+            "",
+            "[Outro]",
+            "So please remember",
+            "I will remember you",
+            "I will remember you",
+            "I will remember you",
+            "I will remember youEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Later on",
+            "When this fire is an ember",
+            "Later on",
+            "When the night's not so tender",
+            "Given time",
+            "Though it's hard to remember, darlin'",
+            "I will be holding",
+            "I'll still be holding to you",
+            "I will remember you"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.173,
+        "acousticness": 0.937,
+        "danceability": 0.473,
+        "instrumentalness": 7.7e-05,
+        "liveness": 0.118,
+        "speechiness": 0.0264,
+        "loudness": -9.853,
+        "tempo": 83.372,
+        "time_signature": 3,
+        "valence": 0.286,
+        "genre": [
+            "christian music"
+        ],
+        "popularity": 41
+    }
+}

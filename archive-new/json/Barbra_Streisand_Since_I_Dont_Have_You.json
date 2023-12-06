@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\Since_I_Dont_Have_You.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "Since I Dont Have You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.205,
+        "acousticness": 0.891,
+        "danceability": 0.302,
+        "instrumentalness": 0.00146,
+        "liveness": 0.353,
+        "speechiness": 0.0274,
+        "loudness": -14.072,
+        "tempo": 87.654,
+        "time_signature": 3,
+        "valence": 0.252,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 11
+    }
+}

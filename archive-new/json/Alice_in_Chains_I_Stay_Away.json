@@ -1,0 +1,62 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\I_Stay_Away.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "I Stay Away",
+    "lyrics": {
+        "Verse": [
+            "Yeah, hey, I want to travel south this year",
+            "Ah, woah, woah... won't prevent safe passage here",
+            "",
+            "Yeah, hey, yeah, tears that soak a callous heart",
+            ""
+        ],
+        "Chorus": [
+            "Why you act crazy?",
+            "Not an act, maybe",
+            "So close, a lady",
+            "Shifty eyes, shady",
+            "",
+            "Why you act frightened?",
+            "I am enlightened",
+            "Your weakness builds me",
+            "So someday, you'll see",
+            "",
+            "Why you act crazy?",
+            "Not an act, maybe",
+            "So close, a lady",
+            "Shifty eyes, shady",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I stay away",
+            "",
+            "[Guitar Solo]",
+            "I stay away",
+            "I stay away",
+            "I stay away",
+            "I stay away15Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.781,
+        "acousticness": 0.0452,
+        "danceability": 0.174,
+        "instrumentalness": 0.00346,
+        "liveness": 0.0822,
+        "speechiness": 0.0406,
+        "loudness": -7.066,
+        "tempo": 81.37,
+        "time_signature": 4,
+        "valence": 0.276,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 65
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Feels_So_Right.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Feels So Right",
+    "lyrics": {
+        "Verse": [
+            "Whisper to me softly",
+            "Breathe words upon my skin",
+            "No one's near and listening",
+            "So please don't say goodbye",
+            "",
+            "Lying here beside you",
+            "I hear the echoes of your sighs",
+            "Promise me you'll stay with me",
+            "And keep me warm tonight",
+            "",
+            "Your body feels so gentle",
+            "And my passion rises high",
+            "You're loving me so easy",
+            "Your wish is my command"
+        ],
+        "Chorus": [
+            "Just hold me close and love me",
+            "Press your lips to mine",
+            "Mmm, feels so right, feels so right",
+            "",
+            "Just hold me close and love me",
+            "Give my heart a smile",
+            "Mmm, feels so right, feels so right",
+            "",
+            "Just hold me close and love me",
+            "Tell me it won't end",
+            "Mmm, feels so right, feels so right",
+            "Feels so right",
+            "",
+            "[Outro]",
+            "Oh how you feel so right babyEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.338,
+        "acousticness": 0.522,
+        "danceability": 0.546,
+        "instrumentalness": 0.000436,
+        "liveness": 0.0866,
+        "speechiness": 0.0233,
+        "loudness": -13.361,
+        "tempo": 90.247,
+        "time_signature": 4,
+        "valence": 0.346,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 47
+    }
+}

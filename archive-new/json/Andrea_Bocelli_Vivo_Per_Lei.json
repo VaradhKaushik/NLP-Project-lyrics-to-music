@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Vivo_Per_Lei.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Vivo Per Lei",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.456,
+        "acousticness": 0.703,
+        "danceability": 0.533,
+        "instrumentalness": 0,
+        "liveness": 0.18,
+        "speechiness": 0.0265,
+        "loudness": -6.392,
+        "tempo": 136.117,
+        "time_signature": 4,
+        "valence": 0.289,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 68
+    }
+}

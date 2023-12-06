@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\The_Queen_Bee.mid",
+    "artist_band_name": "Basie",
+    "song_title": "The Queen Bee",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.403,
+        "acousticness": 0.773,
+        "danceability": 0.634,
+        "instrumentalness": 0.711,
+        "liveness": 0.412,
+        "speechiness": 0.0289,
+        "loudness": -9.822,
+        "tempo": 112.367,
+        "time_signature": 4,
+        "valence": 0.614,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 34
+    }
+}

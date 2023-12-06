@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Bistrot.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Bistrot",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.111,
+        "acousticness": 0.919,
+        "danceability": 0.863,
+        "instrumentalness": 3.29e-06,
+        "liveness": 0.128,
+        "speechiness": 0.375,
+        "loudness": -17.526,
+        "tempo": 121.41,
+        "time_signature": 3,
+        "valence": 0.805,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 15
+    }
+}

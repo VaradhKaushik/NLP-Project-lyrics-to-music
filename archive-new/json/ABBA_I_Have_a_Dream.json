@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\I_Have_a_Dream.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "I Have a Dream",
+    "lyrics": {
+        "Verse": [
+            "I have a dream, a song to sing",
+            "To help me cope with anything",
+            "If you see the wonder of a fairy tale",
+            "You can take the future, even if you fail",
+            "",
+            "I have a dream, a fantasy",
+            "To help me through reality",
+            "And my destination makes it worth the while",
+            "Pushing through the darkness; still another mile",
+            "",
+            "I have a dream, a song to sing",
+            "To help me cope with anything",
+            "If you see the wonder of a fairy tale",
+            "You can take the future even if you fail",
+            ""
+        ],
+        "Chorus": [
+            "I believe in angels",
+            "Something good in everything I see",
+            "I believe in angels",
+            "When I know the time is right for me",
+            "I'll cross the stream",
+            "I have a dream",
+            "",
+            "I believe in angels",
+            "Something good in everything I see",
+            "I believe in angels",
+            "When I know the time is right for me",
+            "I'll cross the stream",
+            "I have a dream",
+            "I'll cross the stream",
+            "I have a dream",
+            "You might also like[Interlude]",
+            "",
+            "I believe in angels",
+            "Something good in everything I see",
+            "I believe in angels",
+            "When I know the time is right for me",
+            "I'll cross the stream",
+            "I have a dream",
+            "I'll cross the stream",
+            "I have a dream6Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.374,
+        "acousticness": 0.6,
+        "danceability": 0.549,
+        "instrumentalness": 0,
+        "liveness": 0.178,
+        "speechiness": 0.0244,
+        "loudness": -12.049,
+        "tempo": 104.311,
+        "time_signature": 4,
+        "valence": 0.439,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 66
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Angelo_Branduardi\\Vanita_di_vanita.mid",
+    "artist_band_name": "Angelo Branduardi",
+    "song_title": "Vanita di vanita",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.693,
+        "acousticness": 0.0135,
+        "danceability": 0.531,
+        "instrumentalness": 2.1e-06,
+        "liveness": 0.477,
+        "speechiness": 0.0313,
+        "loudness": -7.39,
+        "tempo": 88.027,
+        "time_signature": 4,
+        "valence": 0.777,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 38
+    }
+}

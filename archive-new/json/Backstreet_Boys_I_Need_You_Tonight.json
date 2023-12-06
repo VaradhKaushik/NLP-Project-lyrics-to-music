@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Backstreet_Boys\\I_Need_You_Tonight.mid",
+    "artist_band_name": "Backstreet Boys",
+    "song_title": "I Need You Tonight",
+    "lyrics": {
+        "Verse": [
+            "Open up your heart to me",
+            "And say what's on your mind, oh yes",
+            "I know that we have been through so much pain",
+            "But I still need you in my life, this time",
+            "",
+            "I figured out what to say to you",
+            "Sometimes the words they, they come out so wrong",
+            "(Always they do)",
+            "And I know in time that you will understand",
+            "That what we have is so right, this time",
+            "",
+            "All those endless times",
+            "We tried to make it last forever more",
+            "And baby I know",
+            "I need you (oh oh, yeah)",
+            "I know deep within my heart",
+            "It doesn't matter if it's wrong or right",
+            "I really need you, oh",
+            "",
+            "[Outro: Nick]",
+            "I need you tonight (I need you, oh I need you baby)",
+            "I need you right now (It's got to be this, it's got to be this)",
+            "I know deep within my heart",
+            "No, it doesn't matter if it's wrong or it's right",
+            "All I know is baby",
+            "I really need you tonight",
+            "Ooh1Embed"
+        ],
+        "Chorus": [
+            "And I need you tonight",
+            "I need you right now",
+            "I know deep within my heart",
+            "It doesn't matter if it's wrong or right",
+            "I really need you tonight",
+            "",
+            "And I need you tonight",
+            "I need you right now",
+            "I know deep within my heart",
+            "It doesn't matter if it's wrong or right"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.468,
+        "acousticness": 0.235,
+        "danceability": 0.446,
+        "instrumentalness": 0,
+        "liveness": 0.0963,
+        "speechiness": 0.0323,
+        "loudness": -9.844,
+        "tempo": 169.983,
+        "time_signature": 4,
+        "valence": 0.223,
+        "genre": [
+            "boy band",
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 50
+    }
+}

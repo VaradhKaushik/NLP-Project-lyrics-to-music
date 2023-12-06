@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Wachet_auf.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Wachet auf",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.044,
+        "acousticness": 0.995,
+        "danceability": 0.413,
+        "instrumentalness": 0.938,
+        "liveness": 0.111,
+        "speechiness": 0.0472,
+        "loudness": -28.031,
+        "tempo": 129.233,
+        "time_signature": 4,
+        "valence": 0.507,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 0
+    }
+}

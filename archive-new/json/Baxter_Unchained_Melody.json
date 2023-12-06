@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Baxter\\Unchained_Melody.mid",
+    "artist_band_name": "Baxter",
+    "song_title": "Unchained Melody",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.209,
+        "acousticness": 0.206,
+        "danceability": 0.242,
+        "instrumentalness": 0.0289,
+        "liveness": 0.139,
+        "speechiness": 0.0324,
+        "loudness": -13.017,
+        "tempo": 93.267,
+        "time_signature": 4,
+        "valence": 0.221,
+        "genre": [
+            "easy listening",
+            "exotica",
+            "laboratorio",
+            "library music",
+            "lounge"
+        ],
+        "popularity": 18
+    }
+}

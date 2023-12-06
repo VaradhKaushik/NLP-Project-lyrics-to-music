@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alpert\\A_Banda.mid",
+    "artist_band_name": "Alpert",
+    "song_title": "A Banda",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.733,
+        "acousticness": 0.3,
+        "danceability": 0.834,
+        "instrumentalness": 0.704,
+        "liveness": 0.0889,
+        "speechiness": 0.031,
+        "loudness": -11.455,
+        "tempo": 130.29,
+        "time_signature": 4,
+        "valence": 0.967,
+        "genre": [
+            "easy listening",
+            "lounge"
+        ],
+        "popularity": 33
+    }
+}

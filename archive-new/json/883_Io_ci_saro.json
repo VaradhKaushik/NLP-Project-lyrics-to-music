@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Io_ci_saro.mid",
+    "artist_band_name": "883",
+    "song_title": "Io ci saro",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.687,
+        "acousticness": 0.167,
+        "danceability": 0.484,
+        "instrumentalness": 0,
+        "liveness": 0.199,
+        "speechiness": 0.0267,
+        "loudness": -5.714,
+        "tempo": 160.042,
+        "time_signature": 4,
+        "valence": 0.573,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 0
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Vinton\\Mr._Lonely.mid",
+    "artist_band_name": "Bobby Vinton",
+    "song_title": "Mr. Lonely",
+    "lyrics": {
+        "Verse": [
+            "Lonely, I'm Mr. Lonely",
+            "I have nobody for my own",
+            "I am so lonely, I'm Mr. Lonely",
+            "Wish I had someone to call on the phone",
+            "",
+            "Letters, never a letter",
+            "I get no letters in the mail",
+            "I've been forgotten, yes, forgotten",
+            "Oh, how I wonder, how is it I failed",
+            ""
+        ],
+        "Chorus": [
+            "Now I'm a soldier, a lonely soldier",
+            "Away from home through no wish of my own",
+            "That's why I'm lonely, I'm Mr. Lonely",
+            "I wish that I could go back home",
+            "",
+            "Now I'm a soldier, a lonely soldier",
+            "Away from home through no wish of my own",
+            "That's why I'm lonely, I'm Mr. Lonely",
+            "I wish that I could go back homeYou might also like6Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.293,
+        "acousticness": 0.817,
+        "danceability": 0.245,
+        "instrumentalness": 0,
+        "liveness": 0.177,
+        "speechiness": 0.0303,
+        "loudness": -10.361,
+        "tempo": 168.984,
+        "time_signature": 3,
+        "valence": 0.344,
+        "genre": [
+            "adult standards",
+            "bubblegum pop",
+            "doo-wop",
+            "easy listening",
+            "rock-and-roll",
+            "rockabilly"
+        ],
+        "popularity": 57
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bernstein_Leonard\\Symphonic_Dances_from_West_Side_Story_Mambo_Presto_.mid",
+    "artist_band_name": "Bernstein Leonard",
+    "song_title": "Symphonic Dances from West Side Story Mambo Presto ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.875,
+        "acousticness": 0.67,
+        "danceability": 0.335,
+        "instrumentalness": 0.909,
+        "liveness": 0.739,
+        "speechiness": 0.0548,
+        "loudness": -9.565,
+        "tempo": 135.807,
+        "time_signature": 4,
+        "valence": 0.0586,
+        "genre": [
+            "american modern classical",
+            "classical",
+            "classical performance",
+            "orchestral performance"
+        ],
+        "popularity": 19
+    }
+}

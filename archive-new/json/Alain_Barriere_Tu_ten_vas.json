@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Barriere\\Tu_ten_vas.mid",
+    "artist_band_name": "Alain Barriere",
+    "song_title": "Tu ten vas",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.546,
+        "acousticness": 0.673,
+        "danceability": 0.67,
+        "instrumentalness": 2.86e-06,
+        "liveness": 0.113,
+        "speechiness": 0.0293,
+        "loudness": -10.488,
+        "tempo": 97.992,
+        "time_signature": 4,
+        "valence": 0.507,
+        "genre": [
+            "chanson",
+            "ye ye"
+        ],
+        "popularity": 44
+    }
+}

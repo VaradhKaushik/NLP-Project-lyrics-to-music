@@ -1,0 +1,56 @@
+{
+    "midi_file_path": "archive-new\\Bellamy_Brothers\\I_Need_More_of_You.mid",
+    "artist_band_name": "Bellamy Brothers",
+    "song_title": "I Need More of You",
+    "lyrics": {
+        "Verse": [
+            "Hearts, burning like they were on fire",
+            "Flames, changin' our love to desire",
+            "Say, my heart is screamin' to say",
+            "Girl, we got to go all the way",
+            "",
+            "We, ain't we together too long",
+            "Strange, how did our love get so strong",
+            "There's, nothing to keep us apart",
+            "We, got to catch up our hearts",
+            ""
+        ],
+        "Chorus": [
+            "I need more of you, changin' my rain into sun",
+            "More of you, puttin' my blues on the run",
+            "I need more of you, darling I need more of you",
+            "More, anything less wouldn't do",
+            "",
+            "I need more of you, changin' my rain into sun",
+            "More of you, puttin' my blues on the run",
+            "I need more of you, darling I need more of you",
+            "More, anything less wouldn't do",
+            "",
+            "[Instrumental]",
+            "I need more of you, changin' my rain into sun",
+            "More of you, puttin' my blues on the run",
+            "I need more of you, darling I need more of you",
+            "More, anything less wouldn't doEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.732,
+        "acousticness": 0.0328,
+        "danceability": 0.643,
+        "instrumentalness": 3.69e-06,
+        "liveness": 0.123,
+        "speechiness": 0.0295,
+        "loudness": -7.716,
+        "tempo": 118.818,
+        "time_signature": 4,
+        "valence": 0.872,
+        "genre": [
+            "classic country pop",
+            "country",
+            "country rock"
+        ],
+        "popularity": 47
+    }
+}

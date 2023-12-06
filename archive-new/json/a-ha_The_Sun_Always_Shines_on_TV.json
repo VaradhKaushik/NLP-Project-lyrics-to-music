@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\a-ha\\The_Sun_Always_Shines_on_TV.mid",
+    "artist_band_name": "a-ha",
+    "song_title": "The Sun Always Shines on TV",
+    "lyrics": {
+        "Verse": [
+            "I reached inside myself and found",
+            "Nothing there to ease the pressure of my ever-worrying mind, oh",
+            "All my power wasted away",
+            "I fear the crazed and lonely looks the mirror's sending me these days, oh",
+            "",
+            "Please don't ask me to defend",
+            "The shameful lowlands of the way I'm drifting gloomily through time, oh (Touch me)",
+            "I reached inside myself today (Give all your love)",
+            "Thinking there's got to be some way to keep my troubles distant"
+        ],
+        "Chorus": [
+            "Touch me, how can it be?",
+            "Believe me, the sun always shines on TV",
+            "Hold me close to your heart",
+            "Touch me and give all your love to me, to me",
+            "",
+            "[Instrumental]",
+            "",
+            "Touch me, how can it be?",
+            "Believe me, the sun always shines on TV",
+            "Hold me close to your heart",
+            "Touch me and give all your love to me",
+            "",
+            "Touch me, how can it be?",
+            "Believe me, the sun always shines on TV",
+            "Hold me close to your heart",
+            "Touch me and give all your love to me",
+            "",
+            "[Outro]",
+            "Hold me close to your heart",
+            "Touch me and give all your love to me",
+            "To me8Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.839,
+        "acousticness": 0.0534,
+        "danceability": 0.494,
+        "instrumentalness": 0.0706,
+        "liveness": 0.253,
+        "speechiness": 0.0647,
+        "loudness": -8.79,
+        "tempo": 126.329,
+        "time_signature": 4,
+        "valence": 0.219,
+        "genre": [
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "permanent wave",
+            "synthpop"
+        ],
+        "popularity": 66
+    }
+}

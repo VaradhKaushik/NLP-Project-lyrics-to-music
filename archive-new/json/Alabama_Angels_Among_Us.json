@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Angels_Among_Us.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Angels Among Us",
+    "lyrics": {
+        "Verse": [
+            "I was walking home from school on a cold winter day",
+            "Took a shortcut through the woods and I lost my way",
+            "It was getting late and I was scared and alone",
+            "But then a kind old man took my hand, and led me home",
+            "Now mama couldn't see him oh but he was standing there",
+            "And I knew in my heart he was the answer to my prayers",
+            "",
+            "When life held troubled times and had me down on my knees",
+            "There's always been someone to come along and comfort me",
+            "A kind word from a stranger to lend a helping hand",
+            "A phone call from a friend just to say I understand",
+            "But ain't it kind of funny at the dark end of the road",
+            "That someone lights the way with just a single ray of hope",
+            ""
+        ],
+        "Chorus": [
+            "Oh I believe there are angels among us",
+            "Sent down to us from somewhere up above",
+            "They come to you and me in our darkest hours",
+            "To show us how to live to teach us how to give",
+            "To guide us with the light of love",
+            "",
+            "Oh I believe there are angels among us",
+            "Sent down to us from somewhere up above",
+            "They come to you and me in our darkest hours",
+            "To show us how to live to teach us how to give",
+            "To guide us with the light of love",
+            "Oh I believe there are angels among us",
+            "Sent down to us from somewhere up above",
+            "They come to you and me in our darkest hours",
+            "To show us how to live to teach us how to give",
+            "To guide us with the light of love",
+            "To guide us with the light of love3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "They wear so many faces show up in the strangest places",
+            "To grace us with their mercy in our time of need",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.304,
+        "acousticness": 0.936,
+        "danceability": 0.559,
+        "instrumentalness": 1.09e-06,
+        "liveness": 0.139,
+        "speechiness": 0.029,
+        "loudness": -10.922,
+        "tempo": 137.724,
+        "time_signature": 4,
+        "valence": 0.34,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 53
+    }
+}

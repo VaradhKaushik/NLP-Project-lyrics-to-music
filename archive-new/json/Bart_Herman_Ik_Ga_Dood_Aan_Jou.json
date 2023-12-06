@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Bart_Herman\\Ik_Ga_Dood_Aan_Jou.mid",
+    "artist_band_name": "Bart Herman",
+    "song_title": "Ik Ga Dood Aan Jou",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.503,
+        "acousticness": 0.736,
+        "danceability": 0.47,
+        "instrumentalness": 0,
+        "liveness": 0.134,
+        "speechiness": 0.0288,
+        "loudness": -7.521,
+        "tempo": 111.435,
+        "time_signature": 4,
+        "valence": 0.126,
+        "genre": [
+            "classic belgian pop"
+        ],
+        "popularity": 34
+    }
+}

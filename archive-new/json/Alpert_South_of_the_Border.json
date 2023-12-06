@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alpert\\South_of_the_Border.mid",
+    "artist_band_name": "Alpert",
+    "song_title": "South of the Border",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.68,
+        "acousticness": 0.171,
+        "danceability": 0.451,
+        "instrumentalness": 0.853,
+        "liveness": 0.198,
+        "speechiness": 0.0353,
+        "loudness": -10.034,
+        "tempo": 72.436,
+        "time_signature": 4,
+        "valence": 0.828,
+        "genre": [
+            "easy listening",
+            "lounge"
+        ],
+        "popularity": 30
+    }
+}

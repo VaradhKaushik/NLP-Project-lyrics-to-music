@@ -1,0 +1,57 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\American_Honky-Tonk_Bar_Association.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "American Honky-Tonk Bar Association",
+    "lyrics": {
+        "Verse": [
+            "If your paycheck depends on the weather and the clock",
+            "If your conversation calls for a little more than a coffee pot",
+            "If you need to pour your heart out and try to rectify some situation, that you're facin'",
+            "Contact your American Honky-Tonk Bar Association",
+            "",
+            "When Uncle Sam dips in your pocket, for most things you don't mind",
+            "But when your dollar goes to all of those standin' in a welfare line",
+            "Well, rejoice you have a voice if you're concerned about the destination, of this great nation",
+            "It's called the American Honky-Tonk Bar Association",
+            "",
+            "We're all one big family, throughout the cities and the towns",
+            "We don't reach for handouts, we reach for those who are down",
+            "And every local chapter has a seven day a week available consultation, for your frustration",
+            "It's called the American Honky-Tonk Bar Association",
+            ""
+        ],
+        "Chorus": [
+            "It represents the hardhat, gun rack, achin' back, overtaxed, flag-wavin', fun-lovin' crowd",
+            "Well, their heart is in the music and they love to play it loud",
+            "There's no forms or applications, there's no red tape administrations",
+            "It's the American Honky-Tonk Bar, Association",
+            "",
+            "It represents the mud flaps, six-pack, beer crack, overtaxed, flag-wavin', fun-lovin' crowd",
+            "Well, their heart is in the music and they love to play it loud",
+            "There's no forms or applications, there's no red tape administrations",
+            "It's the American Honky-Tonk Bar Association",
+            "You might also like[Outro]",
+            "Go join your American Honky-Tonk Bar Association",
+            "Do not delay",
+            "Contact today",
+            "Your A.H.B.A",
+            "Your A.H.B.AEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.766,
+        "acousticness": 0.301,
+        "danceability": 0.573,
+        "instrumentalness": 0,
+        "liveness": 0.0939,
+        "speechiness": 0.091,
+        "loudness": -7.103,
+        "tempo": 152.071,
+        "time_signature": 4,
+        "valence": 0.789,
+        "genre": [],
+        "popularity": 14
+    }
+}

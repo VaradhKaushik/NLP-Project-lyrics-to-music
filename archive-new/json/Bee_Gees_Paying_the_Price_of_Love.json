@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Paying_the_Price_of_Love.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Paying the Price of Love",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.852,
+        "acousticness": 0.0613,
+        "danceability": 0.685,
+        "instrumentalness": 0.000167,
+        "liveness": 0.0315,
+        "speechiness": 0.0565,
+        "loudness": -7.324,
+        "tempo": 105.026,
+        "time_signature": 4,
+        "valence": 0.844,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 49
+    }
+}

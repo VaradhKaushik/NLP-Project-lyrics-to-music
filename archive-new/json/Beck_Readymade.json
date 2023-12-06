@@ -1,0 +1,55 @@
+{
+    "midi_file_path": "archive-new\\Beck\\Readymade.mid",
+    "artist_band_name": "Beck",
+    "song_title": "Readymade",
+    "lyrics": {
+        "Verse": [
+            "An open road where I can breathe",
+            "Where the lowest low is calling to me",
+            "I can pull myself back up, back down",
+            "Stuck together like a ready-made",
+            "And nobody knows where we been",
+            "Cancelled rations are running thin",
+            "Watches tick out of tune",
+            "Falling apart like a ready-made",
+            "",
+            "Rubbish piles fresh and plain",
+            "Empty boxes in a pawn shop brain",
+            "License plates stowaway",
+            "Standing in line like a ready-made",
+            "",
+            "An open road where I can breathe",
+            "Where the lowest low is calling to me",
+            "I can pull myself back up, back down",
+            "Stuck together like a ready-made"
+        ],
+        "Chorus": [
+            "And my bags are waiting in the next life",
+            "",
+            "And my bags are waiting in the next life",
+            "",
+            "And my bags are waiting in the next life2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.661,
+        "acousticness": 0.0677,
+        "danceability": 0.799,
+        "instrumentalness": 0.481,
+        "liveness": 0.0838,
+        "speechiness": 0.0481,
+        "loudness": -8.176,
+        "tempo": 141.105,
+        "time_signature": 4,
+        "valence": 0.893,
+        "genre": [
+            "alternative rock",
+            "anti-folk",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 28
+    }
+}

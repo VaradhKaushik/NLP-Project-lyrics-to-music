@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bela_Bartok\\10_Easy_Pieces_X._Bear_Dance.mid",
+    "artist_band_name": "Bela Bartok",
+    "song_title": "10 Easy Pieces X. Bear Dance",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.294,
+        "acousticness": 0.993,
+        "danceability": 0.506,
+        "instrumentalness": 0.929,
+        "liveness": 0.131,
+        "speechiness": 0.0376,
+        "loudness": -21.938,
+        "tempo": 131.098,
+        "time_signature": 4,
+        "valence": 0.0861,
+        "genre": [
+            "classical",
+            "early modern classical",
+            "neoclassicism"
+        ],
+        "popularity": 1
+    }
+}

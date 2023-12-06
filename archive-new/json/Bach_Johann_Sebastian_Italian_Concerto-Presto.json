@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Italian_Concerto-Presto.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Italian Concerto-Presto",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.333,
+        "acousticness": 0.987,
+        "danceability": 0.452,
+        "instrumentalness": 0.88,
+        "liveness": 0.155,
+        "speechiness": 0.0277,
+        "loudness": -20.142,
+        "tempo": 134.257,
+        "time_signature": 4,
+        "valence": 0.874,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 15
+    }
+}

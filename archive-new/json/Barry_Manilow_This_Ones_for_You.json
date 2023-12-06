@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Barry_Manilow\\This_Ones_for_You.mid",
+    "artist_band_name": "Barry Manilow",
+    "song_title": "This Ones for You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.423,
+        "acousticness": 0.55,
+        "danceability": 0.342,
+        "instrumentalness": 4.54e-05,
+        "liveness": 0.48,
+        "speechiness": 0.0288,
+        "loudness": -7.289,
+        "tempo": 125.608,
+        "time_signature": 4,
+        "valence": 0.369,
+        "genre": [
+            "adult standards",
+            "mellow gold",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 45
+    }
+}

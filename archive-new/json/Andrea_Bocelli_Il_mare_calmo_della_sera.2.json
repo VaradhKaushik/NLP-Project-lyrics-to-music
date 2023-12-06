@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Il_mare_calmo_della_sera.2.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Il mare calmo della sera.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.498,
+        "acousticness": 0.366,
+        "danceability": 0.234,
+        "instrumentalness": 0.00126,
+        "liveness": 0.107,
+        "speechiness": 0.0336,
+        "loudness": -5.433,
+        "tempo": 141.916,
+        "time_signature": 4,
+        "valence": 0.0912,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 24
+    }
+}

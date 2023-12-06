@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Billy_Preston\\You_Are_So_Beautiful.mid",
+    "artist_band_name": "Billy Preston",
+    "song_title": "You Are So Beautiful",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.539,
+        "acousticness": 0.603,
+        "danceability": 0.336,
+        "instrumentalness": 0.0012,
+        "liveness": 0.122,
+        "speechiness": 0.0352,
+        "loudness": -7.823,
+        "tempo": 137.323,
+        "time_signature": 4,
+        "valence": 0.385,
+        "genre": [
+            "funk",
+            "psychedelic soul",
+            "rock keyboard",
+            "soul",
+            "southern soul"
+        ],
+        "popularity": 32
+    }
+}

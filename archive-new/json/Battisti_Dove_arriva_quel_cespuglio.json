@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Dove_arriva_quel_cespuglio.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Dove arriva quel cespuglio",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.395,
+        "acousticness": 0.309,
+        "danceability": 0.615,
+        "instrumentalness": 7.33e-05,
+        "liveness": 0.103,
+        "speechiness": 0.0341,
+        "loudness": -17.136,
+        "tempo": 130.826,
+        "time_signature": 4,
+        "valence": 0.679,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 24
+    }
+}

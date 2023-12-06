@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\Alan_Jackson\\Tall,_Tall_Trees.mid",
+    "artist_band_name": "Alan Jackson",
+    "song_title": "Tall, Tall Trees",
+    "lyrics": {
+        "Verse": [
+            "If you want to drive a big limousine",
+            "I'll buy the longest one you've ever seen",
+            "I'll buy you tall, tall trees",
+            "And all the waters in the seas",
+            "I'm a fool, fool, fool for you",
+            "",
+            "If you want to own a great big mansion",
+            "Well I'll give it my utmost attention",
+            "I'll buy you tall, tall trees",
+            "And all the waters in the seas",
+            "I'm a fool, fool, fool for you",
+            "",
+            "If you want to take a trip across the ocean",
+            "I'll travel anywhere you take a notion",
+            "I'll buy you tall, tall trees",
+            "And all the waters in the seas",
+            "I'm a fool, fool, fool for you",
+            "If you want to own a great big mansion",
+            "Well I'll give it my utmost attention",
+            "I'll buy you tall, tall trees",
+            "And all the waters in the seas",
+            "I'm a fool, fool, fool for you",
+            ""
+        ],
+        "Chorus": [
+            "Well, I'm a fool, a fool for you",
+            "It may take awhile, but I'll prove it's true",
+            "Well, if it's loving you want, well I've got it",
+            "If it's money you want, then I'll get it",
+            "I'll buy you tall, tall trees",
+            "And all the waters in the seas",
+            "I'm a fool, fool, fool for you (Yahee) (Woo)",
+            "",
+            "Well, I'm a fool, oh for you",
+            "It may take awhile, but I'll prove it's true",
+            "Well, if it's loving you want, then I've got it",
+            "If it's money you want, then I'll get it",
+            "I'll buy you tall, tall trees",
+            "And all the waters in the seas",
+            "",
+            "[Outro]",
+            "I'm a fool, fool, fool for you",
+            "Yeah I'm a fool, fool, fool, for youEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.815,
+        "acousticness": 0.204,
+        "danceability": 0.676,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "speechiness": 0.037,
+        "loudness": -6.192,
+        "tempo": 145.969,
+        "time_signature": 4,
+        "valence": 0.965,
+        "genre": [
+            "country"
+        ],
+        "popularity": 60
+    }
+}

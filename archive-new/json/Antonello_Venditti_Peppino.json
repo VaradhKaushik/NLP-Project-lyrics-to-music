@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Peppino.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Peppino",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.379,
+        "acousticness": 0.56,
+        "danceability": 0.562,
+        "instrumentalness": 0,
+        "liveness": 0.11,
+        "speechiness": 0.0311,
+        "loudness": -13.794,
+        "tempo": 128.15,
+        "time_signature": 4,
+        "valence": 0.341,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

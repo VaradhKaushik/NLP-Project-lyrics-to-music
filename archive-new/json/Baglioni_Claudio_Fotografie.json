@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Baglioni_Claudio\\Fotografie.mid",
+    "artist_band_name": "Baglioni Claudio",
+    "song_title": "Fotografie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.582,
+        "acousticness": 0.68,
+        "danceability": 0.709,
+        "instrumentalness": 0.000367,
+        "liveness": 0.0774,
+        "speechiness": 0.0484,
+        "loudness": -6.793,
+        "tempo": 126.029,
+        "time_signature": 4,
+        "valence": 0.472,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 39
+    }
+}

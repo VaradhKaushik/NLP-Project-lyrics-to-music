@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brian_Wilson\\Love_and_Mercy.mid",
+    "artist_band_name": "Brian Wilson",
+    "song_title": "Love and Mercy",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.336,
+        "acousticness": 0.673,
+        "danceability": 0.517,
+        "instrumentalness": 0.00118,
+        "liveness": 0.0811,
+        "speechiness": 0.0296,
+        "loudness": -10.968,
+        "tempo": 102.46,
+        "time_signature": 4,
+        "valence": 0.318,
+        "genre": [
+            "baroque pop",
+            "sunshine pop"
+        ],
+        "popularity": 38
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\Two_Socks-The_Wolf_Theme.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "Two Socks-The Wolf Theme",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0738,
+        "acousticness": 0.76,
+        "danceability": 0.245,
+        "instrumentalness": 0.93,
+        "liveness": 0.118,
+        "speechiness": 0.045,
+        "loudness": -28.282,
+        "tempo": 77.264,
+        "time_signature": 4,
+        "valence": 0.0768,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 44
+    }
+}

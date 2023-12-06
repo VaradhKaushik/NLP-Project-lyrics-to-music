@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Alison_Moyet\\That_Ole_Devil_Called_Love.mid",
+    "artist_band_name": "Alison Moyet",
+    "song_title": "That Ole Devil Called Love",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.5,
+        "acousticness": 0.487,
+        "danceability": 0.419,
+        "instrumentalness": 0,
+        "liveness": 0.215,
+        "speechiness": 0.0289,
+        "loudness": -8.394,
+        "tempo": 67.529,
+        "time_signature": 4,
+        "valence": 0.337,
+        "genre": [
+            "new romantic",
+            "new wave pop",
+            "solo wave",
+            "sophisti-pop",
+            "synthpop"
+        ],
+        "popularity": 31
+    }
+}

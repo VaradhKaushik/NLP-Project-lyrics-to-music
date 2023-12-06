@@ -1,0 +1,77 @@
+{
+    "midi_file_path": "archive-new\\Ace_of_Base\\Lucky_Love.mid",
+    "artist_band_name": "Ace of Base",
+    "song_title": "Lucky Love",
+    "lyrics": {
+        "Verse": [
+            "I believe life could be paradise once again (Again, again, again)",
+            "And the love we thought we lost is sleeping within",
+            "Close your eyes, it's something for you",
+            "",
+            "We are young and we are old",
+            "We're fallin' like leaves (Like leaves, like leaves, like leaves)",
+            "And your heart's so full of soul",
+            "It makes me believe",
+            "Once again, it's something for you"
+        ],
+        "Chorus": [
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "'Cause I've been there with you tonight",
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "'Cause I've been there with you tonight",
+            "",
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "'Cause I've been there with you tonight",
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "I'm a prisoner of hope, I know",
+            "",
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "'Cause I've been there with you tonight",
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "",
+            "Lucky love, lucky love",
+            "Lucky love belongs in teenage heaven",
+            "Lucky love, lucky love",
+            "Lucky love belongs in teenage heaven",
+            "Whoa, whoa, yeah",
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "'Cause I've been there with you tonight",
+            "Lucky love belongs in teenage heaven",
+            "I know, I know",
+            "I'm a prisoner of hope, I know1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "A bridge over time",
+            "Was what you need to see the light",
+            "To see the light",
+            "Oh, yeah!",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.662,
+        "acousticness": 0.129,
+        "danceability": 0.769,
+        "instrumentalness": 0.00102,
+        "liveness": 0.0814,
+        "speechiness": 0.0319,
+        "loudness": -7.238,
+        "tempo": 104.104,
+        "time_signature": 4,
+        "valence": 0.863,
+        "genre": [
+            "eurodance",
+            "europop",
+            "new wave pop"
+        ],
+        "popularity": 46
+    }
+}

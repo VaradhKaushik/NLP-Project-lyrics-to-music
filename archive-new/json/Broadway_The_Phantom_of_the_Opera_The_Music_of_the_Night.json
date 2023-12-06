@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Broadway\\The_Phantom_of_the_Opera_The_Music_of_the_Night.mid",
+    "artist_band_name": "Broadway",
+    "song_title": "The Phantom of the Opera The Music of the Night",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0842,
+        "acousticness": 0.665,
+        "danceability": 0.235,
+        "instrumentalness": 0.00262,
+        "liveness": 0.108,
+        "speechiness": 0.0436,
+        "loudness": -20.915,
+        "tempo": 85.161,
+        "time_signature": 4,
+        "valence": 0.184,
+        "genre": [],
+        "popularity": 0
+    }
+}

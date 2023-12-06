@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Concerto_for_2_violins_in_D_minor_Il_Largo_.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Concerto for 2 violins in D minor Il Largo ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.18,
+        "acousticness": 0.847,
+        "danceability": 0.191,
+        "instrumentalness": 0.000265,
+        "liveness": 0.213,
+        "speechiness": 0.0356,
+        "loudness": -15.57,
+        "tempo": 124.577,
+        "time_signature": 4,
+        "valence": 0.132,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 11
+    }
+}

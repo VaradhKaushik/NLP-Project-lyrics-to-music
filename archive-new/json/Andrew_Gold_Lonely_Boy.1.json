@@ -1,0 +1,81 @@
+{
+    "midi_file_path": "archive-new\\Andrew_Gold\\Lonely_Boy.1.mid",
+    "artist_band_name": "Andrew Gold",
+    "song_title": "Lonely Boy.1",
+    "lyrics": {
+        "Verse": [
+            "He was born on a summer day, 1951",
+            "And with a slap of a hand, he had landed as an only son",
+            "",
+            "In the summer of '53, his mother brought him a sister",
+            "And she told him: \"We must attend to her needs, she's so much younger than you\"",
+            "",
+            "He left home on a winter day, 1969",
+            "And he hoped to find all the love he had lost in that earlier time",
+            ""
+        ],
+        "Chorus": [
+            "His mother and father said: \"What a lovely boy?",
+            "We'll teach him what we learned, ah, yes! Just what we learned",
+            "We'll dress him up warmly and we'll send him to school",
+            "It'll teach him how to fight, to be nobody's fool\"",
+            "",
+            "Oh!",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?",
+            "",
+            "Well, he ran down the hall and he cried",
+            "Oh! How could his parents have lied?",
+            "When they said he was their only son",
+            "He thought he was their only one",
+            "Oh!",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?",
+            "",
+            "Well, his sister grew up",
+            "And she married a man",
+            "He gave her a son",
+            "Ah, yes! A lovely son",
+            "They dressed him up warmly",
+            "They sent him to school",
+            "It taught him how to fight",
+            "To be nobody's fool",
+            "Oh!",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?",
+            "",
+            "[Outro]",
+            "Whoa-whoa-whoa!",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?",
+            "Oh! What a lonely boy?1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Goodbye Mama!",
+            "Goodbye you!",
+            "Goodbye Papa!",
+            "I'm pushing on through!",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.735,
+        "acousticness": 0.673,
+        "danceability": 0.602,
+        "instrumentalness": 2.36e-05,
+        "liveness": 0.772,
+        "speechiness": 0.034,
+        "loudness": -9.475,
+        "tempo": 124.645,
+        "time_signature": 4,
+        "valence": 0.779,
+        "genre": [
+            "underground power pop"
+        ],
+        "popularity": 1
+    }
+}

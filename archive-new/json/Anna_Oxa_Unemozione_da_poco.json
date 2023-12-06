@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Anna_Oxa\\Unemozione_da_poco.mid",
+    "artist_band_name": "Anna Oxa",
+    "song_title": "Unemozione da poco",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.62,
+        "acousticness": 0.462,
+        "danceability": 0.553,
+        "instrumentalness": 1.18e-05,
+        "liveness": 0.169,
+        "speechiness": 0.0412,
+        "loudness": -7.338,
+        "tempo": 114.849,
+        "time_signature": 4,
+        "valence": 0.639,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 23
+    }
+}

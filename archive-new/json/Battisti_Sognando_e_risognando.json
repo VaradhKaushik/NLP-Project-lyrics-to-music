@@ -1,0 +1,60 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Sognando_e_risognando.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Sognando e risognando",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "La stalla con i buoi",
+            "Per cielo gli occhi tuoi",
+            "E l'acqua e i pesci e poi",
+            "Gli uccelli intorno a noi",
+            "",
+            "[Strofa 3]",
+            "Se corro ce la far\u00f2",
+            "(E latte tu berrai)",
+            "Un'altra coda, oh no!",
+            "(E l'anima bianca tu avrai)",
+            "\u00c8 verde, ora si pu\u00f2",
+            "Che strada prendo non so",
+            "(E dopo cena nei boschi correrai)",
+            "Nervosa tu sarai",
+            "Sul marciapiede mi aspetterai",
+            "Il ristorante fa il turno oppure no?",
+            "Stavolta al cinema in piedi non star\u00f2",
+            "Prendo un calmante cos\u00ec",
+            "Stanotte dormo, oh s\u00ec!",
+            "[Ritornello]",
+            "(Uomo, se corri un po' ce la fai)",
+            "Ho quasi ancora un minuto",
+            "(Uomo, ormai vicino tu sei)",
+            "Io sono quasi arrivato",
+            "(Uomo, ormai sei giunto da lei)",
+            "Anche il posteggio ho trovato",
+            "",
+            "[Outro]",
+            "(Uomo, se corri un po' ce la fai",
+            "Uomo, se corri un po' ce la fai)Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.411,
+        "acousticness": 0.132,
+        "danceability": 0.466,
+        "instrumentalness": 8.82e-06,
+        "liveness": 0.0915,
+        "speechiness": 0.0892,
+        "loudness": -13.265,
+        "tempo": 131.803,
+        "time_signature": 4,
+        "valence": 0.122,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 23
+    }
+}

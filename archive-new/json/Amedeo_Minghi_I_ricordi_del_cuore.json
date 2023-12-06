@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\I_ricordi_del_cuore.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "I ricordi del cuore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.388,
+        "acousticness": 0.722,
+        "danceability": 0.27,
+        "instrumentalness": 7.53e-05,
+        "liveness": 0.122,
+        "speechiness": 0.0281,
+        "loudness": -11.025,
+        "tempo": 169.664,
+        "time_signature": 4,
+        "valence": 0.131,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

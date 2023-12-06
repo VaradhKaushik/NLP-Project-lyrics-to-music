@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alpert\\Tijuana_Taxi.mid",
+    "artist_band_name": "Alpert",
+    "song_title": "Tijuana Taxi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.572,
+        "acousticness": 0.615,
+        "danceability": 0.776,
+        "instrumentalness": 0.516,
+        "liveness": 0.041,
+        "speechiness": 0.0462,
+        "loudness": -9.831,
+        "tempo": 101.088,
+        "time_signature": 4,
+        "valence": 0.894,
+        "genre": [
+            "easy listening",
+            "lounge"
+        ],
+        "popularity": 45
+    }
+}

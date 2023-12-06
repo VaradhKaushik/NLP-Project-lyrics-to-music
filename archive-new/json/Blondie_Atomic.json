@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\Blondie\\Atomic.mid",
+    "artist_band_name": "Blondie",
+    "song_title": "Atomic",
+    "lyrics": {
+        "Verse": [
+            "Oh, your hair is beautiful",
+            "Oh, tonight",
+            "Atomic",
+            ""
+        ],
+        "Chorus": [
+            "Uh-huh, make me tonight",
+            "Tonight, make it right",
+            "Uh-huh, make me tonight",
+            "Tonight",
+            "Tonight",
+            "Oh, uh-huh, make it magnificent",
+            "Tonight",
+            "Right",
+            "",
+            "Tonight, make it magnificent",
+            "Tonight, make me tonight",
+            "Your hair is beautiful",
+            "Oh, tonight",
+            "",
+            "[Outro]",
+            "Atomic",
+            "Oh-oh, atomic",
+            "Oh-oh",
+            "Oh-oh, atomic",
+            "Oh-oh, atomic",
+            "Oh-ohYou might also like2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.824,
+        "acousticness": 0.0504,
+        "danceability": 0.596,
+        "instrumentalness": 0.129,
+        "liveness": 0.0586,
+        "speechiness": 0.0361,
+        "loudness": -4.893,
+        "tempo": 135.171,
+        "time_signature": 4,
+        "valence": 0.786,
+        "genre": [
+            "candy pop",
+            "new wave pop",
+            "permanent wave",
+            "power pop",
+            "rock",
+            "synthpop"
+        ],
+        "popularity": 61
+    }
+}

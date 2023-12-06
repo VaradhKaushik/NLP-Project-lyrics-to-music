@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Shameless.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Shameless",
+    "lyrics": {
+        "Verse": [
+            "Well, I'm shameless, when it comes to lovin' you",
+            "I'll do anything you want me to, I'll do anything at all",
+            "And I'm standin', here for all the world to see",
+            "Oh, baby, that's what's left of me, don't have very far to fall",
+            "",
+            "You know, now, I'm not a man who's ever been",
+            "Insecure about the world I've been livin' in",
+            "I don't break easy, I have my pride",
+            "But if you need to be satisfied",
+            "",
+            "You see in all my life I've never found",
+            "What I couldn't resist, what I couldn't turn down",
+            "I can walk away from anyone I ever knew",
+            "But I can't walk away from you",
+            "",
+            "You know it should be easy for a man who's strong",
+            "To say he's sorry or admit when he's wrong",
+            "I've never lost anything I've ever missed",
+            "But I've never been in love like this",
+            "It's out of my hands",
+            ""
+        ],
+        "Chorus": [
+            "I'm shameless, oh, honey I don't have a prayer",
+            "Every time I see you standin' there, I go down upon my knees",
+            "And I'm changin', swore I'd never compromise",
+            "Oh, but you convinced me otherwise, I'll do anything you please",
+            "",
+            "I'm shameless, I don't have the power now",
+            "I don't want it anyhow, so I gotta let it go",
+            "Oh, I'm shameless, shameless as a man can be",
+            "You could make a total fool of me, I just wanted to you to know",
+            "",
+            "[Outro]",
+            "Oh, I'm shameless",
+            "I just wanted you to know",
+            "Oh, I'm shameless",
+            "Oh, I'm down on my knees... shameless7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I have never let anything have this much control over me",
+            "I worked too hard to call my life my own",
+            "And I've made myself a world and it's worked so perfectly",
+            "But it's your world now, I can't refuse, I've never had so much to lose",
+            "Oh, I'm shameless",
+            "You might also like[Guitar Solo]",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.503,
+        "acousticness": 0.0205,
+        "danceability": 0.499,
+        "instrumentalness": 0,
+        "liveness": 0.213,
+        "speechiness": 0.0277,
+        "loudness": -10.893,
+        "tempo": 72.419,
+        "time_signature": 4,
+        "valence": 0.327,
+        "genre": [],
+        "popularity": 26
+    }
+}

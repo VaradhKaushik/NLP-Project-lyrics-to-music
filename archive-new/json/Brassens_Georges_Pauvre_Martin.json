@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Pauvre_Martin.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Pauvre Martin",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.36,
+        "acousticness": 0.696,
+        "danceability": 0.815,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "speechiness": 0.382,
+        "loudness": -10.342,
+        "tempo": 60.012,
+        "time_signature": 4,
+        "valence": 0.802,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 18
+    }
+}

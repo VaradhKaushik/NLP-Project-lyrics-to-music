@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\2_Brothers_on_the_4th_Floor\\Let_Me_Be_Free.mid",
+    "artist_band_name": "2 Brothers on the 4th Floor",
+    "song_title": "Let Me Be Free",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.783,
+        "acousticness": 0.0475,
+        "danceability": 0.742,
+        "instrumentalness": 3.83e-05,
+        "liveness": 0.253,
+        "speechiness": 0.0348,
+        "loudness": -6.329,
+        "tempo": 134.953,
+        "time_signature": 4,
+        "valence": 0.63,
+        "genre": [
+            "eurodance",
+            "hip house"
+        ],
+        "popularity": 46
+    }
+}

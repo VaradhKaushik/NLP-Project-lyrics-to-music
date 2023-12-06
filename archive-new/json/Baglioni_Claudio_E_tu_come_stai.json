@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Baglioni_Claudio\\E_tu_come_stai.mid",
+    "artist_band_name": "Baglioni Claudio",
+    "song_title": "E tu come stai",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.31,
+        "acousticness": 0.562,
+        "danceability": 0.332,
+        "instrumentalness": 0.000118,
+        "liveness": 0.111,
+        "speechiness": 0.0362,
+        "loudness": -13.096,
+        "tempo": 129.764,
+        "time_signature": 4,
+        "valence": 0.338,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 52
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Pluriel.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Pluriel",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.111,
+        "acousticness": 0.965,
+        "danceability": 0.816,
+        "instrumentalness": 0.00109,
+        "liveness": 0.111,
+        "speechiness": 0.161,
+        "loudness": -17.225,
+        "tempo": 97.644,
+        "time_signature": 4,
+        "valence": 0.716,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 8
+    }
+}

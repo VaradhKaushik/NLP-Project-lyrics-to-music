@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Alvin_Stardust\\I_Feel_Like_Buddy_Holly.mid",
+    "artist_band_name": "Alvin Stardust",
+    "song_title": "I Feel Like Buddy Holly",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.293,
+        "acousticness": 0.109,
+        "danceability": 0.673,
+        "instrumentalness": 0.0243,
+        "liveness": 0.0539,
+        "speechiness": 0.0286,
+        "loudness": -18.184,
+        "tempo": 113.1,
+        "time_signature": 4,
+        "valence": 0.539,
+        "genre": [
+            "glam rock"
+        ],
+        "popularity": 34
+    }
+}

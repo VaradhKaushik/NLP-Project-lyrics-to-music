@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Running_on_Ice.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Running on Ice",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.807,
+        "acousticness": 0.0589,
+        "danceability": 0.617,
+        "instrumentalness": 1.59e-05,
+        "liveness": 0.188,
+        "speechiness": 0.0344,
+        "loudness": -8.867,
+        "tempo": 157.489,
+        "time_signature": 4,
+        "valence": 0.894,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 35
+    }
+}

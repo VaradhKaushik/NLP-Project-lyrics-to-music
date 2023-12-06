@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Barriere\\Ma_vie.mid",
+    "artist_band_name": "Alain Barriere",
+    "song_title": "Ma vie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.656,
+        "acousticness": 0.787,
+        "danceability": 0.185,
+        "instrumentalness": 0.173,
+        "liveness": 0.39,
+        "speechiness": 0.0347,
+        "loudness": -4.792,
+        "tempo": 168.543,
+        "time_signature": 3,
+        "valence": 0.24,
+        "genre": [
+            "chanson",
+            "ye ye"
+        ],
+        "popularity": 40
+    }
+}

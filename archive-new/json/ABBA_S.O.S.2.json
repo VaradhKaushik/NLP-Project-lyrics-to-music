@@ -1,0 +1,56 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\S.O.S.2.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "S.O.S.2",
+    "lyrics": {
+        "Verse": [
+            "Where are those happy days? They seem so hard to find",
+            "I tried to reach for you, but you have closed your mind",
+            "Whatever happened to our love? I wish I understood",
+            "It used to be so nice, it used to be so good",
+            "",
+            "You seem so far away though you are standing near",
+            "You made me feel alive, but something died I fear",
+            "I really tried to make it out, I wish I understood",
+            "What happened to our love? It used to be so good",
+            ""
+        ],
+        "Chorus": [
+            "So, when you're near me, darling, can't you hear me? S.O.S",
+            "The love you gave me, nothing else can save me, S.O.S",
+            "When you're gone, how can I even try to go on?",
+            "When you're gone, though I try, how can I carry on?",
+            "",
+            "So, when you're near me, darling, can't you hear me? S.O.S",
+            "The love you gave me, nothing else can save me, S.O.S",
+            "When you're gone, how can I even try to go on?",
+            "When you're gone, though I try, how can I carry on?",
+            "",
+            "[Interlude]",
+            "So, when you're near me, darling, can't you hear me? S.O.S",
+            "And the love you gave me, nothing else can save me, S.O.S",
+            "When you're gone, how can I even try to go on?",
+            "When you're gone, though I try, how can I carry on?",
+            "",
+            "[Outro]",
+            "When you're gone, how can I even try to go on?",
+            "When you're gone, though I try, how can I carry on?8Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.898,
+        "acousticness": 0.515,
+        "danceability": 0.384,
+        "instrumentalness": 0.00341,
+        "liveness": 0.0593,
+        "speechiness": 0.0424,
+        "loudness": -3.432,
+        "tempo": 123.72,
+        "time_signature": 4,
+        "valence": 0.665,
+        "genre": [],
+        "popularity": 2
+    }
+}

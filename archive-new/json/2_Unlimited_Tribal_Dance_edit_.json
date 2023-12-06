@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\Tribal_Dance_edit_.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "Tribal Dance edit ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.964,
+        "acousticness": 0.019,
+        "danceability": 0.655,
+        "instrumentalness": 0.000465,
+        "liveness": 0.52,
+        "speechiness": 0.0528,
+        "loudness": -9.96,
+        "tempo": 136.038,
+        "time_signature": 4,
+        "valence": 0.804,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 12
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Ambra\\Ritmo_vitale.mid",
+    "artist_band_name": "Ambra",
+    "song_title": "Ritmo vitale",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.902,
+        "acousticness": 0.0033,
+        "danceability": 0.714,
+        "instrumentalness": 2.38e-05,
+        "liveness": 0.146,
+        "speechiness": 0.0647,
+        "loudness": -5.698,
+        "tempo": 123.001,
+        "time_signature": 4,
+        "valence": 0.696,
+        "genre": [
+            "italian pop rock"
+        ],
+        "popularity": 10
+    }
+}

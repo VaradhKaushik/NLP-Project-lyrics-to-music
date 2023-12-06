@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\101_Strings\\Theme_From_The_Godfather.mid",
+    "artist_band_name": "101 Strings",
+    "song_title": "Theme From The Godfather",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.368,
+        "acousticness": 0.96,
+        "danceability": 0.208,
+        "instrumentalness": 0.914,
+        "liveness": 0.201,
+        "speechiness": 0.0318,
+        "loudness": -11.125,
+        "tempo": 136.811,
+        "time_signature": 4,
+        "valence": 0.18,
+        "genre": [
+            "easy listening"
+        ],
+        "popularity": 16
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\2-Part_Invention_No._1_in_C_major,_BWV_772.3.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "2-Part Invention No. 1 in C major, BWV 772.3",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.316,
+        "acousticness": 0.993,
+        "danceability": 0.368,
+        "instrumentalness": 0.881,
+        "liveness": 0.117,
+        "speechiness": 0.0408,
+        "loudness": -20.48,
+        "tempo": 157.133,
+        "time_signature": 4,
+        "valence": 0.964,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 6
+    }
+}

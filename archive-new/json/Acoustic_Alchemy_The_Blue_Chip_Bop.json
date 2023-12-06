@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Acoustic_Alchemy\\The_Blue_Chip_Bop.mid",
+    "artist_band_name": "Acoustic Alchemy",
+    "song_title": "The Blue Chip Bop",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.691,
+        "acousticness": 0.134,
+        "danceability": 0.691,
+        "instrumentalness": 0.873,
+        "liveness": 0.0852,
+        "speechiness": 0.0319,
+        "loudness": -13.301,
+        "tempo": 133.382,
+        "time_signature": 4,
+        "valence": 0.824,
+        "genre": [
+            "british jazz",
+            "smooth jazz"
+        ],
+        "popularity": 8
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Britney_Spears\\Overprotected.mid",
+    "artist_band_name": "Britney Spears",
+    "song_title": "Overprotected",
+    "lyrics": {
+        "Verse": [
+            "Say hello to the girl that I am",
+            "You're gonna have to see through my perspective",
+            "I need to make mistakes just to learn who I am",
+            "And I don't wanna be so damn protected",
+            "",
+            "I'll tell 'em what I like, what I want, and what I don't",
+            "But every time I do, I stand corrected",
+            "Things that I've been told, I can't believe what I hear about the world",
+            "I realize I'm overprotected"
+        ],
+        "Chorus": [
+            "There must be another way",
+            "'Cause I believe in taking chances",
+            "But who am I to say what a girl is to do?",
+            "God, I need some answers",
+            "",
+            "What am I to do with my life? (You will find it out, don't worry)",
+            "How am I supposed to know what's right? (You just gotta do it your way)",
+            "I can't help the way I feel",
+            "But my life has been so overprotected",
+            "",
+            "There must be another way",
+            "'Cause I believe in taking chances",
+            "But who am I to say what a girl is to do?",
+            "God, I need some answers",
+            "",
+            "What am I to do with my life? (You will find it out, don't worry)",
+            "How am I supposed to know what's right? (You just gotta do it your way)",
+            "I can't help the way I feel (Help the way I feel)",
+            "But my life has been so overprotected",
+            "",
+            "[Interlude]",
+            "I need time, love",
+            "I need space",
+            "(This is it)",
+            "",
+            "What am I to do with my life? (You will find it out, don't worry)",
+            "How am I supposed to know what's right? (You just gotta do it your way)",
+            "I can't help the way I feel",
+            "But my life has been so overprotected",
+            "What am I to do with my life? (You will find it out, don't worry)",
+            "How am I supposed to know what's right? (You just gotta do it your way)",
+            "I can't help the way I feel (Oh, I can't help the way I feel)",
+            "But my life has been so overprotected7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I don't need nobody telling me just what I wanna",
+            "What I, what, what, what I'm gonna (I need) do about my destiny",
+            "I say no, no, nobody's telling me just what I wanna do, do",
+            "I'm so fed up with people telling me to be someone else but me (Action!)",
+            "",
+            "I don't need nobody telling me just what I wanna",
+            "What I, what, what, what I'm gonna do about my destiny",
+            "I say no, no, nobody's telling me just what I wanna do, do",
+            "I'm so fed up with people telling me to be someone else but me",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.894,
+        "acousticness": 0.0381,
+        "danceability": 0.682,
+        "instrumentalness": 0,
+        "liveness": 0.416,
+        "speechiness": 0.0727,
+        "loudness": -1.73,
+        "tempo": 95.992,
+        "time_signature": 4,
+        "valence": 0.845,
+        "genre": [
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 66
+    }
+}

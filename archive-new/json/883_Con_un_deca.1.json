@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Con_un_deca.1.mid",
+    "artist_band_name": "883",
+    "song_title": "Con un deca.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.898,
+        "acousticness": 0.00105,
+        "danceability": 0.661,
+        "instrumentalness": 0,
+        "liveness": 0.215,
+        "speechiness": 0.0349,
+        "loudness": -7.451,
+        "tempo": 124.015,
+        "time_signature": 4,
+        "valence": 0.421,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 0
+    }
+}

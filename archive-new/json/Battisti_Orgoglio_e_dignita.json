@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Orgoglio_e_dignita.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Orgoglio e dignita",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.792,
+        "acousticness": 0.0669,
+        "danceability": 0.644,
+        "instrumentalness": 0.0138,
+        "liveness": 0.0736,
+        "speechiness": 0.0406,
+        "loudness": -9.476,
+        "tempo": 131.522,
+        "time_signature": 4,
+        "valence": 0.872,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

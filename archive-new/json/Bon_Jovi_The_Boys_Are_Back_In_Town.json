@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Bon_Jovi\\The_Boys_Are_Back_In_Town.mid",
+    "artist_band_name": "Bon Jovi",
+    "song_title": "The Boys Are Back In Town",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.965,
+        "acousticness": 0.000489,
+        "danceability": 0.428,
+        "instrumentalness": 1.67e-05,
+        "liveness": 0.308,
+        "speechiness": 0.0674,
+        "loudness": -4.58,
+        "tempo": 77.624,
+        "time_signature": 4,
+        "valence": 0.512,
+        "genre": [
+            "glam metal",
+            "rock"
+        ],
+        "popularity": 36
+    }
+}

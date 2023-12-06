@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Brian_May\\Too_Much_Love_Will_Kill_You.mid",
+    "artist_band_name": "Brian May",
+    "song_title": "Too Much Love Will Kill You",
+    "lyrics": {
+        "Verse": [
+            "I'm just the pieces of the man I used to be",
+            "Too many bitter tears are raining down on me",
+            "I'm far away from home",
+            "And I've been facing this alone for much too long",
+            "I feel like no one ever told the truth to me",
+            "About growing up and what a struggle it would be",
+            "In my tangled state of mind",
+            "I've been looking back to find where I went wrong",
+            "",
+            "I'm just the shadow of the man I used to be",
+            "And it seems like there's no way out of this for me",
+            "I used to bring you sunshine",
+            "Now all I ever do is bring you down",
+            "How would it be if you were standing in my shoes?",
+            "Can't you see that it's impossible to choose?",
+            "No, there's no making sense of it",
+            "Every way I go I have to lose"
+        ],
+        "Chorus": [
+            "Too much love will kill you",
+            "If you can't make up your mind",
+            "Torn between the lover",
+            "And the love you leave behind",
+            "You're headed for disaster",
+            "'Cause you never read the signs",
+            "Too much love will kill you every time",
+            "",
+            "Ooh, too much love will kill you",
+            "Just as sure as none at all",
+            "It'll drain the power that's in you",
+            "Make you plead and scream and crawl",
+            "And the pain will make you crazy",
+            "You're the victim of your crime",
+            "Too much love will kill you every time",
+            "",
+            "Yeah, too much love will kill you",
+            "It'll make your life a lie",
+            "Yes, too much love will kill you",
+            "And you won't understand why",
+            "You'd give your life, you'd sell your soul",
+            "But here it comes again",
+            "Too much love will kill you",
+            "In the end",
+            "In the endEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.23,
+        "acousticness": 0.874,
+        "danceability": 0.309,
+        "instrumentalness": 0.00012,
+        "liveness": 0.968,
+        "speechiness": 0.0342,
+        "loudness": -13.623,
+        "tempo": 74.572,
+        "time_signature": 4,
+        "valence": 0.223,
+        "genre": [
+            "glam rock"
+        ],
+        "popularity": 40
+    }
+}

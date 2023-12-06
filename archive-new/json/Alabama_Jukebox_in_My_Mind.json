@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Jukebox_in_My_Mind.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Jukebox in My Mind",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.388,
+        "acousticness": 0.233,
+        "danceability": 0.713,
+        "instrumentalness": 0,
+        "liveness": 0.332,
+        "speechiness": 0.0361,
+        "loudness": -12.84,
+        "tempo": 115.392,
+        "time_signature": 4,
+        "valence": 0.583,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 33
+    }
+}

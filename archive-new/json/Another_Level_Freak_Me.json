@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Another_Level\\Freak_Me.mid",
+    "artist_band_name": "Another Level",
+    "song_title": "Freak Me",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.67,
+        "acousticness": 0.0183,
+        "danceability": 0.772,
+        "instrumentalness": 0,
+        "liveness": 0.366,
+        "speechiness": 0.0455,
+        "loudness": -6.846,
+        "tempo": 136.676,
+        "time_signature": 4,
+        "valence": 0.852,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 41
+    }
+}

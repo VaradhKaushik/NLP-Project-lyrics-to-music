@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Playboy_Mommy.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Playboy Mommy",
+    "lyrics": {
+        "Verse": [
+            "In my platforms I hit the floor",
+            "Fell face down, didn\u2019t help my brain out",
+            "Then the baby came before I found",
+            "The magic, how to keep her happy",
+            "I never was the fantasy",
+            "Of what you want or wanted me to be",
+            "",
+            "I never was there, was there when it counts",
+            "I get my way, you\u2019re so like me",
+            "You seemed ashamed, ashamed that I was",
+            "A good friend of American soldiers",
+            "I\u2019ll say it loud here by your grave",
+            "Those angels can\u2019t ever take my place"
+        ],
+        "Chorus": [
+            "But don\u2019t judge me so harsh, little girl",
+            "So, you got a playboy mommy",
+            "But when you tell 'em my name",
+            "You want to cross that bridge all on your own",
+            "Little girl, they\u2019ll do you no harm",
+            "'Cause they know your playboy mommy",
+            "But when you tell 'em my name",
+            "From here to Birmingham I got a few friends",
+            "",
+            "Don\u2019t judge me so harsh, little girl",
+            "You got a playboy mommy",
+            "But when you tell 'em my name",
+            "You want to cross that bridge all on your own",
+            "Little girl, they\u2019ll do you no harm",
+            "Because they know your playboy mommy",
+            "But you just tell 'em my name",
+            "You tell 'em my name",
+            "I got a few friends",
+            "",
+            "Don\u2019t judge me so harsh, little girl",
+            "You got a playboy mommy, come home",
+            "But when you tell them soldiers my name",
+            "Cross that bridge all on your own",
+            "Little girl, they\u2019ll do you no harm",
+            "'Cause they know your playboy mommy",
+            "I'll be home, I'll be home",
+            "To take you in my armsEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Somewhere where the orchids grow",
+            "I can\u2019t find those church bells",
+            "That played when you died",
+            "Played Gloria",
+            "Talking about Hosanna",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.635,
+        "acousticness": 0.757,
+        "danceability": 0.617,
+        "instrumentalness": 1.64e-06,
+        "liveness": 0.187,
+        "speechiness": 0.0278,
+        "loudness": -5.473,
+        "tempo": 102.854,
+        "time_signature": 4,
+        "valence": 0.379,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 31
+    }
+}

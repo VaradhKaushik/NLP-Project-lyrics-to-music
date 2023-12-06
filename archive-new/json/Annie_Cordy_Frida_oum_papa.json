@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Annie_Cordy\\Frida_oum_papa.mid",
+    "artist_band_name": "Annie Cordy",
+    "song_title": "Frida oum papa",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.693,
+        "acousticness": 0.786,
+        "danceability": 0.694,
+        "instrumentalness": 1.81e-05,
+        "liveness": 0.814,
+        "speechiness": 0.0564,
+        "loudness": -8.848,
+        "tempo": 120.04,
+        "time_signature": 4,
+        "valence": 0.805,
+        "genre": [
+            "chanson paillarde",
+            "classic french pop",
+            "ye ye"
+        ],
+        "popularity": 5
+    }
+}

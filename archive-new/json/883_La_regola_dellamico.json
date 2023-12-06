@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\La_regola_dellamico.mid",
+    "artist_band_name": "883",
+    "song_title": "La regola dellamico",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.943,
+        "acousticness": 0.335,
+        "danceability": 0.739,
+        "instrumentalness": 0,
+        "liveness": 0.107,
+        "speechiness": 0.0456,
+        "loudness": -6.422,
+        "tempo": 129.005,
+        "time_signature": 4,
+        "valence": 0.766,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 49
+    }
+}

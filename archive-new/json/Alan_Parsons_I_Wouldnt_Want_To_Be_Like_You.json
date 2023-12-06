@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Alan_Parsons\\I_Wouldnt_Want_To_Be_Like_You.mid",
+    "artist_band_name": "Alan Parsons",
+    "song_title": "I Wouldnt Want To Be Like You",
+    "lyrics": {
+        "Verse": [
+            "If I had a mind to",
+            "I wouldn't wanna think like you",
+            "And if I had time to",
+            "I wouldn't wanna talk to you, oh",
+            "",
+            "If I was high class",
+            "I wouldn't need a buck to pass",
+            "And if I was a fall guy",
+            "I wouldn't need no alibi",
+            "",
+            "Back on the bottom line",
+            "Diggin' for a lousy dime, yeah",
+            "If I hit a mother lode",
+            "I'd cover anything that showed, oh"
+        ],
+        "Chorus": [
+            "I don't care what you do",
+            "I wouldn't wanna be like you, yeah",
+            "",
+            "I don't care what you do",
+            "I wouldn't wanna be like you",
+            "No, oh, oh",
+            "",
+            "[Guitar Solo]",
+            "",
+            "I don't care what you do",
+            "I wouldn't wanna be like you, oh",
+            "I don't care what you do",
+            "I wouldn't wanna",
+            "",
+            "[Outro: Lenny Zakatek]",
+            "I wouldn't want to be like you",
+            "I wouldn't want to be like you",
+            "Yeah, oh, yeah, oh4Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.648,
+        "acousticness": 0.498,
+        "danceability": 0.69,
+        "instrumentalness": 9.55e-06,
+        "liveness": 0.118,
+        "speechiness": 0.0515,
+        "loudness": -8.384,
+        "tempo": 100.694,
+        "time_signature": 4,
+        "valence": 0.253,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 58
+    }
+}

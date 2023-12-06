@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Alain_Chamfort\\Manureva.mid",
+    "artist_band_name": "Alain Chamfort",
+    "song_title": "Manureva",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.803,
+        "acousticness": 0.141,
+        "danceability": 0.62,
+        "instrumentalness": 0.000455,
+        "liveness": 0.0516,
+        "speechiness": 0.0272,
+        "loudness": -5.713,
+        "tempo": 131.753,
+        "time_signature": 4,
+        "valence": 0.716,
+        "genre": [
+            "chanson",
+            "classic french pop",
+            "french synthpop"
+        ],
+        "popularity": 46
+    }
+}

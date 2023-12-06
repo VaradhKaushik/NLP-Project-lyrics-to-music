@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\BERRY_CHUCK\\Johnny_B_Goode.2.mid",
+    "artist_band_name": "BERRY CHUCK",
+    "song_title": "Johnny B Goode.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.713,
+        "acousticness": 0.825,
+        "danceability": 0.504,
+        "instrumentalness": 0.00172,
+        "liveness": 0.413,
+        "speechiness": 0.186,
+        "loudness": -8.241,
+        "tempo": 167.648,
+        "time_signature": 4,
+        "valence": 0.895,
+        "genre": [
+            "blues",
+            "blues rock",
+            "classic rock",
+            "rock",
+            "rock-and-roll",
+            "rockabilly",
+            "soul"
+        ],
+        "popularity": 27
+    }
+}

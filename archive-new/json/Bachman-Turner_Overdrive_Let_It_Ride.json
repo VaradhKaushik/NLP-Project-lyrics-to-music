@@ -1,0 +1,36 @@
+{
+    "midi_file_path": "archive-new\\Bachman-Turner_Overdrive\\Let_It_Ride.mid",
+    "artist_band_name": "Bachman-Turner Overdrive",
+    "song_title": "Let It Ride",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.818,
+        "acousticness": 0.107,
+        "danceability": 0.638,
+        "instrumentalness": 0.00283,
+        "liveness": 0.191,
+        "speechiness": 0.0376,
+        "loudness": -10.204,
+        "tempo": 104.37,
+        "time_signature": 4,
+        "valence": 0.821,
+        "genre": [
+            "album rock",
+            "classic canadian rock",
+            "classic rock",
+            "country rock",
+            "folk rock",
+            "hard rock",
+            "mellow gold",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 59
+    }
+}

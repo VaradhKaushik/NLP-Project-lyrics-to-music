@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Sei.1.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Sei.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.687,
+        "acousticness": 0.3,
+        "danceability": 0.409,
+        "instrumentalness": 6.56e-05,
+        "liveness": 0.127,
+        "speechiness": 0.0295,
+        "loudness": -5.641,
+        "tempo": 173.943,
+        "time_signature": 4,
+        "valence": 0.439,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 8
+    }
+}

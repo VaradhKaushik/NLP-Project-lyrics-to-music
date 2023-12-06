@@ -1,0 +1,65 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Humpty_Dumpty.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Humpty Dumpty",
+    "lyrics": {
+        "Verse": [
+            "Humpty Dumpty sat on the wall",
+            "Humpty Dumpty had a great big fall",
+            "And all the king's horses and all the king's men",
+            "Couldn't put Humpty together again",
+            "",
+            "Humpty Dumpty and Betty Louise",
+            "Stole a Sony and some Camembert cheese",
+            "And she said, \"Humpty, baby, take me",
+            "Ooh yeah, take me to the river",
+            "'Cause I like the way it runs, yeah",
+            "Take me to the river",
+            "You know I like the way it runs, yeah\"",
+            "",
+            "Humpty Dumpty sat on the wall",
+            "And looked at her as he was falling",
+            "And all the king's horses and all the king's men",
+            "Couldn't put Humpty together again",
+            "Hey, Betty Louise, hey, Betty Louise",
+            "She said, \"I like custard in the summer, honey\"",
+            "Oh yeah, what it takes to be queen",
+            "Hey, what it takes to be queen",
+            "What it takes to beEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "\"Everything's going my way\"",
+            "He said, \"Maybe it's my lu-lucky day\"",
+            "And he said, \"Anything you want I can give\"",
+            "She said, \"I want to take your picture just for me\"",
+            "He said, \"Anything\"",
+            "She said, \"Up there, baby, get on the wall, babe\"",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.331,
+        "acousticness": 0.927,
+        "danceability": 0.504,
+        "instrumentalness": 0,
+        "liveness": 0.063,
+        "speechiness": 0.0313,
+        "loudness": -10.74,
+        "tempo": 113.205,
+        "time_signature": 4,
+        "valence": 0.611,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 19
+    }
+}

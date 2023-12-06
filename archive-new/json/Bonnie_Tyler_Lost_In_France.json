@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bonnie_Tyler\\Lost_In_France.mid",
+    "artist_band_name": "Bonnie Tyler",
+    "song_title": "Lost In France",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.539,
+        "acousticness": 0.302,
+        "danceability": 0.462,
+        "instrumentalness": 0,
+        "liveness": 0.0691,
+        "speechiness": 0.0282,
+        "loudness": -10.651,
+        "tempo": 116.777,
+        "time_signature": 4,
+        "valence": 0.625,
+        "genre": [
+            "europop",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 36
+    }
+}

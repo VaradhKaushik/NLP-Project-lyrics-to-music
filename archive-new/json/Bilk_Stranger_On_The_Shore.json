@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Bilk\\Stranger_On_The_Shore.mid",
+    "artist_band_name": "Bilk",
+    "song_title": "Stranger On The Shore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.322,
+        "acousticness": 0.94,
+        "danceability": 0.307,
+        "instrumentalness": 0.727,
+        "liveness": 0.104,
+        "speechiness": 0.0361,
+        "loudness": -11.944,
+        "tempo": 94.774,
+        "time_signature": 4,
+        "valence": 0.275,
+        "genre": [
+            "easy listening",
+            "jazz clarinet"
+        ],
+        "popularity": 34
+    }
+}

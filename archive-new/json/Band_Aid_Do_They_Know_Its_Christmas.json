@@ -1,0 +1,44 @@
+{
+    "midi_file_path": "archive-new\\Band_Aid\\Do_They_Know_Its_Christmas.mid",
+    "artist_band_name": "Band Aid",
+    "song_title": "Do They Know Its Christmas",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "Feed the world",
+            "Feed the world",
+            "Feed the world",
+            "Let them know it's Christmas time again",
+            "Feed the world",
+            "Let them know it's Christmas time again",
+            "Feed the world",
+            "Let them know it's Christmas time again",
+            "Feed the world",
+            "Let them know it's Christmas time again",
+            "Feed the world",
+            "Let them know it's Christmas time again",
+            "Feed the world",
+            "Let them know it's Christmas time again",
+            "Feed the world",
+            "Let them know it's Christmas time again13Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.643,
+        "acousticness": 0.164,
+        "danceability": 0.598,
+        "instrumentalness": 3.35e-05,
+        "liveness": 0.0992,
+        "speechiness": 0.0364,
+        "loudness": -6.933,
+        "tempo": 115.41,
+        "time_signature": 4,
+        "valence": 0.349,
+        "genre": [
+            "musical advocacy"
+        ],
+        "popularity": 84
+    }
+}

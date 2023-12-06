@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Buona_domenica.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Buona domenica",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.512,
+        "acousticness": 0.175,
+        "danceability": 0.53,
+        "instrumentalness": 3.24e-06,
+        "liveness": 0.204,
+        "speechiness": 0.0668,
+        "loudness": -14.279,
+        "tempo": 129.558,
+        "time_signature": 4,
+        "valence": 0.705,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 43
+    }
+}

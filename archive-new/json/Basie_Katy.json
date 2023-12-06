@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Katy.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Katy",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0434,
+        "acousticness": 0.663,
+        "danceability": 0.462,
+        "instrumentalness": 0.0016,
+        "liveness": 0.101,
+        "speechiness": 0.0404,
+        "loudness": -22.83,
+        "tempo": 71.412,
+        "time_signature": 4,
+        "valence": 0.196,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 11
+    }
+}

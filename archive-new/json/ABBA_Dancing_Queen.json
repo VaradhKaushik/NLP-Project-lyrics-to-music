@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Dancing_Queen.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Dancing Queen",
+    "lyrics": {
+        "Verse": [
+            "Friday night and the lights are low",
+            "Looking out for a place to go",
+            "Where they play the right music, getting in the swing",
+            "You come to look for a king",
+            "Anybody could be that guy",
+            "Night is young and the music's high",
+            "With a bit of rock music, everything is fine",
+            "You're in the mood for a dance",
+            "And when you get the chance",
+            "",
+            "You're a teaser, you turn 'em on",
+            "Leave 'em burning and then you're gone",
+            "Looking out for another, anyone will do",
+            "You're in the mood for a dance",
+            "And when you get the chance",
+            ""
+        ],
+        "Chorus": [
+            "You can dance, you can jive",
+            "Having the time of your life",
+            "Ooh, see that girl, watch that scene",
+            "Digging the dancing queen",
+            "",
+            "You are the dancing queen",
+            "Young and sweet, only seventeen",
+            "Dancing queen",
+            "Feel the beat from the tambourine, oh yeah",
+            "You can dance, you can jive",
+            "Having the time of your life",
+            "Ooh, see that girl, watch that scene",
+            "Digging the dancing queen",
+            "You are the dancing queen",
+            "Young and sweet, only seventeen",
+            "Dancing queen",
+            "Feel the beat from the tambourine, oh yeah",
+            "You can dance, you can jive",
+            "Having the time of your life",
+            "Ooh, see that girl, watch that scene",
+            "Digging the dancing queen",
+            "",
+            "[Outro]",
+            "Digging the dancing queen47Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.87,
+        "acousticness": 0.358,
+        "danceability": 0.543,
+        "instrumentalness": 0.000939,
+        "liveness": 0.792,
+        "speechiness": 0.0428,
+        "loudness": -6.514,
+        "tempo": 100.804,
+        "time_signature": 4,
+        "valence": 0.754,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 86
+    }
+}

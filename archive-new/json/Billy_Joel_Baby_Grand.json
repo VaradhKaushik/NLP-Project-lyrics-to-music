@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Baby_Grand.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Baby Grand",
+    "lyrics": {
+        "Verse": [
+            "Late at night when it's dark and cold",
+            "I reach out for someone to hold",
+            "When I'm blue, when I'm lonely",
+            "She comes through, she's the only one who can",
+            "My baby grand is all I need",
+            "",
+            "In my time, I've wandered everywhere",
+            "Around this world, she would always be there",
+            "Any day, any hour",
+            "All it takes is the power in my hands",
+            "This baby grand's been good to me",
+            "",
+            "They say that no one's gonna play this on the radio",
+            "Why, I don't believe that",
+            "They said the melancholy blues were dead and gone",
+            "But only songs like these played in minor keys",
+            "Keep those memories holding on"
+        ],
+        "Chorus": [
+            "I've had friends, but they slipped away",
+            "And I've had fame, but it doesn't stay",
+            "I've made fortunes, I spent them fast enough",
+            "But as for women, they don't lust with just one man",
+            "But my baby grand is gonna stand by me",
+            "",
+            "I've come far from the life I strayed in",
+            "And I've got the scars from those dives I played in",
+            "Now I'm home, and I'm weary",
+            "And in my bones, every dreary one night stand",
+            "My baby grand is coming home with me",
+            "With me",
+            "",
+            "[Outro: Billy Joel]",
+            "But ever since this gig began",
+            "My baby grand's been good to meEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.355,
+        "acousticness": 0.516,
+        "danceability": 0.336,
+        "instrumentalness": 1.7e-06,
+        "liveness": 0.13,
+        "speechiness": 0.0362,
+        "loudness": -11.783,
+        "tempo": 67.765,
+        "time_signature": 4,
+        "valence": 0.136,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 50
+    }
+}

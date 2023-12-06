@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\The_Wrong_Band.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "The Wrong Band",
+    "lyrics": {
+        "Verse": [
+            "I think it's perfectly clear - we're in the wrong band",
+            "Ginger is always sincere, just not to one man",
+            "She called me up and she said, \"You know that I'm drowning\"",
+            "It's the dog trainer again",
+            "He says that he thinks that she needs more hands",
+            "",
+            "I think it's perfectly clear - we're in the wrong band",
+            "Senator, let's be sincere as much as you can",
+            "He called her up and he said, \"The new prosecutor",
+            "Soon will be wanting a word\"",
+            "So she's got a soft spot for heels and spurs",
+            "",
+            "I think it's perfectly clear - we're in the wrong band",
+            "Heidi says she'll be sincere as much as she can",
+            "I called her up and I said, \"You know that I'm drowning",
+            "Put on your raincoat again",
+            "'Cause even the sun's got a price on it\""
+        ],
+        "Chorus": [
+            "And there's something believing in her voice again",
+            "Said there's something believing",
+            "Instead of just leaving, instead of just leaving, instead of just leaving",
+            "And she gets her cigars from the sweet fat man",
+            "",
+            "And there's something believing in her voice again",
+            "Said there's something believing",
+            "Instead of just leaving, instead of just leaving, instead of just leaving",
+            "She said it's time I open my eyes, don't be afraid to open your eyes",
+            "Maybe she's right",
+            "Maybe she's right",
+            "Maybe she's right",
+            "Maybe she's rightEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.151,
+        "acousticness": 0.95,
+        "danceability": 0.385,
+        "instrumentalness": 7.63e-06,
+        "liveness": 0.14,
+        "speechiness": 0.059,
+        "loudness": -16.524,
+        "tempo": 181.86,
+        "time_signature": 3,
+        "valence": 0.595,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 27
+    }
+}

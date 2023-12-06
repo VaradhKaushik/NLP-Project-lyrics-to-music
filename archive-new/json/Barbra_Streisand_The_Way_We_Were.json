@@ -1,0 +1,62 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\The_Way_We_Were.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "The Way We Were",
+    "lyrics": {
+        "Verse": [
+            "Hmm hmm",
+            "Memories",
+            "Light the corners of my mind",
+            "Misty water-colored memories",
+            "Of the way we were",
+            "",
+            "Scattered pictures",
+            "Of the smiles we left behind",
+            "Smiles we gave to one another",
+            "For the way we were",
+            "",
+            "Memories",
+            "May be beautiful and yet",
+            "What's too painful to remember",
+            "We simply choose to forget",
+            "",
+            "[Outro]",
+            "So it's the laughter",
+            "We will remember",
+            "Whenever we remember",
+            "The way we were",
+            "The way we were",
+            "Hmmmmm hmmmmm",
+            "Hmm hmm hmmmmmm hmmm hmmm hmm hmm",
+            "Hmmm hmmm hmmmmm hmmmmm hmmmmmmmmmmm1Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Can it be that",
+            "It was all so simple then?",
+            "Or has time re-written every line?",
+            "If we had the chance to do it all again",
+            "Tell me, would we?",
+            "Could we?"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.32,
+        "acousticness": 0.885,
+        "danceability": 0.264,
+        "instrumentalness": 0.00141,
+        "liveness": 0.134,
+        "speechiness": 0.0325,
+        "loudness": -11.716,
+        "tempo": 138.108,
+        "time_signature": 3,
+        "valence": 0.171,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 64
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Sentimiento_nuevo.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Sentimiento nuevo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.587,
+        "acousticness": 0.0357,
+        "danceability": 0.724,
+        "instrumentalness": 6.15e-06,
+        "liveness": 0.163,
+        "speechiness": 0.0309,
+        "loudness": -10.435,
+        "tempo": 124.177,
+        "time_signature": 4,
+        "valence": 0.837,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 46
+    }
+}

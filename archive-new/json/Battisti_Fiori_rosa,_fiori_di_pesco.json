@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Fiori_rosa,_fiori_di_pesco.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Fiori rosa, fiori di pesco",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.379,
+        "acousticness": 0.646,
+        "danceability": 0.442,
+        "instrumentalness": 0,
+        "liveness": 0.0458,
+        "speechiness": 0.0375,
+        "loudness": -12.864,
+        "tempo": 130.744,
+        "time_signature": 4,
+        "valence": 0.139,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 55
+    }
+}

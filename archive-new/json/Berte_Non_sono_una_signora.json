@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Non_sono_una_signora.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Non sono una signora",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.737,
+        "acousticness": 0.0874,
+        "danceability": 0.744,
+        "instrumentalness": 2.65e-06,
+        "liveness": 0.742,
+        "speechiness": 0.0347,
+        "loudness": -8.587,
+        "tempo": 128.357,
+        "time_signature": 4,
+        "valence": 0.585,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 59
+    }
+}

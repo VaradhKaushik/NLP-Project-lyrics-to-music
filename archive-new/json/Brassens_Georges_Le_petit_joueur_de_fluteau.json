@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_petit_joueur_de_fluteau.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le petit joueur de fluteau",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.264,
+        "acousticness": 0.867,
+        "danceability": 0.577,
+        "instrumentalness": 0.000455,
+        "liveness": 0.105,
+        "speechiness": 0.229,
+        "loudness": -11.338,
+        "tempo": 177.308,
+        "time_signature": 3,
+        "valence": 0.53,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 3
+    }
+}

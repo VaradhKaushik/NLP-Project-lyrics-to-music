@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Northern_Lad.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Northern Lad",
+    "lyrics": {
+        "Verse": [
+            "Had a northern lad, well, not exactly had",
+            "He moved like the sunset - God, who painted that?",
+            "First he loved my accent, how his knees could bend",
+            "I thought we'd be okay, me and my molasses",
+            "",
+            "You don't show much these days, it gets so fucking cold",
+            "I loved his secret places, but I can't go anymore",
+            "\"You change like sugarcane,\" says my northern lad",
+            "I guess you go too far when pianos try to be guitars",
+            ""
+        ],
+        "Chorus": [
+            "But I feel something is wrong",
+            "But I feel this cake just isn't done",
+            "Don't say that you don't",
+            "",
+            "And if you could see me now",
+            "Said, if you could see me now",
+            "Girls, you've got to know when it's time to turn the page",
+            "When you're only wet because of the rain",
+            "Because of",
+            "'Cause of the rain, 'cause of",
+            "",
+            "I feel the West in you",
+            "But I feel it falling apart too",
+            "Don't say that you don't",
+            "And if you could see me now",
+            "Said, if you could see me now",
+            "Girls, you've got to know when it's time to turn the page",
+            "When you're only wet because of the rain",
+            "When you're only wet because of the rain",
+            "Because of the",
+            "'Cause of the rain, 'cause of",
+            "'Cause of the rain, 'cause of the rainEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.505,
+        "acousticness": 0.178,
+        "danceability": 0.49,
+        "instrumentalness": 2.49e-05,
+        "liveness": 0.211,
+        "speechiness": 0.0287,
+        "loudness": -5.925,
+        "tempo": 119.854,
+        "time_signature": 4,
+        "valence": 0.203,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 35
+    }
+}

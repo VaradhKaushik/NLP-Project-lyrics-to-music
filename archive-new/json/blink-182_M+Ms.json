@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\M+Ms.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "M+Ms",
+    "lyrics": {
+        "Verse": [
+            "You and I should get away for a while",
+            "I just wanna be alone with your smile",
+            "Buy some candy and cigarettes, and we'll get in my car",
+            "We'll blast the stereo and we'll drive to Madagascar",
+            "",
+            "My love life was getting so bland",
+            "There are only so many ways I can make love with my hand",
+            "Sometimes it makes me want to laugh",
+            "Sometimes I wanna take my toaster in the bath",
+            "",
+            "Who's gonna be the odd man out?",
+            "I don't wanna be the odd man out",
+            "Is this going to be the end?",
+            "Or are you going to be my new girlfriend?5Embed"
+        ],
+        "Chorus": [
+            "'Cause when I'm with you, there's nothing I wouldn't do",
+            "I just wanna be your only one",
+            "I'm grasping out at straws, thinking back to what I saw",
+            "That night on the floor when we were all alone",
+            "",
+            "'Cause when I'm with you, there's nothing I wouldn't do",
+            "I just wanna be your only one",
+            "I'm grasping out at straws, thinking back to what I saw",
+            "That night on the floor when we were all alone",
+            "",
+            "[Guitar Solo]"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.871,
+        "acousticness": 1.6e-05,
+        "danceability": 0.194,
+        "instrumentalness": 0.0273,
+        "liveness": 0.0873,
+        "speechiness": 0.0465,
+        "loudness": -7.922,
+        "tempo": 159.41,
+        "time_signature": 4,
+        "valence": 0.752,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 55
+    }
+}

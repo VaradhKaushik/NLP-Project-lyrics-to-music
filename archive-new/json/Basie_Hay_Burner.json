@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Hay_Burner.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Hay Burner",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.462,
+        "acousticness": 0.441,
+        "danceability": 0.669,
+        "instrumentalness": 0.185,
+        "liveness": 0.114,
+        "speechiness": 0.0349,
+        "loudness": -9.919,
+        "tempo": 120.038,
+        "time_signature": 4,
+        "valence": 0.648,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 44
+    }
+}

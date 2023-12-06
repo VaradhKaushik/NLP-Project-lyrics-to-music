@@ -1,0 +1,53 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Cuccurucucu.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Cuccurucucu",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Lady Madonna",
+            "I can try",
+            "With a little help from my friends",
+            "Oh, goodbye Ruby Tuesday",
+            "Come on baby let's twist again",
+            "Once upon a time you dressed so fine, Mary",
+            "Like just a woman",
+            "Like a rolling stone",
+            "",
+            "[Ritornello]",
+            "Cuccurucuc\u00f9 paloma",
+            "Ahiaiaiaiai cantava",
+            "Cuccurucucucucu-u-uh paloma",
+            "Ahiaiaiaiaiaiaiai cantava",
+            "[Outro: Coro, Franco Battiato]",
+            "Lady Madonna",
+            "I can try",
+            "With a little help from my friends",
+            "Oh, goodbye Ruby Tuesday",
+            "Come on baby let's twist again",
+            "Once upon a time you dressed so fine, Mary",
+            "Like just a woman",
+            "Like a rolling stoneEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.527,
+        "acousticness": 0.12,
+        "danceability": 0.731,
+        "instrumentalness": 0.000169,
+        "liveness": 0.0812,
+        "speechiness": 0.0844,
+        "loudness": -11.959,
+        "tempo": 92.776,
+        "time_signature": 4,
+        "valence": 0.772,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 56
+    }
+}

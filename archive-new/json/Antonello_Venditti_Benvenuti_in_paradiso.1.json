@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Benvenuti_in_paradiso.1.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Benvenuti in paradiso.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.962,
+        "acousticness": 0.297,
+        "danceability": 0.569,
+        "instrumentalness": 0.00139,
+        "liveness": 0.985,
+        "speechiness": 0.0431,
+        "loudness": -5.374,
+        "tempo": 96.011,
+        "time_signature": 4,
+        "valence": 0.578,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 11
+    }
+}

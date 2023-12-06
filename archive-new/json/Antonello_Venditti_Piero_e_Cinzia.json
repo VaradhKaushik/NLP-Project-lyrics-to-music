@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Piero_e_Cinzia.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Piero e Cinzia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.428,
+        "acousticness": 0.602,
+        "danceability": 0.564,
+        "instrumentalness": 2.64e-05,
+        "liveness": 0.133,
+        "speechiness": 0.0447,
+        "loudness": -15.49,
+        "tempo": 62.155,
+        "time_signature": 4,
+        "valence": 0.213,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 32
+    }
+}

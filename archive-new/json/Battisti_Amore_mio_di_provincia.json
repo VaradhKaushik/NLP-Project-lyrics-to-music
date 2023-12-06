@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Amore_mio_di_provincia.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Amore mio di provincia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.62,
+        "acousticness": 0.0151,
+        "danceability": 0.692,
+        "instrumentalness": 2.48e-05,
+        "liveness": 0.25,
+        "speechiness": 0.0268,
+        "loudness": -9.785,
+        "tempo": 131.934,
+        "time_signature": 4,
+        "valence": 0.787,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 31
+    }
+}

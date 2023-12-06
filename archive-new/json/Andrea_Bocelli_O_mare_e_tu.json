@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\O_mare_e_tu.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "O mare e tu",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.406,
+        "acousticness": 0.421,
+        "danceability": 0.515,
+        "instrumentalness": 4.87e-05,
+        "liveness": 0.446,
+        "speechiness": 0.0301,
+        "loudness": -9.715,
+        "tempo": 93.952,
+        "time_signature": 4,
+        "valence": 0.204,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 27
+    }
+}

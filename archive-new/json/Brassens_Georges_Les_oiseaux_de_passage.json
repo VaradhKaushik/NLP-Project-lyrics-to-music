@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Les_oiseaux_de_passage.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Les oiseaux de passage",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.296,
+        "acousticness": 0.836,
+        "danceability": 0.658,
+        "instrumentalness": 0,
+        "liveness": 0.262,
+        "speechiness": 0.216,
+        "loudness": -12.156,
+        "tempo": 111.088,
+        "time_signature": 4,
+        "valence": 0.793,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 15
+    }
+}

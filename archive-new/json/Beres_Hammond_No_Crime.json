@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Beres_Hammond\\No_Crime.mid",
+    "artist_band_name": "Beres Hammond",
+    "song_title": "No Crime",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.542,
+        "acousticness": 0.33,
+        "danceability": 0.628,
+        "instrumentalness": 0,
+        "liveness": 0.343,
+        "speechiness": 0.183,
+        "loudness": -6.258,
+        "tempo": 84.813,
+        "time_signature": 4,
+        "valence": 0.425,
+        "genre": [
+            "lovers rock",
+            "reggae",
+            "roots reggae",
+            "soca"
+        ],
+        "popularity": 5
+    }
+}

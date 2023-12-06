@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\No_dottore.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "No dottore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.409,
+        "acousticness": 0.0591,
+        "danceability": 0.527,
+        "instrumentalness": 0.000142,
+        "liveness": 0.185,
+        "speechiness": 0.0749,
+        "loudness": -17.094,
+        "tempo": 103.227,
+        "time_signature": 4,
+        "valence": 0.202,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 22
+    }
+}

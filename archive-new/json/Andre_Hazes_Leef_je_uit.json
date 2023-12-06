@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andre_Hazes\\Leef_je_uit.mid",
+    "artist_band_name": "Andre Hazes",
+    "song_title": "Leef je uit",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.711,
+        "acousticness": 0.00809,
+        "danceability": 0.588,
+        "instrumentalness": 7.04e-06,
+        "liveness": 0.0755,
+        "speechiness": 0.0393,
+        "loudness": -9.611,
+        "tempo": 120.168,
+        "time_signature": 4,
+        "valence": 0.65,
+        "genre": [
+            "dutch rock",
+            "kermis",
+            "levenslied"
+        ],
+        "popularity": 24
+    }
+}

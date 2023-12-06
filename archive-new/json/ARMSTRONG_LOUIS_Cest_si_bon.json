@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\ARMSTRONG_LOUIS\\Cest_si_bon.mid",
+    "artist_band_name": "ARMSTRONG LOUIS",
+    "song_title": "Cest si bon",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.189,
+        "acousticness": 0.806,
+        "danceability": 0.599,
+        "instrumentalness": 7.5e-05,
+        "liveness": 0.193,
+        "speechiness": 0.0899,
+        "loudness": -12.476,
+        "tempo": 113.201,
+        "time_signature": 4,
+        "valence": 0.419,
+        "genre": [
+            "adult standards",
+            "dixieland",
+            "harlem renaissance",
+            "jazz trumpet",
+            "new orleans jazz",
+            "soul",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 59
+    }
+}

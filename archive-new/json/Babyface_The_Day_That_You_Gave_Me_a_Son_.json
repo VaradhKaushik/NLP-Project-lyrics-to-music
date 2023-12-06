@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\Babyface\\The_Day_That_You_Gave_Me_a_Son_.mid",
+    "artist_band_name": "Babyface",
+    "song_title": "The Day That You Gave Me a Son ",
+    "lyrics": {
+        "Verse": [
+            "'Twas late December the news came",
+            "And I got so excited, I cried all day, yes",
+            "And you were such a lovely, precious sight",
+            "When I saw our baby in your eyes",
+            "",
+            "I called 'bout everyone I knew, yes",
+            "Just think, I'll be a father 'cause of you",
+            "Oh, there's no greater love than what you gave",
+            "A brand new baby on the way",
+            ""
+        ],
+        "Chorus": [
+            "It was like falling deep in love",
+            "I heard the angels cry above",
+            "I felt a blessing straight from God",
+            "The day that you gave me a son",
+            "",
+            "It was like falling deep in love",
+            "I heard the angels cry above",
+            "I felt a blessing straight from God",
+            "The day that you gave me a son",
+            "",
+            "It was like falling deep in love",
+            "I heard the angels cry above",
+            "I felt a blessing straight from God",
+            "The day that you gave me a sonEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Oh, such tears of joy, I've never known",
+            "I can't remember",
+            "It's like a song, I've never heard",
+            "I've never sung, but know the words"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.148,
+        "acousticness": 0.803,
+        "danceability": 0.35,
+        "instrumentalness": 0,
+        "liveness": 0.114,
+        "speechiness": 0.0311,
+        "loudness": -12.969,
+        "tempo": 139.11,
+        "time_signature": 4,
+        "valence": 0.193,
+        "genre": [
+            "contemporary r&b",
+            "r&b"
+        ],
+        "popularity": 27
+    }
+}

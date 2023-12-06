@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Birkin\\Di_doo_dah.mid",
+    "artist_band_name": "Birkin",
+    "song_title": "Di doo dah",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.316,
+        "acousticness": 0.497,
+        "danceability": 0.584,
+        "instrumentalness": 0.632,
+        "liveness": 0.0719,
+        "speechiness": 0.0376,
+        "loudness": -14.332,
+        "tempo": 76.024,
+        "time_signature": 4,
+        "valence": 0.732,
+        "genre": [
+            "chanson"
+        ],
+        "popularity": 45
+    }
+}

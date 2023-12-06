@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Angelo_Branduardi\\Cogli_la_prima_mela.mid",
+    "artist_band_name": "Angelo Branduardi",
+    "song_title": "Cogli la prima mela",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.604,
+        "acousticness": 0.616,
+        "danceability": 0.465,
+        "instrumentalness": 1.21e-06,
+        "liveness": 0.232,
+        "speechiness": 0.0536,
+        "loudness": -11.679,
+        "tempo": 106.351,
+        "time_signature": 3,
+        "valence": 0.878,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 31
+    }
+}

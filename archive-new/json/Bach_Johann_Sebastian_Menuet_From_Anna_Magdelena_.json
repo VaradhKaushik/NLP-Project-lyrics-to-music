@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Menuet_From_Anna_Magdelena_.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Menuet From Anna Magdelena ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.138,
+        "acousticness": 0.975,
+        "danceability": 0.557,
+        "instrumentalness": 0.902,
+        "liveness": 0.128,
+        "speechiness": 0.0808,
+        "loudness": -22.668,
+        "tempo": 124.507,
+        "time_signature": 3,
+        "valence": 0.918,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 8
+    }
+}

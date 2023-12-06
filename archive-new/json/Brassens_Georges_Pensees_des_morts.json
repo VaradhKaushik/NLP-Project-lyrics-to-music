@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Pensees_des_morts.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Pensees des morts",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.227,
+        "acousticness": 0.898,
+        "danceability": 0.413,
+        "instrumentalness": 0.000859,
+        "liveness": 0.111,
+        "speechiness": 0.0849,
+        "loudness": -12.891,
+        "tempo": 173.624,
+        "time_signature": 3,
+        "valence": 0.386,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 4
+    }
+}

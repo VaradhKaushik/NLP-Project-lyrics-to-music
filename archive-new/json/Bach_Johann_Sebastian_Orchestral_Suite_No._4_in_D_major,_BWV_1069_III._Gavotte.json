@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Orchestral_Suite_No._4_in_D_major,_BWV_1069_III._Gavotte.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Orchestral Suite No. 4 in D major, BWV 1069 III. Gavotte",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.187,
+        "acousticness": 0.94,
+        "danceability": 0.412,
+        "instrumentalness": 0.512,
+        "liveness": 0.17,
+        "speechiness": 0.0407,
+        "loudness": -19.443,
+        "tempo": 177.219,
+        "time_signature": 4,
+        "valence": 0.844,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 8
+    }
+}

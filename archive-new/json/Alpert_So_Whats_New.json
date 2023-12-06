@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alpert\\So_Whats_New.mid",
+    "artist_band_name": "Alpert",
+    "song_title": "So Whats New",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.405,
+        "acousticness": 0.288,
+        "danceability": 0.668,
+        "instrumentalness": 0.908,
+        "liveness": 0.106,
+        "speechiness": 0.0499,
+        "loudness": -14.997,
+        "tempo": 172.157,
+        "time_signature": 4,
+        "valence": 0.557,
+        "genre": [
+            "easy listening",
+            "lounge"
+        ],
+        "popularity": 32
+    }
+}

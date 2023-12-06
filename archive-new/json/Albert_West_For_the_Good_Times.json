@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Albert_West\\For_the_Good_Times.mid",
+    "artist_band_name": "Albert West",
+    "song_title": "For the Good Times",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.283,
+        "acousticness": 0.717,
+        "danceability": 0.496,
+        "instrumentalness": 0.000398,
+        "liveness": 0.142,
+        "speechiness": 0.0279,
+        "loudness": -14.881,
+        "tempo": 88.304,
+        "time_signature": 4,
+        "valence": 0.438,
+        "genre": [
+            "nederpop"
+        ],
+        "popularity": 6
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\Alan_Parsons\\Prime_Time.mid",
+    "artist_band_name": "Alan Parsons",
+    "song_title": "Prime Time",
+    "lyrics": {
+        "Verse": [
+            "Well even the longest night won't last forever",
+            "But too many hopes and dreams won't see the light",
+            "And all of the plans I make won't come together",
+            "Well even the brightest star won't shine forever",
+            "But all of the hands I play are working out right",
+            "And every move I make feels like a winner",
+            ""
+        ],
+        "Chorus": [
+            "Something in the air",
+            "Maybe for the only time in my life",
+            "Something in the air",
+            "Turning me around and guiding me right",
+            "And it's a prime time, maybe the stars were right",
+            "I had a premonition, it's gonna be my turn tonight",
+            "Gonna be my turn tonight",
+            "",
+            "And it's a prime time, maybe the stars were right",
+            "I had a premonition, it's gonna be my turn tonight",
+            "Gonna be my turn tonight",
+            "Gonna be my turn tonight",
+            "You might also like[Guitar Solo]",
+            "",
+            "",
+            "[Outro]",
+            "Gonna be my turn tonight3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.633,
+        "acousticness": 0.0956,
+        "danceability": 0.798,
+        "instrumentalness": 0.00027,
+        "liveness": 0.0694,
+        "speechiness": 0.0355,
+        "loudness": -11.65,
+        "tempo": 122.376,
+        "time_signature": 4,
+        "valence": 0.81,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 48
+    }
+}

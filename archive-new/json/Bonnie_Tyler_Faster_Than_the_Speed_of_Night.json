@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bonnie_Tyler\\Faster_Than_the_Speed_of_Night.mid",
+    "artist_band_name": "Bonnie Tyler",
+    "song_title": "Faster Than the Speed of Night",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.92,
+        "acousticness": 0.186,
+        "danceability": 0.432,
+        "instrumentalness": 1.61e-05,
+        "liveness": 0.255,
+        "speechiness": 0.0533,
+        "loudness": -9.291,
+        "tempo": 97.99,
+        "time_signature": 4,
+        "valence": 0.583,
+        "genre": [
+            "europop",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 38
+    }
+}

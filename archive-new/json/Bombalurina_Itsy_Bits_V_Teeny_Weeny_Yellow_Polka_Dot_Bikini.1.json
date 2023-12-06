@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Bombalurina\\Itsy_Bits_V_Teeny_Weeny_Yellow_Polka_Dot_Bikini.1.mid",
+    "artist_band_name": "Bombalurina",
+    "song_title": "Itsy Bits V Teeny Weeny Yellow Polka Dot Bikini.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.816,
+        "acousticness": 0.0725,
+        "danceability": 0.72,
+        "instrumentalness": 0.000871,
+        "liveness": 0.321,
+        "speechiness": 0.0546,
+        "loudness": -11.546,
+        "tempo": 126.149,
+        "time_signature": 4,
+        "valence": 0.914,
+        "genre": [],
+        "popularity": 2
+    }
+}

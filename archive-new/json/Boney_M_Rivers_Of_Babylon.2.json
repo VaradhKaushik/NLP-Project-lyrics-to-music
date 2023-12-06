@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Boney_M\\Rivers_Of_Babylon.2.mid",
+    "artist_band_name": "Boney M",
+    "song_title": "Rivers Of Babylon.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.832,
+        "acousticness": 0.00893,
+        "danceability": 0.636,
+        "instrumentalness": 0.000171,
+        "liveness": 0.207,
+        "speechiness": 0.0425,
+        "loudness": -5.44,
+        "tempo": 116.29,
+        "time_signature": 4,
+        "valence": 0.632,
+        "genre": [
+            "europop"
+        ],
+        "popularity": 20
+    }
+}

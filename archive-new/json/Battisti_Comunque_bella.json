@@ -1,0 +1,49 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Comunque_bella.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Comunque bella",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Anche quando un mattino tornasti vestita di pioggia",
+            "Con lo sguardo stravolto da una notte d'amore",
+            "\"Siediti qui\"",
+            "\"Non ti chiedo perdono perch\u00e9 tu sei un uomo\"",
+            "",
+            "[Strofa 3]",
+            "Coi capelli bagnati",
+            "(So che capirai)",
+            "Con quei segni sul viso",
+            "(Mi spiace da morire, sai)",
+            "Coi tuoi occhi arrossati",
+            "Mentre tu mentivi e mi dicevi che",
+            "Ancora pi\u00f9 di prima tu amavi me",
+            "Tu...",
+            "",
+            "[Ritornello]",
+            "Eri bella",
+            "Bella",
+            "Comunque bellaEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.117,
+        "acousticness": 0.727,
+        "danceability": 0.48,
+        "instrumentalness": 0.0084,
+        "liveness": 0.091,
+        "speechiness": 0.0393,
+        "loudness": -15.826,
+        "tempo": 144.42,
+        "time_signature": 4,
+        "valence": 0.0888,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 40
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Hard_Workin_Man.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Hard Workin Man",
+    "lyrics": {
+        "Verse": [
+            "I'm a hard-workin' man",
+            "I wear a steel hard hat",
+            "I can ride, rope, hammer and paint",
+            "Do things with my hands that most men can't",
+            "I can't get ahead no matter how hard I try",
+            "I'm gettin' really good at barely gettin' by",
+            "",
+            "Got everything I own",
+            "By the sweat of my brow",
+            "From my four-wheel drive to my cowboy boots",
+            "I owe it all to my blue-collar roots",
+            "Feel like I'm workin' overtime on a runaway train",
+            "I've got to bust loose from this ball and chain",
+            "",
+            "Come Friday night",
+            "I like to party hard",
+            "I carry on with the Cadillac cuties",
+            "Spend my whole week's pay on some weekend beauty",
+            "Come Monday mornin' I'm the first to arrive",
+            "I ain't nothin' but business, y'all, from nine to five"
+        ],
+        "Chorus": [
+            "I'm a hard, hard-workin' man",
+            "I got it all on the line for a piece of the promised land",
+            "And I'm burnin' my candle at both ends",
+            "'Bout the only way to keep the fire goin' is to outrun the wind",
+            "",
+            "[Piano & Violin Solo]",
+            "",
+            "I'm a hard, hard-workin' man",
+            "I got it all on the line for a piece of the promised land",
+            "Yeah, I'm burnin' my candle at both ends",
+            "'Bout the only way to keep the fire goin' is to outrun the wind",
+            "",
+            "[Outro]",
+            "I can't wait to get up in the morning and do it all over again",
+            "Well, I'm a hard-livin', hard-workin' manEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.769,
+        "acousticness": 0.333,
+        "danceability": 0.692,
+        "instrumentalness": 1.22e-06,
+        "liveness": 0.0552,
+        "speechiness": 0.0369,
+        "loudness": -9.363,
+        "tempo": 151.503,
+        "time_signature": 4,
+        "valence": 0.727,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 62
+    }
+}

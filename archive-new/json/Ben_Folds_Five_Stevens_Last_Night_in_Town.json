@@ -1,0 +1,72 @@
+{
+    "midi_file_path": "archive-new\\Ben_Folds_Five\\Stevens_Last_Night_in_Town.mid",
+    "artist_band_name": "Ben Folds Five",
+    "song_title": "Stevens Last Night in Town",
+    "lyrics": {
+        "Verse": [
+            "Everyone gather round now, sing us a song",
+            "Just in case by tomorrow it happens he's gone",
+            "For two weeks and seven days our fair foreign friend",
+            "I have this feeling we might never see Steven again",
+            "",
+            "He's charmed everyone here, except Tamara Easter",
+            "Who later revealed to him her innermost secrets",
+            "Won us over with stories about Linda McCartney",
+            "Lost points with the ladies for saying he couldn't",
+            "Love a woman with cellulite",
+            "",
+            "We were talking 'bout something, seems like was funny",
+            "And then Steven got quiet, I think Steven was mad",
+            "Maybe he wasn't mad, but we felt very strange",
+            "In the moment, but the moment was passed",
+            "And forgotten about",
+            ""
+        ],
+        "Chorus": [
+            "But we thought he was gone",
+            "And now he's come back again",
+            "Last week it was funny",
+            "And now the joke's wearing thin",
+            "Cause everyone knows now, that every night now",
+            "Will be Steven's last night in town",
+            "",
+            "But we thought he was gone",
+            "And now he's come back again",
+            "Last week it was funny",
+            "And now the joke's wearing thin",
+            "Cause everyone knows now, that every night now",
+            "Will be Steven's last night in town",
+            "You might also likeKick that shit say",
+            "Kick that shit say",
+            "Kick that shit say",
+            "Kick that shit say",
+            "",
+            "But we thought he was gone",
+            "And now he's come back again",
+            "Last week it was funny",
+            "And now the joke's wearing thin",
+            "Cause everyone knows now, that every night now",
+            "Will be Steven's last night in townEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.699,
+        "acousticness": 0.0235,
+        "danceability": 0.514,
+        "instrumentalness": 0.000709,
+        "liveness": 0.547,
+        "speechiness": 0.0654,
+        "loudness": -5.274,
+        "tempo": 112.935,
+        "time_signature": 4,
+        "valence": 0.23,
+        "genre": [
+            "permanent wave",
+            "piano rock",
+            "pop rock"
+        ],
+        "popularity": 32
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Tempete_dans_un_benitier.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Tempete dans un benitier",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.213,
+        "acousticness": 0.821,
+        "danceability": 0.808,
+        "instrumentalness": 0,
+        "liveness": 0.0983,
+        "speechiness": 0.476,
+        "loudness": -14.259,
+        "tempo": 111.272,
+        "time_signature": 4,
+        "valence": 0.9,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 7
+    }
+}

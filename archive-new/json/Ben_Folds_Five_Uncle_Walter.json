@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Ben_Folds_Five\\Uncle_Walter.mid",
+    "artist_band_name": "Ben Folds Five",
+    "song_title": "Uncle Walter",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.798,
+        "acousticness": 0.00537,
+        "danceability": 0.411,
+        "instrumentalness": 4.56e-06,
+        "liveness": 0.201,
+        "speechiness": 0.0308,
+        "loudness": -8.576,
+        "tempo": 142.149,
+        "time_signature": 4,
+        "valence": 0.885,
+        "genre": [
+            "permanent wave",
+            "piano rock",
+            "pop rock"
+        ],
+        "popularity": 27
+    }
+}

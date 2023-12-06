@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\The_Love_Theme.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "The Love Theme",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0471,
+        "acousticness": 0.861,
+        "danceability": 0.0811,
+        "instrumentalness": 0.792,
+        "liveness": 0.127,
+        "speechiness": 0.0418,
+        "loudness": -26.641,
+        "tempo": 82.82,
+        "time_signature": 4,
+        "valence": 0.0522,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 36
+    }
+}

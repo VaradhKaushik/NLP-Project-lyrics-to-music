@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Im_in_a_Hurry.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Im in a Hurry",
+    "lyrics": {
+        "Verse": [
+            "Don't know why",
+            "I have to drive so fast",
+            "My car has nothing to prove",
+            "It's not new",
+            "But it'll do 0 to 60 in 5.2, oh",
+            "",
+            "Can't be late",
+            "I leave in plenty of time",
+            "Shaking hands with the clock",
+            "I can't stop",
+            "I'm on a roll and I'm ready to rock, oh"
+        ],
+        "Chorus": [
+            "I'm in a hurry to get things done",
+            "Oh, I rush and rush until life's no fun",
+            "All I really gotta do is live and die",
+            "But I'm in a hurry and don't know why",
+            "",
+            "I'm in a hurry to get things done",
+            "Oh I rush and rush until life's no fun",
+            "All I really gotta do is live and die",
+            "But I'm in a hurry and don't know why",
+            "",
+            "I'm in a hurry to get things done",
+            "Oh I rush and rush until life's no fun",
+            "All I really gotta do is live and die",
+            "But I'm in a hurry and don't know why",
+            "",
+            "I'm in a hurry to get things done",
+            "I rush and rush until life's no fun",
+            "All I really gotta do is live and die",
+            "But I'm in a hurry and don't know why",
+            "I'm in a hurry to get things done",
+            "I rush and rush until life's no fun",
+            "All I really gotta do is live and die",
+            "But I'm in a hurry and don't know why",
+            "I'm in a hurry to get things done",
+            "I rush and rush until life's no fun",
+            "All I really gotta do is live and die",
+            "But I'm in a hurry and don't know why",
+            "I'm in a hurry to get things done",
+            "I rush and rush until life's no fun",
+            "All I really gotta do is live and die",
+            "But I'm in a hurry and don't know whyEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I hear a voice",
+            "It says I'm running behind",
+            "I better pick up my pace",
+            "It's a race",
+            "And there ain't no room",
+            "For someone in second place",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.72,
+        "acousticness": 0.237,
+        "danceability": 0.748,
+        "instrumentalness": 0,
+        "liveness": 0.069,
+        "speechiness": 0.0286,
+        "loudness": -7.774,
+        "tempo": 128.69,
+        "time_signature": 4,
+        "valence": 0.86,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 67
+    }
+}

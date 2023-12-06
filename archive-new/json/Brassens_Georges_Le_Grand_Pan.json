@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Grand_Pan.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Grand Pan",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.312,
+        "acousticness": 0.856,
+        "danceability": 0.611,
+        "instrumentalness": 0,
+        "liveness": 0.118,
+        "speechiness": 0.146,
+        "loudness": -10.779,
+        "tempo": 101.784,
+        "time_signature": 4,
+        "valence": 0.699,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 10
+    }
+}

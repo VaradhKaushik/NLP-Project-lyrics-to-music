@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Al_Stewart\\The_Year_of_the_Cat.2.mid",
+    "artist_band_name": "Al Stewart",
+    "song_title": "The Year of the Cat.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.607,
+        "acousticness": 0.0114,
+        "danceability": 0.531,
+        "instrumentalness": 0.00511,
+        "liveness": 0.121,
+        "speechiness": 0.0328,
+        "loudness": -9.602,
+        "tempo": 116.652,
+        "time_signature": 4,
+        "valence": 0.534,
+        "genre": [
+            "art rock",
+            "folk rock",
+            "mellow gold",
+            "progressive rock",
+            "singer-songwriter",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 65
+    }
+}

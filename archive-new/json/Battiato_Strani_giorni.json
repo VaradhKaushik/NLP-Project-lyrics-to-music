@@ -1,0 +1,46 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Strani_giorni.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Strani giorni",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Nella voce di un cantante",
+            "Si rispecchia il sole",
+            "Ogni amata ogni amante",
+            "",
+            "[Ritornello 1: Franco Battiato]",
+            "Strani giorni",
+            "Viviamo strani giorni",
+            "",
+            "[Post-Ritornello 1: Franco Battiato, con Nicola Walker Smith]",
+            "I've fallen into reverie",
+            "I dreamed a vague outline",
+            "The whisky flowed",
+            "Sending me into the past",
+            "Action roll the cameras",
+            "Here comes a lighting tour of my life",
+            "The two in the corner didn't say a wordEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.646,
+        "acousticness": 0.0142,
+        "danceability": 0.436,
+        "instrumentalness": 1.76e-06,
+        "liveness": 0.315,
+        "speechiness": 0.0283,
+        "loudness": -8.908,
+        "tempo": 180.019,
+        "time_signature": 4,
+        "valence": 0.606,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 37
+    }
+}

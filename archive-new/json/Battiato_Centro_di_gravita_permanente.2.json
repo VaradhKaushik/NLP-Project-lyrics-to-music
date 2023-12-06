@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Centro_di_gravita_permanente.2.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Centro di gravita permanente.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.561,
+        "acousticness": 0.112,
+        "danceability": 0.76,
+        "instrumentalness": 5.99e-06,
+        "liveness": 0.0406,
+        "speechiness": 0.0297,
+        "loudness": -10.832,
+        "tempo": 131.13,
+        "time_signature": 4,
+        "valence": 0.683,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 59
+    }
+}

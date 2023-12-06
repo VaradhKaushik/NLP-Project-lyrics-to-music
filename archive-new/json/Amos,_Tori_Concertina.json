@@ -1,0 +1,81 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Concertina.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Concertina",
+    "lyrics": {
+        "Verse": [
+            "Clouds descending",
+            "I\u2019m not policing what you think and dream",
+            "I run into your thought from across the room",
+            "Just another trick, can I weather this?",
+            "",
+            "The soul-quake happened here in a glass world",
+            "Particle by particle she slowly changes",
+            "She likes hanging Chinese paper cuts",
+            "Just another fix, can I weather this?",
+            ""
+        ],
+        "Chorus": [
+            "I\u2019ve got a fever above my waist",
+            "You got a squeezebox on your knee",
+            "I know the truth is in between",
+            "The 1st and 40th drink",
+            "",
+            "Concertina, concertina, a chill that bends",
+            "This I swear, you\u2019re the fiercest calm I\u2019ve been in",
+            "Concertina, concertina, try infrared",
+            "This I swear, you\u2019re the fiercest calm I\u2019ve been in",
+            "",
+            "I got my fuzz all tipped to play",
+            "I got a dub on your landscape",
+            "Then there\u2019s your policy of trancing",
+            "The sauce without the blame",
+            "Concertina, concertina a chill that bends",
+            "This I swear, you\u2019re the fiercest calm I\u2019ve been in",
+            "Concertina, concertina, try infrared",
+            "This I swear, you\u2019re the fiercest calm I\u2019ve been in",
+            "",
+            "I\u2019ve got a fever above my waist",
+            "You got a squeezebox on your knee",
+            "I know the truth lies in between",
+            "The 1st and 40th drink",
+            "",
+            "Concertina, concertina a chill that bends",
+            "This I swear you\u2019re the fiercest calm I\u2019ve been in",
+            "Concertina, concertina try infrared",
+            "This I swear you\u2019re the fiercest calm I\u2019ve been in",
+            "",
+            "[Outro]",
+            "Clouds descendingEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Too far, too far, too far",
+            "It could all get way too cheerful, now",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.594,
+        "acousticness": 0.417,
+        "danceability": 0.201,
+        "instrumentalness": 0.00268,
+        "liveness": 0.338,
+        "speechiness": 0.0329,
+        "loudness": -8.603,
+        "tempo": 69.447,
+        "time_signature": 4,
+        "valence": 0.466,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 27
+    }
+}

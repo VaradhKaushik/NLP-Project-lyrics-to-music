@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Bliss.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Bliss",
+    "lyrics": {
+        "Verse": [
+            "Father, I killed my monkey",
+            "I let it out to taste the sweet of spring",
+            "Wonder if I will wander out",
+            "Test my tether to see if I\u2019m still free",
+            "From you",
+            "",
+            "Lately, I\u2019m into circuitry",
+            "What it means to be made of you but not enough for you",
+            "And I wonder if you can bilocate",
+            "Is that what I taste, your supernova juice?",
+            "You know it\u2019s true, I\u2019m part of you",
+            ""
+        ],
+        "Chorus": [
+            "Steady as it comes right down to you",
+            "I\u2019ve said it all",
+            "So maybe we\u2019re a bliss of another kind",
+            "I said, a bliss of another kind, I said",
+            "",
+            "Steady as it comes right down to you",
+            "I\u2019ve said it all",
+            "So maybe we\u2019re a bliss of another kind, I said",
+            "Steady as it comes right down to you",
+            "I\u2019ve said it all",
+            "Steady as it comes right down to you",
+            "I\u2019ve said it all",
+            "So maybe we\u2019re a bliss of another kind",
+            "I said, a bliss of another kind",
+            "I said, a bliss of another kind",
+            "",
+            "[Outro]",
+            "I said, a bliss of, a bliss of",
+            "A bliss of another kind1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "So maybe you\u2019re a 4 horse engine",
+            "With a power drive, I said",
+            "A hot kachina who wants into mine, I said",
+            "Take it, take it with your terra-terracide and I said",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.751,
+        "acousticness": 0.25,
+        "danceability": 0.619,
+        "instrumentalness": 0.0053,
+        "liveness": 0.521,
+        "speechiness": 0.0383,
+        "loudness": -9.936,
+        "tempo": 115.028,
+        "time_signature": 4,
+        "valence": 0.497,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 32
+    }
+}

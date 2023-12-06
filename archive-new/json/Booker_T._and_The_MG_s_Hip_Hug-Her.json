@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Booker_T._and_The_MG_s\\Hip_Hug-Her.mid",
+    "artist_band_name": "Booker T. and The MG s",
+    "song_title": "Hip Hug-Her",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.321,
+        "acousticness": 0.0845,
+        "danceability": 0.808,
+        "instrumentalness": 0.232,
+        "liveness": 0.111,
+        "speechiness": 0.0437,
+        "loudness": -16.51,
+        "tempo": 109.029,
+        "time_signature": 4,
+        "valence": 0.86,
+        "genre": [
+            "blues",
+            "classic soul",
+            "instrumental funk",
+            "instrumental soul",
+            "memphis soul",
+            "soul",
+            "southern soul"
+        ],
+        "popularity": 44
+    }
+}

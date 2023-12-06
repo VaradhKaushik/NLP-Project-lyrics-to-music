@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Lasciami_andare_via.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Lasciami andare via",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.549,
+        "acousticness": 0.387,
+        "danceability": 0.624,
+        "instrumentalness": 0.00373,
+        "liveness": 0.271,
+        "speechiness": 0.0316,
+        "loudness": -11.072,
+        "tempo": 123.663,
+        "time_signature": 4,
+        "valence": 0.641,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 16
+    }
+}

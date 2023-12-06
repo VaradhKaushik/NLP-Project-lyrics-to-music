@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\98_Degrees\\Shes_Out_of_My_Life.mid",
+    "artist_band_name": "98 Degrees",
+    "song_title": "Shes Out of My Life",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.18,
+        "acousticness": 0.898,
+        "danceability": 0.305,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "speechiness": 0.0311,
+        "loudness": -11.881,
+        "tempo": 126.645,
+        "time_signature": 3,
+        "valence": 0.154,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 26
+    }
+}

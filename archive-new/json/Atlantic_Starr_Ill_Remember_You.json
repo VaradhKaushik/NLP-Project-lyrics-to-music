@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Atlantic_Starr\\Ill_Remember_You.mid",
+    "artist_band_name": "Atlantic Starr",
+    "song_title": "Ill Remember You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.481,
+        "acousticness": 0.583,
+        "danceability": 0.562,
+        "instrumentalness": 1.1e-06,
+        "liveness": 0.123,
+        "speechiness": 0.034,
+        "loudness": -8.753,
+        "tempo": 139.743,
+        "time_signature": 4,
+        "valence": 0.23,
+        "genre": [
+            "contemporary r&b",
+            "new jack swing",
+            "quiet storm"
+        ],
+        "popularity": 43
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\One_Night_a_Day.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "One Night a Day",
+    "lyrics": {
+        "Verse": [
+            "There's not a lot of things to do",
+            "I wouldn't rather do with you",
+            "Guess I'm funny that way",
+            "",
+            "Lately I just sit and stare",
+            "I talk to people who aren't there",
+            "To get through one night a day",
+            "",
+            "I sit up with the radio",
+            "Sing along with the ones I know",
+            "To get through one night a day",
+            "",
+            "[Saxophone Solo]",
+            "",
+            "I'm callin' every friend I've had",
+            "I wake 'em up and make 'em mad",
+            "To let 'em know that I'm OK",
+            "I used to sit and talk to you",
+            "But they're all just a substitute",
+            "To get through one night a day",
+            "",
+            "I stay up with the late, late show",
+            "Just another way I know",
+            "To get through one night a day",
+            "",
+            "[Outro]",
+            "To get through one night a dayEmbed"
+        ],
+        "Chorus": [
+            "One night a day, one step away",
+            "From leavin' you behind",
+            "",
+            "One night a day, one step away",
+            "From leavin' you behind",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.301,
+        "acousticness": 0.829,
+        "danceability": 0.634,
+        "instrumentalness": 0.000494,
+        "liveness": 0.137,
+        "speechiness": 0.0314,
+        "loudness": -10.599,
+        "tempo": 118.896,
+        "time_signature": 4,
+        "valence": 0.238,
+        "genre": [],
+        "popularity": 13
+    }
+}

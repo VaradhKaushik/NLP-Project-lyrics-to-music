@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Non_e_Francesca.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Non e Francesca",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.253,
+        "acousticness": 0.652,
+        "danceability": 0.483,
+        "instrumentalness": 0.00942,
+        "liveness": 0.185,
+        "speechiness": 0.0309,
+        "loudness": -16.438,
+        "tempo": 108.431,
+        "time_signature": 4,
+        "valence": 0.287,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 46
+    }
+}

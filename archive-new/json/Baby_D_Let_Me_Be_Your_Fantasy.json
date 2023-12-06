@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Baby_D\\Let_Me_Be_Your_Fantasy.mid",
+    "artist_band_name": "Baby D",
+    "song_title": "Let Me Be Your Fantasy",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.835,
+        "acousticness": 0.0714,
+        "danceability": 0.632,
+        "instrumentalness": 0.0923,
+        "liveness": 0.36,
+        "speechiness": 0.0409,
+        "loudness": -11.859,
+        "tempo": 134.954,
+        "time_signature": 4,
+        "valence": 0.354,
+        "genre": [
+            "classic house",
+            "hardcore techno",
+            "hip house",
+            "uk garage"
+        ],
+        "popularity": 50
+    }
+}

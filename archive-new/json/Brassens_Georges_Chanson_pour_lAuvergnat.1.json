@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Chanson_pour_lAuvergnat.1.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Chanson pour lAuvergnat.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.261,
+        "acousticness": 0.993,
+        "danceability": 0.585,
+        "instrumentalness": 0.000156,
+        "liveness": 0.366,
+        "speechiness": 0.0465,
+        "loudness": -10.92,
+        "tempo": 112.048,
+        "time_signature": 3,
+        "valence": 0.539,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 0
+    }
+}

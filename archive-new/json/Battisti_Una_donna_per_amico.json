@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Una_donna_per_amico.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Una donna per amico",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.464,
+        "acousticness": 0.0359,
+        "danceability": 0.652,
+        "instrumentalness": 2.27e-05,
+        "liveness": 0.271,
+        "speechiness": 0.0708,
+        "loudness": -17.449,
+        "tempo": 128.475,
+        "time_signature": 4,
+        "valence": 0.751,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 51
+    }
+}

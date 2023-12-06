@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bonnie_Tyler\\Its_A_Heartache.mid",
+    "artist_band_name": "Bonnie Tyler",
+    "song_title": "Its A Heartache",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.676,
+        "acousticness": 0.0381,
+        "danceability": 0.535,
+        "instrumentalness": 0,
+        "liveness": 0.0837,
+        "speechiness": 0.0296,
+        "loudness": -6.361,
+        "tempo": 118.852,
+        "time_signature": 4,
+        "valence": 0.549,
+        "genre": [
+            "europop",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 54
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Sinfonia.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Sinfonia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0601,
+        "acousticness": 0.907,
+        "danceability": 0.152,
+        "instrumentalness": 0.901,
+        "liveness": 0.111,
+        "speechiness": 0.041,
+        "loudness": -25.893,
+        "tempo": 136.837,
+        "time_signature": 3,
+        "valence": 0.048,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 0
+    }
+}

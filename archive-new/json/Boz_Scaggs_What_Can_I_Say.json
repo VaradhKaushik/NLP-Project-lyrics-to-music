@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Boz_Scaggs\\What_Can_I_Say.mid",
+    "artist_band_name": "Boz Scaggs",
+    "song_title": "What Can I Say",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.457,
+        "acousticness": 0.0392,
+        "danceability": 0.737,
+        "instrumentalness": 0.00299,
+        "liveness": 0.0813,
+        "speechiness": 0.0325,
+        "loudness": -11.206,
+        "tempo": 115.025,
+        "time_signature": 4,
+        "valence": 0.824,
+        "genre": [
+            "classic rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 55
+    }
+}

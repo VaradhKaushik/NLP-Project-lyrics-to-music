@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bruce_Hornsby\\Spider_Fingers.mid",
+    "artist_band_name": "Bruce Hornsby",
+    "song_title": "Spider Fingers",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.93,
+        "acousticness": 0.263,
+        "danceability": 0.586,
+        "instrumentalness": 0.188,
+        "liveness": 0.334,
+        "speechiness": 0.0344,
+        "loudness": -5.622,
+        "tempo": 124.019,
+        "time_signature": 4,
+        "valence": 0.747,
+        "genre": [
+            "album rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 24
+    }
+}

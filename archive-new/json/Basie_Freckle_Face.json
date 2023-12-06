@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Freckle_Face.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Freckle Face",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0636,
+        "acousticness": 0.617,
+        "danceability": 0.628,
+        "instrumentalness": 0.00803,
+        "liveness": 0.27,
+        "speechiness": 0.0301,
+        "loudness": -19.281,
+        "tempo": 108.296,
+        "time_signature": 4,
+        "valence": 0.36,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 15
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\If_I_Only_Had_the_Words_To_Tell_You_.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "If I Only Had the Words To Tell You ",
+    "lyrics": {
+        "Verse": [
+            "If I only had the words to tell you",
+            "If you only had the time to understand",
+            "Though I know it wouldn't change your feelin's",
+            "And I know you'll carry on the best you can",
+            "",
+            "If I only had the urge to tell you",
+            "If you only knew how hard it is to say",
+            "When the simple lines have all been taken",
+            "And the radio repeats them every day",
+            "",
+            "If I never find the song to sing you",
+            "If you always find it hard to comprehend",
+            "Well, you know there wouldn't be much meanin'",
+            "If I had to sing those tired words again",
+            "",
+            "If I only had the words to tell you",
+            "If you only had the time to understand",
+            "But I only have these arms to hold you",
+            "And it's all that you can ask of any man",
+            "You might also like[Break]",
+            "La-la-la-la, la-la-la-la",
+            "",
+            "If I only had the words to tell you",
+            "If you only had the time to understand",
+            "Oh, but I only have these arms to hold you",
+            "And it's all that you can ask of any manEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Life goes on and on",
+            "And tonight will soon be gone",
+            "But if we try, we can be sure",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.448,
+        "acousticness": 0.751,
+        "danceability": 0.409,
+        "instrumentalness": 4.26e-05,
+        "liveness": 0.27,
+        "speechiness": 0.0259,
+        "loudness": -9.056,
+        "tempo": 141.598,
+        "time_signature": 4,
+        "valence": 0.394,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 31
+    }
+}

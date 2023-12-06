@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\Annie_Lennox\\Walking_On_Broken_Glass.mid",
+    "artist_band_name": "Annie Lennox",
+    "song_title": "Walking On Broken Glass",
+    "lyrics": {
+        "Verse": [
+            "You were the sweetest thing",
+            "That I ever knew",
+            "But I don't care for sugar, honey",
+            "If I can't have you",
+            "Since you abandoned me",
+            "My whole life has crashed",
+            "Won't you pick the pieces up",
+            "'Cause it feels just like I'm walking on broken glass",
+            "",
+            "The sun's still shining in the big blue sky",
+            "But it don't mean nothing to me",
+            "Oh-woah, let the rain come down",
+            "Let the wind blow through me",
+            "I'm living in an empty room",
+            "With all the windows smashed",
+            "And I've got so little left to lose",
+            "That it feels just like I'm walking on broken glass",
+            "Now every one of us was made to suffer",
+            "Every one of us was made to weep",
+            "But we've been hurting one another",
+            "And now the pain has cut too deep",
+            "So take me from the wreckage",
+            "Save me from the blast",
+            "Lift me up and take me back",
+            "Don't let me keep on walking (don't let me keep on walking)",
+            "I can't keep on walking (keep on walking on)",
+            "Keep on walking on broken glass",
+            ""
+        ],
+        "Chorus": [
+            "Walking on, walking on broken glass (Woohoo, yeah)",
+            "Walking on, walking on broken glass",
+            "",
+            "Walking on, walking on broken glass (Woohoo)",
+            "",
+            "Walking on, walking on broken glass",
+            "Walking on, walking on broken glass",
+            "Walking on, walking on broken glass",
+            "Walking on, walking on broken glass",
+            "Walking on, walking on broken glass2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "And if you're trying to cut me down",
+            "You know that I might bleed",
+            "'Cause if you're trying to cut me down",
+            "I know that you'll succeed",
+            "And if you want to hurt me",
+            "There's nothing left to fear",
+            "'Cause if you want to hurt me",
+            "You're doing really well my dear",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.562,
+        "acousticness": 0.215,
+        "danceability": 0.749,
+        "instrumentalness": 1.1e-06,
+        "liveness": 0.105,
+        "speechiness": 0.0281,
+        "loudness": -8.45,
+        "tempo": 115.008,
+        "time_signature": 4,
+        "valence": 0.807,
+        "genre": [
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "singer-songwriter",
+            "soft rock",
+            "synthpop"
+        ],
+        "popularity": 68
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Rock_My_World_Little_Country_Girl_.1.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Rock My World Little Country Girl .1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.855,
+        "acousticness": 0.205,
+        "danceability": 0.703,
+        "instrumentalness": 0.000101,
+        "liveness": 0.514,
+        "speechiness": 0.0328,
+        "loudness": -4.822,
+        "tempo": 120.318,
+        "time_signature": 4,
+        "valence": 0.882,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 41
+    }
+}

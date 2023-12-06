@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_modeste.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le modeste",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0892,
+        "acousticness": 0.823,
+        "danceability": 0.766,
+        "instrumentalness": 7.65e-05,
+        "liveness": 0.104,
+        "speechiness": 0.156,
+        "loudness": -14.656,
+        "tempo": 119.798,
+        "time_signature": 4,
+        "valence": 0.74,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 9
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Blood,_Sweat_and_Tears\\Spinning_Wheel.mid",
+    "artist_band_name": "Blood, Sweat and Tears",
+    "song_title": "Spinning Wheel",
+    "lyrics": {
+        "Verse": [
+            "What goes up must come down",
+            "Spinnin' wheel got to go 'round",
+            "Talkin' 'bout your troubles it's a cryin' sin",
+            "Ride a painted pony let the spinnin' wheel spin",
+            "",
+            "You got no money and you got no home",
+            "Spinnin' wheel all alone",
+            "Talkin' 'bout your troubles and you never learn",
+            "Ride a painted pony let the spinnin' wheel turn",
+            "",
+            "Someone is waiting just for you",
+            "Spinnin' wheel, spinnin' true",
+            "Drop all your troubles by the riverside",
+            "Catch a painted pony on the spinning wheel ride",
+            "",
+            "[Instrumental]",
+            "Someone is waiting just for you",
+            "Spinnin' wheel, spinnin' true",
+            "Drop all your troubles by the riverside",
+            "Ride a painted pony let the spinning wheel fly",
+            "[Outro]7Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Did you find the directing sign on the",
+            "Straight and narrow highway",
+            "Would you mind a reflecting sign",
+            "Just let it shine within your mind",
+            "And show you the colors that are real",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.503,
+        "acousticness": 0.315,
+        "danceability": 0.695,
+        "instrumentalness": 2.47e-05,
+        "liveness": 0.261,
+        "speechiness": 0.0605,
+        "loudness": -9.313,
+        "tempo": 96.818,
+        "time_signature": 4,
+        "valence": 0.542,
+        "genre": [
+            "album rock",
+            "blues rock",
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "jazz rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "southern rock"
+        ],
+        "popularity": 53
+    }
+}

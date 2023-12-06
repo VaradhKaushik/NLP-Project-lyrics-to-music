@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\2_Brothers_on_the_4th_Floor\\Come_Take_My_Hand.mid",
+    "artist_band_name": "2 Brothers on the 4th Floor",
+    "song_title": "Come Take My Hand",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.928,
+        "acousticness": 0.0068,
+        "danceability": 0.535,
+        "instrumentalness": 9.18e-06,
+        "liveness": 0.109,
+        "speechiness": 0.0823,
+        "loudness": -2.025,
+        "tempo": 154.872,
+        "time_signature": 4,
+        "valence": 0.116,
+        "genre": [
+            "eurodance",
+            "hip house"
+        ],
+        "popularity": 53
+    }
+}

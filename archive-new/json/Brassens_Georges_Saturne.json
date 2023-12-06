@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Saturne.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Saturne",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.136,
+        "acousticness": 0.929,
+        "danceability": 0.593,
+        "instrumentalness": 0,
+        "liveness": 0.154,
+        "speechiness": 0.154,
+        "loudness": -12.058,
+        "tempo": 79.189,
+        "time_signature": 3,
+        "valence": 0.74,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 14
+    }
+}

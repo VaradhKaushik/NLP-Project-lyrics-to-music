@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\China.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "China",
+    "lyrics": {
+        "Verse": [
+            "China, all the way to New York",
+            "I can feel the distance getting close",
+            "You're right next to me, but I need an airplane",
+            "I can feel the distance as you breathe",
+            "",
+            "China decorates our table",
+            "Funny how the cracks don't seem to show",
+            "Pour the wine, dear, you say we'll take a holiday",
+            "But we never can agree on where to go",
+            "",
+            "China all the way to New York",
+            "Maybe you got lost in Mexico",
+            "You're right next to me, I think that you can hear me",
+            "Funny how the distance learns to grow",
+            ""
+        ],
+        "Chorus": [
+            "Sometimes I think you want me to touch you",
+            "How can I when you build the Great Wall around you?",
+            "In your eyes I saw a future together",
+            "Oh, you just look away in the distance",
+            "",
+            "Sometimes I think you want me to touch you",
+            "How can I when you build the Great Wall around you?",
+            "In your eyes I saw a future together",
+            "Oh, you just look away in the distance",
+            "",
+            "[Interlude]",
+            "Sometimes I think you want me to touch you",
+            "How can I when you build the Great Wall around you?",
+            "",
+            "[Outro]",
+            "I can feel the distance",
+            "I can feel the distance",
+            "I can feel the distance getting close1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.33,
+        "acousticness": 0.904,
+        "danceability": 0.268,
+        "instrumentalness": 1.03e-05,
+        "liveness": 0.0827,
+        "speechiness": 0.0298,
+        "loudness": -12.135,
+        "tempo": 95.567,
+        "time_signature": 4,
+        "valence": 0.236,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 35
+    }
+}

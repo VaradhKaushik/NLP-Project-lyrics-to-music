@@ -1,0 +1,36 @@
+{
+    "midi_file_path": "archive-new\\Bjork\\Human_Behavior.mid",
+    "artist_band_name": "Bjork",
+    "song_title": "Human Behavior",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.835,
+        "acousticness": 0.0441,
+        "danceability": 0.694,
+        "instrumentalness": 0.03,
+        "liveness": 0.147,
+        "speechiness": 0.0352,
+        "loudness": -8.199,
+        "tempo": 109.453,
+        "time_signature": 4,
+        "valence": 0.54,
+        "genre": [
+            "art pop",
+            "electronica",
+            "experimental pop",
+            "experimental vocal",
+            "icelandic experimental",
+            "icelandic pop",
+            "icelandic singer-songwriter",
+            "metropopolis",
+            "permanent wave",
+            "trip hop"
+        ],
+        "popularity": 26
+    }
+}

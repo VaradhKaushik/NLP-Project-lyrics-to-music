@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\BOWIE_DAVID\\Ziggy_Stardust.1.mid",
+    "artist_band_name": "BOWIE DAVID",
+    "song_title": "Ziggy Stardust.1",
+    "lyrics": {
+        "Verse": [
+            "Now Ziggy played guitar, jamming good with Weird and Gilly",
+            "And the Spiders From Mars",
+            "He played it left hand, but made it too far",
+            "Became the special man, then we were Ziggy's band",
+            "",
+            "Ziggy really sang, screwed up eyes and screwed down hairdo",
+            "Like some cat from Japan",
+            "He could lick 'em by smiling, he could leave 'em to hang",
+            "He came on so loaded, man, well-hung and snow-white tan",
+            "",
+            "Ziggy played for time, jiving us that we were voodoo",
+            "The kids were just crass, he was the nazz",
+            "With God-given ass, he took it all too far",
+            "But boy, could he play guitar"
+        ],
+        "Chorus": [
+            "So where were the spiders",
+            "While the fly tried to break our balls?",
+            "Just the beer light to guide us",
+            "So we bitched about his fans",
+            "And should we crush his sweet hands?",
+            "Oh yeah",
+            "",
+            "Making love with his ego",
+            "Ziggy sucked up into his mind (ah)",
+            "Like a leper messiah",
+            "When the kids had killed the man",
+            "I had to break up the band",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Oh yeah",
+            "Ooh",
+            "",
+            "[Outro]",
+            "Ziggy played guitar20Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.812,
+        "acousticness": 0.0012,
+        "danceability": 0.422,
+        "instrumentalness": 1.02e-06,
+        "liveness": 0.138,
+        "speechiness": 0.0622,
+        "loudness": -7.509,
+        "tempo": 150.439,
+        "time_signature": 4,
+        "valence": 0.712,
+        "genre": [
+            "art rock",
+            "classic rock",
+            "glam rock",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 22
+    }
+}

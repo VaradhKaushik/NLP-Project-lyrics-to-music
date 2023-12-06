@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Big_Mr\\How_Can_You_Do_What_You_Do.mid",
+    "artist_band_name": "Big Mr",
+    "song_title": "How Can You Do What You Do",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.87,
+        "acousticness": 0.000269,
+        "danceability": 0.52,
+        "instrumentalness": 2.6e-06,
+        "liveness": 0.184,
+        "speechiness": 0.0499,
+        "loudness": -9.271,
+        "tempo": 142.158,
+        "time_signature": 4,
+        "valence": 0.381,
+        "genre": [
+            "glam metal",
+            "hard rock"
+        ],
+        "popularity": 17
+    }
+}

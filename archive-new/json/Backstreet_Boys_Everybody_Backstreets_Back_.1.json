@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Backstreet_Boys\\Everybody_Backstreets_Back_.1.mid",
+    "artist_band_name": "Backstreet Boys",
+    "song_title": "Everybody Backstreets Back .1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.819,
+        "acousticness": 0.00564,
+        "danceability": 0.792,
+        "instrumentalness": 0.000163,
+        "liveness": 0.175,
+        "speechiness": 0.0367,
+        "loudness": -4.933,
+        "tempo": 108.056,
+        "time_signature": 4,
+        "valence": 0.515,
+        "genre": [
+            "boy band",
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 65
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "midi_file_path": "archive-new\\a-ha\\Hunting_High_and_Low.mid",
+    "artist_band_name": "a-ha",
+    "song_title": "Hunting High and Low",
+    "lyrics": {
+        "Verse": [
+            "Here I am",
+            "And within the reach of my hands",
+            "She's sound asleep",
+            "And she's sweeter now than the wildest dream",
+            "Could've seen her",
+            "And I watch her slipping away",
+            "But I know I'll be",
+            "",
+            "To find her again",
+            "Upon this, my dreams are depending",
+            "Through the dark",
+            "I sense the pounding of her heart",
+            "Next to mine",
+            "She's the sweetest love I could find",
+            "So I guess I'll be"
+        ],
+        "Chorus": [
+            "Hunting high and low",
+            "High",
+            "There's no end to the lengths I'll go to",
+            "Hunting high and low",
+            "High",
+            "There's no end to lengths I'll go",
+            "",
+            "Hunting high and low",
+            "High",
+            "There's no end to the lengths I'll go to",
+            "High and low",
+            "High",
+            "Do you know what it means to love you?",
+            "",
+            "I'll always be hunting high and low",
+            "Only for you",
+            "Watch me tearing myself to pieces",
+            "Hunting high and low",
+            "High",
+            "There's no end to the lengths I'll go to",
+            "",
+            "[Outro]",
+            "Oh, for you I'll be hunting high and low3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I'm hunting high and low",
+            "And now she's telling me she's got to go away",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.672,
+        "acousticness": 0.0444,
+        "danceability": 0.6,
+        "instrumentalness": 4.26e-06,
+        "liveness": 0.107,
+        "speechiness": 0.0269,
+        "loudness": -7.754,
+        "tempo": 117.014,
+        "time_signature": 4,
+        "valence": 0.297,
+        "genre": [
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "permanent wave",
+            "synthpop"
+        ],
+        "popularity": 0
+    }
+}

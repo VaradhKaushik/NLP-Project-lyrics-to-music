@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Caruso.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Caruso",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.273,
+        "acousticness": 0.946,
+        "danceability": 0.37,
+        "instrumentalness": 3.25e-05,
+        "liveness": 0.114,
+        "speechiness": 0.0367,
+        "loudness": -8.705,
+        "tempo": 64.686,
+        "time_signature": 4,
+        "valence": 0.294,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 52
+    }
+}

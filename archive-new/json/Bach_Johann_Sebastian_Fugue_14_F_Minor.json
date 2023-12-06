@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Fugue_14_F_Minor.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Fugue 14 F Minor",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0394,
+        "acousticness": 0.995,
+        "danceability": 0.52,
+        "instrumentalness": 0.929,
+        "liveness": 0.0956,
+        "speechiness": 0.0685,
+        "loudness": -28.368,
+        "tempo": 138.786,
+        "time_signature": 4,
+        "valence": 0.226,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 31
+    }
+}

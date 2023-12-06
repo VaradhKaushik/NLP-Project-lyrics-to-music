@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Davanti_a_un_distributore_automatico_di_fiori.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Davanti a un distributore automatico di fiori",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.1,
+        "acousticness": 0.905,
+        "danceability": 0.375,
+        "instrumentalness": 0.868,
+        "liveness": 0.169,
+        "speechiness": 0.0392,
+        "loudness": -19.934,
+        "tempo": 116.345,
+        "time_signature": 4,
+        "valence": 0.348,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 20
+    }
+}

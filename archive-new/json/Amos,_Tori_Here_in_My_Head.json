@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Here_in_My_Head.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Here in My Head",
+    "lyrics": {
+        "Verse": [
+            "In my head, I found you there",
+            "And running around and following me",
+            "But you don't dare",
+            "But I find that I have now more than I ever wanted to",
+            "",
+            "You are here in my head",
+            "And running around and calling me",
+            "\"Come back, I'll show you the roses that brush off the snow",
+            "And open their petals again and again\"",
+            "And you know that apple green ice cream",
+            "Can melt in your hands, I can't",
+            "So I held your hand at the fair",
+            "And even forgot what time it was",
+            ""
+        ],
+        "Chorus": [
+            "So maybe Thomas Jefferson wasn't born",
+            "In your back yard like you have said",
+            "And maybe I'm just the horizon you run to",
+            "When she has left you there",
+            "",
+            "And even if Thomas Jefferson wasn't born",
+            "In your back yard like you have said",
+            "And maybe I'm just the horizon you run to",
+            "When she has left you and me here alone on the floor"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "You're counting my feathers as the bells toll",
+            "You see the bow and belt and the girl from the south",
+            "All favorites of mine, you know them all well",
+            "And spring brings fresh little puddles",
+            "That makes it all clear, makes it all",
+            "Do you know, hey?",
+            "Do you know what this is doing to me?",
+            "",
+            "[Outro]",
+            "Here",
+            "Here",
+            "Here",
+            "Here in my headEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.14,
+        "acousticness": 0.954,
+        "danceability": 0.343,
+        "instrumentalness": 0,
+        "liveness": 0.14,
+        "speechiness": 0.0404,
+        "loudness": -16.264,
+        "tempo": 88.039,
+        "time_signature": 4,
+        "valence": 0.273,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 23
+    }
+}

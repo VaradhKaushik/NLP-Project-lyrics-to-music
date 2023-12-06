@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Man_Overboard.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Man Overboard",
+    "lyrics": {
+        "Verse": [
+            "Let's take some time to talk this over",
+            "You're out of line and rarely sober",
+            "We can't depend on your excuses",
+            "'Cause in the end it's fucking useless",
+            "",
+            "I remember shots without a chaser",
+            "Absentminded thoughts, now you're a stranger",
+            "Cover up the scars, put on your game face",
+            "Left you in the bar to try and save face"
+        ],
+        "Chorus": [
+            "You can only lean on me for so long",
+            "Bring the ship about to watch a friend drown",
+            "Sit out on the ledge, begged you to come down",
+            "You can only lean on me for so long",
+            "",
+            "You can only lean on me for so long",
+            "Bring the ship about to watch a friend drown",
+            "Sit out on the ledge, begged you to come down",
+            "You can only lean on me for so long",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "(So sorry it's over)",
+            "(So sorry it's over)",
+            "(So sorry it's over) There's so much more that I wanted and",
+            "(So sorry it's over) There's so much more that I needed and",
+            "Time keeps moving on and on and on",
+            "Soon we'll all be gone",
+            "",
+            "[Outro: Mark Hoppus]",
+            "Man on a mission, can't say I miss him around",
+            "Insider information, hand in your resignation",
+            "Loss of a good friend, best of intentions I found",
+            "Tight-lipped procrastination, yeah later, see you around15Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.921,
+        "acousticness": 0.00133,
+        "danceability": 0.218,
+        "instrumentalness": 7.66e-06,
+        "liveness": 0.0777,
+        "speechiness": 0.0602,
+        "loudness": -4.414,
+        "tempo": 196.291,
+        "time_signature": 4,
+        "valence": 0.612,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 62
+    }
+}

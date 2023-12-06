@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Gli_uccelli.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Gli uccelli",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.399,
+        "acousticness": 0.176,
+        "danceability": 0.4,
+        "instrumentalness": 4.54e-05,
+        "liveness": 0.122,
+        "speechiness": 0.0413,
+        "loudness": -14.638,
+        "tempo": 120.413,
+        "time_signature": 4,
+        "valence": 0.263,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 39
+    }
+}

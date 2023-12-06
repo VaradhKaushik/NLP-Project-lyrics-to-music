@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Articolo_31\\Tranqi_Funky.mid",
+    "artist_band_name": "Articolo 31",
+    "song_title": "Tranqi Funky",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.942,
+        "acousticness": 0.266,
+        "danceability": 0.85,
+        "instrumentalness": 3.15e-06,
+        "liveness": 0.342,
+        "speechiness": 0.0784,
+        "loudness": -4.738,
+        "tempo": 107.818,
+        "time_signature": 4,
+        "valence": 0.902,
+        "genre": [
+            "italian adult pop",
+            "rap italiano old school"
+        ],
+        "popularity": 54
+    }
+}

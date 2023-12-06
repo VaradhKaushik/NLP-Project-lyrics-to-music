@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Brown_Clarence_Gatemouth\\Never_Ending_Love_for_You.mid",
+    "artist_band_name": "Brown Clarence Gatemouth",
+    "song_title": "Never Ending Love for You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.493,
+        "acousticness": 0.0436,
+        "danceability": 0.673,
+        "instrumentalness": 1.16e-05,
+        "liveness": 0.0823,
+        "speechiness": 0.0269,
+        "loudness": -15.679,
+        "tempo": 98.936,
+        "time_signature": 4,
+        "valence": 0.886,
+        "genre": [
+            "blues",
+            "memphis blues",
+            "texas blues",
+            "traditional blues"
+        ],
+        "popularity": 0
+    }
+}

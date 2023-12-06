@@ -1,0 +1,36 @@
+{
+    "midi_file_path": "archive-new\\Bad_Company\\If_You_Needed_Somebody.mid",
+    "artist_band_name": "Bad Company",
+    "song_title": "If You Needed Somebody",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.514,
+        "acousticness": 0.0044,
+        "danceability": 0.496,
+        "instrumentalness": 0.000106,
+        "liveness": 0.0429,
+        "speechiness": 0.0274,
+        "loudness": -13.394,
+        "tempo": 168.324,
+        "time_signature": 4,
+        "valence": 0.388,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "country rock",
+            "glam metal",
+            "hard rock",
+            "mellow gold",
+            "rock",
+            "singer-songwriter",
+            "soft rock",
+            "southern rock"
+        ],
+        "popularity": 50
+    }
+}

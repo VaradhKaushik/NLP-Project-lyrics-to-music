@@ -1,0 +1,64 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\No_Excuses.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "No Excuses",
+    "lyrics": {
+        "Verse": [
+            "It's all right, there comes a time",
+            "Got no patience to search for peace of mind",
+            "Layin' low, want to take it slow",
+            "No more hidin' or disguisin' truths I've sold",
+            "",
+            "It's okay, had a bad day",
+            "Hands are bruised from breakin' rocks all day",
+            "Drained and blue, I bleed for you",
+            "You think it's funny, well, you're drownin' in it, too",
+            "",
+            "Yeah, it's fine, we'll walk down the line",
+            "Leave our rain, a cold, trade for warm sunshine",
+            "You, my friend, I will defend",
+            "And if we change, well, I love you anyway",
+            ""
+        ],
+        "Chorus": [
+            "Every day, it's somethin'",
+            "Hits me all so cold",
+            "You find me sittin' by myself",
+            "No excuses, then I know",
+            "",
+            "Every day, it's somethin'",
+            "Hits me all so cold",
+            "You find me sittin' by myself",
+            "No excuses, then I know",
+            "",
+            "[Guitar Solo]",
+            "Every day, it's somethin'",
+            "Hits me all so cold",
+            "You find me sittin' by myself",
+            "No excuses, then I know21Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.838,
+        "acousticness": 0.0206,
+        "danceability": 0.527,
+        "instrumentalness": 0.00062,
+        "liveness": 0.07,
+        "speechiness": 0.0323,
+        "loudness": -6.013,
+        "tempo": 117.454,
+        "time_signature": 4,
+        "valence": 0.721,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 66
+    }
+}

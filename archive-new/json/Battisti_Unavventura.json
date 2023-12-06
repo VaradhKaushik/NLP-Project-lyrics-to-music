@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Unavventura.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Unavventura",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.513,
+        "acousticness": 0.112,
+        "danceability": 0.336,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "speechiness": 0.0434,
+        "loudness": -8.724,
+        "tempo": 141.199,
+        "time_signature": 4,
+        "valence": 0.55,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 59
+    }
+}

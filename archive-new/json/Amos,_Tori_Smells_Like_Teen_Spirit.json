@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Smells_Like_Teen_Spirit.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Smells Like Teen Spirit",
+    "lyrics": {
+        "Verse": [
+            "Load up on guns and bring your friends",
+            "It's fun to lose and to pretend",
+            "She's over bored and self-assured",
+            "Oh no, I know a dirty word",
+            "",
+            "I'm worse at what, what I do best",
+            "And for this gift I feel blessed",
+            "Our little group has always been",
+            "And always will be until the end",
+            ""
+        ],
+        "Chorus": [
+            "Hello, hello, hello, hello",
+            "Hello, hello, oh",
+            "",
+            "Hello, hello, hello, hello",
+            "Hello, hello",
+            "",
+            "With the lights out it's less dangerous",
+            "Here we are now, entertain us",
+            "I feel stupid and contagious",
+            "Here we are now, entertain us",
+            "Hello, hello",
+            "",
+            "With the lights out it's less dangerous",
+            "Here we are now, entertain us",
+            "I feel stupid and contagious",
+            "Here we are now, entertain us",
+            "Yes",
+            "",
+            "[Outro]",
+            "A mulatto, an albino, a mosquito, my libido",
+            "A denial, a denial, a denial, yes",
+            "A denialEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.263,
+        "acousticness": 0.93,
+        "danceability": 0.251,
+        "instrumentalness": 0.00172,
+        "liveness": 0.0954,
+        "speechiness": 0.0327,
+        "loudness": -12.538,
+        "tempo": 177.21,
+        "time_signature": 4,
+        "valence": 0.199,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 51
+    }
+}

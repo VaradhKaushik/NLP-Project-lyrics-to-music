@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Badinerie.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Badinerie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.269,
+        "acousticness": 0.847,
+        "danceability": 0.515,
+        "instrumentalness": 0.0897,
+        "liveness": 0.0757,
+        "speechiness": 0.037,
+        "loudness": -21.859,
+        "tempo": 130.998,
+        "time_signature": 4,
+        "valence": 0.964,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 59
+    }
+}

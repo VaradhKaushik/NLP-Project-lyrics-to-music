@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti_Lucio\\La_canzone_del_sole.mid",
+    "artist_band_name": "Battisti Lucio",
+    "song_title": "La canzone del sole",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.437,
+        "acousticness": 0.491,
+        "danceability": 0.496,
+        "instrumentalness": 4.94e-06,
+        "liveness": 0.0998,
+        "speechiness": 0.0345,
+        "loudness": -12.61,
+        "tempo": 93.078,
+        "time_signature": 4,
+        "valence": 0.547,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 60
+    }
+}

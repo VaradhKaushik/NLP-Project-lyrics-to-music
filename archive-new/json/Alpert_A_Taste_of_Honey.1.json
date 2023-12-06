@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alpert\\A_Taste_of_Honey.1.mid",
+    "artist_band_name": "Alpert",
+    "song_title": "A Taste of Honey.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.368,
+        "acousticness": 0.229,
+        "danceability": 0.415,
+        "instrumentalness": 0.914,
+        "liveness": 0.86,
+        "speechiness": 0.0389,
+        "loudness": -13.067,
+        "tempo": 79.072,
+        "time_signature": 4,
+        "valence": 0.228,
+        "genre": [
+            "easy listening",
+            "lounge"
+        ],
+        "popularity": 8
+    }
+}

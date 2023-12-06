@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Stances_a_un_cambrioleur.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Stances a un cambrioleur",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.247,
+        "acousticness": 0.823,
+        "danceability": 0.563,
+        "instrumentalness": 0.00718,
+        "liveness": 0.15,
+        "speechiness": 0.0619,
+        "loudness": -11.831,
+        "tempo": 136.918,
+        "time_signature": 3,
+        "valence": 0.336,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 2
+    }
+}

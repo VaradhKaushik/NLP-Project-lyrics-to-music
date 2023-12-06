@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\Changes.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "Changes",
+    "lyrics": {
+        "Verse": [
+            "I feel unhappy, I feel so sad",
+            "I've lost the best friend that I ever had",
+            "She was my woman, I loved her so",
+            "But it's too late now, I've let her go",
+            "",
+            "We shared the years, we shared each day",
+            "In love, together, we found the way",
+            "But soon, the world had its evil way",
+            "My heart was blinded, love went astray",
+            "",
+            "It took so long to realise",
+            "And I can still hear her last goodbyes",
+            "Now, all my days are filled with tears",
+            "Wish I could go back and change these years"
+        ],
+        "Chorus": [
+            "I'm going through changes",
+            "I'm going through changes",
+            "",
+            "I'm going through changes",
+            "I'm going through changes",
+            "",
+            "I'm going through changes",
+            "I'm going through changes19Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.215,
+        "acousticness": 0.0321,
+        "danceability": 0.29,
+        "instrumentalness": 1.66e-05,
+        "liveness": 0.106,
+        "speechiness": 0.0327,
+        "loudness": -12.762,
+        "tempo": 80.814,
+        "time_signature": 3,
+        "valence": 0.191,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 48
+    }
+}

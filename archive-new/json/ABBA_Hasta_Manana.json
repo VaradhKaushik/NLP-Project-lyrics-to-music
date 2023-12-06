@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Hasta_Manana.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Hasta Manana",
+    "lyrics": {
+        "Verse": [
+            "Where is the spring and the summer",
+            "That once was yours and mine?",
+            "Where did it go?",
+            "I just don't know",
+            "But still, my love for you will live forever",
+            "",
+            "Where is the dream we were dreaming",
+            "And all the nights we shared?",
+            "Where did they go?",
+            "I just don't know",
+            "And I can't tell you just how much I miss you"
+        ],
+        "Chorus": [
+            "Hasta Ma\u00f1ana till we meet again",
+            "Don't know where, don't know when",
+            "Darling, our love was much too strong to die",
+            "We'll find a way to face a new tomorrow",
+            "Hasta Ma\u00f1ana, say we'll meet again",
+            "I can't do without you",
+            "Time to forget, send me a letter",
+            "Say you forgive, the sooner the better",
+            "Hasta Ma\u00f1ana, baby",
+            "Hasta Ma\u00f1ana, until then",
+            "",
+            "Hasta Ma\u00f1ana till we meet again",
+            "Don't know where, don't know when",
+            "Darling, our love was much too strong to die",
+            "We'll find a way to face a new tomorrow",
+            "Hasta Ma\u00f1ana, say we'll meet again",
+            "I can't do without you",
+            "Time to forget, send me a letter",
+            "Say you forgive, the sooner the better",
+            "Hasta Ma\u00f1ana, baby",
+            "Hasta Ma\u00f1ana, until then",
+            "",
+            "[Outro]",
+            "Hasta Ma\u00f1ana, say we'll meet again",
+            "I can't do without you",
+            "Time to forget, send me a letter",
+            "Say you forgive, the sooner the better",
+            "Hasta Ma\u00f1ana, baby",
+            "Hasta Ma\u00f1ana, until then3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.583,
+        "acousticness": 0.544,
+        "danceability": 0.441,
+        "instrumentalness": 0,
+        "liveness": 0.143,
+        "speechiness": 0.0267,
+        "loudness": -6.4,
+        "tempo": 169.067,
+        "time_signature": 4,
+        "valence": 0.523,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 60
+    }
+}

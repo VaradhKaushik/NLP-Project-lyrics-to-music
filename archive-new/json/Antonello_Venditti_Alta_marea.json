@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Alta_marea.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Alta marea",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.659,
+        "acousticness": 0.161,
+        "danceability": 0.551,
+        "instrumentalness": 9.93e-06,
+        "liveness": 0.0641,
+        "speechiness": 0.0264,
+        "loudness": -9.484,
+        "tempo": 140.008,
+        "time_signature": 4,
+        "valence": 0.35,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 48
+    }
+}

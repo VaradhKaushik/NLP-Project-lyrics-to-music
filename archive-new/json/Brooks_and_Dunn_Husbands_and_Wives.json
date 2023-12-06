@@ -1,0 +1,57 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Husbands_and_Wives.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Husbands and Wives",
+    "lyrics": {
+        "Verse": [
+            "Two broken hearts, lonely, lookin' like houses",
+            "Where nobody lives",
+            "Two people each havin' so much pride inside",
+            "Neither side forgives",
+            "",
+            "Oh, two broken hearts lonely lookin' like houses",
+            "Where nobody lives",
+            "Two people each havin' so much pride inside",
+            "Neither side forgives",
+            ""
+        ],
+        "Chorus": [
+            "The angry words spoken in haste",
+            "Such a waste of two lives",
+            "It's my belief pride is the chief cause in the decline",
+            "In the number of husbands and wives",
+            "",
+            "The angry words spoken in haste",
+            "Such a waste of two lives",
+            "Oh, it's my belief pride is the chief cause in the decline",
+            "In the number of husbands and wives",
+            "You might also like[Outro]",
+            "Yeah, it's my belief pride is the chief cause in the decline",
+            "In the number of husbands and wivesEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "A woman and a man, a man and a woman",
+            "Some can, some can't, some can't",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.356,
+        "acousticness": 0.617,
+        "danceability": 0.407,
+        "instrumentalness": 0.000257,
+        "liveness": 0.177,
+        "speechiness": 0.029,
+        "loudness": -9.253,
+        "tempo": 106.245,
+        "time_signature": 3,
+        "valence": 0.11,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 35
+    }
+}

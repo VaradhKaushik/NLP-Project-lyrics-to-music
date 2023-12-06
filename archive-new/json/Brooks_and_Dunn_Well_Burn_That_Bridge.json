@@ -1,0 +1,58 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Well_Burn_That_Bridge.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Well Burn That Bridge",
+    "lyrics": {
+        "Verse": [
+            "Hello Miss Heartbroke, sit your sweet self down",
+            "It's good to see your dancin' feet back out on the town",
+            "Rumor has it you've had trouble with your man",
+            "I've had trouble of my own, I think I understand",
+            "",
+            "Come on, let your hair down, we'll have us a time",
+            "He had his chance with you, now all I want is mine",
+            "Give me half an hour or just a dance or two",
+            "And you'll forget old what's-his-name and how he walked out on you",
+            ""
+        ],
+        "Chorus": [
+            "We'll put out your old flame, we'll build a bigger fire",
+            "I'll pick up where he let you down and take you so much higher",
+            "And if his memory comes around and you think you still care",
+            "We'll burn that bridge when we get there",
+            "",
+            "We'll put out your old flame, we'll build a bigger fire",
+            "I'll pick up where he let you down and take you so much higher",
+            "And if his memory comes around and you think you still care",
+            "We'll burn that bridge when we get there",
+            "",
+            "We'll put out your old flame, we'll build a bigger fire",
+            "I'll pick up where he let you down and take you so much higher",
+            "And if his memory comes around and you think you still care",
+            "We'll burn that bridge when we get there",
+            "You might also like[Outro]",
+            "We'll burn that bridge when we get there",
+            "Burn it down, babyEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.69,
+        "acousticness": 0.167,
+        "danceability": 0.673,
+        "instrumentalness": 7.59e-06,
+        "liveness": 0.124,
+        "speechiness": 0.0328,
+        "loudness": -10.111,
+        "tempo": 166.493,
+        "time_signature": 4,
+        "valence": 0.925,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 39
+    }
+}

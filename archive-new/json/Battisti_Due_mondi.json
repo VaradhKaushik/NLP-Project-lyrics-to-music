@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Due_mondi.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Due mondi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.707,
+        "acousticness": 0.183,
+        "danceability": 0.551,
+        "instrumentalness": 0.000199,
+        "liveness": 0.319,
+        "speechiness": 0.0726,
+        "loudness": -11.299,
+        "tempo": 107.973,
+        "time_signature": 4,
+        "valence": 0.619,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

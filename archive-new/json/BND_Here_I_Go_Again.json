@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\BND\\Here_I_Go_Again.mid",
+    "artist_band_name": "BND",
+    "song_title": "Here I Go Again",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.743,
+        "acousticness": 0.148,
+        "danceability": 0.651,
+        "instrumentalness": 0,
+        "liveness": 0.0921,
+        "speechiness": 0.0264,
+        "loudness": -8.705,
+        "tempo": 96.958,
+        "time_signature": 4,
+        "valence": 0.783,
+        "genre": [],
+        "popularity": 15
+    }
+}

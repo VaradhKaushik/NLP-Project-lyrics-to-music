@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Non_mi_arrendo.mid",
+    "artist_band_name": "883",
+    "song_title": "Non mi arrendo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.88,
+        "acousticness": 0.158,
+        "danceability": 0.645,
+        "instrumentalness": 8.88e-05,
+        "liveness": 0.0614,
+        "speechiness": 0.0265,
+        "loudness": -5.76,
+        "tempo": 103.015,
+        "time_signature": 4,
+        "valence": 0.828,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 26
+    }
+}

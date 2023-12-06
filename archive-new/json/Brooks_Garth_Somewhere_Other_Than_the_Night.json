@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Somewhere_Other_Than_the_Night.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Somewhere Other Than the Night",
+    "lyrics": {
+        "Verse": [
+            "He could see the storm clouds rollin' across the hill",
+            "He barely beat the rain in from the field",
+            "And between the backdoor slammin' she heard him say",
+            "\"Damn this rain and damn this wasted day\"",
+            "",
+            "But she'd been waitin' for this day for oh-so-long",
+            "She was standin' in the kitchen with nothin' but her apron on",
+            "And in disbelief he stood and he stared a while",
+            "But when their eyes met, they both began to smile",
+            "",
+            "They spent the day wrapped up in a blanket on the front porch swing",
+            "He'd come to realize he'd neglected certain things",
+            "And there are times she feels alone even by his side",
+            "It was the first time, she ever saw him cry"
+        ],
+        "Chorus": [
+            "Somewhere other than the night",
+            "She needs to hear I love you",
+            "Somewhere other than the night",
+            "She needs to know you care",
+            "And she wants to know she's needed",
+            "And she needs to be held tight",
+            "Somewhere other than the night",
+            "",
+            "Somewhere other than the night",
+            "She needs to hear I love you",
+            "Somewhere other than the night",
+            "She needs to know you care",
+            "And she wants to know she's needed",
+            "And she needs to be held tight",
+            "Somewhere other than the night",
+            "",
+            "[Outro]",
+            "To know she's needed",
+            "She needs to be held tight",
+            "Somewhere other than the nightEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.19,
+        "acousticness": 0.551,
+        "danceability": 0.555,
+        "instrumentalness": 0,
+        "liveness": 0.0737,
+        "speechiness": 0.035,
+        "loudness": -16.745,
+        "tempo": 72.624,
+        "time_signature": 4,
+        "valence": 0.277,
+        "genre": [],
+        "popularity": 21
+    }
+}

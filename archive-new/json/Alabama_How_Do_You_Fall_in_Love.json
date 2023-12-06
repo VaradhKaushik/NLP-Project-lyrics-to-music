@@ -1,0 +1,62 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\How_Do_You_Fall_in_Love.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "How Do You Fall in Love",
+    "lyrics": {
+        "Verse": [
+            "You never know just where it will find you",
+            "'Cause it can come on you so fast",
+            "Or seems like it takes forever",
+            "When you want it so bad",
+            "",
+            "But don't ever take it for granted",
+            "'Cause it's more than sowing some seeds",
+            "And it takes sun and water",
+            "So give it what it needs",
+            ""
+        ],
+        "Chorus": [
+            "How do you fall in love",
+            "And when do you say \"I do\"",
+            "And when is the perfect time",
+            "To spend the rest of your life",
+            "",
+            "Seasons may come and go",
+            "And sometimes it rains and snows",
+            "And there will be highs and lows",
+            "So only you will know",
+            "",
+            "And that's how you fall in love",
+            "And that's when do you say \"I do\"",
+            "And that's when you know it's time",
+            "To spend the rest of your life",
+            "Now seasons may come and go",
+            "But sometimes it rains and snows",
+            "And there will be highs and lows",
+            "So only you will know",
+            "And there will be highs and lows",
+            "So only you will knowEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.17,
+        "acousticness": 0.57,
+        "danceability": 0.44,
+        "instrumentalness": 1.28e-05,
+        "liveness": 0.122,
+        "speechiness": 0.0271,
+        "loudness": -13.266,
+        "tempo": 84.565,
+        "time_signature": 4,
+        "valence": 0.272,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 30
+    }
+}

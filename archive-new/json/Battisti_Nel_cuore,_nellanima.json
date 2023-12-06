@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Nel_cuore,_nellanima.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Nel cuore, nellanima",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.57,
+        "acousticness": 0.201,
+        "danceability": 0.377,
+        "instrumentalness": 0,
+        "liveness": 0.1,
+        "speechiness": 0.0308,
+        "loudness": -9.613,
+        "tempo": 102.181,
+        "time_signature": 4,
+        "valence": 0.471,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

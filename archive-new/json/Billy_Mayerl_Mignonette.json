@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Billy_Mayerl\\Mignonette.mid",
+    "artist_band_name": "Billy Mayerl",
+    "song_title": "Mignonette",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.133,
+        "acousticness": 0.995,
+        "danceability": 0.413,
+        "instrumentalness": 0.877,
+        "liveness": 0.176,
+        "speechiness": 0.0476,
+        "loudness": -22.934,
+        "tempo": 64.327,
+        "time_signature": 4,
+        "valence": 0.31,
+        "genre": [],
+        "popularity": 0
+    }
+}

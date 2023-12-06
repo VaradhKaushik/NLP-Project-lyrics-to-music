@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\B.B._King\\Into_The_Night.mid",
+    "artist_band_name": "B.B. King",
+    "song_title": "Into The Night",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.472,
+        "acousticness": 0.263,
+        "danceability": 0.748,
+        "instrumentalness": 1.6e-05,
+        "liveness": 0.098,
+        "speechiness": 0.0298,
+        "loudness": -14.255,
+        "tempo": 103.975,
+        "time_signature": 4,
+        "valence": 0.766,
+        "genre": [
+            "blues",
+            "blues rock",
+            "classic rock",
+            "electric blues",
+            "jazz blues",
+            "soul blues",
+            "traditional blues"
+        ],
+        "popularity": 15
+    }
+}

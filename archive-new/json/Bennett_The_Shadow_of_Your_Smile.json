@@ -1,0 +1,64 @@
+{
+    "midi_file_path": "archive-new\\Bennett\\The_Shadow_of_Your_Smile.mid",
+    "artist_band_name": "Bennett",
+    "song_title": "The Shadow of Your Smile",
+    "lyrics": {
+        "Verse": [
+            "Our wistful little star",
+            "Was far too high",
+            "A teardrop kissed your lips",
+            "And so did I",
+            "Now when I remember spring",
+            "All the joy that love can bring",
+            "I will be remembering",
+            "The shadow of your smile",
+            "",
+            "[Interlude: Juanes]",
+            "Le-le-le-le-le-le",
+            "Le-le-le",
+            "",
+            "La sombra de tu amor en mi so\u00f1ar",
+            "Parece despertar solo ansiedad",
+            "Siento que al partir te vas de m\u00ed",
+            "No podr\u00e9 olvidar ni ser feliz",
+            "La estrella que nos vio ya se apag\u00f3",
+            "Tal vez porque tu adi\u00f3s me har\u00e1 sentir",
+            "Que si te hice da\u00f1o amor",
+            "No te supe comprender",
+            "S\u00f3lo guardar\u00e9 de ti",
+            "La sombra de tu amorYou might also likeEmbed"
+        ],
+        "Chorus": [
+            "The shadow of your smile",
+            "When you are gone",
+            "Will color all my dreams",
+            "And light the dawn",
+            "Look into my eyes",
+            "My love and see",
+            "All the lovely things",
+            "You are to me",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.098,
+        "acousticness": 0.941,
+        "danceability": 0.306,
+        "instrumentalness": 0.0508,
+        "liveness": 0.0974,
+        "speechiness": 0.032,
+        "loudness": -17.247,
+        "tempo": 110.333,
+        "time_signature": 4,
+        "valence": 0.0966,
+        "genre": [
+            "adult standards",
+            "easy listening",
+            "lounge",
+            "vocal jazz"
+        ],
+        "popularity": 43
+    }
+}

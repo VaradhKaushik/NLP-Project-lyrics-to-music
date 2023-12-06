@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andy_Kim\\Rock_Me_Gently.mid",
+    "artist_band_name": "Andy Kim",
+    "song_title": "Rock Me Gently",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.703,
+        "acousticness": 0.231,
+        "danceability": 0.719,
+        "instrumentalness": 9e-05,
+        "liveness": 0.129,
+        "speechiness": 0.0545,
+        "loudness": -8.306,
+        "tempo": 123.173,
+        "time_signature": 4,
+        "valence": 0.776,
+        "genre": [
+            "bubblegum pop",
+            "classic uk pop"
+        ],
+        "popularity": 54
+    }
+}

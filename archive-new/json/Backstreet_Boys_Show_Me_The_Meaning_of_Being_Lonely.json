@@ -1,0 +1,77 @@
+{
+    "midi_file_path": "archive-new\\Backstreet_Boys\\Show_Me_The_Meaning_of_Being_Lonely.mid",
+    "artist_band_name": "Backstreet Boys",
+    "song_title": "Show Me The Meaning of Being Lonely",
+    "lyrics": {
+        "Verse": [
+            "So many words for the broken heart",
+            "It is hard to see in a crimson love",
+            "So hard to breathe",
+            "Walk with me and maybe",
+            "Nights of light so soon become",
+            "Wild and free I could feel the sun",
+            "Your every wish will be done",
+            "They tell me",
+            "",
+            "Life goes on as it never ends",
+            "Eyes of stone observe the trends",
+            "They never say forever gaze, if only",
+            "Guilty roads to an endless love (endless love)",
+            "There is no control, are you with me now?",
+            "Your every wish will be done",
+            "They tell me"
+        ],
+        "Chorus": [
+            "Show me the meaning of being lonely",
+            "Is this the feeling I need to walk with",
+            "Tell me why I can't be there where you are?",
+            "There is something missing in my heart",
+            "",
+            "Show me the meaning of being lonely",
+            "Is this the feeling I need to walk with (tell me why)",
+            "Tell me why I can't be there where you are?",
+            "There is something missing in my heart (heart!)",
+            "Show me the meaning of being lonely (being lonely)",
+            "Is this the feeling I need to walk with (tell me why)",
+            "Tell me why I can't be there where you are? (where you are)",
+            "There is something missing in my heart",
+            "(You are missing from my heart)",
+            "Show me the meaning of being lonely (being lonely)",
+            "Is this the feeling I need to walk with",
+            "Tell me why I cannot be there where you are? (where you are)",
+            "There is something missing in my heart16Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "There is nowhere to run",
+            "I have no place to go",
+            "Surrender my heart, body, and soul",
+            "How can it be you are asking me",
+            "To feel the things you never show?",
+            "(Show-oh-oh-oh-oh, oh!)",
+            "",
+            "[Interlude: Brian]",
+            "You are missing in my heart",
+            "Tell me why can't I be there where you are?",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.625,
+        "acousticness": 0.231,
+        "danceability": 0.63,
+        "instrumentalness": 0,
+        "liveness": 0.0765,
+        "speechiness": 0.0252,
+        "loudness": -5.088,
+        "tempo": 167.998,
+        "time_signature": 4,
+        "valence": 0.683,
+        "genre": [
+            "boy band",
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 71
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alberto_Fortis\\Milano_e_Vincenzo.mid",
+    "artist_band_name": "Alberto Fortis",
+    "song_title": "Milano e Vincenzo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.822,
+        "acousticness": 0.162,
+        "danceability": 0.664,
+        "instrumentalness": 1.59e-06,
+        "liveness": 0.0986,
+        "speechiness": 0.0386,
+        "loudness": -9.326,
+        "tempo": 124.245,
+        "time_signature": 4,
+        "valence": 0.888,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 49
+    }
+}

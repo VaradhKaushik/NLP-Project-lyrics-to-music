@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Alan_Jackson\\Ill_Try.mid",
+    "artist_band_name": "Alan Jackson",
+    "song_title": "Ill Try",
+    "lyrics": {
+        "Verse": [
+            "Here we are",
+            "Talking bout forever",
+            "Both know damn well",
+            "It's not easy together",
+            "We've both felt love",
+            "We've both felt pain",
+            "I'll take the sunshine",
+            "Over the rain",
+            "",
+            "So I'm not scared",
+            "It's worth a chance to me",
+            "Take my hand",
+            "Let's face eternity",
+            "Well I can't tell you",
+            "That I'll never change",
+            "But I can swear",
+            "That in every way"
+        ],
+        "Chorus": [
+            "And I'll try",
+            "To love only you",
+            "And I'll try",
+            "My best to be true",
+            "Oh darling, I'll try",
+            "",
+            "",
+            "",
+            "[Outro]",
+            "I'll try",
+            "To be true to you",
+            "I'll try",
+            "I'll try",
+            "To always love you",
+            "I'll try1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I'm not perfect",
+            "Just another man",
+            "But I will give you",
+            "All that I am",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.444,
+        "acousticness": 0.108,
+        "danceability": 0.578,
+        "instrumentalness": 0.000422,
+        "liveness": 0.104,
+        "speechiness": 0.024,
+        "loudness": -8.663,
+        "tempo": 82.573,
+        "time_signature": 4,
+        "valence": 0.25,
+        "genre": [
+            "country"
+        ],
+        "popularity": 52
+    }
+}

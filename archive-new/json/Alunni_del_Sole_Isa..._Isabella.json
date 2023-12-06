@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Alunni_del_Sole\\Isa..._Isabella.mid",
+    "artist_band_name": "Alunni del Sole",
+    "song_title": "Isa... Isabella",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.292,
+        "acousticness": 0.287,
+        "danceability": 0.295,
+        "instrumentalness": 4.91e-06,
+        "liveness": 0.0907,
+        "speechiness": 0.0325,
+        "loudness": -13.797,
+        "tempo": 137.966,
+        "time_signature": 4,
+        "valence": 0.221,
+        "genre": [
+            "classic italian pop"
+        ],
+        "popularity": 10
+    }
+}

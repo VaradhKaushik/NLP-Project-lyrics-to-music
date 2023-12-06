@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Settembre.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Settembre",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.342,
+        "acousticness": 0.605,
+        "danceability": 0.45,
+        "instrumentalness": 1.42e-06,
+        "liveness": 0.114,
+        "speechiness": 0.0283,
+        "loudness": -14.079,
+        "tempo": 141.718,
+        "time_signature": 4,
+        "valence": 0.13,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 21
+    }
+}

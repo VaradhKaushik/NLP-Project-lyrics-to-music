@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Knowing_Me,_Knowing_You.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Knowing Me, Knowing You",
+    "lyrics": {
+        "Verse": [
+            "No more carefree laughter",
+            "Silence ever after",
+            "Walking through an empty house, tears in my eyes",
+            "Here is where the story ends, this is goodbye",
+            "",
+            "Memories, good days, bad days (Memories, good days, bad days)",
+            "They'll be with me always (They'll be with me always)",
+            "In these old familiar rooms, children would play",
+            "Now there's only emptiness, nothing to say",
+            ""
+        ],
+        "Chorus": [
+            "Knowing me, knowing you, aha",
+            "There is nothing we can do",
+            "Knowing me, knowing you, aha",
+            "We just have to face it, this time we're through",
+            "(This time we're through, this time we're really through)",
+            "(This time we're through, we're really through)",
+            "Breaking up is never easy, I know, but I have to go",
+            "(I have to go, this time I have to go, this time I know)",
+            "Knowing me, knowing you, it's the best I can do",
+            "",
+            "Knowing me, knowing you, aha",
+            "There is nothing we can do",
+            "Knowing me, knowing you, aha",
+            "We just have to face it, this time we're through",
+            "(This time we're through, this time we're really through)",
+            "(This time we're through, we're really through)",
+            "Breaking up is never easy, I know, but I have to go",
+            "(I have to go, this time I have to go, this time I know)",
+            "Knowing me, knowing you, it's the best I can do",
+            "You might also like[Interlude]",
+            "",
+            "Knowing me, knowing you, aha",
+            "There is nothing we can do",
+            "Knowing me, knowing you, aha",
+            "We just have to face it, this time we're through",
+            "(This time we're through, this time we're really through)",
+            "(This time we're through, we're really through)",
+            "Breaking up is never easy, I know, but I have to go",
+            "(I have to go, this time I have to go, this time I know)",
+            "Knowing me, knowing you, it's the best I can do6Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.733,
+        "acousticness": 0.0399,
+        "danceability": 0.546,
+        "instrumentalness": 1.11e-06,
+        "liveness": 0.235,
+        "speechiness": 0.0299,
+        "loudness": -7.073,
+        "tempo": 107.285,
+        "time_signature": 4,
+        "valence": 0.91,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 70
+    }
+}

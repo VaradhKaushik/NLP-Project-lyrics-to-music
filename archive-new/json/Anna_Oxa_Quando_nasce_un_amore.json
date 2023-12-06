@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Anna_Oxa\\Quando_nasce_un_amore.mid",
+    "artist_band_name": "Anna Oxa",
+    "song_title": "Quando nasce un amore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.33,
+        "acousticness": 0.757,
+        "danceability": 0.491,
+        "instrumentalness": 1.03e-05,
+        "liveness": 0.129,
+        "speechiness": 0.0297,
+        "loudness": -11.554,
+        "tempo": 103.33,
+        "time_signature": 4,
+        "valence": 0.227,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 27
+    }
+}

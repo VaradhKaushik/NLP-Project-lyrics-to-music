@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Thats_Me.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Thats Me",
+    "lyrics": {
+        "Verse": [
+            "Are you sure you wanna hear more?",
+            "What if I ain't worth the while",
+            "Not the style you'd be looking for?",
+            "If I'm sweet tonight",
+            "Things look different in the morning light",
+            "I'm jealous and I'm proud",
+            "If you hurt my feelings I'll cry out loud",
+            "I'm Carrie, not-the-kind-of-girl-you'd-marry",
+            "That's me",
+            "",
+            "Are you sure you wanna hear more?",
+            "Would I be the one you seek",
+            "Mild and meek like the girl next door?",
+            "Don't you realise",
+            "I may be an angel in disguise",
+            "It's lonely to be free",
+            "But I'm not a man's toy, I'll never be",
+            "I'm Carrie, not-the-kind-of-girl-you'd-marry",
+            "That's me",
+            "",
+            "Are you sure you wanna hear more?",
+            "Won't you have a drink with me",
+            "Just to see you're not really sore?",
+            "I can't help my ways",
+            "I'm just not the girl to hide my face",
+            "I'm Carrie, not-the-kind-of-girl-you'd-marry",
+            "That's me, mhm",
+            "I'm Carrie, not-the-kind-of-girl-you'd-marry",
+            "That's me",
+            "",
+            "[Interlude]",
+            "",
+            "[Outro]",
+            "There's a special love",
+            "Like an eagle flying with a dove",
+            "I'll find it in the end",
+            "If I keep on searching, but until then",
+            "I'm Carrie, not-the-kind-of-girl-you'd-marry",
+            "That's me1Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I don't believe in fairy tales",
+            "Sweet nothings in my ear",
+            "But I do believe in sympathy",
+            "That's me, you see"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.864,
+        "acousticness": 0.167,
+        "danceability": 0.558,
+        "instrumentalness": 0.000216,
+        "liveness": 0.242,
+        "speechiness": 0.0295,
+        "loudness": -6.654,
+        "tempo": 129.42,
+        "time_signature": 4,
+        "valence": 0.841,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 48
+    }
+}

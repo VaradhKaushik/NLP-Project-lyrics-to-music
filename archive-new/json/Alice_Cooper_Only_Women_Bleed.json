@@ -1,0 +1,75 @@
+{
+    "midi_file_path": "archive-new\\Alice_Cooper\\Only_Women_Bleed.mid",
+    "artist_band_name": "Alice Cooper",
+    "song_title": "Only Women Bleed",
+    "lyrics": {
+        "Verse": [
+            "Man got his woman to take his seed",
+            "He got the power, oh, she got the need",
+            "She spends her life through pleasing up her man",
+            "She feeds him dinner or anything she can",
+            "She cries alone at night too often",
+            "He smokes and drinks and don't come home at all",
+            "",
+            "Man makes your hair gray, he's your life's mistake",
+            "All you're really lookin' for's an even break",
+            "He lies right at you, you know you hate this game",
+            "Slaps you once in a while and you live in love and pain",
+            "She cries alone at night too often",
+            "He smokes and drinks and don't come home at all",
+            ""
+        ],
+        "Chorus": [
+            "Only women bleed",
+            "Only women bleed",
+            "Only women bleed",
+            "",
+            "Only women bleed",
+            "Only women bleed",
+            "Only women bleed",
+            "Only women bleed",
+            "Only women bleed",
+            "Only women bleed",
+            "Oh, only women bleed",
+            "Only women bleed",
+            "Only women bleed",
+            "Only women bleed",
+            "",
+            "[Outro]",
+            "(Ah-ah-ahh)",
+            "(Ahh)1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Black eyes all of the time",
+            "\"Don't spend a dime\", \"Clean up this grime\"",
+            "And you there, down on your knees",
+            "Begging me \"Please, come watch me bleed\"",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.476,
+        "acousticness": 0.535,
+        "danceability": 0.334,
+        "instrumentalness": 0.019,
+        "liveness": 0.278,
+        "speechiness": 0.0308,
+        "loudness": -8.497,
+        "tempo": 147.532,
+        "time_signature": 4,
+        "valence": 0.189,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "detroit rock",
+            "glam metal",
+            "glam rock",
+            "hard rock",
+            "metal",
+            "protopunk",
+            "rock"
+        ],
+        "popularity": 49
+    }
+}

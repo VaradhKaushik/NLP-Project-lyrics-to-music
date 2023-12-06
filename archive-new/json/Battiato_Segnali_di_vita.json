@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Segnali_di_vita.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Segnali di vita",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.495,
+        "acousticness": 0.238,
+        "danceability": 0.567,
+        "instrumentalness": 1.96e-06,
+        "liveness": 0.0796,
+        "speechiness": 0.0271,
+        "loudness": -10.884,
+        "tempo": 110.832,
+        "time_signature": 4,
+        "valence": 0.438,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

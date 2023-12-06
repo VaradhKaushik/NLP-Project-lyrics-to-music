@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Stella.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Stella",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.205,
+        "acousticness": 0.932,
+        "danceability": 0.289,
+        "instrumentalness": 0.00466,
+        "liveness": 0.0906,
+        "speechiness": 0.0348,
+        "loudness": -17.018,
+        "tempo": 137.079,
+        "time_signature": 4,
+        "valence": 0.0902,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 39
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Le_baiser.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Le baiser",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.614,
+        "acousticness": 0.0832,
+        "danceability": 0.57,
+        "instrumentalness": 5.49e-06,
+        "liveness": 0.282,
+        "speechiness": 0.0337,
+        "loudness": -7.553,
+        "tempo": 75.091,
+        "time_signature": 4,
+        "valence": 0.395,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 58
+    }
+}

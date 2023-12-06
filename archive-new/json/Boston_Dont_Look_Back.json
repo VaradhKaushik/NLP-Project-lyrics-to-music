@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Boston\\Dont_Look_Back.mid",
+    "artist_band_name": "Boston",
+    "song_title": "Dont Look Back",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.717,
+        "acousticness": 0.015,
+        "danceability": 0.359,
+        "instrumentalness": 0.00365,
+        "liveness": 0.36,
+        "speechiness": 0.0405,
+        "loudness": -10.309,
+        "tempo": 121.878,
+        "time_signature": 4,
+        "valence": 0.47,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "glam metal",
+            "hard rock",
+            "mellow gold",
+            "rock",
+            "soft rock"
+        ],
+        "popularity": 58
+    }
+}

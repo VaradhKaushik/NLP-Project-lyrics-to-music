@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Histoire_de_faussaire.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Histoire de faussaire",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.236,
+        "acousticness": 0.757,
+        "danceability": 0.753,
+        "instrumentalness": 9.46e-06,
+        "liveness": 0.12,
+        "speechiness": 0.0872,
+        "loudness": -9.983,
+        "tempo": 127.861,
+        "time_signature": 4,
+        "valence": 0.736,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 9
+    }
+}

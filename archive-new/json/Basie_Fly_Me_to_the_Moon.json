@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Fly_Me_to_the_Moon.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Fly Me to the Moon",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.111,
+        "acousticness": 0.362,
+        "danceability": 0.649,
+        "instrumentalness": 0.252,
+        "liveness": 0.348,
+        "speechiness": 0.0665,
+        "loudness": -21.967,
+        "tempo": 109.596,
+        "time_signature": 4,
+        "valence": 0.334,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 20
+    }
+}

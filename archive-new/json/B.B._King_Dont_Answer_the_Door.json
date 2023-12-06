@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\B.B._King\\Dont_Answer_the_Door.mid",
+    "artist_band_name": "B.B. King",
+    "song_title": "Dont Answer the Door",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.442,
+        "acousticness": 0.615,
+        "danceability": 0.347,
+        "instrumentalness": 0.00192,
+        "liveness": 0.163,
+        "speechiness": 0.0383,
+        "loudness": -9.939,
+        "tempo": 175.474,
+        "time_signature": 3,
+        "valence": 0.217,
+        "genre": [
+            "blues",
+            "blues rock",
+            "classic rock",
+            "electric blues",
+            "jazz blues",
+            "soul blues",
+            "traditional blues"
+        ],
+        "popularity": 41
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Sous_les_jupes_des_filles.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Sous les jupes des filles",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.414,
+        "acousticness": 0.0493,
+        "danceability": 0.679,
+        "instrumentalness": 0.000188,
+        "liveness": 0.177,
+        "speechiness": 0.0329,
+        "loudness": -12.717,
+        "tempo": 143.967,
+        "time_signature": 4,
+        "valence": 0.575,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 48
+    }
+}

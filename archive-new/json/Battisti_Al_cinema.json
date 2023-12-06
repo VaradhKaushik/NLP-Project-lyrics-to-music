@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Al_cinema.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Al cinema",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.493,
+        "acousticness": 0.0357,
+        "danceability": 0.729,
+        "instrumentalness": 7.85e-06,
+        "liveness": 0.038,
+        "speechiness": 0.0449,
+        "loudness": -16.557,
+        "tempo": 132.278,
+        "time_signature": 4,
+        "valence": 0.887,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 26
+    }
+}

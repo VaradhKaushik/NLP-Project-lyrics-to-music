@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Them_Bones.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Them Bones",
+    "lyrics": {
+        "Verse": [
+            "I believe",
+            "Them bones are me",
+            "Some say",
+            "We're born into the grave",
+            "",
+            "Dust rise",
+            "Right on over my time",
+            "Empty",
+            "Fossil of the new scene",
+            "",
+            "Toll due",
+            "Bad dream come true",
+            "I lie",
+            "Dead gone under red sky",
+            ""
+        ],
+        "Chorus": [
+            "I feel so alone",
+            "Gonna end up a big ol' pile of them bones",
+            "",
+            "[Post-Chorus]",
+            "Ah!",
+            "Ah! Ah!",
+            "",
+            "I feel so alone",
+            "Gonna end up a big ol' pile of them bones",
+            "You might also like[Guitar Solo]",
+            "",
+            "I feel so alone",
+            "Gonna end up a big ol' pile of them",
+            "I feel so alone",
+            "Gonna end up a big ol' pile of them",
+            "I feel so alone",
+            "Gonna end up a big ol' pile of them bones27Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.946,
+        "acousticness": 0.0235,
+        "danceability": 0.159,
+        "instrumentalness": 8.06e-06,
+        "liveness": 0.387,
+        "speechiness": 0.0629,
+        "loudness": -5.756,
+        "tempo": 165.014,
+        "time_signature": 1,
+        "valence": 0.309,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 72
+    }
+}

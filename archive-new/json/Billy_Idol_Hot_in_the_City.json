@@ -1,0 +1,77 @@
+{
+    "midi_file_path": "archive-new\\Billy_Idol\\Hot_in_the_City.mid",
+    "artist_band_name": "Billy Idol",
+    "song_title": "Hot in the City",
+    "lyrics": {
+        "Verse": [
+            "It's hot here at night, lonely, black and quiet",
+            "On a hot summer night",
+            "Don't be afraid of the world we made",
+            "On a hot summer night",
+            "\u2018Cause when a long-legged lovely walks by",
+            "Yeah, you can see the look in her eye",
+            "Then you know that it's",
+            "",
+            "For all the dreams and schemes",
+            "People are as they seem",
+            "On a hot summer night",
+            "Don't be no fun, don't forget you're young",
+            "On a hot summer night",
+            "A sometime someone you're not",
+            "Don't wait to see what you've got",
+            "\u2018Cause you know that you're"
+        ],
+        "Chorus": [
+            "Hot in the city, hot in the city tonight, tonight",
+            "Hot in the city, hot in the city tonight, tonight",
+            "",
+            "(Stranger, stranger)",
+            "",
+            "Hot in the city, hot in the city tonight, tonight (All right)",
+            "Hot in the city, hot in the city tonight, tonight",
+            "Rowrah!",
+            "",
+            "Hot in the city, hot in the city tonight, tonight",
+            "Hot in the city, hot in the city tonight, tonight",
+            "Hot in the city, hot in the city tonight, tonight",
+            "Hot in the city, hot in the city tonight, tonightEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "We'll walk until my feet drop",
+            "I'm a train when I'm hateful",
+            "Yeah, lay right down now",
+            "And ride until your head breaks",
+            "I'm a-walkin' till my brain pops",
+            "I will move with the beat now",
+            "I'm a chain \u2018round an A-bomb",
+            "I'm a ribbon in the heat now",
+            "New York!",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.897,
+        "acousticness": 0.00316,
+        "danceability": 0.66,
+        "instrumentalness": 2.25e-05,
+        "liveness": 0.116,
+        "speechiness": 0.0257,
+        "loudness": -5.558,
+        "tempo": 111.193,
+        "time_signature": 4,
+        "valence": 0.67,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "dance rock",
+            "hard rock",
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "rock",
+            "soft rock"
+        ],
+        "popularity": 59
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Brian_Hyland\\Itsy_Bitsy_Teenie_Weenie.mid",
+    "artist_band_name": "Brian Hyland",
+    "song_title": "Itsy Bitsy Teenie Weenie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.427,
+        "acousticness": 0.558,
+        "danceability": 0.814,
+        "instrumentalness": 0,
+        "liveness": 0.0248,
+        "speechiness": 0.0918,
+        "loudness": -11.543,
+        "tempo": 123.109,
+        "time_signature": 4,
+        "valence": 0.964,
+        "genre": [
+            "bubblegum pop",
+            "doo-wop",
+            "merseybeat",
+            "rock-and-roll"
+        ],
+        "popularity": 56
+    }
+}

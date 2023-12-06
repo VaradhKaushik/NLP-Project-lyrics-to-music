@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Io_sono_come_te.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Io sono come te",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.505,
+        "acousticness": 0.0981,
+        "danceability": 0.735,
+        "instrumentalness": 0.00255,
+        "liveness": 0.0533,
+        "speechiness": 0.044,
+        "loudness": -16.978,
+        "tempo": 116.042,
+        "time_signature": 4,
+        "valence": 0.896,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 5
+    }
+}

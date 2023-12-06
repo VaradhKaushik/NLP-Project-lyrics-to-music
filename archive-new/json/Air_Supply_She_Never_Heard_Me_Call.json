@@ -1,0 +1,50 @@
+{
+    "midi_file_path": "archive-new\\Air_Supply\\She_Never_Heard_Me_Call.mid",
+    "artist_band_name": "Air Supply",
+    "song_title": "She Never Heard Me Call",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "And now I find the future's gone",
+            "The reasons that I had to carry on are gone",
+            "I tried for it all",
+            "She never heard me call at all",
+            "",
+            "There's no regrets we made the choice",
+            "We listened to that silent voice",
+            "That haunts you till you just give in",
+            "And makes you like a child again",
+            "",
+            "We drifted close then said goodbye",
+            "Just reading well each other's eyes",
+            "The world had turned while we stood still",
+            "And held on to each other",
+            "You might also likeAnd in between the right and wrong",
+            "Is somewhere that sometimes you can belong",
+            "I cried for it all, she never heard me call",
+            "",
+            "And now I find the future's gone",
+            "The reasons that I had to carry on are gone",
+            "I cried for it all",
+            "She never heard me call at allEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.157,
+        "acousticness": 0.864,
+        "danceability": 0.505,
+        "instrumentalness": 3e-06,
+        "liveness": 0.116,
+        "speechiness": 0.0334,
+        "loudness": -15.524,
+        "tempo": 115.348,
+        "time_signature": 4,
+        "valence": 0.135,
+        "genre": [
+            "soft rock"
+        ],
+        "popularity": 46
+    }
+}

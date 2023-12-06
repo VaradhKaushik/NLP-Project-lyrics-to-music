@@ -1,0 +1,57 @@
+{
+    "midi_file_path": "archive-new\\America\\Muskrat_Love.mid",
+    "artist_band_name": "America",
+    "song_title": "Muskrat Love",
+    "lyrics": {
+        "Verse": [
+            "Muskrat, muskrat candlelight",
+            "Doing the town and doing it right",
+            "In the evening, it's pretty pleasing",
+            "Muskrat Susie, Muskrat Sam",
+            "Do the jitterbug out in muskrat land",
+            "And they shimmy, Sammy's so skinny",
+            "",
+            "Nibbling on bacon, chewing on cheese",
+            "Sammy says to Susie, \"Honey, would you please",
+            "Be my missus?\" and she says yes with her kisses",
+            "And now he's tickling her fancy, rubbing her toes",
+            "Muzzle to muzzle, now anything goes",
+            "As they wriggle and Sue starts to giggle",
+            ""
+        ],
+        "Chorus": [
+            "And they whirled and they twirled and they tangoed",
+            "Singing and jinging the jango",
+            "Floating like the heavens above",
+            "Looks like muskrat love",
+            "",
+            "And they whirled and they twirled and they tangoed",
+            "Singing and jinging the jango",
+            "Floating like the heavens above",
+            "Looks like muskrat loveYou might also likeEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.278,
+        "acousticness": 0.898,
+        "danceability": 0.401,
+        "instrumentalness": 0.00302,
+        "liveness": 0.1,
+        "speechiness": 0.0297,
+        "loudness": -16.477,
+        "tempo": 180.56,
+        "time_signature": 4,
+        "valence": 0.548,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 0
+    }
+}

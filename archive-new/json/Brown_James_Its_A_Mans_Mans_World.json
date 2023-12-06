@@ -1,0 +1,62 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\Its_A_Mans_Mans_World.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "Its A Mans Mans World",
+    "lyrics": {
+        "Verse": [
+            "You see, man made the cars",
+            "To take us over the road",
+            "Man made the train",
+            "To carry the heavy load",
+            "Man made the electric light",
+            "To take us out of the dark",
+            "Man made the boat for the water",
+            "Like Noah made the ark",
+            "",
+            "Man thinks about a little bit of baby girls",
+            "And a baby boys",
+            "Man make them happy",
+            "'Cause man make them toys",
+            "And after man make everything, everything he can",
+            "You know that man makes money",
+            "To buy from other man"
+        ],
+        "Chorus": [
+            "This is a man's world",
+            "This is a man's world",
+            "But it wouldn't be nothing",
+            "Nothing without a woman or a girl",
+            "",
+            "This is a man's, man's, man's world",
+            "But it wouldn't be nothing",
+            "Nothing without a woman or a girl",
+            "",
+            "This is a man's world",
+            "But it wouldn't be nothing, nothing",
+            "Not one little thing without a woman or a girl",
+            "",
+            "[Outro]",
+            "He's lost in the wilderness",
+            "He's lost in bitterness",
+            "He's lost, lawd have mercy now, in loneliness14Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.24,
+        "acousticness": 0.687,
+        "danceability": 0.539,
+        "instrumentalness": 5.12e-05,
+        "liveness": 0.133,
+        "speechiness": 0.0426,
+        "loudness": -16.632,
+        "tempo": 80.816,
+        "time_signature": 3,
+        "valence": 0.567,
+        "genre": [
+            "soul"
+        ],
+        "popularity": 67
+    }
+}

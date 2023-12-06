@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Amici_mai.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Amici mai",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.441,
+        "acousticness": 0.407,
+        "danceability": 0.497,
+        "instrumentalness": 1.35e-06,
+        "liveness": 0.0866,
+        "speechiness": 0.0292,
+        "loudness": -13.698,
+        "tempo": 136.022,
+        "time_signature": 4,
+        "valence": 0.379,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 50
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Belafonte_Harry\\Island_in_the_Sun.mid",
+    "artist_band_name": "Belafonte Harry",
+    "song_title": "Island in the Sun",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.383,
+        "acousticness": 0.868,
+        "danceability": 0.322,
+        "instrumentalness": 0,
+        "liveness": 0.36,
+        "speechiness": 0.0514,
+        "loudness": -12.023,
+        "tempo": 65.939,
+        "time_signature": 5,
+        "valence": 0.575,
+        "genre": [
+            "calypso"
+        ],
+        "popularity": 46
+    }
+}

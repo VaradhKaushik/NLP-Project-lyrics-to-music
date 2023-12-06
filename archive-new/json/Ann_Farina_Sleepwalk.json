@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Ann_Farina\\Sleepwalk.mid",
+    "artist_band_name": "Ann Farina",
+    "song_title": "Sleepwalk",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.183,
+        "acousticness": 0.904,
+        "danceability": 0.733,
+        "instrumentalness": 0.911,
+        "liveness": 0.222,
+        "speechiness": 0.0313,
+        "loudness": -10.543,
+        "tempo": 94.931,
+        "time_signature": 3,
+        "valence": 0.493,
+        "genre": [],
+        "popularity": 41
+    }
+}

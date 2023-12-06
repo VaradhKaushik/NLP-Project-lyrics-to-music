@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\I_Got_You_I_Feel_Good_.2.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "I Got You I Feel Good .2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.922,
+        "acousticness": 0.0461,
+        "danceability": 0.435,
+        "instrumentalness": 0,
+        "liveness": 0.404,
+        "speechiness": 0.158,
+        "loudness": -5.549,
+        "tempo": 142.269,
+        "time_signature": 4,
+        "valence": 0.316,
+        "genre": [
+            "funk",
+            "soul"
+        ],
+        "popularity": 24
+    }
+}

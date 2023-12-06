@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\Twilight_Zone.1.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "Twilight Zone.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.995,
+        "acousticness": 8.18e-05,
+        "danceability": 0.655,
+        "instrumentalness": 0.634,
+        "liveness": 0.352,
+        "speechiness": 0.0677,
+        "loudness": -6.09,
+        "tempo": 138.0,
+        "time_signature": 4,
+        "valence": 0.784,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 12
+    }
+}

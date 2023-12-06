@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Basia\\Run_for_Cover.mid",
+    "artist_band_name": "Basia",
+    "song_title": "Run for Cover",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.627,
+        "acousticness": 0.12,
+        "danceability": 0.746,
+        "instrumentalness": 0.0383,
+        "liveness": 0.312,
+        "speechiness": 0.0625,
+        "loudness": -12.673,
+        "tempo": 112.026,
+        "time_signature": 4,
+        "valence": 0.867,
+        "genre": [
+            "smooth jazz",
+            "sophisti-pop"
+        ],
+        "popularity": 22
+    }
+}

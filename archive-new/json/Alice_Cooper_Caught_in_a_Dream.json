@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Alice_Cooper\\Caught_in_a_Dream.mid",
+    "artist_band_name": "Alice Cooper",
+    "song_title": "Caught in a Dream",
+    "lyrics": {
+        "Verse": [
+            "Well, I'm running through the world with a gun in my back",
+            "Trying to catch a ride in a Cadillac",
+            "Thought that I was living, but you can't really tell",
+            "Been trying to get a whiff from that success smell",
+            "",
+            "You know, I need a houseboat and I need a plane",
+            "I need a butler and a trip to Spain",
+            "I need everything the world owes me",
+            "I tell that to myself and I agree",
+            "",
+            "Well I'm running through the world with a gun in my back",
+            "Trying to catch a ride in that Cadillac",
+            "Thought I was living but you can't ever tell",
+            "What I thought was Heaven turned out to be Hell",
+            "You might also likeWhoa whoa, when you see me with a smile on my face",
+            "Whoa whoa then you'll know I'm a mental case",
+            "Whoa whoa whoa, whoa whoa whoa",
+            "Whoa whoa whoa",
+            "",
+            "[Guitar Solo]",
+            ""
+        ],
+        "Chorus": [
+            "I'm caught in a dream; so what",
+            "You don't know what I'm going through",
+            "I'm right in between so I'll",
+            "I'll just play along with you",
+            "",
+            "[Guitar Solo]",
+            "",
+            "I'm caught in a dream; so what",
+            "I don't know what I'm going through",
+            "I'm right in between so I'll",
+            "I'll just play along with you",
+            "",
+            "[Guitar Solo]Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.633,
+        "acousticness": 0.193,
+        "danceability": 0.554,
+        "instrumentalness": 0.00035,
+        "liveness": 0.205,
+        "speechiness": 0.0309,
+        "loudness": -13.091,
+        "tempo": 136.925,
+        "time_signature": 4,
+        "valence": 0.907,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "detroit rock",
+            "glam metal",
+            "glam rock",
+            "hard rock",
+            "metal",
+            "protopunk",
+            "rock"
+        ],
+        "popularity": 36
+    }
+}

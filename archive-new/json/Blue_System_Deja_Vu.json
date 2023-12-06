@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Blue_System\\Deja_Vu.mid",
+    "artist_band_name": "Blue System",
+    "song_title": "Deja Vu",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.731,
+        "acousticness": 0.0452,
+        "danceability": 0.692,
+        "instrumentalness": 0.000125,
+        "liveness": 0.298,
+        "speechiness": 0.0272,
+        "loudness": -10.909,
+        "tempo": 119.699,
+        "time_signature": 4,
+        "valence": 0.873,
+        "genre": [
+            "italo disco",
+            "new italo disco"
+        ],
+        "popularity": 37
+    }
+}

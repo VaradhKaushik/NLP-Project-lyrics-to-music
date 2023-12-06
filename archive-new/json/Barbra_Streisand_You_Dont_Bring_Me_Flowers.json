@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\You_Dont_Bring_Me_Flowers.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "You Dont Bring Me Flowers",
+    "lyrics": {
+        "Verse": [
+            "You don't bring me flowers",
+            "You don't sing me love songs",
+            "You hardly talk to me anymore",
+            "When I come through the door at the end of the day",
+            "",
+            "It used to be so natural",
+            "To talk about forever",
+            "But used-to-be's don't count anymore",
+            "They just lay on the floor",
+            "Till we sweep them away",
+            "And, baby, I remember",
+            "All the things you taught me",
+            "I learned how to laugh",
+            "And I learned how to cry",
+            "Well, I learned how to love",
+            "Even learned how to lie"
+        ],
+        "Chorus": [
+            "I remember when",
+            "You couldn't wait to love me",
+            "Used to hate to leave me",
+            "Now after loving me late at night",
+            "Well, it's good for you",
+            "And you're feeling alright",
+            "Well, you just roll over and turn out the light",
+            "And you don't bring me flowers anymore",
+            "",
+            "So you think I could learn",
+            "How to tell you goodbye",
+            "'Cause you don't bring me flowers anymore",
+            "",
+            "[Instrumental Break]",
+            "",
+            "Well, you think I could learn",
+            "How to tell you goodbye",
+            "'Cause you don't say you need me",
+            "You don't sing me love songs",
+            "You don't bring me flowers anymore1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.212,
+        "acousticness": 0.889,
+        "danceability": 0.192,
+        "instrumentalness": 6.48e-05,
+        "liveness": 0.162,
+        "speechiness": 0.0356,
+        "loudness": -13.018,
+        "tempo": 86.984,
+        "time_signature": 3,
+        "valence": 0.212,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 40
+    }
+}

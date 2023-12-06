@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Borg_Andy\\Liebe_total.mid",
+    "artist_band_name": "Borg Andy",
+    "song_title": "Liebe total",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.836,
+        "acousticness": 0.0155,
+        "danceability": 0.687,
+        "instrumentalness": 1.02e-06,
+        "liveness": 0.329,
+        "speechiness": 0.0402,
+        "loudness": -4.992,
+        "tempo": 119.988,
+        "time_signature": 4,
+        "valence": 0.789,
+        "genre": [
+            "classic schlager",
+            "schlager",
+            "volksmusik"
+        ],
+        "popularity": 18
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Le_cose_che_hai_amato_di_piu.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Le cose che hai amato di piu",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.482,
+        "acousticness": 0.695,
+        "danceability": 0.559,
+        "instrumentalness": 4.06e-06,
+        "liveness": 0.119,
+        "speechiness": 0.0366,
+        "loudness": -8.832,
+        "tempo": 83.941,
+        "time_signature": 4,
+        "valence": 0.161,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 28
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andre_Hazes\\Ik_meen_t.mid",
+    "artist_band_name": "Andre Hazes",
+    "song_title": "Ik meen t",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.878,
+        "acousticness": 0.114,
+        "danceability": 0.533,
+        "instrumentalness": 0.00016,
+        "liveness": 0.276,
+        "speechiness": 0.0447,
+        "loudness": -6.501,
+        "tempo": 99.855,
+        "time_signature": 4,
+        "valence": 0.76,
+        "genre": [
+            "dutch rock",
+            "kermis",
+            "levenslied"
+        ],
+        "popularity": 15
+    }
+}

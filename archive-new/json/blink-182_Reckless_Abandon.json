@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Reckless_Abandon.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Reckless Abandon",
+    "lyrics": {
+        "Verse": [
+            "I learned a lot today, not sure if I'll get laid and",
+            "Not sure if I'll fail or pass, kissed every girl in class",
+            "Everybody would waste it all to have a summer that they could call",
+            "A memory that's full of fun, fucked up when it's all done",
+            "",
+            "Sip a drink of the alcohol, end up kneeling in bathroom stalls",
+            "Eyes are red and my movement's slow, too high, got vertigo",
+            "He took a shit in the bathroom tub and fed the dog brownie drugs",
+            "Tried hard to not get caught, he fucked a chick in the parking lot"
+        ],
+        "Chorus": [
+            "On and on, reckless abandon",
+            "Something's wrong, this is gonna shock them",
+            "Nothing to hold on to",
+            "We'll use this song to lead you on...",
+            "",
+            "On and on, reckless abandon",
+            "Something's wrong, this is gonna shock them",
+            "Nothing to hold on to",
+            "We'll use this song to lead you on",
+            "",
+            "[Post-Chorus: Tom DeLonge]",
+            "And break the truth with more bad news",
+            "We left a scar, size extra-large",
+            "",
+            "On and on, reckless abandon",
+            "Something's wrong, this is gonna shock them",
+            "Nothing to hold on to",
+            "We'll use this song to lead you on",
+            "",
+            "[Post-Chorus: Tom DeLonge]",
+            "And break the truth with more bad news",
+            "We left a scar, size extra-large",
+            "",
+            "[Instrumental Bridge]",
+            "",
+            "On and on, reckless abandon",
+            "Something's wrong, this is gonna shock them",
+            "Nothing to hold on to",
+            "We'll use this song to lead you on",
+            "",
+            "[Post-Chorus: Tom DeLonge]",
+            "And break the truth with more bad news",
+            "We left a scar, size extra-large...6Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Break a window and bust a wall, making fun of your friend's mom",
+            "Turn the music up way too loud, charge the pizza to the house",
+            "Everybody would waste it all to have a summer that they could call",
+            "A memory that's full of fun, fucked up when it's all done",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.961,
+        "acousticness": 0.00137,
+        "danceability": 0.5,
+        "instrumentalness": 0,
+        "liveness": 0.296,
+        "speechiness": 0.0961,
+        "loudness": -3.92,
+        "tempo": 124.898,
+        "time_signature": 4,
+        "valence": 0.515,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 59
+    }
+}

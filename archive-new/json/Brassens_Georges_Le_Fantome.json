@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Fantome.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Fantome",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.152,
+        "acousticness": 0.913,
+        "danceability": 0.793,
+        "instrumentalness": 8.99e-06,
+        "liveness": 0.112,
+        "speechiness": 0.123,
+        "loudness": -15.562,
+        "tempo": 99.774,
+        "time_signature": 4,
+        "valence": 0.71,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 5
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Blur\\Stereotypes.mid",
+    "artist_band_name": "Blur",
+    "song_title": "Stereotypes",
+    "lyrics": {
+        "Verse": [
+            "The suburbs, they are dreaming, they're a twinkle in her eye",
+            "She's been feeling frisky since her husband said goodbye",
+            "She wears a low cut T-shirt, runs a little B&B",
+            "She's most accommodating when she's in her lingerie",
+            "",
+            "The suburbs, they are sleeping, but he's dressing up tonight",
+            "She likes a man in uniform, he likes to wear it tight",
+            "They're on the lovers' sofa, they're on the patio",
+            "And when the fun is over, watch themselves on video",
+            ""
+        ],
+        "Chorus": [
+            "Wife-swapping is your future",
+            "You know that it would suit ya",
+            "",
+            "Yes, they're stereotypes, there must be more to life",
+            "All your life you're dreaming and then you stop dreaming",
+            "From time to time, you know",
+            "You should be going on another bender",
+            "",
+            "The neighbours may be staring",
+            "But they are just past caring",
+            "Yes, they're stereotypes, there must be more to life",
+            "All your life you're dreaming and then you stop dreaming",
+            "From time to time, you know",
+            "You're going on another bender",
+            "Yes, there must be more to life than stereotypes",
+            "",
+            "[Instrumental Break]",
+            "",
+            "Wife-swapping is your future",
+            "You know that it would suit ya",
+            "",
+            "Yes, they're stereotypes, there must be more to life",
+            "All your life you're dreaming and then you stop dreaming",
+            "From time to time, you know",
+            "You should be going on another bender",
+            "Yes, there must be more to life than stereotypes",
+            "All your life you're dreaming and then you stop dreaming",
+            "From time to time, you know",
+            "You should go on another bender",
+            "Before you come to offend her8Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.715,
+        "acousticness": 0.0694,
+        "danceability": 0.426,
+        "instrumentalness": 0,
+        "liveness": 0.244,
+        "speechiness": 0.0562,
+        "loudness": -6.17,
+        "tempo": 108.553,
+        "time_signature": 4,
+        "valence": 0.752,
+        "genre": [
+            "alternative rock",
+            "britpop",
+            "madchester",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 44
+    }
+}

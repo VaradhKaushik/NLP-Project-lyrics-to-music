@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Big_Mr\\Wind_Me_Up.mid",
+    "artist_band_name": "Big Mr",
+    "song_title": "Wind Me Up",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.941,
+        "acousticness": 0.0364,
+        "danceability": 0.53,
+        "instrumentalness": 7.5e-05,
+        "liveness": 0.187,
+        "speechiness": 0.0684,
+        "loudness": -4.812,
+        "tempo": 130.207,
+        "time_signature": 4,
+        "valence": 0.688,
+        "genre": [
+            "glam metal",
+            "hard rock"
+        ],
+        "popularity": 25
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Bay_City_Rollers\\I_Only_Want_to_Be_With_You.mid",
+    "artist_band_name": "Bay City Rollers",
+    "song_title": "I Only Want to Be With You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.962,
+        "acousticness": 0.0597,
+        "danceability": 0.635,
+        "instrumentalness": 0.000113,
+        "liveness": 0.132,
+        "speechiness": 0.0557,
+        "loudness": -8.015,
+        "tempo": 132.802,
+        "time_signature": 4,
+        "valence": 0.968,
+        "genre": [
+            "bubblegum pop"
+        ],
+        "popularity": 32
+    }
+}

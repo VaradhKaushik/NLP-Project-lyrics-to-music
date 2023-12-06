@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Grazie_Roma.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Grazie Roma",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.622,
+        "acousticness": 0.594,
+        "danceability": 0.405,
+        "instrumentalness": 2.28e-06,
+        "liveness": 0.955,
+        "speechiness": 0.0486,
+        "loudness": -12.033,
+        "tempo": 137.003,
+        "time_signature": 4,
+        "valence": 0.492,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 45
+    }
+}

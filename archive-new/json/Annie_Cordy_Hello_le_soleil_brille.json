@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Annie_Cordy\\Hello_le_soleil_brille.mid",
+    "artist_band_name": "Annie Cordy",
+    "song_title": "Hello le soleil brille",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.365,
+        "acousticness": 0.786,
+        "danceability": 0.697,
+        "instrumentalness": 1.63e-06,
+        "liveness": 0.135,
+        "speechiness": 0.0447,
+        "loudness": -9.815,
+        "tempo": 113.191,
+        "time_signature": 4,
+        "valence": 0.536,
+        "genre": [
+            "chanson paillarde",
+            "classic french pop",
+            "ye ye"
+        ],
+        "popularity": 15
+    }
+}

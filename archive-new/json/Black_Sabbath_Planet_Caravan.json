@@ -1,0 +1,50 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\Planet_Caravan.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "Planet Caravan",
+    "lyrics": {
+        "Verse": [
+            "We sail through endless skies",
+            "Stars shine like eyes, the black night sighs",
+            "The moon in silver dreams",
+            "Pours down in beams, light of the night",
+            "The earth, a purple blaze",
+            "Of sapphire haze in orbit always",
+            "",
+            "While down below the trees",
+            "Bathed in cool breeze, silver starlight",
+            "Breaks dawn from night",
+            "And so, we pass on by",
+            "The crimson eye of great God Mars",
+            "As we travel the universe",
+            "[Instrumental Outro]You might also like21Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0595,
+        "acousticness": 0.941,
+        "danceability": 0.368,
+        "instrumentalness": 0.889,
+        "liveness": 0.0827,
+        "speechiness": 0.036,
+        "loudness": -28.603,
+        "tempo": 90.127,
+        "time_signature": 4,
+        "valence": 0.338,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 55
+    }
+}

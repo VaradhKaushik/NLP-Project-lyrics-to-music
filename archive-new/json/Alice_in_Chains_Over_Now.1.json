@@ -1,0 +1,81 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Over_Now.1.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Over Now.1",
+    "lyrics": {
+        "Verse": [
+            "Yeah, it's over now",
+            "But I can breathe somehow",
+            "When it's all worn out",
+            "I'd rather go without",
+            "",
+            "Well, it's over now",
+            "Yet I can see somehow",
+            "When it's all gone wrong",
+            "It's hard to be so strong",
+            "",
+            "Guess it's over now",
+            "I seem alive somehow",
+            "When it's out of sight",
+            "Just wait and do your time",
+            ""
+        ],
+        "Chorus": [
+            "You know it's been on my mind",
+            "Could you stand right there",
+            "Look me straight in the eye",
+            "And say that it's over now?",
+            "",
+            "[Post-Chorus: Jerry Cantrell & Layne Staley]",
+            "We pay our debt sometime",
+            "",
+            "You know it's been on my mind",
+            "Could you stand right there",
+            "Look me straight in the eye",
+            "And say that it's over now?",
+            "You might also like[Post-Chorus: Jerry Cantrell & Layne Staley]",
+            "We pay our debt sometime",
+            "Yeah, we pay our debt sometime",
+            "",
+            "You know it's been on my mind",
+            "Could I stand right here",
+            "Look myself in the eye",
+            "And say that it's over now?",
+            "",
+            "[Post-Chorus: Jerry Cantrell & Layne Staley]",
+            "We pay our debt sometime",
+            "Yeah, we pay our debt sometime",
+            "",
+            "[Outro: Jerry Cantrell & Layne Staley]",
+            "We pay our debt sometime",
+            "Yeah, we pay our debt sometime4Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "We pay our debt sometime",
+            "Yeah, we pay our debt sometime",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.502,
+        "acousticness": 0.167,
+        "danceability": 0.608,
+        "instrumentalness": 0.00626,
+        "liveness": 0.244,
+        "speechiness": 0.0404,
+        "loudness": -10.45,
+        "tempo": 111.41,
+        "time_signature": 4,
+        "valence": 0.278,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 49
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "midi_file_path": "archive-new\\BOWIE_DAVID\\Fame.mid",
+    "artist_band_name": "BOWIE DAVID",
+    "song_title": "Fame",
+    "lyrics": {
+        "Verse": [
+            "Fame (Fame), makes a man take things over",
+            "Fame (Fame), lets him loose, hard to swallow",
+            "Fame (Fame), puts you there where things are hollow",
+            "Fame (Fame)",
+            "",
+            "Fame (Fame), what you like is in the limo",
+            "Fame (Fame), what you get is no tomorrow",
+            "Fame (Fame), what you need, you have to borrow",
+            "Fame (Fame)",
+            "",
+            "Is it any wonder I reject you first?",
+            "Fame (Fame), fame, fame, fame",
+            "Is it any wonder you are too cool to fool",
+            "Fame (Fame)",
+            ""
+        ],
+        "Chorus": [
+            "Fame, it's not your brain, it's just the flame",
+            "That burns your change to keep you insane ('Sane)",
+            "Fame (Fame)",
+            "",
+            "Fame, \"Nein! It's mine!\" is just his line",
+            "To bind your time, it drives you to crime",
+            "Fame (Fame)",
+            "",
+            "Fame, bully for you, chilly for me",
+            "Got to get a rain check on pain (Pain)",
+            "(Fame)",
+            "",
+            "[Outro]",
+            "Fame, fame, fame, fame, fame, fame, fame, fame",
+            "Fame, fame, fame, fame, fame, fame, fame, fame",
+            "Fame, fame, fame, fame, fame, fame, fame",
+            "Fame",
+            "What's your name?",
+            "(Feeling so gay, feeling gay)7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Could it be the best, could it be?",
+            "Really be, really, babe?",
+            "Could it be, my babe, could it, babe?",
+            "Could it, babe? Could it, babe?"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.555,
+        "acousticness": 0.454,
+        "danceability": 0.786,
+        "instrumentalness": 0.0173,
+        "liveness": 0.0826,
+        "speechiness": 0.0471,
+        "loudness": -10.276,
+        "tempo": 95.1,
+        "time_signature": 4,
+        "valence": 0.673,
+        "genre": [
+            "art rock",
+            "classic rock",
+            "glam rock",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 64
+    }
+}

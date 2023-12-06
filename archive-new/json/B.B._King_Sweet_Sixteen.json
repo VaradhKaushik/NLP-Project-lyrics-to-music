@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\B.B._King\\Sweet_Sixteen.mid",
+    "artist_band_name": "B.B. King",
+    "song_title": "Sweet Sixteen",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.531,
+        "acousticness": 0.3,
+        "danceability": 0.52,
+        "instrumentalness": 0.000386,
+        "liveness": 0.701,
+        "speechiness": 0.0746,
+        "loudness": -9.397,
+        "tempo": 111.934,
+        "time_signature": 4,
+        "valence": 0.657,
+        "genre": [
+            "blues",
+            "blues rock",
+            "classic rock",
+            "electric blues",
+            "jazz blues",
+            "soul blues",
+            "traditional blues"
+        ],
+        "popularity": 34
+    }
+}

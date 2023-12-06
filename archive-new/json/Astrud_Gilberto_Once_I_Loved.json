@@ -1,0 +1,53 @@
+{
+    "midi_file_path": "archive-new\\Astrud_Gilberto\\Once_I_Loved.mid",
+    "artist_band_name": "Astrud Gilberto",
+    "song_title": "Once I Loved",
+    "lyrics": {
+        "Verse": [
+            "Once I loved",
+            "And I gave so much love to this love",
+            "You were the world to me",
+            "Once I cried at the thought",
+            "I was foolish and proud",
+            "And let you say goodbye",
+            "Then one day from my infinite sadness",
+            "You came and brought me love again",
+            "Now I know, that no matter, whatever befalls",
+            "I'll never let you go",
+            "I will hold you close",
+            "Night and day",
+            "Because love is the saddest thing",
+            "When it goes away",
+            "",
+            "I will hold you close",
+            "Make you stay",
+            "Because love is the saddest thing",
+            "When it goes away",
+            "Love is the saddest thing",
+            "When it goes awayYou might also likeEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.26,
+        "acousticness": 0.645,
+        "danceability": 0.36,
+        "instrumentalness": 1.68e-06,
+        "liveness": 0.276,
+        "speechiness": 0.0359,
+        "loudness": -16.915,
+        "tempo": 139.73,
+        "time_signature": 4,
+        "valence": 0.314,
+        "genre": [
+            "bossa nova",
+            "brazilian jazz",
+            "lounge",
+            "samba-jazz",
+            "vocal jazz"
+        ],
+        "popularity": 44
+    }
+}

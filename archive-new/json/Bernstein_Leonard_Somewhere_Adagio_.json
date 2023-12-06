@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bernstein_Leonard\\Somewhere_Adagio_.mid",
+    "artist_band_name": "Bernstein Leonard",
+    "song_title": "Somewhere Adagio ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0674,
+        "acousticness": 0.866,
+        "danceability": 0.175,
+        "instrumentalness": 0.878,
+        "liveness": 0.211,
+        "speechiness": 0.0438,
+        "loudness": -24.448,
+        "tempo": 117.915,
+        "time_signature": 4,
+        "valence": 0.0392,
+        "genre": [
+            "american modern classical",
+            "classical",
+            "classical performance",
+            "orchestral performance"
+        ],
+        "popularity": 15
+    }
+}

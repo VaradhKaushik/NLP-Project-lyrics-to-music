@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andy_Williams\\Where_Do_I_Begin_Love_Story.mid",
+    "artist_band_name": "Andy Williams",
+    "song_title": "Where Do I Begin Love Story",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.473,
+        "acousticness": 0.512,
+        "danceability": 0.259,
+        "instrumentalness": 1.5e-06,
+        "liveness": 0.4,
+        "speechiness": 0.0324,
+        "loudness": -10.187,
+        "tempo": 84.897,
+        "time_signature": 4,
+        "valence": 0.232,
+        "genre": [
+            "adult standards",
+            "easy listening"
+        ],
+        "popularity": 57
+    }
+}

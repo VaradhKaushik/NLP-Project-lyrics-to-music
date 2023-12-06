@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Big_Mr\\Addicted_to_That_Rush.mid",
+    "artist_band_name": "Big Mr",
+    "song_title": "Addicted to That Rush",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.928,
+        "acousticness": 0.0353,
+        "danceability": 0.493,
+        "instrumentalness": 1.29e-06,
+        "liveness": 0.496,
+        "speechiness": 0.101,
+        "loudness": -9.755,
+        "tempo": 113.109,
+        "time_signature": 4,
+        "valence": 0.386,
+        "genre": [
+            "glam metal",
+            "hard rock"
+        ],
+        "popularity": 49
+    }
+}

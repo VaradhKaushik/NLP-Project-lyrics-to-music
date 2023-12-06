@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andre_Hazes\\Manke_Nelis_medley.mid",
+    "artist_band_name": "Andre Hazes",
+    "song_title": "Manke Nelis medley",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.966,
+        "acousticness": 0.0262,
+        "danceability": 0.584,
+        "instrumentalness": 0,
+        "liveness": 0.957,
+        "speechiness": 0.0519,
+        "loudness": -7.286,
+        "tempo": 130.032,
+        "time_signature": 4,
+        "valence": 0.87,
+        "genre": [
+            "dutch rock",
+            "kermis",
+            "levenslied"
+        ],
+        "popularity": 9
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Broadway\\Eternal_Journey.mid",
+    "artist_band_name": "Broadway",
+    "song_title": "Eternal Journey",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.917,
+        "acousticness": 0.00237,
+        "danceability": 0.189,
+        "instrumentalness": 0.616,
+        "liveness": 0.369,
+        "speechiness": 0.0867,
+        "loudness": -6.685,
+        "tempo": 79.922,
+        "time_signature": 4,
+        "valence": 0.243,
+        "genre": [
+            "christian metalcore"
+        ],
+        "popularity": 0
+    }
+}

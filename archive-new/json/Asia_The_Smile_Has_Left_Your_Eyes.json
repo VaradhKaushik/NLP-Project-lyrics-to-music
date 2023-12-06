@@ -1,0 +1,76 @@
+{
+    "midi_file_path": "archive-new\\Asia\\The_Smile_Has_Left_Your_Eyes.mid",
+    "artist_band_name": "Asia",
+    "song_title": "The Smile Has Left Your Eyes",
+    "lyrics": {
+        "Verse": [
+            "I saw you standing hand in hand",
+            "But now you come to me the solitary man",
+            "And I know what it is that made us live such ordinary lives",
+            "The where to go, the who to see",
+            "No one could sympathize",
+            "",
+            "And I've become a rolling stone",
+            "I don't know where to go, or what to call my own",
+            "But I can see that black horizon",
+            "Looming ever close to view",
+            "It's over now, it's not my fault",
+            "See how this feels for you",
+            "",
+            "I saw you standing hand in hand",
+            "But now you come to me the solitary man",
+            "And I know what it is that made us live such ordinary lives",
+            "The where to go, the who to see",
+            "No one could sympathize",
+            ""
+        ],
+        "Chorus": [
+            "The smile has left your eyes",
+            "The smile has left your eyes",
+            "",
+            "The smile has left your eyes",
+            "The smile has left your eyes",
+            "",
+            "The smile has left your eyes",
+            "Now it's too late you realized",
+            "Now there's no one can sympathize",
+            "Now that the smile has left your eyes",
+            "Now it's too late you realized",
+            "Now there's no one can sympathize",
+            "Now it's too late you realized",
+            "Now that the smile has left your eyes",
+            "Eyes",
+            "",
+            "[Outro]",
+            "The smile has left your eyesEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I never thought I'd see you",
+            "Standing there with him",
+            "So don't come crawling back to me"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.66,
+        "acousticness": 0.354,
+        "danceability": 0.326,
+        "instrumentalness": 1.01e-05,
+        "liveness": 0.106,
+        "speechiness": 0.0316,
+        "loudness": -8.534,
+        "tempo": 85.176,
+        "time_signature": 4,
+        "valence": 0.381,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "glam metal",
+            "hard rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock"
+        ],
+        "popularity": 39
+    }
+}

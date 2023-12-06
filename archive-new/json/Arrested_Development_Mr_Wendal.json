@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Arrested_Development\\Mr_Wendal.mid",
+    "artist_band_name": "Arrested Development",
+    "song_title": "Mr Wendal",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.37,
+        "acousticness": 0.0188,
+        "danceability": 0.884,
+        "instrumentalness": 0.00423,
+        "liveness": 0.026,
+        "speechiness": 0.112,
+        "loudness": -11.353,
+        "tempo": 109.997,
+        "time_signature": 4,
+        "valence": 0.883,
+        "genre": [
+            "atl hip hop",
+            "conscious hip hop",
+            "hip hop",
+            "old school atlanta hip hop"
+        ],
+        "popularity": 55
+    }
+}

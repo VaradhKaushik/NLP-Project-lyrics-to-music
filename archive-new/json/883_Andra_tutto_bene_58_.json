@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Andra_tutto_bene_58_.mid",
+    "artist_band_name": "883",
+    "song_title": "Andra tutto bene 58 ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.846,
+        "acousticness": 0.00616,
+        "danceability": 0.77,
+        "instrumentalness": 0.00195,
+        "liveness": 0.364,
+        "speechiness": 0.0362,
+        "loudness": -6.717,
+        "tempo": 117.965,
+        "time_signature": 4,
+        "valence": 0.855,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 20
+    }
+}

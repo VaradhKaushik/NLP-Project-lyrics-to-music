@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Soli.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Soli",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.308,
+        "acousticness": 0.274,
+        "danceability": 0.569,
+        "instrumentalness": 0.0188,
+        "liveness": 0.151,
+        "speechiness": 0.0379,
+        "loudness": -12.9,
+        "tempo": 74.051,
+        "time_signature": 4,
+        "valence": 0.339,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 26
+    }
+}

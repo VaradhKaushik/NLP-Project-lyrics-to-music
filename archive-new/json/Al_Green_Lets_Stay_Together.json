@@ -1,0 +1,62 @@
+{
+    "midi_file_path": "archive-new\\Al_Green\\Lets_Stay_Together.mid",
+    "artist_band_name": "Al Green",
+    "song_title": "Lets Stay Together",
+    "lyrics": {
+        "Verse": [
+            "I, I'm so in love with you",
+            "Whatever you want to do is alright with me",
+            "'Cause you make me feel so brand new",
+            "And I want to spend my life with you",
+            "",
+            "Let me say that since, baby, since we've been together",
+            "Ooh, loving you forever is what I need",
+            "Let me be the one you come running to",
+            "I'll never be untrue",
+            "",
+            "Why somebody, why people break up",
+            "Turn around and make up, I just can't see",
+            "You'd never do that to me, would you baby?",
+            "Just being around you is all I see, it's what I want to do"
+        ],
+        "Chorus": [
+            "Ooh, baby, let's, let's stay together",
+            "Lovin' you whether",
+            "Whether times are good or bad, happy or sad",
+            "Ooh, yeah",
+            "Whether times are good or bad, happy or sad",
+            "",
+            "Let's, we ought to stay together",
+            "Lovin' you whether",
+            "Whether times are good or bad, happy or sad",
+            "",
+            "[Outro]",
+            "C'mon, let's, let's stay together",
+            "I'll keep on lovin' you whether",
+            "Whether times are, oh times are good or times are bad19Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.401,
+        "acousticness": 0.582,
+        "danceability": 0.756,
+        "instrumentalness": 0.011,
+        "liveness": 0.0541,
+        "speechiness": 0.0526,
+        "loudness": -10.702,
+        "tempo": 101.954,
+        "time_signature": 4,
+        "valence": 0.514,
+        "genre": [
+            "classic soul",
+            "funk",
+            "memphis soul",
+            "soul",
+            "soul blues",
+            "southern soul"
+        ],
+        "popularity": 78
+    }
+}

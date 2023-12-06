@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Axelle_Red\\Je_tattends.mid",
+    "artist_band_name": "Axelle Red",
+    "song_title": "Je tattends",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.113,
+        "acousticness": 0.955,
+        "danceability": 0.626,
+        "instrumentalness": 0.000112,
+        "liveness": 0.114,
+        "speechiness": 0.0395,
+        "loudness": -12.501,
+        "tempo": 116.119,
+        "time_signature": 4,
+        "valence": 0.163,
+        "genre": [
+            "belgian indie",
+            "belgian pop",
+            "french pop"
+        ],
+        "popularity": 46
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\ABC\\4_Ever_2_Gether.mid",
+    "artist_band_name": "ABC",
+    "song_title": "4 Ever 2 Gether",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.935,
+        "acousticness": 0.0892,
+        "danceability": 0.509,
+        "instrumentalness": 0.0156,
+        "liveness": 0.0483,
+        "speechiness": 0.107,
+        "loudness": -5.307,
+        "tempo": 124.977,
+        "time_signature": 4,
+        "valence": 0.258,
+        "genre": [
+            "dance rock",
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "sophisti-pop",
+            "synthpop"
+        ],
+        "popularity": 31
+    }
+}

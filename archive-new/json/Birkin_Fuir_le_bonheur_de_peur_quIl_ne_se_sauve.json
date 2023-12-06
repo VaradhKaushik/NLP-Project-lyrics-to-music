@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Birkin\\Fuir_le_bonheur_de_peur_quIl_ne_se_sauve.mid",
+    "artist_band_name": "Birkin",
+    "song_title": "Fuir le bonheur de peur quIl ne se sauve",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.332,
+        "acousticness": 0.591,
+        "danceability": 0.535,
+        "instrumentalness": 0,
+        "liveness": 0.0948,
+        "speechiness": 0.0309,
+        "loudness": -13.609,
+        "tempo": 90.133,
+        "time_signature": 5,
+        "valence": 0.338,
+        "genre": [
+            "chanson"
+        ],
+        "popularity": 39
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "midi_file_path": "archive-new\\Berlin_Irving\\White_Christmas.mid",
+    "artist_band_name": "Berlin Irving",
+    "song_title": "White Christmas",
+    "lyrics": {
+        "Verse": [
+            "I'm dreaming of a white Christmas",
+            "Just like the ones I used to know",
+            "Where the treetops glisten and children listen",
+            "To hear sleigh bells in the snow",
+            "",
+            "I'm dreaming of a white Christmas",
+            "With every Christmas card I write",
+            "May your days be merry and bright",
+            "And may all your Christmases be white",
+            "",
+            "I'm dreaming of a white Christmas",
+            "Just like the ones I used to know",
+            "Where the treetops glisten and children listen",
+            "To hear sleigh bells in the snow",
+            "I'm dreaming of a white Christmas",
+            "With every Christmas card I write",
+            "May your days be merry and bright",
+            "And may all your Christmases be white",
+            "",
+            "[Outro]",
+            "May your days be merry and bright",
+            "And may all your Christmases be white",
+            "And may all your Christmases be white (All your Christmases be white)",
+            "And may all your Christmases be white (All your Christmases be white)",
+            "And may all your Christmases be",
+            "(All your Christmases be white)",
+            "(All your Christmases be white)Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0918,
+        "acousticness": 0.929,
+        "danceability": 0.228,
+        "instrumentalness": 0.746,
+        "liveness": 0.117,
+        "speechiness": 0.041,
+        "loudness": -20.398,
+        "tempo": 67.082,
+        "time_signature": 3,
+        "valence": 0.0392,
+        "genre": [
+            "tin pan alley"
+        ],
+        "popularity": 21
+    }
+}

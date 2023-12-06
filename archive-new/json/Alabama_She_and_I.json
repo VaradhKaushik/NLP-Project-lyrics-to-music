@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\She_and_I.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "She and I",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.572,
+        "acousticness": 0.204,
+        "danceability": 0.753,
+        "instrumentalness": 2.4e-05,
+        "liveness": 0.244,
+        "speechiness": 0.025,
+        "loudness": -10.672,
+        "tempo": 114.534,
+        "time_signature": 4,
+        "valence": 0.861,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 37
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Fugue_24_B_Minor.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Fugue 24 B Minor",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.27,
+        "acousticness": 0.995,
+        "danceability": 0.294,
+        "instrumentalness": 0.913,
+        "liveness": 0.117,
+        "speechiness": 0.0521,
+        "loudness": -20.511,
+        "tempo": 166.958,
+        "time_signature": 4,
+        "valence": 0.93,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 22
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Shes_Got_a_Way.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Shes Got a Way",
+    "lyrics": {
+        "Verse": [
+            "She's got a way about her",
+            "I don't know what it is",
+            "But I know that I can't live without her",
+            "She's got a way of pleasing",
+            "I don't know what it is",
+            "But there doesn't have to be a reason anyway",
+            "",
+            "She's got a smile that heals me",
+            "I don't know why it is",
+            "But I have to laugh when she reveals me",
+            "And she's got a way of talking",
+            "I don't know what it is",
+            "But it lifts me up",
+            "When we are walking anywhere",
+            "",
+            "She's got a way of showing",
+            "How I make her feel",
+            "And I find the strength to keep on going",
+            "And she's got a light around her",
+            "And everywhere she goes",
+            "A million dreams of love",
+            "Surround her everywhere",
+            "She's got a smile that heals me",
+            "I don't know why it is",
+            "But I have to laugh when she reveals me",
+            "She's got a way about her",
+            "I don't know what it is",
+            "But I know that I can't live without her anywayEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "She comes to me when I'm feelin' down",
+            "Inspires me without a sound",
+            "She touches me and I get turned around",
+            "",
+            "She comes to me when I'm feelin' down",
+            "Inspires me without a sound",
+            "She touches me and I get turned around",
+            "Oh woo oh oh",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.142,
+        "acousticness": 0.97,
+        "danceability": 0.495,
+        "instrumentalness": 1.93e-06,
+        "liveness": 0.113,
+        "speechiness": 0.0436,
+        "loudness": -16.186,
+        "tempo": 75.859,
+        "time_signature": 4,
+        "valence": 0.196,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 56
+    }
+}

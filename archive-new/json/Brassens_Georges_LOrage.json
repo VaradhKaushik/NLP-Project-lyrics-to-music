@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\LOrage.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "LOrage",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.247,
+        "acousticness": 0.914,
+        "danceability": 0.822,
+        "instrumentalness": 9.14e-05,
+        "liveness": 0.138,
+        "speechiness": 0.233,
+        "loudness": -17.313,
+        "tempo": 125.679,
+        "time_signature": 4,
+        "valence": 0.915,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 24
+    }
+}

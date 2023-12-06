@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\O_sole_mio.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "O sole mio",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.386,
+        "acousticness": 0.926,
+        "danceability": 0.129,
+        "instrumentalness": 0.0852,
+        "liveness": 0.954,
+        "speechiness": 0.0397,
+        "loudness": -9.546,
+        "tempo": 68.762,
+        "time_signature": 4,
+        "valence": 0.504,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 43
+    }
+}

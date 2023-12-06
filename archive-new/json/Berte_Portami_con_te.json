@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Portami_con_te.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Portami con te",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.662,
+        "acousticness": 0.0396,
+        "danceability": 0.685,
+        "instrumentalness": 0,
+        "liveness": 0.0715,
+        "speechiness": 0.0314,
+        "loudness": -7.686,
+        "tempo": 105.062,
+        "time_signature": 4,
+        "valence": 0.416,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 13
+    }
+}

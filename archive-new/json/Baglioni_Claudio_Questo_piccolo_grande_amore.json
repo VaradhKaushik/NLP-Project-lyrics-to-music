@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Baglioni_Claudio\\Questo_piccolo_grande_amore.mid",
+    "artist_band_name": "Baglioni Claudio",
+    "song_title": "Questo piccolo grande amore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.238,
+        "acousticness": 0.631,
+        "danceability": 0.357,
+        "instrumentalness": 0,
+        "liveness": 0.366,
+        "speechiness": 0.0388,
+        "loudness": -14.164,
+        "tempo": 109.225,
+        "time_signature": 4,
+        "valence": 0.288,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 58
+    }
+}

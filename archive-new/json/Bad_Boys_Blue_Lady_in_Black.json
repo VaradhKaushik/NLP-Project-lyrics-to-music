@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Bad_Boys_Blue\\Lady_in_Black.mid",
+    "artist_band_name": "Bad Boys Blue",
+    "song_title": "Lady in Black",
+    "lyrics": {
+        "Verse": [
+            "There was broken lace lying on the ground",
+            "And the house of light was fading in the night",
+            ""
+        ],
+        "Chorus": [
+            "Behind the window, symbols of red",
+            "Painting the face of the lady in black",
+            "Behind the window, I'll never forget",
+            "The magic lady, the lady in black",
+            "She'll never come back",
+            "",
+            "The lady's beauty was so divine",
+            "She took my heart with her heavenly smile",
+            "When I reached down just to kiss her hand",
+            "I suddenly tumbled down in the sand",
+            "There was broken lace lying on the ground",
+            "And the house of light was fading in the night",
+            "",
+            "Behind the window, symbols of red",
+            "Painting the face of the lady in black",
+            "Behind the window, I'll never forget",
+            "The magic lady, the lady in black",
+            "You might also like[Interlude]",
+            "Round about the cauldron go",
+            "In the poison'd entrails throw",
+            "Swelter'd venom sleeping got",
+            "Boil thou first i' the charmed pot",
+            "",
+            "Behind the window, the symbols of red",
+            "Painting the face of the lady in black",
+            "Behind the window I'll never forget",
+            "The magic lady, the lady in black",
+            "",
+            "Behind the window, the symbols of red",
+            "Painting the face of the lady in black",
+            "Behind the window I'll never forget",
+            "The magic lady, the lady in black",
+            "",
+            "[Outro]",
+            "The lady in black",
+            "The lady in black...Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.825,
+        "acousticness": 0.0513,
+        "danceability": 0.608,
+        "instrumentalness": 0.101,
+        "liveness": 0.266,
+        "speechiness": 0.0275,
+        "loudness": -10.258,
+        "tempo": 119.954,
+        "time_signature": 4,
+        "valence": 0.961,
+        "genre": [
+            "new italo disco"
+        ],
+        "popularity": 44
+    }
+}

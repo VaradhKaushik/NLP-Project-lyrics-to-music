@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Aint_Goin_Down_til_the_Sun_Comes_Up_.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Aint Goin Down til the Sun Comes Up ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.917,
+        "acousticness": 0.55,
+        "danceability": 0.485,
+        "instrumentalness": 0.00122,
+        "liveness": 0.287,
+        "speechiness": 0.0629,
+        "loudness": -4.307,
+        "tempo": 170.607,
+        "time_signature": 4,
+        "valence": 0.744,
+        "genre": [],
+        "popularity": 51
+    }
+}

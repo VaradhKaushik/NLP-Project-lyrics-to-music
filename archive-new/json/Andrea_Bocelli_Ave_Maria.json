@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Ave_Maria.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Ave Maria",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.227,
+        "acousticness": 0.974,
+        "danceability": 0.0928,
+        "instrumentalness": 0.00016,
+        "liveness": 0.107,
+        "speechiness": 0.0371,
+        "loudness": -14.745,
+        "tempo": 80.658,
+        "time_signature": 3,
+        "valence": 0.0713,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 34
+    }
+}

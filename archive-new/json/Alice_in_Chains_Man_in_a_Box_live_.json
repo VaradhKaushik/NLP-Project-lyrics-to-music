@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Man_in_a_Box_live_.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Man in a Box live ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.964,
+        "acousticness": 2.46e-05,
+        "danceability": 0.387,
+        "instrumentalness": 0.0372,
+        "liveness": 0.697,
+        "speechiness": 0.12,
+        "loudness": -5.626,
+        "tempo": 115.141,
+        "time_signature": 4,
+        "valence": 0.215,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 33
+    }
+}

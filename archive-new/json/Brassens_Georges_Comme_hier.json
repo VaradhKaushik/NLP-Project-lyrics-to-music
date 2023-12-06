@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Comme_hier.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Comme hier",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.157,
+        "acousticness": 0.775,
+        "danceability": 0.661,
+        "instrumentalness": 0,
+        "liveness": 0.383,
+        "speechiness": 0.248,
+        "loudness": -12.294,
+        "tempo": 137.778,
+        "time_signature": 4,
+        "valence": 0.792,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 13
+    }
+}

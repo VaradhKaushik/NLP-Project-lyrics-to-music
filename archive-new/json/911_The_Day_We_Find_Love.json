@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\911\\The_Day_We_Find_Love.mid",
+    "artist_band_name": "911",
+    "song_title": "The Day We Find Love",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "Cause I know, this isn't the first time",
+            "It won't be the last time",
+            "I surrender my soul",
+            "Cause you're always, keepin' me waitin', anticipatin'",
+            "The day we find love once again",
+            "",
+            "I won't give up while there's a glimmer of a chance",
+            "A dream that's never ending",
+            "Inviting love and a perfect romance",
+            "A burning passion, oh baby you're my destiny",
+            "But the message I'm receivein', is your through with me",
+            "But I'll be there, even though you tell me you don't care",
+            "How could you forget the times we've shared",
+            "Don't throw our love away, you know it's never too late",
+            "Cause I know, this isn't the first time",
+            "It won't be the last time",
+            "I surrender my soul",
+            "Cause you're always, keepin' me waitin', anticipatin'",
+            "The day we find love once again",
+            "",
+            "Remember me, as the only one who set you free",
+            "Maybe time alone will make you see",
+            "How deep our love could be",
+            "No, it's never too late",
+            "",
+            "Cause I know, this isn't the first time",
+            "It won't be the last time",
+            "I surrender my soul",
+            "Cause you're always, keepin' me waitin', anticipatin'",
+            "The day we find love once again",
+            "This isn't the first time (The day we find love)",
+            "It won't be the last time (And I need you one more time)",
+            "Keepin' me waitin', anticipatin' (The day we find love)",
+            "This isn't the first time (The day we find love)",
+            "It won't be the last time (The day we find love)Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.574,
+        "acousticness": 0.041,
+        "danceability": 0.587,
+        "instrumentalness": 0,
+        "liveness": 0.145,
+        "speechiness": 0.0232,
+        "loudness": -8.505,
+        "tempo": 83.989,
+        "time_signature": 4,
+        "valence": 0.521,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 47
+    }
+}

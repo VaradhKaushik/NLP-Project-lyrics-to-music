@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Questione_di_cellule.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Questione di cellule",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.518,
+        "acousticness": 0.0223,
+        "danceability": 0.692,
+        "instrumentalness": 5.05e-05,
+        "liveness": 0.0832,
+        "speechiness": 0.0371,
+        "loudness": -11.489,
+        "tempo": 92.347,
+        "time_signature": 4,
+        "valence": 0.842,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 28
+    }
+}

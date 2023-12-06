@@ -1,0 +1,65 @@
+{
+    "midi_file_path": "archive-new\\Berlin\\Take_My_Breath_Away.mid",
+    "artist_band_name": "Berlin",
+    "song_title": "Take My Breath Away",
+    "lyrics": {
+        "Verse": [
+            "Watching every motion in my foolish lover's game",
+            "On this endless ocean, finally lovers know no shame",
+            "Turning and returning to some secret place inside",
+            "Watching in slow motion as you turn around and say",
+            "",
+            "Watching, I keep waiting, still anticipating love",
+            "Never hesitating to become the fated ones",
+            "Turning and returning to some secret place to find",
+            "Watching in slow motion as you turn to me and say",
+            "",
+            "Watching every motion in this foolish lover's game",
+            "Haunted by the notion somewhere there's a love in flames",
+            "Turning and returning to some secret place inside",
+            "Watching in slow motion as you turn my way and say",
+            ""
+        ],
+        "Chorus": [
+            "Take my breath away",
+            "Take my breath away",
+            "",
+            "My love, take my breath away",
+            "",
+            "Take my breath away",
+            "Take my breath away",
+            "",
+            "Take my breath away",
+            "My love, take my breath away",
+            "My love, take my breath away",
+            "My love, take my breath away",
+            "My love25Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Through the hourglass, I saw you",
+            "In time, you slipped away",
+            "When the mirror crashed I called you",
+            "And turned to hear you say",
+            "If only for today, I'm unafraid"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.719,
+        "acousticness": 0.0613,
+        "danceability": 0.497,
+        "instrumentalness": 0,
+        "liveness": 0.411,
+        "speechiness": 0.0266,
+        "loudness": -9.397,
+        "tempo": 95.769,
+        "time_signature": 4,
+        "valence": 0.547,
+        "genre": [
+            "new romantic",
+            "new wave pop",
+            "synthpop"
+        ],
+        "popularity": 75
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Vinton\\My_Special_Angel.mid",
+    "artist_band_name": "Bobby Vinton",
+    "song_title": "My Special Angel",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.455,
+        "acousticness": 0.244,
+        "danceability": 0.378,
+        "instrumentalness": 6.61e-06,
+        "liveness": 0.0652,
+        "speechiness": 0.0279,
+        "loudness": -7.446,
+        "tempo": 72.348,
+        "time_signature": 4,
+        "valence": 0.296,
+        "genre": [
+            "adult standards",
+            "bubblegum pop",
+            "doo-wop",
+            "easy listening",
+            "rock-and-roll",
+            "rockabilly"
+        ],
+        "popularity": 40
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Bon_Jovi\\Its_My_Life.2.mid",
+    "artist_band_name": "Bon Jovi",
+    "song_title": "Its My Life.2",
+    "lyrics": {
+        "Verse": [
+            "This ain't a song for the broken-hearted (woah oh, woah oh, oh)",
+            "No silent prayer for the faith-departed",
+            "I ain't gonna be just a face in the crowd",
+            "You're gonna hear my voice when I shout it out loud",
+            "",
+            "This is for the ones who stood their ground",
+            "For Tommy and Gina who never backed down",
+            "Tomorrow's getting harder make no mistake",
+            "Luck ain't even lucky, got to make your own breaks",
+            ""
+        ],
+        "Chorus": [
+            "It's my life, it's now or never",
+            "I ain't gonna live forever",
+            "I just want to live while I'm alive",
+            "(It's my life) My heart is like an open highway",
+            "Like Frankie said, \"I did it my way\"",
+            "I just wanna live while I'm alive",
+            "It's my life",
+            "",
+            "It's my life, it's now or never",
+            "I ain't gonna live forever",
+            "I just want to live while I'm alive",
+            "(It's my life) My heart is like an open highway",
+            "Like Frankie said, \"I did it my way\"",
+            "I just wanna live while I'm alive",
+            "'Cause it's my life",
+            "It's my life, it's now or never",
+            "I ain't gonna live forever",
+            "I just want to live while I'm alive",
+            "(It's my life) My heart is like an open highway",
+            "Like Frankie said, \"I did it my way\"",
+            "I just wanna live while I'm alive",
+            "It's my life",
+            "And it's now or never",
+            "I ain't gonna live forever",
+            "I just want to live while I'm alive",
+            "(It's my life) My heart is like an open highway",
+            "Like Frankie said, \"I did it my way\"",
+            "I just wanna live while I'm alive",
+            "It's my life41Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Better stand tall when they're calling you out",
+            "Don't bend, don't break, baby, don't back down",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.369,
+        "acousticness": 0.609,
+        "danceability": 0.489,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "speechiness": 0.0278,
+        "loudness": -8.094,
+        "tempo": 114.836,
+        "time_signature": 4,
+        "valence": 0.133,
+        "genre": [
+            "glam metal",
+            "rock"
+        ],
+        "popularity": 51
+    }
+}

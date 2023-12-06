@@ -1,0 +1,41 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Nel_sole,_nel_vento,_nel_sorriso_e_nel_pianto.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Nel sole, nel vento, nel sorriso e nel pianto",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "E tutto questo lo devo a lei",
+            "Io lo devo a lei",
+            "You might also like[Ritornello]",
+            "Perch\u00e9 lei \u00e8 vicino a me",
+            "Nel sole, nel vento, nel sorriso e nel pianto",
+            "Lei \u00e8 vicino a me",
+            "Con tutto il suo cuore, con tutto il suo amore",
+            "In ogni istante, in ogni momento, in ogni momento",
+            "",
+            "[Outro]",
+            "Oh lei, oh lei...Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.298,
+        "acousticness": 0.784,
+        "danceability": 0.445,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "speechiness": 0.0301,
+        "loudness": -11.663,
+        "tempo": 103.164,
+        "time_signature": 3,
+        "valence": 0.466,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 29
+    }
+}

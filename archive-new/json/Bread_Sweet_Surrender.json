@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bread\\Sweet_Surrender.mid",
+    "artist_band_name": "Bread",
+    "song_title": "Sweet Surrender",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.42,
+        "acousticness": 0.234,
+        "danceability": 0.599,
+        "instrumentalness": 0.000139,
+        "liveness": 0.102,
+        "speechiness": 0.0272,
+        "loudness": -14.348,
+        "tempo": 167.104,
+        "time_signature": 4,
+        "valence": 0.629,
+        "genre": [
+            "folk rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 56
+    }
+}

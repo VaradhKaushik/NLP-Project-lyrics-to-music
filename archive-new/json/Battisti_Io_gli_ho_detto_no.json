@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Io_gli_ho_detto_no.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Io gli ho detto no",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.194,
+        "acousticness": 0.856,
+        "danceability": 0.491,
+        "instrumentalness": 0.419,
+        "liveness": 0.098,
+        "speechiness": 0.0307,
+        "loudness": -18.622,
+        "tempo": 103.201,
+        "time_signature": 4,
+        "valence": 0.468,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

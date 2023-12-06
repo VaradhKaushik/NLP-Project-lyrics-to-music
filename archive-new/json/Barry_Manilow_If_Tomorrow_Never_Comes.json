@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Barry_Manilow\\If_Tomorrow_Never_Comes.mid",
+    "artist_band_name": "Barry Manilow",
+    "song_title": "If Tomorrow Never Comes",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.499,
+        "acousticness": 0.521,
+        "danceability": 0.554,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "speechiness": 0.0278,
+        "loudness": -7.844,
+        "tempo": 77.276,
+        "time_signature": 4,
+        "valence": 0.157,
+        "genre": [
+            "adult standards",
+            "mellow gold",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 18
+    }
+}

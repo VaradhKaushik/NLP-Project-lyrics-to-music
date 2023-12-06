@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Britney_Spears\\Where_Are_You_Now.mid",
+    "artist_band_name": "Britney Spears",
+    "song_title": "Where Are You Now",
+    "lyrics": {
+        "Verse": [
+            "Calling out your name",
+            "Your face is everywhere",
+            "I'm reaching out to you",
+            "To find that you're not there",
+            "I wake up every night to see the state I'm in",
+            "It's like an endless fight I never seem to win",
+            "",
+            "I can hear your voice",
+            "The ring of yesterday",
+            "It seems so close to me",
+            "But yet so far away",
+            "I should let it out",
+            "To save what's left of me",
+            "And close the doors of doubt",
+            "Revive my dignity, but"
+        ],
+        "Chorus": [
+            "I can't go on as long as I believe",
+            "Can't let go when I keep wondering",
+            "",
+            "Where are you now, what have you found?",
+            "Where is your heart when I'm not around?",
+            "Where are you now? You gotta let me know",
+            "Oh, baby, so I can let you go",
+            "",
+            "I can't go on as long as I believe (As long as I believe)",
+            "Can't let go when I keep wondering (where are you)",
+            "",
+            "Where are you now, what have you found?",
+            "Where is your heart when I'm not around?",
+            "Where are you now? You gotta let me know",
+            "Oh, baby, so I can let you go",
+            "",
+            "Where are you now, what have you found? (you now)",
+            "Where is your heart when I'm not around? (where is your heart when I'm not around?)",
+            "Where are you now? You gotta let me know",
+            "Oh, baby, so I can let you go",
+            "Where are you now, what have you found? (where are you now, what have you found?)",
+            "Where is your heart when I'm not around? (where is your heart when I'm not around?)",
+            "Where are you now? You gotta let me know (where are you now? Gotta let me know)",
+            "Oh, baby, so I can let you go (let you go)4Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I should let it out, it's time to let you go",
+            "Oh, baby, I just wanna know",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.489,
+        "acousticness": 0.337,
+        "danceability": 0.636,
+        "instrumentalness": 0,
+        "liveness": 0.291,
+        "speechiness": 0.0263,
+        "loudness": -8.098,
+        "tempo": 125.616,
+        "time_signature": 4,
+        "valence": 0.297,
+        "genre": [
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 43
+    }
+}

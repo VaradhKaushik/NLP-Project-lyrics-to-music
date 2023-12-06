@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Quand_jserai_KO.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Quand jserai KO",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.166,
+        "acousticness": 0.843,
+        "danceability": 0.604,
+        "instrumentalness": 3.99e-06,
+        "liveness": 0.398,
+        "speechiness": 0.0287,
+        "loudness": -16.976,
+        "tempo": 74.979,
+        "time_signature": 4,
+        "valence": 0.729,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 51
+    }
+}

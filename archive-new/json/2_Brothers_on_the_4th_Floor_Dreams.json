@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\2_Brothers_on_the_4th_Floor\\Dreams.mid",
+    "artist_band_name": "2 Brothers on the 4th Floor",
+    "song_title": "Dreams",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.953,
+        "acousticness": 0.0113,
+        "danceability": 0.702,
+        "instrumentalness": 0.00193,
+        "liveness": 0.266,
+        "speechiness": 0.0473,
+        "loudness": -6.347,
+        "tempo": 134.027,
+        "time_signature": 4,
+        "valence": 0.507,
+        "genre": [
+            "eurodance",
+            "hip house"
+        ],
+        "popularity": 68
+    }
+}

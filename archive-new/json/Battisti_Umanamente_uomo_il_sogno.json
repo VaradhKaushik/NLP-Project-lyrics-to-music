@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Umanamente_uomo_il_sogno.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Umanamente uomo il sogno",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0566,
+        "acousticness": 0.17,
+        "danceability": 0.229,
+        "instrumentalness": 0.857,
+        "liveness": 0.0997,
+        "speechiness": 0.0358,
+        "loudness": -16.729,
+        "tempo": 76.014,
+        "time_signature": 3,
+        "valence": 0.225,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 34
+    }
+}

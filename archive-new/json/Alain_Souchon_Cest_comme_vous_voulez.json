@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Cest_comme_vous_voulez.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Cest comme vous voulez",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.749,
+        "acousticness": 0.471,
+        "danceability": 0.745,
+        "instrumentalness": 0.000932,
+        "liveness": 0.251,
+        "speechiness": 0.0286,
+        "loudness": -8.529,
+        "tempo": 112.094,
+        "time_signature": 4,
+        "valence": 0.77,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 17
+    }
+}

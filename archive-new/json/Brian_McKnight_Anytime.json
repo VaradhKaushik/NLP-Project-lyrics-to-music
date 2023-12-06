@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Brian_McKnight\\Anytime.mid",
+    "artist_band_name": "Brian McKnight",
+    "song_title": "Anytime",
+    "lyrics": {
+        "Verse": [
+            "I can't remember why we fell apart",
+            "From something that was so meant to be, yeah",
+            "Forever was the promise in our hearts",
+            "Now, more and more, I wonder where you are",
+            "",
+            "Still have your picture in a frame",
+            "Hear your footsteps down the hall",
+            "I swear I hear your voice, driving me insane",
+            "How I wish that you would call to say",
+            ""
+        ],
+        "Chorus": [
+            "Do I ever cross your mind anytime?",
+            "Do you ever wake up reaching out for me?",
+            "Do I ever cross your mind anytime?",
+            "I miss you",
+            "",
+            "Do I ever cross your mind anytime?",
+            "Do you ever wake up reaching out for me?",
+            "Do I ever cross your mind anytime?",
+            "I miss you",
+            "I miss you, I miss you",
+            "",
+            "Do I ever cross your mind anytime?",
+            "Do you ever wake up reaching out for me?",
+            "Do I ever cross your mind anytime?",
+            "I miss you",
+            "",
+            "[Outro]",
+            "I miss you",
+            "I miss you",
+            "I miss you",
+            "I miss you9Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "No more loneliness and heartache",
+            "No more crying myself to sleep",
+            "Don't want no more wondering about tomorrow",
+            "Won't you come back to me, come back to me, oh"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.44,
+        "acousticness": 0.0188,
+        "danceability": 0.747,
+        "instrumentalness": 0.000817,
+        "liveness": 0.0397,
+        "speechiness": 0.0314,
+        "loudness": -8.463,
+        "tempo": 129.834,
+        "time_signature": 4,
+        "valence": 0.507,
+        "genre": [
+            "contemporary r&b",
+            "quiet storm",
+            "r&b",
+            "urban contemporary"
+        ],
+        "popularity": 56
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Dimmi_che_credi.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Dimmi che credi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.737,
+        "acousticness": 0.103,
+        "danceability": 0.525,
+        "instrumentalness": 0,
+        "liveness": 0.124,
+        "speechiness": 0.0327,
+        "loudness": -9.894,
+        "tempo": 118.012,
+        "time_signature": 4,
+        "valence": 0.794,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

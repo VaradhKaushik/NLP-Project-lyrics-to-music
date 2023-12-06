@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Bonnie_Raitt\\Something_to_Talk_About.mid",
+    "artist_band_name": "Bonnie Raitt",
+    "song_title": "Something to Talk About",
+    "lyrics": {
+        "Verse": [
+            "People are talking, talking 'bout people",
+            "I hear them whisper, you won't believe it",
+            "They think we're lovers kept under cover",
+            "I just ignore it, but they keep saying",
+            "We laugh just a little too loud",
+            "Stand just a little too close",
+            "We stare just a little too long",
+            "Maybe they're seein' something we don't, darling",
+            "",
+            "I feel so foolish, I never noticed",
+            "You'd act so nervous, could you be falling for me?",
+            "It took the rumor to make me wonder",
+            "Now I'm convinced I'm going under",
+            "Thinkin' 'bout you every day",
+            "Dream 'bout you every night",
+            "I'm hoping that you feel the same way",
+            "Now that we know it, let's really show it, darling"
+        ],
+        "Chorus": [
+            "Let's give 'em something to talk about",
+            "Let's give 'em something to talk about",
+            "Let's give 'em something to talk about",
+            "How about love?",
+            "",
+            "Let's give 'em something to talk about",
+            "A little mystery to figure out, babe",
+            "Let's give 'em something to talk about",
+            "How about love?",
+            "",
+            "Let's give 'em something to talk about, babe",
+            "A little mystery to figure out",
+            "Let's give 'em something to talk about",
+            "How about love?",
+            "",
+            "Ooh, listen to 'em baby",
+            "A little mystery won't hurt 'em",
+            "Let's give 'em something to talk about",
+            "How about our love, love, love, love1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.64,
+        "acousticness": 0.0631,
+        "danceability": 0.795,
+        "instrumentalness": 2.13e-06,
+        "liveness": 0.0692,
+        "speechiness": 0.0294,
+        "loudness": -13.478,
+        "tempo": 102.633,
+        "time_signature": 4,
+        "valence": 0.954,
+        "genre": [
+            "country rock",
+            "electric blues",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "mellow gold",
+            "singer-songwriter"
+        ],
+        "popularity": 61
+    }
+}

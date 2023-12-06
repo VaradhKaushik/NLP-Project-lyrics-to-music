@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Booming_Support\\Rode_schoentjes.mid",
+    "artist_band_name": "Booming Support",
+    "song_title": "Rode schoentjes",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.619,
+        "acousticness": 0.0106,
+        "danceability": 0.84,
+        "instrumentalness": 0.388,
+        "liveness": 0.357,
+        "speechiness": 0.0702,
+        "loudness": -11.847,
+        "tempo": 124.855,
+        "time_signature": 4,
+        "valence": 0.527,
+        "genre": [],
+        "popularity": 13
+    }
+}

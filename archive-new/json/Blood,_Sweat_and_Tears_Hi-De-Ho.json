@@ -1,0 +1,38 @@
+{
+    "midi_file_path": "archive-new\\Blood,_Sweat_and_Tears\\Hi-De-Ho.mid",
+    "artist_band_name": "Blood, Sweat and Tears",
+    "song_title": "Hi-De-Ho",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.252,
+        "acousticness": 0.693,
+        "danceability": 0.371,
+        "instrumentalness": 5.64e-05,
+        "liveness": 0.162,
+        "speechiness": 0.0379,
+        "loudness": -14.479,
+        "tempo": 112.76,
+        "time_signature": 4,
+        "valence": 0.425,
+        "genre": [
+            "album rock",
+            "blues rock",
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "jazz rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "southern rock"
+        ],
+        "popularity": 34
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Ace_Frehley\\New_York_Groove.mid",
+    "artist_band_name": "Ace Frehley",
+    "song_title": "New York Groove",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.608,
+        "acousticness": 0.61,
+        "danceability": 0.826,
+        "instrumentalness": 0.000164,
+        "liveness": 0.116,
+        "speechiness": 0.162,
+        "loudness": -8.442,
+        "tempo": 95.085,
+        "time_signature": 4,
+        "valence": 0.846,
+        "genre": [
+            "glam metal",
+            "hard rock"
+        ],
+        "popularity": 61
+    }
+}

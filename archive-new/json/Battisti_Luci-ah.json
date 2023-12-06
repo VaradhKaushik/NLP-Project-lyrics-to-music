@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Luci-ah.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Luci-ah",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.536,
+        "acousticness": 0.618,
+        "danceability": 0.545,
+        "instrumentalness": 0.000192,
+        "liveness": 0.085,
+        "speechiness": 0.0516,
+        "loudness": -14.302,
+        "tempo": 143.091,
+        "time_signature": 4,
+        "valence": 0.401,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 29
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\Air_Supply\\Come_What_May.mid",
+    "artist_band_name": "Air Supply",
+    "song_title": "Come What May",
+    "lyrics": {
+        "Verse": [
+            "When she looks at me",
+            "I know the girl sees things",
+            "Nobody else can see",
+            "All of the secret fears inside",
+            "And all the craziness I hide",
+            "She looks into my soul",
+            "And reads me like nobody can",
+            "",
+            "When I turn away",
+            "She knows those are the times",
+            "There's nothing she can say",
+            "Nothing that anyone can do",
+            "And so she lets me live it through",
+            "And when I'm in my darkest hour of uncertainty"
+        ],
+        "Chorus": [
+            "And she doesn't judge the man",
+            "She just takes me as I am",
+            "",
+            "Come what may, she believes",
+            "And that faith is something",
+            "I've never known before",
+            "Come what may, she loves me",
+            "And that love has helped me open a door",
+            "Making me love myself a little more",
+            "",
+            "She just simply lets me be",
+            "And goes right on loving me",
+            "",
+            "Come what may, she believes",
+            "And that faith is something",
+            "I've never known before",
+            "Come what may, she loves me",
+            "And that love has helped me open a door",
+            "Making me love myself a little more, oh, oh, oh",
+            "",
+            "Come what may, she believes",
+            "And that faith is something",
+            "I've never known before",
+            "Come what may, she loves me",
+            "And that love has helped me open a door",
+            "Making me love myself a little more",
+            "[Outro]",
+            "Come what may, she believes",
+            "And that faith is something",
+            "I've never known before",
+            "Come what may, she loves me",
+            "And that love has helped me open a doorEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "And when it seems my dreams",
+            "Have all slipped through my fingers",
+            "When they just can't be found",
+            "I turn around and there they are",
+            "Shining in her eyes (Shining in her eyes)",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.399,
+        "acousticness": 0.491,
+        "danceability": 0.345,
+        "instrumentalness": 0,
+        "liveness": 0.119,
+        "speechiness": 0.0293,
+        "loudness": -9.44,
+        "tempo": 139.233,
+        "time_signature": 4,
+        "valence": 0.22,
+        "genre": [
+            "soft rock"
+        ],
+        "popularity": 58
+    }
+}

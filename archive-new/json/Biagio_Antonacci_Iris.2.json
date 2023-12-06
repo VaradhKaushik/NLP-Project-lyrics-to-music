@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Iris.2.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Iris.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.629,
+        "acousticness": 0.196,
+        "danceability": 0.722,
+        "instrumentalness": 0,
+        "liveness": 0.125,
+        "speechiness": 0.023,
+        "loudness": -6.839,
+        "tempo": 97.924,
+        "time_signature": 4,
+        "valence": 0.461,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 1
+    }
+}

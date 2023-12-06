@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\It_Had_to_Be_You.mid",
+    "artist_band_name": "Basie",
+    "song_title": "It Had to Be You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.223,
+        "acousticness": 0.475,
+        "danceability": 0.499,
+        "instrumentalness": 0.782,
+        "liveness": 0.333,
+        "speechiness": 0.03,
+        "loudness": -11.455,
+        "tempo": 101.116,
+        "time_signature": 4,
+        "valence": 0.304,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 4
+    }
+}

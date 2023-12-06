@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bill_Withers\\Just_the_Two_of_Us.mid",
+    "artist_band_name": "Bill Withers",
+    "song_title": "Just the Two of Us",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.492,
+        "acousticness": 0.711,
+        "danceability": 0.463,
+        "instrumentalness": 5.42e-06,
+        "liveness": 0.0944,
+        "speechiness": 0.0766,
+        "loudness": -9.846,
+        "tempo": 93.687,
+        "time_signature": 4,
+        "valence": 0.407,
+        "genre": [
+            "classic soul",
+            "funk",
+            "quiet storm",
+            "soul"
+        ],
+        "popularity": 29
+    }
+}

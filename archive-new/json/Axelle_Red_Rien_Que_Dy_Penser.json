@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Axelle_Red\\Rien_Que_Dy_Penser.mid",
+    "artist_band_name": "Axelle Red",
+    "song_title": "Rien Que Dy Penser",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.29,
+        "acousticness": 0.658,
+        "danceability": 0.643,
+        "instrumentalness": 0.00118,
+        "liveness": 0.146,
+        "speechiness": 0.0302,
+        "loudness": -9.039,
+        "tempo": 114.582,
+        "time_signature": 4,
+        "valence": 0.195,
+        "genre": [
+            "belgian indie",
+            "belgian pop",
+            "french pop"
+        ],
+        "popularity": 5
+    }
+}

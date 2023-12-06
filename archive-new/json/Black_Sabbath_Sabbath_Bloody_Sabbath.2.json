@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\Sabbath_Bloody_Sabbath.2.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "Sabbath Bloody Sabbath.2",
+    "lyrics": {
+        "Verse": [
+            "You've seen right through distorted eyes, you know you had to learn",
+            "The execution of your mind, you really had to turn",
+            "The race is run, the book is read, the end begins to show",
+            "The truth is out, the lies are old, but you don't want to know",
+            "",
+            "The people who have crippled you, you wanna see them burn",
+            "The gates of life have closed on you, and there's just no return",
+            "You're wishing that the hands of doom could take your mind away",
+            "And you don't care if you don't see again the light of day",
+            ""
+        ],
+        "Chorus": [
+            "Nobody will ever let you know",
+            "When you ask the reasons why",
+            "They just tell you that you're on your own",
+            "Fill your head all full of lies",
+            "",
+            "Nobody will ever let you know",
+            "When you ask the reasons why",
+            "They just tell you that you're on your own",
+            "Fill your head all full of lies, you bastards!",
+            "",
+            "[Instrumental Break]",
+            "You might also like[Outro]",
+            "Where can you run to? What more can you do?",
+            "No more tomorrow, life is killing you",
+            "Dreams turn to nightmares, heaven turns to Hell",
+            "Burnt out confusion, nothing more to tell, yeah",
+            "Everything around you, what's it coming to?",
+            "God knows as your dog nose, bog, blast all of you",
+            "Sabbath bloody sabbath, nothing more to do",
+            "Living just for dying, dying just for you, yeah11Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.625,
+        "acousticness": 0.369,
+        "danceability": 0.359,
+        "instrumentalness": 7.7e-05,
+        "liveness": 0.0674,
+        "speechiness": 0.0351,
+        "loudness": -9.643,
+        "tempo": 137.764,
+        "time_signature": 4,
+        "valence": 0.524,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 54
+    }
+}

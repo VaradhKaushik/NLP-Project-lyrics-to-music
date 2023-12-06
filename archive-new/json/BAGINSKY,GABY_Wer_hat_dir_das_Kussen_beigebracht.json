@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\BAGINSKY,GABY\\Wer_hat_dir_das_Kussen_beigebracht.mid",
+    "artist_band_name": "BAGINSKY,GABY",
+    "song_title": "Wer hat dir das Kussen beigebracht",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.865,
+        "acousticness": 0.00338,
+        "danceability": 0.615,
+        "instrumentalness": 0,
+        "liveness": 0.239,
+        "speechiness": 0.0306,
+        "loudness": -5.15,
+        "tempo": 126.082,
+        "time_signature": 4,
+        "valence": 0.868,
+        "genre": [
+            "classic schlager",
+            "volksmusik"
+        ],
+        "popularity": 33
+    }
+}

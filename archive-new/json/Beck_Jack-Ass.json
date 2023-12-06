@@ -1,0 +1,60 @@
+{
+    "midi_file_path": "archive-new\\Beck\\Jack-Ass.mid",
+    "artist_band_name": "Beck",
+    "song_title": "Jack-Ass",
+    "lyrics": {
+        "Verse": [
+            "I've been drifting along",
+            "In the same stale shoes",
+            "Loose ends tying a noose",
+            "In the back of my mind",
+            "",
+            "When I wake up",
+            "Someone will sweep up my lazy bones",
+            "And we will",
+            "Rise in the cool of the evening",
+            "",
+            "I've been drifting along",
+            "In the same stale shoes",
+            "Loose ends tying a noose",
+            "In the back of my mind"
+        ],
+        "Chorus": [
+            "If you thought that you were making your way",
+            "To where the puzzles and pagans lay",
+            "I'll put it together",
+            "It's a strange invitation",
+            "",
+            "I remember the way that you smiled",
+            "When the gravity shackles were wild",
+            "And something is vacant",
+            "When I think it's all beginning",
+            "",
+            "If you thought that you were making your way",
+            "To where the puzzles and pagans lay",
+            "I'll put it together",
+            "It's a strange invitation5Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.555,
+        "acousticness": 0.163,
+        "danceability": 0.714,
+        "instrumentalness": 0,
+        "liveness": 0.0942,
+        "speechiness": 0.0287,
+        "loudness": -6.664,
+        "tempo": 106.516,
+        "time_signature": 4,
+        "valence": 0.831,
+        "genre": [
+            "alternative rock",
+            "anti-folk",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 37
+    }
+}

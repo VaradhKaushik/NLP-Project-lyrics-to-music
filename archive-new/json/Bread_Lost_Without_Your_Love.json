@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bread\\Lost_Without_Your_Love.mid",
+    "artist_band_name": "Bread",
+    "song_title": "Lost Without Your Love",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.345,
+        "acousticness": 0.376,
+        "danceability": 0.266,
+        "instrumentalness": 1.9e-05,
+        "liveness": 0.103,
+        "speechiness": 0.0309,
+        "loudness": -11.484,
+        "tempo": 145.98,
+        "time_signature": 4,
+        "valence": 0.199,
+        "genre": [
+            "folk rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 62
+    }
+}

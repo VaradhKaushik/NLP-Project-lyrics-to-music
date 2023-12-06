@@ -1,0 +1,74 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Daisy_Dead_Petals.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Daisy Dead Petals",
+    "lyrics": {
+        "Verse": [
+            "Daisy Dead Petals, that is her name",
+            "She's in a phone booth phase",
+            "So underneath the shade of a peppermint tray",
+            "She can turn it out with a heel on",
+            "She just rides into town knowing what they'll say",
+            "Knowing they're around the corner",
+            "",
+            "Daisy Dead Petals, that is her name",
+            "So maybe she tastes like a hamburger maid, well",
+            "\"These dead petals, honey, brought me here\"",
+            "She said, \"These dead petals, honey, brought me here\"",
+            "Dancing on a dime hearing mother cry",
+            "Maybe she's around the corner",
+            "",
+            "And since we're down, might as well stay",
+            "Might as well fry some eggs",
+            "And wave to the shade of the peppermint tray",
+            "She's a new friend, not a skeleton",
+            "To ride into town, knowing what they'll say",
+            "Knowing she tastes like a hamburger maid",
+            "",
+            "[Outro]",
+            "But, \"These dead petals, honey, brought me here\"",
+            "She said, \"These dead petals, honey, brought me here\"",
+            "She said, \"These dead petals, honey, brought me here\"Embed"
+        ],
+        "Chorus": [
+            "Got a crack in",
+            "Got a crack in some strange places",
+            "",
+            "Got a crack in",
+            "Got a crack in some strange places",
+            "On my back with",
+            "On my back with some dirty dishes"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Falling down, falling down, all over the river",
+            "Falling down, falling down, falling down",
+            "Wish what I'm feeling could go on like this forever",
+            "Falling down, falling down, falling down",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.169,
+        "acousticness": 0.941,
+        "danceability": 0.416,
+        "instrumentalness": 4.56e-05,
+        "liveness": 0.105,
+        "speechiness": 0.041,
+        "loudness": -12.322,
+        "tempo": 82.275,
+        "time_signature": 4,
+        "valence": 0.455,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 16
+    }
+}

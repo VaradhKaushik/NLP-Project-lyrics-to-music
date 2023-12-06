@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Prima_di_tutto.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Prima di tutto",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.237,
+        "acousticness": 0.522,
+        "danceability": 0.594,
+        "instrumentalness": 0,
+        "liveness": 0.148,
+        "speechiness": 0.0332,
+        "loudness": -13.547,
+        "tempo": 119.874,
+        "time_signature": 4,
+        "valence": 0.158,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 20
+    }
+}

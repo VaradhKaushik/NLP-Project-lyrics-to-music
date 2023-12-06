@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Respirando.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Respirando",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.419,
+        "acousticness": 0.649,
+        "danceability": 0.562,
+        "instrumentalness": 0,
+        "liveness": 0.134,
+        "speechiness": 0.048,
+        "loudness": -12.233,
+        "tempo": 90.419,
+        "time_signature": 4,
+        "valence": 0.614,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 39
+    }
+}

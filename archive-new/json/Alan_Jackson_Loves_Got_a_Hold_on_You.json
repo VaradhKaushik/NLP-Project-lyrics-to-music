@@ -1,0 +1,65 @@
+{
+    "midi_file_path": "archive-new\\Alan_Jackson\\Loves_Got_a_Hold_on_You.mid",
+    "artist_band_name": "Alan Jackson",
+    "song_title": "Loves Got a Hold on You",
+    "lyrics": {
+        "Verse": [
+            "I called my doctor on the telephone",
+            "\"Help me doctor, there's something wrong",
+            "I can't shake it, it's gone too far\"",
+            "He said, \"Tell me what your symptoms are\"",
+            "",
+            "I told my buddies I was settling down",
+            "No more of this running around",
+            "They looked at me like I was a fool",
+            "And said \"Come on tell us what's wrong with you\"",
+            "",
+            "Well I tossed and turned until the morning light",
+            "Holding my pillow hanging on for life",
+            "There ain't nothing I can do",
+            "They said, \"It sounds like love's got a hold on you",
+            "Sounds like love's got a hold on you\"",
+            ""
+        ],
+        "Chorus": [
+            "I said \"My hands are sweaty and my knees are weak",
+            "I can't eat and I can't sleep",
+            "It's turning me every way but loose\"",
+            "He said, \"It sounds like love's got a hold on you",
+            "No doubt, love's got a hold on you\"",
+            "",
+            "I said \"My hands are sweaty and my knees are weak",
+            "I can't eat and I can't sleep",
+            "It's turning me every way but loose\"",
+            "He said, \"It sounds like love's got a hold on you",
+            "No doubt, love's got a hold on you\"",
+            "I said \"My hands are sweaty and my knees are weak",
+            "I can't eat and I can't sleep",
+            "It's turning me every way but loose\"",
+            "He said, \"It sounds like love's got a hold on you",
+            "It sounds like love's got a hold on you",
+            "It sounds like love's got a hold on you",
+            "No doubt, love's got a hold on you\"",
+            "",
+            "Hold onEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.53,
+        "acousticness": 0.409,
+        "danceability": 0.663,
+        "instrumentalness": 0.0044,
+        "liveness": 0.0873,
+        "speechiness": 0.0352,
+        "loudness": -11.545,
+        "tempo": 152.542,
+        "time_signature": 4,
+        "valence": 0.547,
+        "genre": [
+            "country"
+        ],
+        "popularity": 48
+    }
+}

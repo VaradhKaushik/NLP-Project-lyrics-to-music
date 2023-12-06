@@ -1,0 +1,58 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\Tomorrows_Dream.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "Tomorrows Dream",
+    "lyrics": {
+        "Verse": [
+            "Well, I'm leaving tomorrow at daybreak",
+            "Catch the fastest train around nine",
+            "Yes, I'm leaving the sorrow and heartaches",
+            "Before it takes me away from my mind",
+            "",
+            "Send me love and I may let you see me",
+            "Send me hopes I can fit in my head",
+            "But if you really want me to answer",
+            "I can only let you know when I'm dead",
+            "",
+            "So realise I'm much better without you",
+            "You're not the one and only thing in my heart",
+            "I'll just go back to pretending I'm living",
+            "So this time I'm gonna have the star partYou might also like2Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "When sadness fills my days",
+            "It's time to turn away",
+            "And let tomorrow's dreams",
+            "Become reality to me",
+            "",
+            "[Guitar Solo]",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.75,
+        "acousticness": 0.00375,
+        "danceability": 0.486,
+        "instrumentalness": 0.00286,
+        "liveness": 0.201,
+        "speechiness": 0.0417,
+        "loudness": -8.171,
+        "tempo": 110.816,
+        "time_signature": 4,
+        "valence": 0.329,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 40
+    }
+}

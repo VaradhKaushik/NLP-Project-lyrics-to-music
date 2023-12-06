@@ -1,0 +1,54 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Like_an_Angel_Passing_Through_My_Room.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Like an Angel Passing Through My Room",
+    "lyrics": {
+        "Verse": [
+            "Long awaited darkness falls",
+            "Casting shadows on the walls",
+            "In the twilight hour I am alone",
+            "Sitting near the fireplace, dying embers warm my face",
+            "In this peaceful solitude",
+            "All the outside world subdued",
+            "Everything comes back to me again",
+            "In the gloom",
+            "Like an angel passing through my room",
+            "",
+            "Half awake and half in dreams",
+            "Seeing long forgotten scenes",
+            "So the present runs into the past",
+            "Now and then become entwined, playing games within my mind",
+            "Like the embers as they die",
+            "Love was one prolonged goodbye",
+            "And it all comes back to me tonight",
+            "In the gloom",
+            "Like an angel passing through my room",
+            "",
+            "[Outro]",
+            "I close my eyes",
+            "And my twilight images go by",
+            "All too soon",
+            "Like an angel passing through my roomYou might also like1Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0408,
+        "acousticness": 0.685,
+        "danceability": 0.458,
+        "instrumentalness": 2.06e-05,
+        "liveness": 0.391,
+        "speechiness": 0.0392,
+        "loudness": -27.446,
+        "tempo": 107.237,
+        "time_signature": 4,
+        "valence": 0.268,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 37
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Prelude_in_C_Major.3.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Prelude in C Major.3",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.139,
+        "acousticness": 0.925,
+        "danceability": 0.263,
+        "instrumentalness": 0.863,
+        "liveness": 0.255,
+        "speechiness": 0.0416,
+        "loudness": -24.32,
+        "tempo": 95.047,
+        "time_signature": 3,
+        "valence": 0.439,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 35
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Little_Miss_Honky_Tonk.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Little Miss Honky Tonk",
+    "lyrics": {
+        "Verse": [
+            "I get out on the redneck side every now and then",
+            "Call up my baby she comes over and the party begins",
+            "She's a slick nickel she's right on the money",
+            "I wouldn't give her up for a thousand buckle bunnies",
+            "I'm her big cat daddy, she's my little Miss Honky Tonk",
+            "She's got my number, knows my favourite songs on the jukebox",
+            "Goes to getting down like crazy and the whole place rocks",
+            "We'll have a few and get to feeling right",
+            "She'll be my queen bee I'll be her neon knight",
+            "I'm her big cat daddy, she's my little Miss Honky Tonk",
+            "",
+            "She's a looker, heads turn when she comes through the door",
+            "A show stopper when she gets to going out on the floor",
+            "We leave all our troubles and cares way behind us",
+            "I feel like I'm a king when I'm out with her highness",
+            "I'm her big cat daddy, she's my little Miss Honky Tonk",
+            ""
+        ],
+        "Chorus": [
+            "Oh Oh I love her so",
+            "Stand back give her room",
+            "Boys and watch her go",
+            "",
+            "You might also like[Outro]",
+            "We leave all our troubles and cares way behind us",
+            "I feel like I'm a king when I'm out with her highness",
+            "I'm her big cat daddy, she's my little Miss Honky TonkEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.968,
+        "acousticness": 0.12,
+        "danceability": 0.55,
+        "instrumentalness": 0,
+        "liveness": 0.107,
+        "speechiness": 0.0479,
+        "loudness": -3.95,
+        "tempo": 150.839,
+        "time_signature": 4,
+        "valence": 0.74,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 40
+    }
+}

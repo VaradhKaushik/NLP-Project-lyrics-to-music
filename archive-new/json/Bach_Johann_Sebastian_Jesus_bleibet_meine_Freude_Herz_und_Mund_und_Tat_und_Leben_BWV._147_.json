@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Jesus_bleibet_meine_Freude_Herz_und_Mund_und_Tat_und_Leben_BWV._147_.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Jesus bleibet meine Freude Herz und Mund und Tat und Leben BWV. 147 ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0868,
+        "acousticness": 0.995,
+        "danceability": 0.361,
+        "instrumentalness": 0.918,
+        "liveness": 0.145,
+        "speechiness": 0.044,
+        "loudness": -27.756,
+        "tempo": 106.312,
+        "time_signature": 4,
+        "valence": 0.537,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 0
+    }
+}

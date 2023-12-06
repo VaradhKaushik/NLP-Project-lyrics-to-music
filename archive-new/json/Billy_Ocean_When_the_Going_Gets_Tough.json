@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Billy_Ocean\\When_the_Going_Gets_Tough.mid",
+    "artist_band_name": "Billy Ocean",
+    "song_title": "When the Going Gets Tough",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.763,
+        "acousticness": 0.405,
+        "danceability": 0.755,
+        "instrumentalness": 0,
+        "liveness": 0.318,
+        "speechiness": 0.0473,
+        "loudness": -6.318,
+        "tempo": 122.045,
+        "time_signature": 4,
+        "valence": 0.932,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "new romantic",
+            "new wave pop",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 63
+    }
+}

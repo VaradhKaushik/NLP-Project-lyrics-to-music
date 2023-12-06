@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Shes_Not_the_Cheatin_Kind.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Shes Not the Cheatin Kind",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.779,
+        "acousticness": 0.203,
+        "danceability": 0.679,
+        "instrumentalness": 0,
+        "liveness": 0.219,
+        "speechiness": 0.0334,
+        "loudness": -5.124,
+        "tempo": 110.556,
+        "time_signature": 4,
+        "valence": 0.703,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 55
+    }
+}

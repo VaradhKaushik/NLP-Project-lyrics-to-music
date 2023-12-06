@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Alison_Moyet\\All_Cried_Out.mid",
+    "artist_band_name": "Alison Moyet",
+    "song_title": "All Cried Out",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.832,
+        "acousticness": 0.13,
+        "danceability": 0.638,
+        "instrumentalness": 0.0388,
+        "liveness": 0.207,
+        "speechiness": 0.0272,
+        "loudness": -7.067,
+        "tempo": 144.572,
+        "time_signature": 4,
+        "valence": 0.827,
+        "genre": [
+            "new romantic",
+            "new wave pop",
+            "solo wave",
+            "sophisti-pop",
+            "synthpop"
+        ],
+        "popularity": 36
+    }
+}

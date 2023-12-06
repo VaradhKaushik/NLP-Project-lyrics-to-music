@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Ann_Peebles\\Come_to_Mama.mid",
+    "artist_band_name": "Ann Peebles",
+    "song_title": "Come to Mama",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.589,
+        "acousticness": 0.121,
+        "danceability": 0.871,
+        "instrumentalness": 0.0151,
+        "liveness": 0.0342,
+        "speechiness": 0.0364,
+        "loudness": -8.985,
+        "tempo": 103.365,
+        "time_signature": 4,
+        "valence": 0.973,
+        "genre": [
+            "memphis soul",
+            "soul",
+            "soul blues",
+            "southern soul"
+        ],
+        "popularity": 39
+    }
+}

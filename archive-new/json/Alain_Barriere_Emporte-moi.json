@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Barriere\\Emporte-moi.mid",
+    "artist_band_name": "Alain Barriere",
+    "song_title": "Emporte-moi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.618,
+        "acousticness": 0.546,
+        "danceability": 0.38,
+        "instrumentalness": 0.000523,
+        "liveness": 0.153,
+        "speechiness": 0.0342,
+        "loudness": -5.77,
+        "tempo": 167.246,
+        "time_signature": 4,
+        "valence": 0.492,
+        "genre": [
+            "chanson",
+            "ye ye"
+        ],
+        "popularity": 28
+    }
+}

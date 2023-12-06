@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Io_ti_venderei.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Io ti venderei",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.457,
+        "acousticness": 0.00989,
+        "danceability": 0.599,
+        "instrumentalness": 0.00597,
+        "liveness": 0.0432,
+        "speechiness": 0.0308,
+        "loudness": -16.279,
+        "tempo": 110.472,
+        "time_signature": 4,
+        "valence": 0.762,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 27
+    }
+}

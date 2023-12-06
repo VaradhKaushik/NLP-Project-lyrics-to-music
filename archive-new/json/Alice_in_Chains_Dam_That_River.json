@@ -1,0 +1,64 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Dam_That_River.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Dam That River",
+    "lyrics": {
+        "Verse": [
+            "I broke you in the canyon",
+            "I drowned you in the lake",
+            "You, a snake that I would trample",
+            "Only thing I'd not embrace",
+            "",
+            "I pushed and then you stumbled",
+            "I kicked you in the face",
+            "You stared at me so hollow",
+            "Got to keep that killing pace",
+            "",
+            "I burned the place around you",
+            "I hit you with a rake",
+            "You piss upon my candle",
+            "So proving you're a fake",
+            ""
+        ],
+        "Chorus": [
+            "Oh, you couldn't dam that river",
+            "And maybe I don't give a damn anyway",
+            "So you couldn't dam that river",
+            "And it washed me so far away",
+            "",
+            "Oh, you couldn't dam that river",
+            "And maybe I don't give a damn anyway",
+            "So you couldn't dam that river",
+            "And it washed me so far away",
+            "",
+            "[Guitar Solo]",
+            "Oh, you couldn't dam that river",
+            "And maybe I don't give a damn anyway",
+            "So you couldn't dam that river",
+            "And it washed me so far away9Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.913,
+        "acousticness": 0.00636,
+        "danceability": 0.427,
+        "instrumentalness": 0,
+        "liveness": 0.471,
+        "speechiness": 0.0804,
+        "loudness": -5.545,
+        "tempo": 124.419,
+        "time_signature": 4,
+        "valence": 0.471,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 62
+    }
+}

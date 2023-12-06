@@ -1,0 +1,65 @@
+{
+    "midi_file_path": "archive-new\\Alanis_Morissette\\Are_You_Still_Mad.mid",
+    "artist_band_name": "Alanis Morissette",
+    "song_title": "Are You Still Mad",
+    "lyrics": {
+        "Verse": [
+            "Are you still mad I kicked you out of bed?",
+            "Are you still mad I gave you ultimatums?",
+            "Are you still mad I compared you to all my forty year old male friends?",
+            "Are you still mad I shared our problems with everybody?",
+            "Are you still mad I had an emotional affair?",
+            "Are you still mad I tried to mold you into who I wanted you to be?",
+            "Are you still mad I didn't trust your intentions?",
+            "",
+            "Are you still mad that I flirted wildly?",
+            "Are you still mad I had a tendency to mother you?",
+            "Are you still mad that I had one foot out the door?",
+            "Are you still mad that we slept together even after we had ended it?",
+            "",
+            "Are you still mad I wore the pants most of the time?",
+            "Are you still mad that I seemed to focus only on your potential?",
+            "Are you still mad that I threw in the towel? And are you",
+            "Are you still mad that I gave up long before you did?",
+            ""
+        ],
+        "Chorus": [
+            "Of course you are",
+            "Of course you are",
+            "Of course you are",
+            "Of course you are",
+            "",
+            "Of course you are",
+            "Of course you are",
+            "Of course you are",
+            "Of course you are",
+            "Of course you are",
+            "Of course you are",
+            "Of course you are",
+            "Of course you are2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.511,
+        "acousticness": 0.251,
+        "danceability": 0.585,
+        "instrumentalness": 7.11e-05,
+        "liveness": 0.094,
+        "speechiness": 0.028,
+        "loudness": -7.838,
+        "tempo": 122.052,
+        "time_signature": 4,
+        "valence": 0.173,
+        "genre": [
+            "canadian pop",
+            "canadian singer-songwriter",
+            "lilith",
+            "neo mellow",
+            "pop rock",
+            "singer-songwriter"
+        ],
+        "popularity": 37
+    }
+}

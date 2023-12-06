@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Billy_Mayerl\\Eskimo_Shivers.mid",
+    "artist_band_name": "Billy Mayerl",
+    "song_title": "Eskimo Shivers",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.137,
+        "acousticness": 0.995,
+        "danceability": 0.507,
+        "instrumentalness": 0.909,
+        "liveness": 0.171,
+        "speechiness": 0.0792,
+        "loudness": -22.782,
+        "tempo": 87.305,
+        "time_signature": 4,
+        "valence": 0.518,
+        "genre": [],
+        "popularity": 0
+    }
+}

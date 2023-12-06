@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Bulletin_de_sante.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Bulletin de sante",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.18,
+        "acousticness": 0.895,
+        "danceability": 0.767,
+        "instrumentalness": 0,
+        "liveness": 0.129,
+        "speechiness": 0.226,
+        "loudness": -16.537,
+        "tempo": 123.416,
+        "time_signature": 4,
+        "valence": 0.855,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 13
+    }
+}

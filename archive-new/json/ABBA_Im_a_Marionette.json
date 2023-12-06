@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Im_a_Marionette.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Im a Marionette",
+    "lyrics": {
+        "Verse": [
+            "\"You're so free,\" that's what everybody's telling me",
+            "Yet I feel I'm like an outward-bound, pushed around refugee",
+            "Something's wrong, got a feeling that I don't belong",
+            "As if I had come from outer space, out of place, like King Kong",
+            "",
+            "Like a doll, like a puppet with no will at all",
+            "And somebody taught me how to talk, how to walk, how to fall",
+            "",
+            "[Interlude]",
+            "",
+            "Can't complain, I've got no-one but myself to blame",
+            "Something's happening I can't control, lost my hold, it's insane",
+            "",
+            "\"Look this way, just a little smile,\" is what they say",
+            "\"You look better on the photograph if you laugh, that's okay\"",
+            ""
+        ],
+        "Chorus": [
+            "I'm a marionette, just a marionette, pull the string",
+            "I'm a marionette, everybody's pet, just as long as I sing",
+            "I'm a marionette, see my pirouette, round and round",
+            "I'm a marionette, I'm a marionette, just a silly old clown",
+            "",
+            "I'm a marionette, just a marionette, pull the string",
+            "I'm a marionette, everybody's pet, just as long as I sing",
+            "I'm a marionette, see my pirouette, round and round",
+            "I'm a marionette, I'm a marionette, just a silly old clown",
+            "I'm a marionette, just a marionette, pull the string",
+            "I'm a marionette, everybody's pet, just as long as I sing",
+            "I'm a marionette, see my pirouette, round and round",
+            "I'm a marionette, I'm a marionette, just a silly old clown",
+            "",
+            "[Outro: Agnetha & Frida]",
+            "\"You're so free,\" that's what everybody's telling me",
+            "Yet I feel I'm like an outward-bound, pushed around, refugeeEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.662,
+        "acousticness": 0.376,
+        "danceability": 0.458,
+        "instrumentalness": 1.16e-05,
+        "liveness": 0.108,
+        "speechiness": 0.0396,
+        "loudness": -6.811,
+        "tempo": 149.907,
+        "time_signature": 3,
+        "valence": 0.137,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 38
+    }
+}

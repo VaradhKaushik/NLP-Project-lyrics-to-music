@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Soft_as_Velvet.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Soft as Velvet",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.113,
+        "acousticness": 0.883,
+        "danceability": 0.279,
+        "instrumentalness": 0.315,
+        "liveness": 0.173,
+        "speechiness": 0.0338,
+        "loudness": -15.631,
+        "tempo": 127.74,
+        "time_signature": 4,
+        "valence": 0.068,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 10
+    }
+}

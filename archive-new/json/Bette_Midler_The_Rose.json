@@ -1,0 +1,56 @@
+{
+    "midi_file_path": "archive-new\\Bette_Midler\\The_Rose.mid",
+    "artist_band_name": "Bette Midler",
+    "song_title": "The Rose",
+    "lyrics": {
+        "Verse": [
+            "Some say love, it is a river",
+            "That drowns the tender reed",
+            "Some say love, it is a razor",
+            "That leaves your soul to bleed",
+            "Some say love, it is a hunger",
+            "An endless aching need",
+            "I say love, it is a flower",
+            "And you, its only seed",
+            "",
+            "It's the heart, afraid of breaking",
+            "That never learns to dance",
+            "It's the dream, afraid of waking",
+            "That never takes the chance",
+            "It's the one who won't be taken",
+            "Who cannot seem to give",
+            "And the soul, afraid of dying",
+            "That never learns to live",
+            "",
+            "When the night has been too lonely",
+            "And the road has been too long",
+            "And you think that love is only",
+            "For the lucky and the strong",
+            "Just remember in the winter",
+            "Far beneath the bitter snows",
+            "Lies the seed that with the sun's love",
+            "In the spring becomes the roseYou might also like7Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.228,
+        "acousticness": 0.901,
+        "danceability": 0.347,
+        "instrumentalness": 0,
+        "liveness": 0.38,
+        "speechiness": 0.0296,
+        "loudness": -9.667,
+        "tempo": 133.574,
+        "time_signature": 4,
+        "valence": 0.184,
+        "genre": [
+            "adult standards",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 65
+    }
+}

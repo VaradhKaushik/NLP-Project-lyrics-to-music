@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\The_Mexican_Connection.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "The Mexican Connection",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.546,
+        "acousticness": 0.678,
+        "danceability": 0.461,
+        "instrumentalness": 0.816,
+        "liveness": 0.0996,
+        "speechiness": 0.0437,
+        "loudness": -10.704,
+        "tempo": 80.33,
+        "time_signature": 4,
+        "valence": 0.395,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 27
+    }
+}

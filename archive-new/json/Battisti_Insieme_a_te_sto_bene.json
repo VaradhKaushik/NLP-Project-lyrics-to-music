@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Insieme_a_te_sto_bene.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Insieme a te sto bene",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.462,
+        "acousticness": 0.0288,
+        "danceability": 0.447,
+        "instrumentalness": 3.5e-05,
+        "liveness": 0.185,
+        "speechiness": 0.107,
+        "loudness": -10.812,
+        "tempo": 159.795,
+        "time_signature": 4,
+        "valence": 0.496,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

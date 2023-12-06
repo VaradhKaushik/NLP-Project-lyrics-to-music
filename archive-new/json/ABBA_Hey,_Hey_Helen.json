@@ -1,0 +1,75 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Hey,_Hey_Helen.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Hey, Hey Helen",
+    "lyrics": {
+        "Verse": [
+            "So at last, you're free",
+            "It's the way you wanted it to be",
+            "And the price you paid",
+            "To become a woman of today",
+            "",
+            "So you're free at last (Pretty woman)",
+            "And beginning to forget the past (Lucky woman)",
+            "Does it make you sad (Being lonely?)",
+            "When you think about the life you ha-ha-had?",
+            ""
+        ],
+        "Chorus": [
+            "Is it worth the pain to see the children cry?",
+            "Does it hurt when they ask for Daddy?",
+            "",
+            "Hey, hey Helen",
+            "Now you live on your own",
+            "Hey, hey Helen",
+            "Can you make it alone? (Yes, you can)",
+            "",
+            "But you're right, you had to take a second chance",
+            "So you fight to find your freedom",
+            "Hey, hey Helen",
+            "Now you live on your own",
+            "Hey, hey Helen",
+            "Can you make it alone?",
+            "Hey, hey Helen (Hey, hey Helen)",
+            "What's the matter with you?",
+            "Hey, hey Helen (Hey, hey Helen)",
+            "Don't you know what to do? (Yes, you do)",
+            "",
+            "Hey, hey Helen",
+            "Now you live on your own",
+            "Hey, hey Helen",
+            "Can you make it alone?",
+            "Hey, hey Helen (Hey, hey Helen)",
+            "What's the matter with you?",
+            "Hey, hey Helen (Hey, hey Helen)",
+            "Don't you know what to do?",
+            "Hey, hey Helen (Hey, hey Helen)",
+            "Now you live on your own",
+            "Hey, hey Helen (Hey, hey Helen)",
+            "Can you make it alone?1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Aha, yes you do, yes you do",
+            "Aha, yes you do, yes you do",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.668,
+        "acousticness": 0.00226,
+        "danceability": 0.649,
+        "instrumentalness": 0.0157,
+        "liveness": 0.0594,
+        "speechiness": 0.0425,
+        "loudness": -6.647,
+        "tempo": 117.867,
+        "time_signature": 4,
+        "valence": 0.766,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 43
+    }
+}

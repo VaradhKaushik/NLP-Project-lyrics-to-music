@@ -1,0 +1,46 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Supermarket.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Supermarket",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Questo nostro grande amore",
+            "Che sfortuna, oggi stesso finir\u00e0",
+            "Per questioni vegetali",
+            "Di risparmio ed anche di praticit\u00e0",
+            "[Ritornello]",
+            "Supermarket, supermarket",
+            "Supermarket, supermarket",
+            "Supermarket, supermarket",
+            "Supermarket, supermarket",
+            "Supermarket, supermarket",
+            "Supermarket, supermarket",
+            "",
+            "[Outro]",
+            "Supermarket, supermarket",
+            "Supermarket, supermarket",
+            "Supermarket, supermarketEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.647,
+        "acousticness": 0.474,
+        "danceability": 0.765,
+        "instrumentalness": 0.0026,
+        "liveness": 0.161,
+        "speechiness": 0.0803,
+        "loudness": -13.479,
+        "tempo": 104.161,
+        "time_signature": 4,
+        "valence": 0.754,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 22
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\Sex_Machine_Get_Up_I_Feel_Like_Being_A_.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "Sex Machine Get Up I Feel Like Being A ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.616,
+        "acousticness": 0.18,
+        "danceability": 0.838,
+        "instrumentalness": 7.17e-06,
+        "liveness": 0.193,
+        "speechiness": 0.0711,
+        "loudness": -8.351,
+        "tempo": 107.695,
+        "time_signature": 4,
+        "valence": 0.848,
+        "genre": [
+            "funk",
+            "soul"
+        ],
+        "popularity": 50
+    }
+}

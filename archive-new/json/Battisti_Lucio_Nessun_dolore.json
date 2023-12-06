@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti_Lucio\\Nessun_dolore.mid",
+    "artist_band_name": "Battisti Lucio",
+    "song_title": "Nessun dolore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.401,
+        "acousticness": 0.201,
+        "danceability": 0.67,
+        "instrumentalness": 0.000167,
+        "liveness": 0.296,
+        "speechiness": 0.0347,
+        "loudness": -18.013,
+        "tempo": 119.232,
+        "time_signature": 4,
+        "valence": 0.566,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 41
+    }
+}

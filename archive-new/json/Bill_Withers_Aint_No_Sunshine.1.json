@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Bill_Withers\\Aint_No_Sunshine.1.mid",
+    "artist_band_name": "Bill Withers",
+    "song_title": "Aint No Sunshine.1",
+    "lyrics": {
+        "Verse": [
+            "Ain't no sunshine when she's gone",
+            "It's not warm when she's away",
+            "Ain't no sunshine when she's gone",
+            "And she's always gone too long",
+            "Anytime she goes away",
+            "",
+            "Wonder this time where she's gone",
+            "Wonder if she's gonna stay",
+            "Ain't no sunshine when she's gone",
+            "And this house just ain't no home",
+            "Anytime she goes away",
+            "",
+            "Ain't no sunshine when she's gone",
+            "Only darkness everyday",
+            "Ain't no sunshine when she's gone",
+            "And this house just ain't no home",
+            "Anytime she goes away",
+            "You might also like[Outro]",
+            "Anytime she goes away",
+            "Anytime she goes away",
+            "Anytime she goes away48Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "And I know, I know, I know, I know",
+            "I know, I know, I know, I know",
+            "I know, I know, I know, I know",
+            "I know, I know, I know, I know",
+            "I know, I know, I know, I know",
+            "I know, I know, I know, I know",
+            "I know, I know",
+            "Hey, I ought to leave the young thing alone",
+            "But ain't no sunshine when she's gone",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.625,
+        "acousticness": 0.491,
+        "danceability": 0.408,
+        "instrumentalness": 2.4e-05,
+        "liveness": 0.825,
+        "speechiness": 0.158,
+        "loudness": -10.726,
+        "tempo": 75.514,
+        "time_signature": 4,
+        "valence": 0.612,
+        "genre": [
+            "classic soul",
+            "funk",
+            "quiet storm",
+            "soul"
+        ],
+        "popularity": 37
+    }
+}

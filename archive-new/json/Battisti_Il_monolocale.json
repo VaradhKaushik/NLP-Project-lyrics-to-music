@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Il_monolocale.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Il monolocale",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.799,
+        "acousticness": 0.0356,
+        "danceability": 0.696,
+        "instrumentalness": 4.72e-06,
+        "liveness": 0.496,
+        "speechiness": 0.0498,
+        "loudness": -8.601,
+        "tempo": 121.058,
+        "time_signature": 4,
+        "valence": 0.897,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 32
+    }
+}

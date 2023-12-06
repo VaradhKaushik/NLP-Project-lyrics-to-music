@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Summer_on_a_Solitary_Beach.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Summer on a Solitary Beach",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.503,
+        "acousticness": 0.057,
+        "danceability": 0.602,
+        "instrumentalness": 0.0945,
+        "liveness": 0.359,
+        "speechiness": 0.0281,
+        "loudness": -11.942,
+        "tempo": 97.904,
+        "time_signature": 3,
+        "valence": 0.563,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 45
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\In_alto_mare.mid",
+    "artist_band_name": "Berte",
+    "song_title": "In alto mare",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.855,
+        "acousticness": 0.08,
+        "danceability": 0.702,
+        "instrumentalness": 0.000255,
+        "liveness": 0.0733,
+        "speechiness": 0.0698,
+        "loudness": -6.647,
+        "tempo": 109.455,
+        "time_signature": 4,
+        "valence": 0.855,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 44
+    }
+}

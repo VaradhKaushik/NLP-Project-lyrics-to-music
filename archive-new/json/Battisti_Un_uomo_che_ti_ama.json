@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Un_uomo_che_ti_ama.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Un uomo che ti ama",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "\u00c8 meglio che rimani qui",
+            "A far l'amore insieme a me!",
+            "\u00c8 meglio un uomo solo",
+            "Per tutti, anche per te",
+            "Un uomo che ti ama",
+            "",
+            "[Strofa 2]",
+            "La tenerezza prende",
+            "Il posto dell'amore",
+            "Oh no!",
+            "E l'emozione il sopravvento",
+            "Sulla ragione!",
+            "Oh no!",
+            "E in questa confusione",
+            "Tu sei smarrita",
+            "E dando a tutti niente",
+            "Ti sei svuotata",
+            "E non riesci pi\u00f9 a capir nemmeno",
+            "Di chi sei innamorata",
+            "",
+            "[Ritornello]",
+            "Ah! Donna, tu sei mia",
+            "E quando dico mia",
+            "Dico che non vai pi\u00f9 via",
+            "\u00c8 meglio che rimani qui",
+            "A far l'amore insieme a me!",
+            "\u00c8 meglio un uomo solo",
+            "Per tutti, anche per te",
+            "Un uomo che ti ama",
+            "[Outro]",
+            "Ah! Donna, tu sei mia",
+            "E quando dico mia",
+            "Dico che non vai pi\u00f9 via...Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.559,
+        "acousticness": 0.0865,
+        "danceability": 0.721,
+        "instrumentalness": 0.000219,
+        "liveness": 0.0477,
+        "speechiness": 0.0759,
+        "loudness": -17.152,
+        "tempo": 106.646,
+        "time_signature": 4,
+        "valence": 0.426,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 28
+    }
+}

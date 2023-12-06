@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\Britney_Spears\\Before_the_Goodbye.mid",
+    "artist_band_name": "Britney Spears",
+    "song_title": "Before the Goodbye",
+    "lyrics": {
+        "Verse": [
+            "Laying here in your arms, and you hold me tight, tight",
+            "Trying not to watch the clock tick, ticking as the time goes by",
+            "And I know that you best be on your way",
+            "But I'm wishing I could make you stay, stay with me for a while",
+            "",
+            "Kinda hard for me to let you know",
+            "Still don't let my feelings show how much I will miss in you",
+            "All the little things that make me weak",
+            "Your eyes and the way you speak, without you, baby, I'm not me",
+            ""
+        ],
+        "Chorus": [
+            "Though you're near, still I wanna make it clear",
+            "Love, I will always be around",
+            "",
+            "You're leaving, I'm waiting, forgive me",
+            "I'm always missing you before the goodbye",
+            "I feel it already, forgive me",
+            "I'm always missing you before the goodbye",
+            "",
+            "Though you're near, still I wanna make it clear",
+            "Love, I will always be around",
+            "You're leaving, I'm waiting, forgive me",
+            "I'm always missing you before the goodbye",
+            "I feel it already, forgive me",
+            "I'm always missing you before the goodbye",
+            "",
+            "[Break]",
+            "You're leaving, I'm waiting, forgive me",
+            "I'm always missing you before the goodbye",
+            "I feel it already, forgive me",
+            "I'm always missing you before the goodbye",
+            "",
+            "You're leaving, I'm waiting, forgive me",
+            "I'm always missing you before the goodbye",
+            "I feel it already, forgive me",
+            "I'm always missing you before the goodbye",
+            "",
+            "[Outro]",
+            "You're leaving, I'm waiting, forgive me",
+            "I'm always missing you before the goodbye3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.73,
+        "acousticness": 0.00529,
+        "danceability": 0.687,
+        "instrumentalness": 0,
+        "liveness": 0.0938,
+        "speechiness": 0.0509,
+        "loudness": -7.498,
+        "tempo": 134.0,
+        "time_signature": 4,
+        "valence": 0.586,
+        "genre": [
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 40
+    }
+}

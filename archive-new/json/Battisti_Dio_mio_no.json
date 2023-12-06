@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Dio_mio_no.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Dio mio no",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.593,
+        "acousticness": 0.359,
+        "danceability": 0.586,
+        "instrumentalness": 0.00831,
+        "liveness": 0.0923,
+        "speechiness": 0.0428,
+        "loudness": -14.121,
+        "tempo": 138.574,
+        "time_signature": 4,
+        "valence": 0.771,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 30
+    }
+}

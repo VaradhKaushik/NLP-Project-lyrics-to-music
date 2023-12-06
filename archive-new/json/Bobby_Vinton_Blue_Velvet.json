@@ -1,0 +1,62 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Vinton\\Blue_Velvet.mid",
+    "artist_band_name": "Bobby Vinton",
+    "song_title": "Blue Velvet",
+    "lyrics": {
+        "Verse": [
+            "She wore blue velvet (Woah-woah)",
+            "Bluer than velvet was the night (Woah-woah-woah)",
+            "Softer than satin was the light",
+            "From the stars",
+            "",
+            "She wore blue velvet (Woah-woah)",
+            "Bluer than velvet were her eyes (Woah-woah-woah)",
+            "Warmer than May, her tender sighs",
+            "Love was ours",
+            "",
+            "Blue velvet (Woah-woah)",
+            "But in my heart there'll always be (Woah-woah-woah)",
+            "Precious and warm a memory",
+            "Through the years",
+            "And I still can see blue velvet through my tears",
+            "She wore blue velvet (Woah-woah)",
+            "But in my heart there'll always be (Woah-woah-woah)",
+            "Precious and warm a memory",
+            "Through the years",
+            "And I still can see blue velvet through my tears",
+            "",
+            "[Outro]",
+            "Blue velvet, oohEmbed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Ours, a love I held tightly",
+            "Feeling the rapture grow",
+            "Like a flame burning brightly",
+            "But when she left gone was the glow of",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.246,
+        "acousticness": 0.862,
+        "danceability": 0.376,
+        "instrumentalness": 0,
+        "liveness": 0.155,
+        "speechiness": 0.0286,
+        "loudness": -9.803,
+        "tempo": 80.167,
+        "time_signature": 1,
+        "valence": 0.282,
+        "genre": [
+            "adult standards",
+            "bubblegum pop",
+            "doo-wop",
+            "easy listening",
+            "rock-and-roll",
+            "rockabilly"
+        ],
+        "popularity": 58
+    }
+}

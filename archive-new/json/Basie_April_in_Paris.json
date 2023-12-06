@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\April_in_Paris.mid",
+    "artist_band_name": "Basie",
+    "song_title": "April in Paris",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.422,
+        "acousticness": 0.653,
+        "danceability": 0.344,
+        "instrumentalness": 0.216,
+        "liveness": 0.0699,
+        "speechiness": 0.0451,
+        "loudness": -11.909,
+        "tempo": 125.104,
+        "time_signature": 4,
+        "valence": 0.467,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 41
+    }
+}

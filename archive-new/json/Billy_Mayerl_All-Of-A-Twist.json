@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Billy_Mayerl\\All-Of-A-Twist.mid",
+    "artist_band_name": "Billy Mayerl",
+    "song_title": "All-Of-A-Twist",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.14,
+        "acousticness": 0.995,
+        "danceability": 0.425,
+        "instrumentalness": 0.981,
+        "liveness": 0.298,
+        "speechiness": 0.0537,
+        "loudness": -23.313,
+        "tempo": 83.615,
+        "time_signature": 4,
+        "valence": 0.829,
+        "genre": [],
+        "popularity": 0
+    }
+}

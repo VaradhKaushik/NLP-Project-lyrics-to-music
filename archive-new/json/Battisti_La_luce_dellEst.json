@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\La_luce_dellEst.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "La luce dellEst",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.28,
+        "acousticness": 0.386,
+        "danceability": 0.418,
+        "instrumentalness": 3.59e-05,
+        "liveness": 0.0843,
+        "speechiness": 0.0431,
+        "loudness": -14.93,
+        "tempo": 129.472,
+        "time_signature": 4,
+        "valence": 0.163,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 46
+    }
+}

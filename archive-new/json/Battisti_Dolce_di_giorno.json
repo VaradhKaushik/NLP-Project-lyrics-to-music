@@ -1,0 +1,48 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Dolce_di_giorno.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Dolce di giorno",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Io ti ho dato il mio cuore",
+            "Che cosa mi hai dato tu?",
+            "Mi hai fatto solo promesse",
+            "E niente di pi\u00f9",
+            "You might also like[Strofa 3]",
+            "Quando c'\u00e8 il sole, tu",
+            "Parli d'amore",
+            "Poi quando \u00e8 sera",
+            "Sei una statua di cera, ma...",
+            "Ho gi\u00e0 deciso",
+            "Che questa \u00e8",
+            "L'ultima volta che esco con te",
+            "",
+            "[Outro]",
+            "Ho gi\u00e0 deciso",
+            "Che questa \u00e8",
+            "L'ultima volta che esco con te",
+            "L'ultima volta che esco con teEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.57,
+        "acousticness": 0.163,
+        "danceability": 0.546,
+        "instrumentalness": 2.9e-06,
+        "liveness": 0.0746,
+        "speechiness": 0.028,
+        "loudness": -8.975,
+        "tempo": 102.484,
+        "time_signature": 3,
+        "valence": 0.678,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 32
+    }
+}

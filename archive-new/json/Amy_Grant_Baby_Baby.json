@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Amy_Grant\\Baby_Baby.mid",
+    "artist_band_name": "Amy Grant",
+    "song_title": "Baby Baby",
+    "lyrics": {
+        "Verse": [
+            "Baby, baby",
+            "I'm taken with the notion",
+            "To love you with the sweetest of devotion",
+            "Baby, baby",
+            "My tender love will flow from",
+            "The bluest sky to the deepest ocean",
+            "",
+            "The stars are shining for you",
+            "And just like me I\u2019m sure that they adore you",
+            "Baby, baby",
+            "Go walking through the forest",
+            "The birds above are singing you a chorus",
+            "",
+            "Baby, baby",
+            "In any kind of weather",
+            "I'm here for you always and forever",
+            "Baby, baby",
+            "No muscle man could sever",
+            "My love for you is true and it will never",
+            ""
+        ],
+        "Chorus": [
+            "Stop for a minute",
+            "Baby I\u2019m so glad you're mine, yeah",
+            "You're mine",
+            "",
+            "Stop for a minute",
+            "Baby, they're so glad you're mine, yeah",
+            "And ever since the day you put my heart in motion",
+            "Baby, I realize that there's just no getting over you",
+            "Stop for a minute",
+            "Baby, I'm so glad you're mine, yeah",
+            "And ever since the day you put my heart in motion",
+            "Baby, I realize that there's just no getting over you1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.901,
+        "acousticness": 0.426,
+        "danceability": 0.702,
+        "instrumentalness": 0.00153,
+        "liveness": 0.0368,
+        "speechiness": 0.0264,
+        "loudness": -4.45,
+        "tempo": 97.862,
+        "time_signature": 4,
+        "valence": 0.919,
+        "genre": [
+            "christian music"
+        ],
+        "popularity": 56
+    }
+}

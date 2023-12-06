@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Prendilo_tu_questo_frutto_amaro.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Prendilo tu questo frutto amaro",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.827,
+        "acousticness": 0.179,
+        "danceability": 0.62,
+        "instrumentalness": 0.000531,
+        "liveness": 0.0612,
+        "speechiness": 0.0315,
+        "loudness": -6.793,
+        "tempo": 102.987,
+        "time_signature": 4,
+        "valence": 0.553,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 16
+    }
+}

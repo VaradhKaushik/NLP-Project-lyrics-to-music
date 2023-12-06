@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Bomba_o_non_bomba.2.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Bomba o non bomba.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.846,
+        "acousticness": 0.0669,
+        "danceability": 0.528,
+        "instrumentalness": 2.27e-06,
+        "liveness": 0.188,
+        "speechiness": 0.0643,
+        "loudness": -4.396,
+        "tempo": 129.342,
+        "time_signature": 4,
+        "valence": 0.457,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 10
+    }
+}

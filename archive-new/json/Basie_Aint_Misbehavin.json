@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Aint_Misbehavin.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Aint Misbehavin",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.444,
+        "acousticness": 0.482,
+        "danceability": 0.604,
+        "instrumentalness": 0.465,
+        "liveness": 0.101,
+        "speechiness": 0.0513,
+        "loudness": -13.245,
+        "tempo": 111.935,
+        "time_signature": 4,
+        "valence": 0.415,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 13
+    }
+}

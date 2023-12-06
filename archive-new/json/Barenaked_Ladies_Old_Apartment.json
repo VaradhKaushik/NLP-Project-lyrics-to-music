@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\Barenaked_Ladies\\Old_Apartment.mid",
+    "artist_band_name": "Barenaked Ladies",
+    "song_title": "Old Apartment",
+    "lyrics": {
+        "Verse": [
+            "Broke into the old apartment",
+            "This is where we used to live",
+            "Broken glass, broke and hungry",
+            "Broken hearts and broken bones",
+            "This is where we used to live",
+            "",
+            "Broke into the old apartment",
+            "Forty-two steps from the street",
+            "Crooked landing, crooked landlord",
+            "Narrow laneway filled with crooks",
+            "This is where we used to live",
+            "Broke into the old apartment",
+            "Tore the phone out of the wall",
+            "Only memories, fading memories",
+            "Blending into dull tableaux",
+            "I want them back",
+            "[Outro]",
+            "I want them back (This is where we used to live)",
+            "I want them back (This is where we used to live)",
+            "I want them back (This is where we used to live)",
+            "I want them back1Embed"
+        ],
+        "Chorus": [
+            "Why did you paint the walls?",
+            "Why did you clean the floor?",
+            "Why did you plaster over the hole I punched in the door?",
+            "This is where we used to live",
+            "",
+            "[Post-Chorus 1]",
+            "Why did you keep the mousetrap?",
+            "Why did you keep the dish rack?",
+            "These things used to be mine",
+            "I guess they still are, I want 'em back",
+            "",
+            "Why did they pave the lawn?",
+            "Why did they change the locks?",
+            "Why did I have to break in, I only came here to talk",
+            "This is where we used to live",
+            "",
+            "[Post-Chorus 2]",
+            "How is the neighbour downstairs?",
+            "How is her temper this year?",
+            "I turned up your TV",
+            "And stomped on the floor just for fun",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I know we don't live here anymore",
+            "We bought an old house on the Danforth",
+            "She loves me and her body keeps me warm",
+            "And I'm happy here",
+            "This is where we used to live",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.664,
+        "acousticness": 0.0448,
+        "danceability": 0.467,
+        "instrumentalness": 0,
+        "liveness": 0.365,
+        "speechiness": 0.0479,
+        "loudness": -10.189,
+        "tempo": 159.858,
+        "time_signature": 4,
+        "valence": 0.642,
+        "genre": [
+            "canadian pop",
+            "canadian rock",
+            "pop rock",
+            "post-grunge"
+        ],
+        "popularity": 53
+    }
+}

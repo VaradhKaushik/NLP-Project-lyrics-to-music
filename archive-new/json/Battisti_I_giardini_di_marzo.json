@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\I_giardini_di_marzo.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "I giardini di marzo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.191,
+        "acousticness": 0.648,
+        "danceability": 0.339,
+        "instrumentalness": 6.95e-06,
+        "liveness": 0.0739,
+        "speechiness": 0.0372,
+        "loudness": -15.082,
+        "tempo": 143.201,
+        "time_signature": 4,
+        "valence": 0.255,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 58
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "midi_file_path": "archive-new\\Bread\\Diary.mid",
+    "artist_band_name": "Bread",
+    "song_title": "Diary",
+    "lyrics": {
+        "Verse": [
+            "I found her diary underneath a tree",
+            "And started reading about me",
+            "The words she'd written took me by surprise",
+            "You'd never read them in her eyes",
+            "They said that she had found",
+            "The love she'd waited for",
+            "",
+            "[Refrain]",
+            "Wouldn't you know it?",
+            "She wouldn't show it",
+            "",
+            "When she confronted with the writing there",
+            "Simply pretended not to care",
+            "I passed it off as just in keeping with",
+            "Her total disconcerting air",
+            "And though she tried to hide",
+            "The love that she denied",
+            "",
+            "[Refrain]",
+            "Wouldn't you know it?",
+            "She wouldn't show it",
+            "",
+            "I found her diary underneath a tree",
+            "And started reading about me",
+            "The words began to stick and tears to flow",
+            "Her meaning now was clear to see",
+            "The love she'd waited for",
+            "Was someone else, not me",
+            "",
+            "[Refrain]",
+            "Wouldn't you know it?",
+            "She wouldn't show it",
+            ""
+        ],
+        "Chorus": [
+            "And as I go through my life",
+            "I will give to her, my wife",
+            "All the sweet things I can find",
+            "And as I go through my life",
+            "I will wish for her, his wife",
+            "All the sweet things she can find",
+            "All the sweet things they can find2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.126,
+        "acousticness": 0.862,
+        "danceability": 0.364,
+        "instrumentalness": 0.000203,
+        "liveness": 0.0969,
+        "speechiness": 0.0286,
+        "loudness": -18.071,
+        "tempo": 90.429,
+        "time_signature": 4,
+        "valence": 0.43,
+        "genre": [
+            "folk rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 58
+    }
+}

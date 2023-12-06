@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Brownsville_Station\\Smokin_In_the_Boys_Room.mid",
+    "artist_band_name": "Brownsville Station",
+    "song_title": "Smokin In the Boys Room",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.756,
+        "acousticness": 0.735,
+        "danceability": 0.575,
+        "instrumentalness": 0.0401,
+        "liveness": 0.0755,
+        "speechiness": 0.0544,
+        "loudness": -9.414,
+        "tempo": 127.434,
+        "time_signature": 4,
+        "valence": 0.844,
+        "genre": [
+            "country rock",
+            "michigan indie",
+            "southern rock"
+        ],
+        "popularity": 47
+    }
+}

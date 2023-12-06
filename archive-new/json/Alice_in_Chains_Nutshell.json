@@ -1,0 +1,60 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Nutshell.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Nutshell",
+    "lyrics": {
+        "Verse": [
+            "We chase misprinted lies",
+            "We face the path of time",
+            "And yet I fight, and yet I fight",
+            "This battle all alone",
+            "No one to cry to",
+            "No place to call home",
+            "",
+            "[Refrain]",
+            "Ooh",
+            "Ooh-ooh",
+            "Ooh",
+            "Ooh-ooh",
+            "",
+            "My gift of self is raped",
+            "My privacy is raked",
+            "And yet I find, and yet I find",
+            "Repeating in my head",
+            "If I can't be my own",
+            "I'd feel better dead",
+            "",
+            "[Refrain]",
+            "Ooh",
+            "Ooh-ooh",
+            "Ooh",
+            "Ooh-ooh",
+            "You might also like[Instrumental Outro]",
+            "[Guitar Solo]80Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.561,
+        "acousticness": 0.373,
+        "danceability": 0.384,
+        "instrumentalness": 0.253,
+        "liveness": 0.0775,
+        "speechiness": 0.0296,
+        "loudness": -10.059,
+        "tempo": 136.136,
+        "time_signature": 3,
+        "valence": 0.159,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 74
+    }
+}

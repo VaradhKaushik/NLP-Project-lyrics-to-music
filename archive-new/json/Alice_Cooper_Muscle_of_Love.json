@@ -1,0 +1,35 @@
+{
+    "midi_file_path": "archive-new\\Alice_Cooper\\Muscle_of_Love.mid",
+    "artist_band_name": "Alice Cooper",
+    "song_title": "Muscle of Love",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.652,
+        "acousticness": 0.0325,
+        "danceability": 0.418,
+        "instrumentalness": 0.00728,
+        "liveness": 0.392,
+        "speechiness": 0.0719,
+        "loudness": -11.535,
+        "tempo": 102.704,
+        "time_signature": 4,
+        "valence": 0.603,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "detroit rock",
+            "glam metal",
+            "glam rock",
+            "hard rock",
+            "metal",
+            "protopunk",
+            "rock"
+        ],
+        "popularity": 27
+    }
+}

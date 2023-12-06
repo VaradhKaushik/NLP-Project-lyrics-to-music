@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Concurrence_deloyale.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Concurrence deloyale",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.239,
+        "acousticness": 0.888,
+        "danceability": 0.589,
+        "instrumentalness": 0.000424,
+        "liveness": 0.181,
+        "speechiness": 0.0736,
+        "loudness": -12.044,
+        "tempo": 85.838,
+        "time_signature": 4,
+        "valence": 0.446,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 0
+    }
+}

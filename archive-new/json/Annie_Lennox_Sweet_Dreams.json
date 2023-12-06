@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Annie_Lennox\\Sweet_Dreams.mid",
+    "artist_band_name": "Annie Lennox",
+    "song_title": "Sweet Dreams",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.819,
+        "acousticness": 0.0267,
+        "danceability": 0.47,
+        "instrumentalness": 0,
+        "liveness": 0.971,
+        "speechiness": 0.0572,
+        "loudness": -7.361,
+        "tempo": 125.838,
+        "time_signature": 4,
+        "valence": 0.426,
+        "genre": [
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "singer-songwriter",
+            "soft rock",
+            "synthpop"
+        ],
+        "popularity": 23
+    }
+}

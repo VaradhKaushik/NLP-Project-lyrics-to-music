@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Una_canzone_damore.mid",
+    "artist_band_name": "883",
+    "song_title": "Una canzone damore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.712,
+        "acousticness": 0.544,
+        "danceability": 0.457,
+        "instrumentalness": 0,
+        "liveness": 0.232,
+        "speechiness": 0.031,
+        "loudness": -6.118,
+        "tempo": 165.868,
+        "time_signature": 4,
+        "valence": 0.432,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 57
+    }
+}

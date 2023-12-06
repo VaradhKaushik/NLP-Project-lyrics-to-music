@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Ben_Folds_Five\\Missing_the_War.mid",
+    "artist_band_name": "Ben Folds Five",
+    "song_title": "Missing the War",
+    "lyrics": {
+        "Verse": [
+            "All is quiet. His tired eyes",
+            "See figures jotted down",
+            "And clothes all strewn around the bedroom floor",
+            "Now nothing's adding up",
+            "And nothing's making sense",
+            "She's sleeping like a baby",
+            "She doesn't know he wasn't meant for this",
+            "",
+            "He drove home again, pissed and beaten",
+            "It's really no big deal",
+            "It happens all the time, it's no big deal",
+            "",
+            "'Til beads of sunlight hit me in the morning",
+            "So much time, so little to say",
+            "Time may fly and dreams may die",
+            "The shaking voice that tells him \"go\"",
+            "Still thinks he might; he knows he won't",
+            ""
+        ],
+        "Chorus": [
+            "I'm missing the war",
+            "I'm missing the war all night",
+            "I'm missing the war",
+            "I'm missing the war",
+            "I'm missing the war all night",
+            "I'm missing the war",
+            "",
+            "I'm missing the war",
+            "I'm missing the war, oh my",
+            "I'm missing the war",
+            "I'm missing the war",
+            "I'm missing the war, oh my",
+            "I'm missing the war",
+            "I'm missing the war",
+            "I'm missing the war, oh my",
+            "I'm missing the war",
+            "I'm missing the war",
+            "I'm missing the war, oh my",
+            "I'm missing the war1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.328,
+        "acousticness": 0.511,
+        "danceability": 0.383,
+        "instrumentalness": 0.00301,
+        "liveness": 0.102,
+        "speechiness": 0.0299,
+        "loudness": -8.264,
+        "tempo": 77.577,
+        "time_signature": 4,
+        "valence": 0.0847,
+        "genre": [
+            "permanent wave",
+            "piano rock",
+            "pop rock"
+        ],
+        "popularity": 29
+    }
+}

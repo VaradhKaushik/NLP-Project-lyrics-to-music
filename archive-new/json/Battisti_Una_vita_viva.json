@@ -1,0 +1,44 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Una_vita_viva.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Una vita viva",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Guardando nell'azzurro degli occhi di un neonato",
+            "Sentirsi gi\u00e0 resuscitato",
+            "E inventare la vita, una vita viva",
+            "Una vita viva",
+            "",
+            "[Ritornello 1]",
+            "Il fondo marino, giocar da terzino",
+            "La spiaggia al mattino presto e la fedelt\u00e0",
+            "Entrare nel bosco e fermarsi a dormire sul muschio",
+            "Scordarsi un po' il rischio e la slealt\u00e0",
+            "",
+            "[Outro]",
+            "Una vita viva, una vita viva, una vita viva",
+            "Una vita viva, una vita viva, una vita vivaEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.659,
+        "acousticness": 0.188,
+        "danceability": 0.734,
+        "instrumentalness": 0,
+        "liveness": 0.0778,
+        "speechiness": 0.0467,
+        "loudness": -8.42,
+        "tempo": 126.327,
+        "time_signature": 4,
+        "valence": 0.85,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 30
+    }
+}

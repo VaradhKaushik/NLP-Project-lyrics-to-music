@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Bob_Dylan\\Rainy_Day_Women_12_35.mid",
+    "artist_band_name": "Bob Dylan",
+    "song_title": "Rainy Day Women 12 35",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.592,
+        "acousticness": 0.458,
+        "danceability": 0.556,
+        "instrumentalness": 0,
+        "liveness": 0.0637,
+        "speechiness": 0.0337,
+        "loudness": -7.378,
+        "tempo": 94.887,
+        "time_signature": 4,
+        "valence": 0.587,
+        "genre": [
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "rock",
+            "roots rock",
+            "singer-songwriter"
+        ],
+        "popularity": 46
+    }
+}

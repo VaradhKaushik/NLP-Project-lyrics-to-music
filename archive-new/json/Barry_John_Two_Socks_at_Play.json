@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\Two_Socks_at_Play.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "Two Socks at Play",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0516,
+        "acousticness": 0.859,
+        "danceability": 0.082,
+        "instrumentalness": 0.931,
+        "liveness": 0.1,
+        "speechiness": 0.043,
+        "loudness": -26.283,
+        "tempo": 170.592,
+        "time_signature": 1,
+        "valence": 0.0541,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 38
+    }
+}

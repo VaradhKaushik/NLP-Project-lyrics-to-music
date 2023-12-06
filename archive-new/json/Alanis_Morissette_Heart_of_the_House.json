@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Alanis_Morissette\\Heart_of_the_House.mid",
+    "artist_band_name": "Alanis Morissette",
+    "song_title": "Heart of the House",
+    "lyrics": {
+        "Verse": [
+            "You are the original template",
+            "You are the original exemplary",
+            "How seen were you actually?",
+            "How revered were you, honestly, at the time?",
+            "",
+            "Why, pleased with your low maintenance",
+            "You loved us more than we could've loved you back",
+            "Where was your ally",
+            "Your partner in feminine crime?",
+            "",
+            "You were \"good ol'\"",
+            "You were \"count on her till four a.m.\"",
+            "You saw me run from the house",
+            "In the snow melodramatically",
+            ""
+        ],
+        "Chorus": [
+            "Oh ho, mother, who's your buddy?",
+            "Oh ho, mother, who's got your back?",
+            "The heart of the house",
+            "The heart of the house",
+            "All hail the goddess",
+            "",
+            "Oh ho, mother, who's your sister?",
+            "Oh ho, mother, who's your friend?",
+            "The heart of the house",
+            "The heart of that house",
+            "All hail the goddess",
+            "You might also like[Outro]",
+            "We left the men and we went for a walk in the Gatineaus",
+            "And talked like women, like women to women would",
+            "Womyn to womyn would",
+            "\"Where did you get that from?",
+            "Must've been your father, your dad\"",
+            "And I got it from you, I got it from you",
+            "Do you see yourself in my gypsy garage sale ways?",
+            "In my fits of laughter?",
+            "In my Tinkerbell tendencies?",
+            "In my lack of color coordination?1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.496,
+        "acousticness": 0.389,
+        "danceability": 0.224,
+        "instrumentalness": 1.63e-05,
+        "liveness": 0.104,
+        "speechiness": 0.0445,
+        "loudness": -9.053,
+        "tempo": 83.879,
+        "time_signature": 3,
+        "valence": 0.295,
+        "genre": [
+            "canadian pop",
+            "canadian singer-songwriter",
+            "lilith",
+            "neo mellow",
+            "pop rock",
+            "singer-songwriter"
+        ],
+        "popularity": 29
+    }
+}

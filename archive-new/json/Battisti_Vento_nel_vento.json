@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Vento_nel_vento.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Vento nel vento",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.21,
+        "acousticness": 0.785,
+        "danceability": 0.31,
+        "instrumentalness": 0.000394,
+        "liveness": 0.0939,
+        "speechiness": 0.032,
+        "loudness": -12.521,
+        "tempo": 127.435,
+        "time_signature": 4,
+        "valence": 0.142,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 41
+    }
+}

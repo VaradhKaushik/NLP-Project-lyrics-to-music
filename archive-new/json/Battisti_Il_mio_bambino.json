@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Il_mio_bambino.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Il mio bambino",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.256,
+        "acousticness": 0.903,
+        "danceability": 0.289,
+        "instrumentalness": 8.21e-06,
+        "liveness": 0.0957,
+        "speechiness": 0.0318,
+        "loudness": -7.263,
+        "tempo": 168.214,
+        "time_signature": 3,
+        "valence": 0.182,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 14
+    }
+}

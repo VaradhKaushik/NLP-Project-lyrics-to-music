@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Ninna_nanna.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Ninna nanna",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.581,
+        "acousticness": 0.265,
+        "danceability": 0.673,
+        "instrumentalness": 4.35e-05,
+        "liveness": 0.0359,
+        "speechiness": 0.048,
+        "loudness": -7.65,
+        "tempo": 94.278,
+        "time_signature": 4,
+        "valence": 0.942,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 30
+    }
+}

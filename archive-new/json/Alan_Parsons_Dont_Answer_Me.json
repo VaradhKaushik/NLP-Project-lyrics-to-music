@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Alan_Parsons\\Dont_Answer_Me.mid",
+    "artist_band_name": "Alan Parsons",
+    "song_title": "Dont Answer Me",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.783,
+        "acousticness": 0.0717,
+        "danceability": 0.615,
+        "instrumentalness": 0.000109,
+        "liveness": 0.215,
+        "speechiness": 0.0303,
+        "loudness": -8.716,
+        "tempo": 115.133,
+        "time_signature": 4,
+        "valence": 0.634,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 62
+    }
+}

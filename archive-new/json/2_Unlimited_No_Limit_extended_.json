@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\No_Limit_extended_.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "No Limit extended ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.999,
+        "acousticness": 0.00413,
+        "danceability": 0.66,
+        "instrumentalness": 0.0441,
+        "liveness": 0.0528,
+        "speechiness": 0.0526,
+        "loudness": -8.163,
+        "tempo": 141.116,
+        "time_signature": 4,
+        "valence": 0.662,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 33
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Di_passaggio.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Di passaggio",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.723,
+        "acousticness": 0.0837,
+        "danceability": 0.491,
+        "instrumentalness": 1.08e-05,
+        "liveness": 0.295,
+        "speechiness": 0.0331,
+        "loudness": -8.389,
+        "tempo": 144.037,
+        "time_signature": 4,
+        "valence": 0.597,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

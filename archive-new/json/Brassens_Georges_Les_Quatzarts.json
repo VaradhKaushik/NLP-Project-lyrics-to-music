@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Les_Quatzarts.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Les Quatzarts",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.195,
+        "acousticness": 0.872,
+        "danceability": 0.78,
+        "instrumentalness": 5.24e-06,
+        "liveness": 0.129,
+        "speechiness": 0.287,
+        "loudness": -14.326,
+        "tempo": 105.041,
+        "time_signature": 3,
+        "valence": 0.76,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 22
+    }
+}

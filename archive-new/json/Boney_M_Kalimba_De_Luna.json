@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Boney_M\\Kalimba_De_Luna.mid",
+    "artist_band_name": "Boney M",
+    "song_title": "Kalimba De Luna",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.952,
+        "acousticness": 0.0362,
+        "danceability": 0.713,
+        "instrumentalness": 0.0357,
+        "liveness": 0.0556,
+        "speechiness": 0.0456,
+        "loudness": -6.263,
+        "tempo": 111.309,
+        "time_signature": 4,
+        "valence": 0.881,
+        "genre": [
+            "europop"
+        ],
+        "popularity": 45
+    }
+}

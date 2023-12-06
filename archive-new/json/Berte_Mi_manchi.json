@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Mi_manchi.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Mi manchi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.695,
+        "acousticness": 0.0914,
+        "danceability": 0.792,
+        "instrumentalness": 1.8e-06,
+        "liveness": 0.0921,
+        "speechiness": 0.0421,
+        "loudness": -7.98,
+        "tempo": 108.73,
+        "time_signature": 4,
+        "valence": 0.758,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 7
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Borg_Andy\\Ich_brauch_ein_bisschen_Gluck.mid",
+    "artist_band_name": "Borg Andy",
+    "song_title": "Ich brauch ein bisschen Gluck",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.954,
+        "acousticness": 0.344,
+        "danceability": 0.682,
+        "instrumentalness": 4.67e-06,
+        "liveness": 0.335,
+        "speechiness": 0.0442,
+        "loudness": -2.439,
+        "tempo": 126.004,
+        "time_signature": 4,
+        "valence": 0.897,
+        "genre": [
+            "classic schlager",
+            "schlager",
+            "volksmusik"
+        ],
+        "popularity": 7
+    }
+}

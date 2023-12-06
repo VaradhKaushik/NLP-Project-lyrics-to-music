@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Alan_Parsons\\Ammonia_Avenue.mid",
+    "artist_band_name": "Alan Parsons",
+    "song_title": "Ammonia Avenue",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.131,
+        "acousticness": 0.495,
+        "danceability": 0.361,
+        "instrumentalness": 1.18e-05,
+        "liveness": 0.102,
+        "speechiness": 0.0303,
+        "loudness": -15.02,
+        "tempo": 75.175,
+        "time_signature": 4,
+        "valence": 0.255,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 41
+    }
+}

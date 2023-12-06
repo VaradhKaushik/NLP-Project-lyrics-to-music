@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Au_bonheur_des_dames\\Oh_les_filles.mid",
+    "artist_band_name": "Au bonheur des dames",
+    "song_title": "Oh les filles",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.747,
+        "acousticness": 0.385,
+        "danceability": 0.497,
+        "instrumentalness": 0,
+        "liveness": 0.345,
+        "speechiness": 0.103,
+        "loudness": -10.221,
+        "tempo": 171.082,
+        "time_signature": 4,
+        "valence": 0.732,
+        "genre": [
+            "classic french pop",
+            "french rock-and-roll"
+        ],
+        "popularity": 35
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Amarsi_un_po.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Amarsi un po",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Per\u00f2",
+            "Per\u00f2 volersi bene, no",
+            "Partecipare",
+            "\u00c8 difficile",
+            "Quasi come volare",
+            "Per diventare noi",
+            "Veramente noi",
+            "",
+            "[Ritornello]",
+            "Uniti",
+            "Indivisibili",
+            "Vicini",
+            "Ma irraggiungibiliEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.501,
+        "acousticness": 0.0482,
+        "danceability": 0.533,
+        "instrumentalness": 0.000101,
+        "liveness": 0.118,
+        "speechiness": 0.0358,
+        "loudness": -10.505,
+        "tempo": 78.692,
+        "time_signature": 4,
+        "valence": 0.374,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 49
+    }
+}

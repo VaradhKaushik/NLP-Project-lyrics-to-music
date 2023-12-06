@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Solitudini.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Solitudini",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.513,
+        "acousticness": 0.327,
+        "danceability": 0.762,
+        "instrumentalness": 0,
+        "liveness": 0.0955,
+        "speechiness": 0.0314,
+        "loudness": -8.319,
+        "tempo": 120.059,
+        "time_signature": 4,
+        "valence": 0.574,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 4
+    }
+}

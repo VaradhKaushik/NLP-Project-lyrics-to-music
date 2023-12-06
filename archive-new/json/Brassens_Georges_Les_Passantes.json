@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Les_Passantes.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Les Passantes",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.293,
+        "acousticness": 0.836,
+        "danceability": 0.408,
+        "instrumentalness": 0.0081,
+        "liveness": 0.138,
+        "speechiness": 0.0449,
+        "loudness": -13.022,
+        "tempo": 90.397,
+        "time_signature": 3,
+        "valence": 0.339,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 27
+    }
+}

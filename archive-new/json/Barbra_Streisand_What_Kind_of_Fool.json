@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\What_Kind_of_Fool.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "What Kind of Fool",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.245,
+        "acousticness": 0.39,
+        "danceability": 0.511,
+        "instrumentalness": 0,
+        "liveness": 0.401,
+        "speechiness": 0.0396,
+        "loudness": -16.755,
+        "tempo": 79.88,
+        "time_signature": 4,
+        "valence": 0.143,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 57
+    }
+}

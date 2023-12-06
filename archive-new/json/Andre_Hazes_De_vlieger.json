@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\Andre_Hazes\\De_vlieger.mid",
+    "artist_band_name": "Andre Hazes",
+    "song_title": "De vlieger",
+    "lyrics": {
+        "Verse": [
+            "M'n zoon was gisteren jarig",
+            "Hij werd acht jaar oud, m'n schat",
+            "Hij vroeg aan mij een vlieger",
+            "En die heeft hij ook gehad",
+            "Naar z'n bal, z'n fiets, z'n treinen",
+            "Nee, daar keek hij niet naar om",
+            "Want z'n vlieger was hem alles",
+            "Alleen wist ik niet waarom",
+            "En toen de andere morgen",
+            "Zei hij: \"Vader, ga je mee?",
+            "De wind die is nu gunstig",
+            "Dus ik neem m'n vlieger mee\"",
+            "In z'n ene hand een vlieger",
+            "In de andere een brief",
+            "Ik kon het niet begrijpen",
+            "Maar toen zei m'n zoontjelief",
+            "",
+            "Ik heb hier een brief voor m'n moeder",
+            "Die hoog, die hoog in de hemel is",
+            "Deze brief bind ik vast aan m'n vlieger",
+            "Tot zij hem ontvangt, zij, zij die ik mis",
+            ""
+        ],
+        "Chorus": [
+            "Ik heb hier een brief voor m'n moeder",
+            "Die hoog in de hemel is",
+            "Deze brief bind ik vast aan m'n vlieger",
+            "Tot zij hem ontvangt, zij die ik mis",
+            "En als zij dan leest hoeveel ik van haar hou",
+            "Dat ik niet kan wennen aan die andere vrouw",
+            "Ik heb hier een brief voor m'n moeder",
+            "Die hoog in de hemel is",
+            "Ik heb hier een brief voor m'n moeder",
+            "Die hoog in de hemel is",
+            "Deze brief bind ik vast aan m'n vlieger",
+            "Tot zij 'm ontvangt, zij die ik mis",
+            "En als zij dan leest hoeveel ik van haar hou",
+            "Dat ik niet kan wennen aan die andere vrouw",
+            "Ik heb hier een brief voor m'n moeder",
+            "Die hoog in de hemel isEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.704,
+        "acousticness": 0.12,
+        "danceability": 0.492,
+        "instrumentalness": 0,
+        "liveness": 0.314,
+        "speechiness": 0.0265,
+        "loudness": -5.496,
+        "tempo": 105.105,
+        "time_signature": 3,
+        "valence": 0.347,
+        "genre": [
+            "dutch rock",
+            "kermis",
+            "levenslied"
+        ],
+        "popularity": 27
+    }
+}

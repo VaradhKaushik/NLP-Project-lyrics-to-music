@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Decenni.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Decenni",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.692,
+        "acousticness": 0.264,
+        "danceability": 0.499,
+        "instrumentalness": 0,
+        "liveness": 0.125,
+        "speechiness": 0.0299,
+        "loudness": -5.488,
+        "tempo": 114.115,
+        "time_signature": 4,
+        "valence": 0.17,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

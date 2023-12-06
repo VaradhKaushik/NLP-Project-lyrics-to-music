@@ -1,0 +1,64 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\We_Die_Young.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "We Die Young",
+    "lyrics": {
+        "Verse": [
+            "Watch where you spit",
+            "I'd advise you wait until it's over",
+            "Then you got hit",
+            "And you should've known better",
+            "",
+            "Down, down, down, you're rollin'",
+            "Watch the blood float in the muddy sewer",
+            "Take another hit",
+            "And bury your brother",
+            "",
+            "Another alley trip",
+            "Bullet seek the place to bend you over",
+            "Then you got hit",
+            "And you should've known better",
+            ""
+        ],
+        "Chorus": [
+            "Scary's on the wall",
+            "Scary's on his way",
+            "",
+            "And we die young",
+            "Faster we run",
+            "",
+            "And we die young",
+            "Faster we run",
+            "You might also like[Guitar Solo]",
+            "",
+            "Scary's on the wall",
+            "Scary's on his way",
+            "",
+            "Faster we run",
+            "And we die young4Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.938,
+        "acousticness": 1.79e-05,
+        "danceability": 0.486,
+        "instrumentalness": 0.000103,
+        "liveness": 0.361,
+        "speechiness": 0.0704,
+        "loudness": -6.652,
+        "tempo": 125.816,
+        "time_signature": 4,
+        "valence": 0.525,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 68
+    }
+}

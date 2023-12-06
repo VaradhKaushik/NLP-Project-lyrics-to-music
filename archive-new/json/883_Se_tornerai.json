@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Se_tornerai.mid",
+    "artist_band_name": "883",
+    "song_title": "Se tornerai",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.759,
+        "acousticness": 0.247,
+        "danceability": 0.495,
+        "instrumentalness": 0,
+        "liveness": 0.29,
+        "speechiness": 0.0371,
+        "loudness": -6.683,
+        "tempo": 172.135,
+        "time_signature": 4,
+        "valence": 0.487,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 50
+    }
+}

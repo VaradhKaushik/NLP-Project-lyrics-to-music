@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Assia\\La-Bas.mid",
+    "artist_band_name": "Assia",
+    "song_title": "La-Bas",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.671,
+        "acousticness": 0.0932,
+        "danceability": 0.74,
+        "instrumentalness": 6.43e-06,
+        "liveness": 0.192,
+        "speechiness": 0.0362,
+        "loudness": -5.435,
+        "tempo": 91.033,
+        "time_signature": 4,
+        "valence": 0.529,
+        "genre": [],
+        "popularity": 30
+    }
+}

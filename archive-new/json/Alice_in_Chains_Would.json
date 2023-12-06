@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Would.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Would",
+    "lyrics": {
+        "Verse": [
+            "Know me, broken by my master",
+            "Teach thee on child of love hereafter",
+            "",
+            "Drifting body, it's sole desertion",
+            "Flying not yet, quite the notion",
+            ""
+        ],
+        "Chorus": [
+            "Into the flood again",
+            "Same old trip it was back then",
+            "So I made a big mistake",
+            "Try to see it once my way",
+            "",
+            "Into the flood again",
+            "Same old trip it was back then",
+            "So I made a big mistake",
+            "Try to see it once my way",
+            "",
+            "[Instrumental Break 02:05-02:22]",
+            "[Guitar Solo: Jerry Cantrell]",
+            "Into the flood again",
+            "Same old trip it was back then",
+            "So I made a big mistake",
+            "Try to see it once my way, yeah",
+            "",
+            "[Outro: Layne Staley]",
+            "Am I wrong?",
+            "Have I run too far to get home?",
+            "Have I gone?",
+            "Left you here alone",
+            "Am I wrong?",
+            "Have I run too far to get home? Yeah",
+            "Have I gone?",
+            "Left you here alone",
+            "If I would, could you?45Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.833,
+        "acousticness": 0.000327,
+        "danceability": 0.305,
+        "instrumentalness": 2.36e-05,
+        "liveness": 0.091,
+        "speechiness": 0.0398,
+        "loudness": -7.981,
+        "tempo": 100.675,
+        "time_signature": 4,
+        "valence": 0.586,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 77
+    }
+}

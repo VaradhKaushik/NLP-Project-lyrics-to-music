@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Al_Jarreau\\Moonlighting_Theme_.mid",
+    "artist_band_name": "Al Jarreau",
+    "song_title": "Moonlighting Theme ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.828,
+        "acousticness": 0.223,
+        "danceability": 0.666,
+        "instrumentalness": 1.86e-05,
+        "liveness": 0.316,
+        "speechiness": 0.0303,
+        "loudness": -5.276,
+        "tempo": 101.408,
+        "time_signature": 4,
+        "valence": 0.613,
+        "genre": [
+            "smooth jazz",
+            "yacht rock"
+        ],
+        "popularity": 44
+    }
+}

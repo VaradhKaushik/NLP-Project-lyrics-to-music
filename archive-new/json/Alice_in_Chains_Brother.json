@@ -1,0 +1,75 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Brother.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Brother",
+    "lyrics": {
+        "Verse": [
+            "Frozen in the place I hide",
+            "Not afraid to paint my sky",
+            "With some who say I've lost my mind",
+            "Brother, try and hope to find...",
+            "",
+            "Roses in a vase of white",
+            "Bloodied by the thorns beside the leaves",
+            "That fall because my hand is",
+            "Pulling them hard as I can",
+            "Pictures in a box at home",
+            "Yellowing and green with mold",
+            "So I can barely see your face",
+            "Wonder how that color taste",
+            ""
+        ],
+        "Chorus": [
+            "You were always so far away",
+            "I know that pain, so don't you run away",
+            "Like you used to do",
+            "Hm, hm, hm, hm, hm, hm",
+            "",
+            "You were always so far away",
+            "I know that pain, I won't run away",
+            "Like I used to do",
+            "Hm, hm, hm, hm",
+            "",
+            "[Guitar Solo]",
+            "",
+            "You were always so far away",
+            "I know the way, so don't you run away",
+            "Like you used to do",
+            "Hmm, like you used to do (Like you used to do)",
+            "Like you used to do",
+            "",
+            "[Outro: Jerry Cantrell & Ann Wilson]",
+            "Hm, hm, hm hm, hm, hm",
+            "Hm, hm, hm hm, hm (Hm, hm, hm)11Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Hm, hm, hm hm, hm, hm",
+            "Hm, hm, hm hm, hm",
+            "Hm, hm, hm hm, hm, hm",
+            "Hm, hm, hm hm, hm",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.365,
+        "acousticness": 0.557,
+        "danceability": 0.405,
+        "instrumentalness": 0.00048,
+        "liveness": 0.89,
+        "speechiness": 0.0307,
+        "loudness": -10.927,
+        "tempo": 85.781,
+        "time_signature": 4,
+        "valence": 0.076,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 54
+    }
+}

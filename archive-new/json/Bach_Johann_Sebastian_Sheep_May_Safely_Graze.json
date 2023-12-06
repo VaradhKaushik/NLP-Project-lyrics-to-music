@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Sheep_May_Safely_Graze.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Sheep May Safely Graze",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0711,
+        "acousticness": 0.959,
+        "danceability": 0.219,
+        "instrumentalness": 0.953,
+        "liveness": 0.116,
+        "speechiness": 0.0424,
+        "loudness": -23.407,
+        "tempo": 79.362,
+        "time_signature": 4,
+        "valence": 0.185,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 4
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Thank_You_for_the_Music.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Thank You for the Music",
+    "lyrics": {
+        "Verse": [
+            "I'm nothing special, in fact I'm a bit of a bore",
+            "If I tell a joke, you've probably heard it before",
+            "But I have a talent, a wonderful thing",
+            "'Cause everyone listens when I start to sing",
+            "I'm so grateful and proud",
+            "All I want is to sing it out loud",
+            "",
+            "Mother says I was a dancer before I could walk",
+            "Mhm, she says I began to sing long before I could talk",
+            "And I've often wondered, how did it all start?",
+            "Who found out that nothing can capture a heart",
+            "Like a melody can?",
+            "Well, whoever it was, I'm a fan",
+            ""
+        ],
+        "Chorus": [
+            "So I say thank you for the music, the songs I'm singing",
+            "Thanks for all the joy they're bringing",
+            "Who can live without it? I ask in all honesty",
+            "What would life be?",
+            "Without a song or a dance, what are we?",
+            "So I say thank you for the music, for giving it to me",
+            "",
+            "So I say thank you for the music, the songs I'm singing",
+            "Thanks for all the joy they're bringing",
+            "Who can live without it? I ask in all honesty",
+            "What would life be?",
+            "Without a song or a dance, what are we?",
+            "So I say thank you for the music, for giving it to me",
+            "Thank you for the music, the songs I'm singing",
+            "Thanks for all the joy they're bringing",
+            "Who can live without it? I ask in all honesty",
+            "What would life be?",
+            "Without a song or a dance, what are we?",
+            "So I say thank you for the music, for giving it to me",
+            "",
+            "[Outro]",
+            "So I say thank you for the music, for giving it to me7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I've been so lucky",
+            "I am the girl with golden hair",
+            "I wanna sing it out to everybody",
+            "What a joy, what a life, what a chance",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.417,
+        "acousticness": 0.835,
+        "danceability": 0.283,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "speechiness": 0.0404,
+        "loudness": -9.124,
+        "tempo": 201.145,
+        "time_signature": 4,
+        "valence": 0.373,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 66
+    }
+}

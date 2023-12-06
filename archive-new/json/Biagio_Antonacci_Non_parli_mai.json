@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Non_parli_mai.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Non parli mai",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.308,
+        "acousticness": 0.644,
+        "danceability": 0.708,
+        "instrumentalness": 2.39e-05,
+        "liveness": 0.0799,
+        "speechiness": 0.0377,
+        "loudness": -15.218,
+        "tempo": 142.842,
+        "time_signature": 4,
+        "valence": 0.625,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

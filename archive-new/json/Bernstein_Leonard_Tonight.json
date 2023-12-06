@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bernstein_Leonard\\Tonight.mid",
+    "artist_band_name": "Bernstein Leonard",
+    "song_title": "Tonight",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.175,
+        "acousticness": 0.912,
+        "danceability": 0.23,
+        "instrumentalness": 0.467,
+        "liveness": 0.0653,
+        "speechiness": 0.0455,
+        "loudness": -19.194,
+        "tempo": 97.875,
+        "time_signature": 4,
+        "valence": 0.0581,
+        "genre": [
+            "american modern classical",
+            "classical",
+            "classical performance",
+            "orchestral performance"
+        ],
+        "popularity": 16
+    }
+}

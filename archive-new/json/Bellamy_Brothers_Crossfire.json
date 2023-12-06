@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bellamy_Brothers\\Crossfire.mid",
+    "artist_band_name": "Bellamy Brothers",
+    "song_title": "Crossfire",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.821,
+        "acousticness": 0.132,
+        "danceability": 0.601,
+        "instrumentalness": 0,
+        "liveness": 0.245,
+        "speechiness": 0.0298,
+        "loudness": -4.86,
+        "tempo": 127.986,
+        "time_signature": 4,
+        "valence": 0.645,
+        "genre": [
+            "classic country pop",
+            "country",
+            "country rock"
+        ],
+        "popularity": 19
+    }
+}

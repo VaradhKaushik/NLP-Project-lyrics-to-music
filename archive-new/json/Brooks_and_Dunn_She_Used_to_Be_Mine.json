@@ -1,0 +1,72 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\She_Used_to_Be_Mine.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "She Used to Be Mine",
+    "lyrics": {
+        "Verse": [
+            "She looked so good movin' 'cross the dance floor",
+            "Better than the day she left me",
+            "Arm in arm with somebody new",
+            "Holdin' hands and laughin' like we used to",
+            "",
+            "It's taken every bit of strength that I have",
+            "To keep a hurt look off my face",
+            "I can't keep from lookin' back over my shoulder",
+            "At the lucky man takin' my place",
+            ""
+        ],
+        "Chorus": [
+            "I've got my best smile on, but it's no disguise",
+            "It don't hide the pain in these eyes",
+            "",
+            "I did her so wrong, for so long",
+            "Turned my back on her love, now she's long gone",
+            "I did my part to break her heart",
+            "She walked out on me and tore my world apart",
+            "She used to be mine",
+            "Oh, she used to be mine",
+            "",
+            "Oh, if it weren't for my pride, I'd probably take off runnin'",
+            "Guess what I'm feelin', is what I got comin'",
+            "I did her so wrong, for so long",
+            "Turned my back on her love, now she's long gone",
+            "I did my part to break her heart",
+            "She walked out on me and tore my world apart",
+            "She used to be mine",
+            "Oh, she used to be mine",
+            "",
+            "[Guitar Solo]",
+            "",
+            "Oh, I did her so wrong, for so long",
+            "I turned my back on her love, now she's long gone",
+            "I did my part, whoa, to break her heart",
+            "She walked out on me and tore my world apart",
+            "She used to be mine",
+            "Oh, she used to be mine",
+            "",
+            "[Outro]",
+            "Oh, she used to be mine",
+            "She used to be mineEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.57,
+        "acousticness": 0.259,
+        "danceability": 0.491,
+        "instrumentalness": 3.65e-06,
+        "liveness": 0.0959,
+        "speechiness": 0.0342,
+        "loudness": -5.906,
+        "tempo": 172.927,
+        "time_signature": 4,
+        "valence": 0.296,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 46
+    }
+}

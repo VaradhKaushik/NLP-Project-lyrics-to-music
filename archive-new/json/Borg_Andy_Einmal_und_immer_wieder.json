@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Borg_Andy\\Einmal_und_immer_wieder.mid",
+    "artist_band_name": "Borg Andy",
+    "song_title": "Einmal und immer wieder",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.703,
+        "acousticness": 0.0648,
+        "danceability": 0.69,
+        "instrumentalness": 0,
+        "liveness": 0.0998,
+        "speechiness": 0.0333,
+        "loudness": -12.663,
+        "tempo": 122.005,
+        "time_signature": 4,
+        "valence": 0.894,
+        "genre": [
+            "classic schlager",
+            "schlager",
+            "volksmusik"
+        ],
+        "popularity": 1
+    }
+}

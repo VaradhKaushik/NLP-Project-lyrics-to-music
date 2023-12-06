@@ -1,0 +1,52 @@
+{
+    "midi_file_path": "archive-new\\Al_Martino\\Spanish_Eyes.mid",
+    "artist_band_name": "Al Martino",
+    "song_title": "Spanish Eyes",
+    "lyrics": {
+        "Verse": [
+            "Blue Spanish eyes",
+            "Teardrops are falling from your Spanish eyes",
+            "Please, please don't cry",
+            "This is just adios and not goodbye",
+            "",
+            "Blue Spanish eyes",
+            "Prettiest eyes in all of Mexico",
+            "True Spanish eyes",
+            "Please smile for me once more before I go",
+            ""
+        ],
+        "Chorus": [
+            "Soon I'll return",
+            "Bringing you all the love your heart can hold",
+            "Please say \"s\u00ed, s\u00ed\"",
+            "Say you and your Spanish eyes will wait for me",
+            "",
+            "Soon I'll return",
+            "Bringing you all the love your heart can hold",
+            "Please say \"s\u00ed, s\u00ed\"",
+            "Say you and your Spanish eyes will wait for me",
+            "",
+            "[Outro]",
+            "You and your Spanish eyes will wait for meYou might also like1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.481,
+        "acousticness": 0.308,
+        "danceability": 0.519,
+        "instrumentalness": 1.05e-05,
+        "liveness": 0.121,
+        "speechiness": 0.0283,
+        "loudness": -9.796,
+        "tempo": 109.246,
+        "time_signature": 4,
+        "valence": 0.48,
+        "genre": [
+            "adult standards",
+            "easy listening"
+        ],
+        "popularity": 55
+    }
+}

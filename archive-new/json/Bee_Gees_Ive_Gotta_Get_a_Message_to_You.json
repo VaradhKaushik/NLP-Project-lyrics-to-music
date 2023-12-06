@@ -1,0 +1,67 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Ive_Gotta_Get_a_Message_to_You.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Ive Gotta Get a Message to You",
+    "lyrics": {
+        "Verse": [
+            "The preacher talked with me and he smiled",
+            "Said \"Come and walk with me, come and walk one more mile",
+            "Now for once in your life you're alone",
+            "But you ain't got a dime, there's no time for the phone\"",
+            "",
+            "I told him I'm in no hurry",
+            "But if I broke her heart, then won't you tell her I'm sorry",
+            "And for once in my life, I'm alone",
+            "And I gotta let her know just in time before I go",
+            "",
+            "Well I laughed, but that didn't hurt",
+            "And it's only her love that keeps me wearing this dirt",
+            "Now I'm crying, but deep down inside",
+            "Well I did it to him, now it's my turn to die"
+        ],
+        "Chorus": [
+            "I've just gotta get a message to you",
+            "Hold on, hold on",
+            "One more hour and my life will be through",
+            "Hold on, hold on",
+            "",
+            "I've just gotta get a message to you",
+            "Hold on, hold on",
+            "One more hour and my life will be through",
+            "Hold on, hold on",
+            "",
+            "I've just gotta get a message to you",
+            "Hold on, hold on",
+            "One more hour and my life will be through",
+            "Hold on, hold on",
+            "",
+            "[Outro]",
+            "I've just gotta get a message to her",
+            "Hold on, hold on",
+            "One more hour and my life will be through",
+            "Hold on, hold on",
+            "I've just gotta get a message to her",
+            "Hold on, hold on3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.596,
+        "acousticness": 0.037,
+        "danceability": 0.442,
+        "instrumentalness": 4.46e-06,
+        "liveness": 0.172,
+        "speechiness": 0.0281,
+        "loudness": -6.327,
+        "tempo": 83.414,
+        "time_signature": 4,
+        "valence": 0.497,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 57
+    }
+}

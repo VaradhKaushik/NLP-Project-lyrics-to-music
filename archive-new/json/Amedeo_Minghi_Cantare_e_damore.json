@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Cantare_e_damore.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Cantare e damore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.617,
+        "acousticness": 0.35,
+        "danceability": 0.477,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "speechiness": 0.0273,
+        "loudness": -5.859,
+        "tempo": 86.076,
+        "time_signature": 4,
+        "valence": 0.212,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 50
+    }
+}

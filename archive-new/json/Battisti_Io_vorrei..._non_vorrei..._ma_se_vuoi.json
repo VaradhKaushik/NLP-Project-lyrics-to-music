@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Io_vorrei..._non_vorrei..._ma_se_vuoi.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Io vorrei... non vorrei... ma se vuoi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.2,
+        "acousticness": 0.523,
+        "danceability": 0.457,
+        "instrumentalness": 9.64e-06,
+        "liveness": 0.174,
+        "speechiness": 0.0575,
+        "loudness": -13.392,
+        "tempo": 116.203,
+        "time_signature": 5,
+        "valence": 0.164,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 55
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_mecreant.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le mecreant",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.308,
+        "acousticness": 0.856,
+        "danceability": 0.797,
+        "instrumentalness": 5.95e-06,
+        "liveness": 0.0867,
+        "speechiness": 0.082,
+        "loudness": -9.741,
+        "tempo": 104.897,
+        "time_signature": 4,
+        "valence": 0.887,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 17
+    }
+}

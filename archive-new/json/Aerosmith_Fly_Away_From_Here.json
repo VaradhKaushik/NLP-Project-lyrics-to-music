@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\Aerosmith\\Fly_Away_From_Here.mid",
+    "artist_band_name": "Aerosmith",
+    "song_title": "Fly Away From Here",
+    "lyrics": {
+        "Verse": [
+            "We gotta find a way",
+            "Yeah, I can't wait another day",
+            "Ain't nothing gonna change",
+            "If we stay around here",
+            "Gotta do what it takes",
+            "Goes on in our hands",
+            "We all make mistakes",
+            "Yeah, but it's never too late to start again",
+            "Take another breath and say another prayer",
+            "",
+            "If this life?",
+            "It seems harder now",
+            "It ain't no never mind",
+            "You got me by your side",
+            "And anytime you want",
+            "Yeah, we can catch a train and find a better place, yeah",
+            "'Cause we won't let nothing or no one keep getting us down",
+            "Maybe you and I could pack our bags and hit the sky"
+        ],
+        "Chorus": [
+            "And then fly away from here",
+            "Anywhere, yeah, I don't care",
+            "We just fly away from here",
+            "Our hopes and dreams are out there somewhere",
+            "Won't let time pass us by",
+            "We'll just fly, yeah",
+            "",
+            "And fly away from here",
+            "Anywhere, yeah, I don't care",
+            "We just fly away from here",
+            "Our hopes and dreams are out there somewhere",
+            "Won't let time pass us by",
+            "We'll just fly",
+            "",
+            "And fly away from here",
+            "Anywhere, honey, I don't care",
+            "We just fly away from here",
+            "Our hopes and dreams are out there somewhere",
+            "Fly away from here",
+            "Yeah, anywhere, honey, I don't, I don't, I don't",
+            "Yeah, we just fly away3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Do you see a bluer sky now?",
+            "You can have a better life now",
+            "Open your eyes",
+            "'Cause no one here can ever stop us",
+            "They can try but we won't let them",
+            "No way",
+            "",
+            "Maybe you and I",
+            "Could pack our bags and say goodbye",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.641,
+        "acousticness": 0.156,
+        "danceability": 0.394,
+        "instrumentalness": 0,
+        "liveness": 0.114,
+        "speechiness": 0.0349,
+        "loudness": -5.363,
+        "tempo": 142.181,
+        "time_signature": 4,
+        "valence": 0.2,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 63
+    }
+}

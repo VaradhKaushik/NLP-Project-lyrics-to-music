@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Big_Man_on_Mulberry_Street.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Big Man on Mulberry Street",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.565,
+        "acousticness": 0.0138,
+        "danceability": 0.686,
+        "instrumentalness": 2.67e-05,
+        "liveness": 0.321,
+        "speechiness": 0.0341,
+        "loudness": -9.99,
+        "tempo": 113.768,
+        "time_signature": 4,
+        "valence": 0.535,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 31
+    }
+}

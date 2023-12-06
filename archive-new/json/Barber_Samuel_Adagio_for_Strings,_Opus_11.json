@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Barber_Samuel\\Adagio_for_Strings,_Opus_11.mid",
+    "artist_band_name": "Barber Samuel",
+    "song_title": "Adagio for Strings, Opus 11",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.000502,
+        "acousticness": 0.911,
+        "danceability": 0.0592,
+        "instrumentalness": 0.885,
+        "liveness": 0.101,
+        "speechiness": 0.0467,
+        "loudness": -27.611,
+        "tempo": 70.24,
+        "time_signature": 4,
+        "valence": 0.0354,
+        "genre": [
+            "american modern classical",
+            "classical"
+        ],
+        "popularity": 0
+    }
+}

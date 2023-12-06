@@ -1,0 +1,52 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\Supernaut.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "Supernaut",
+    "lyrics": {
+        "Verse": [
+            "I wanna reach out and touch the sky",
+            "I wanna touch the sun, but I don't need to fly",
+            "I'm gonna climb up every mountain of the moon",
+            "And find the dish that ran away with the spoon",
+            "",
+            "I've crossed the oceans, turned every bend",
+            "I found the plastic and the golden rainbow's end",
+            "I've been through magic and through life's reality",
+            "I've lived a thousand years, it never bothered me",
+            "",
+            "[Instrumental Break 01:33-03:33]",
+            "",
+            "Got no religion, don't need no friends",
+            "Got all I want and I don't need to pretend",
+            "Don't try to reach me, 'cause I'll tear up your mind",
+            "I've seen the future and I've left it behindYou might also like5Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.817,
+        "acousticness": 0.000272,
+        "danceability": 0.381,
+        "instrumentalness": 0.0017,
+        "liveness": 0.0522,
+        "speechiness": 0.064,
+        "loudness": -10.454,
+        "tempo": 120.748,
+        "time_signature": 4,
+        "valence": 0.645,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 47
+    }
+}

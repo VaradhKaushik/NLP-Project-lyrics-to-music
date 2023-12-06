@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Billy_Ocean\\Loverboy.mid",
+    "artist_band_name": "Billy Ocean",
+    "song_title": "Loverboy",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.71,
+        "acousticness": 0.0915,
+        "danceability": 0.734,
+        "instrumentalness": 2.28e-05,
+        "liveness": 0.0635,
+        "speechiness": 0.0389,
+        "loudness": -9.164,
+        "tempo": 107.901,
+        "time_signature": 4,
+        "valence": 0.715,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "new romantic",
+            "new wave pop",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 57
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Dumpweed.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Dumpweed",
+    "lyrics": {
+        "Verse": [
+            "It's understood, I said it many ways",
+            "Too scared to run, I'm too scared to stay",
+            "I said I'd leave, I could never leave her",
+            "If I did, you know I'd never cheat her",
+            "But this, I ask, it's what I want to know",
+            "How would you feel if I should choose to go?",
+            "Another guy, you think he'd be unlike me?",
+            "Another guy, you think he'd wanna fight me?",
+            "",
+            "I heard it once, I'm sure I've heard it twice",
+            "My dad used to give me all of his advice",
+            "He would say, \"You've got to turn your back and run, now\"",
+            "\"Come on, son, you haven't got a chance now\"",
+            ""
+        ],
+        "Chorus": [
+            "She's a dove, she's a fuckin' nightmare",
+            "Unpredictable, it's my mistake to stay here",
+            "On the go, and it's way too late to play",
+            "I need a girl that I can train",
+            "",
+            "She's a dove, she's a fuckin' nightmare",
+            "Unpredictable, it's my mistake to stay here",
+            "On the go, and it's way too late to play",
+            "I need a girl that I can train",
+            "She's a dove, she's a fuckin' nightmare",
+            "Unpredictable, it's my mistake to stay here",
+            "On the go, and it's way too late to play",
+            "I need a girl that I can train",
+            "You might also like[Outro: Tom DeLonge]",
+            "Need a girl that I can train",
+            "Need a girl that I can train",
+            "Turn your back and run, now",
+            "You haven't got a chance, now",
+            "Need a girl that I can train",
+            "Need a girl that I can train",
+            "Turn your back and run, now",
+            "You haven't got a chance, now5Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.937,
+        "acousticness": 0.00244,
+        "danceability": 0.451,
+        "instrumentalness": 0.000112,
+        "liveness": 0.148,
+        "speechiness": 0.0952,
+        "loudness": -5.524,
+        "tempo": 100.601,
+        "time_signature": 4,
+        "valence": 0.591,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 66
+    }
+}

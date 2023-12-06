@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Boyzone\\I_Love_the_Way_You_Love_Me.mid",
+    "artist_band_name": "Boyzone",
+    "song_title": "I Love the Way You Love Me",
+    "lyrics": {
+        "Verse": [
+            "I like the feel of your name on my lips",
+            "And I like the sound of your sweet gentle kiss",
+            "The way that your fingers run through my hair",
+            "And how your scent lingers even when you're not there",
+            "",
+            "And I like the way your eyes dance when you laugh",
+            "And how you enjoy your two-hour bath",
+            "And how you've convinced me to dance in the rain",
+            "With everyone watching like we were insane",
+            "",
+            "And I like the sound of old R&B",
+            "And you roll your eyes when I'm sloppily off-key",
+            "And I like the innocent way that you cry",
+            "From sappy old movies you've seen thousands of times",
+            ""
+        ],
+        "Chorus": [
+            "But I love the way you love me, oh, baby",
+            "Strong and wild, slow and easy",
+            "Heart and soul so completely",
+            "I love the way you love me",
+            "",
+            "And I love the way you love me, oh, baby",
+            "Strong and wild, slow and easy",
+            "Heart and soul so completely",
+            "I love the way you love me",
+            "I love the way you love me, oh, baby",
+            "Strong and wild (Strong and wild)",
+            "Slow and easy (Slow and easy)",
+            "Heart and soul (Heart and) so completely",
+            "I love the way you love me",
+            "",
+            "[Outro]",
+            "I love the way you that love meEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "So listen to me now",
+            "And I could list a million things",
+            "I love to like about you (About you)",
+            "But they could all come down to one reason (To one reason)",
+            "I could never live without you",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.479,
+        "acousticness": 0.404,
+        "danceability": 0.451,
+        "instrumentalness": 0,
+        "liveness": 0.233,
+        "speechiness": 0.0346,
+        "loudness": -9.349,
+        "tempo": 167.947,
+        "time_signature": 4,
+        "valence": 0.373,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 55
+    }
+}

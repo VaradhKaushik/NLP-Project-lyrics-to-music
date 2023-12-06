@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Con_Te_Partiro.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Con Te Partiro",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.367,
+        "acousticness": 0.844,
+        "danceability": 0.241,
+        "instrumentalness": 0.00279,
+        "liveness": 0.0873,
+        "speechiness": 0.0311,
+        "loudness": -7.95,
+        "tempo": 135.267,
+        "time_signature": 5,
+        "valence": 0.302,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 70
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\The_Beaches_of_Cheyenne.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "The Beaches of Cheyenne",
+    "lyrics": {
+        "Verse": [
+            "They packed up all his buckles and shipped his saddle to his dad",
+            "And by the way the house looked, she must have took it bad",
+            "The workers come on Monday to fix the door and patch the wall",
+            "They say she just went crazy the night she got the call",
+            "",
+            "Well, he was up in Wyoming and drew a bull no man could ride",
+            "He promised her he'd turn out, well, it turned out that he lied",
+            "And all the dreams that they'd been livin' in the California sand",
+            "Died right there beside him in Cheyenne",
+            "",
+            "They never found her body, just her diary by the bed",
+            "It told about the fight they had and the words that she had said",
+            "When he told her he was ridin', she said, \"Then I don't give a damn",
+            "If you never come back from Cheyenne\"",
+            "Nobody can explain it, some say she's still alive",
+            "They've even claimed they've seen her on the shoreline late at night",
+            "'Cause if you go down by the water, you'll see her footprints in the sand",
+            "'Cause every night she walks the beaches of Cheyenne",
+            "",
+            "[Outro]",
+            "Yes, every night she walks the beaches",
+            "Of Cheyenne2Embed"
+        ],
+        "Chorus": [
+            "They she just went crazy",
+            "Screamin' out his name",
+            "She ran out into the ocean",
+            "And to this day they claim",
+            "That if you go down by the water",
+            "You'll see her footprints in the sand",
+            "'Cause every night she walks the beaches",
+            "Of Cheyenne",
+            "",
+            "They she just went crazy",
+            "Screamin' out his name",
+            "She ran out into the ocean",
+            "And to this day they claim",
+            "That if you go down by the water",
+            "You'll see her footprints in the sand",
+            "'Cause every night she walks the beaches",
+            "Of Cheyenne",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.74,
+        "acousticness": 0.487,
+        "danceability": 0.54,
+        "instrumentalness": 7.08e-05,
+        "liveness": 0.601,
+        "speechiness": 0.258,
+        "loudness": -10.429,
+        "tempo": 117.063,
+        "time_signature": 4,
+        "valence": 0.431,
+        "genre": [
+            "classic oklahoma country"
+        ],
+        "popularity": 44
+    }
+}

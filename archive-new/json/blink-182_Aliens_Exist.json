@@ -1,0 +1,74 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Aliens_Exist.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Aliens Exist",
+    "lyrics": {
+        "Verse": [
+            "Hey Mom, there's something in the backroom",
+            "Hope it's not the creatures from above",
+            "You used to read me stories, as if my dreams were boring",
+            "We all know conspiracies are dumb",
+            "",
+            "What if people knew that these were real?",
+            "I'd leave my closet door open all night",
+            "I know the CIA would say, \"What you hear is all hearsay\"",
+            "Wish someone would tell me what was right",
+            "",
+            "I am still a skeptic, yes, you know me",
+            "Been best friends and will be 'til we die",
+            "I got an injection of fear from the abduction",
+            "My best friend thinks I'm just telling lies, alright"
+        ],
+        "Chorus": [
+            "Up all night long",
+            "And there's something very wrong",
+            "And I know it must be late",
+            "Been gone since yesterday",
+            "I'm not like you guys",
+            "I'm not like you",
+            "",
+            "Up all night long",
+            "And there's something very wrong",
+            "And I know it must be late",
+            "Been gone since yesterday",
+            "I'm not like you guys",
+            "I'm not like you",
+            "",
+            "Up all night long",
+            "And there's something very wrong",
+            "And I know it must be late",
+            "Been gone since yesterday",
+            "I'm not like you guys",
+            "Twelve majestic lies9Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Dark and scary, ordinary",
+            "Explanation, information",
+            "Nice to know ya, paranoia",
+            "Where's my mother? Bio-father?",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.915,
+        "acousticness": 0.000954,
+        "danceability": 0.47,
+        "instrumentalness": 7.58e-06,
+        "liveness": 0.35,
+        "speechiness": 0.1,
+        "loudness": -6.787,
+        "tempo": 107.569,
+        "time_signature": 4,
+        "valence": 0.69,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 65
+    }
+}

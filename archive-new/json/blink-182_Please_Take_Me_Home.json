@@ -1,0 +1,80 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Please_Take_Me_Home.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Please Take Me Home",
+    "lyrics": {
+        "Verse": [
+            "Oh no, it happened again",
+            "She's cool, she's hot, she's my friend",
+            "I'd drive for hours, it's so",
+            "You leave me nowhere to go",
+            "",
+            "I hope, hope that it lasts",
+            "Give in, forget the past",
+            "Be strong when things fall apart",
+            "Honest, this breaks my heart",
+            ""
+        ],
+        "Chorus": [
+            "She's unstoppable, unpredictable",
+            "I'm so jaded, calculated wrong",
+            "",
+            "Please take me home",
+            "Too late, it's gone",
+            "I bet you're sad",
+            "This is the best time we ever had",
+            "",
+            "She's unstoppable, unpredictable",
+            "I'm so jaded, calculated wrong",
+            "Please take me home",
+            "Too late, it's gone",
+            "I bet you're sad",
+            "This is the best time we ever had",
+            "",
+            "Please take me home",
+            "Too late, it's gone",
+            "I bet you're sad",
+            "This is the best time we ever had",
+            "",
+            "Please take me home",
+            "Too late, it's gone",
+            "I bet you're sad",
+            "This is the best time we ever had",
+            "",
+            "Please take me home",
+            "Too late, it's gone",
+            "I bet you're sad",
+            "This is the best time we ever had12Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Why did we have to go date?",
+            "It's too easy to complicate",
+            "Be strong when things fall apart (Be strong when things fall apart)",
+            "Honest, this breaks my heart (It's so hard)",
+            "Let's go!",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.955,
+        "acousticness": 0.000733,
+        "danceability": 0.564,
+        "instrumentalness": 7.26e-06,
+        "liveness": 0.388,
+        "speechiness": 0.0384,
+        "loudness": -4.289,
+        "tempo": 100.704,
+        "time_signature": 4,
+        "valence": 0.764,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 55
+    }
+}

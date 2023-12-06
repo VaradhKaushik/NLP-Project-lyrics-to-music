@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\Aretha_Franklin\\You_Make_Me_Feel_Like_a_Natural_Woman.1.mid",
+    "artist_band_name": "Aretha Franklin",
+    "song_title": "You Make Me Feel Like a Natural Woman.1",
+    "lyrics": {
+        "Verse": [
+            "Looking out on the morning rain",
+            "I used to feel so uninspired",
+            "And when I knew I had to face another day",
+            "Lord, it made me feel so tired",
+            "",
+            "When my soul was in the lost and found",
+            "You came along to claim it",
+            "I didn't know just what was wrong with me",
+            "'Til your kiss helped me name it",
+            ""
+        ],
+        "Chorus": [
+            "Before the day I met you, life was so unkind",
+            "But you're the key to my peace of mind",
+            "",
+            "'Cause you make me feel, you make me feel",
+            "You make me feel like a natural woman (Woman)",
+            "",
+            "Now I'm no longer doubtful of what I'm living for",
+            "And if I make you happy, I don't need to do more",
+            "",
+            "'Cause you make me feel, you make me feel",
+            "You make me feel like a natural woman (Woman)",
+            "You make me feel, you make me feel",
+            "You make me feel like a natural woman (Woman)",
+            "You make me feel, you make me feel",
+            "You make me feel like a natural woman (Woman)",
+            "",
+            "[Outro]",
+            "You make me feel, you make me feel",
+            "You make me feel like a natural woman6Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Oh, baby, what you've done to me? (What you've done to me?)",
+            "You made me feel so good inside (Good inside)",
+            "And I just wanna be (Wanna be)",
+            "Close to you, you make me feel so alive",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.483,
+        "acousticness": 0.606,
+        "danceability": 0.338,
+        "instrumentalness": 0.00922,
+        "liveness": 0.934,
+        "speechiness": 0.0366,
+        "loudness": -10.514,
+        "tempo": 105.983,
+        "time_signature": 3,
+        "valence": 0.478,
+        "genre": [
+            "classic soul",
+            "jazz blues",
+            "memphis soul",
+            "neo soul",
+            "soul",
+            "southern soul",
+            "vocal jazz"
+        ],
+        "popularity": 31
+    }
+}

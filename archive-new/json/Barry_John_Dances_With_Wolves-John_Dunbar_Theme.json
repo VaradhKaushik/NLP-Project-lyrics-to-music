@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\Dances_With_Wolves-John_Dunbar_Theme.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "Dances With Wolves-John Dunbar Theme",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0988,
+        "acousticness": 0.711,
+        "danceability": 0.149,
+        "instrumentalness": 0.938,
+        "liveness": 0.108,
+        "speechiness": 0.0409,
+        "loudness": -24.512,
+        "tempo": 136.401,
+        "time_signature": 5,
+        "valence": 0.146,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 56
+    }
+}

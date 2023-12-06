@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Campo_de_fiori.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Campo de fiori",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.157,
+        "acousticness": 0.905,
+        "danceability": 0.177,
+        "instrumentalness": 0.00704,
+        "liveness": 0.11,
+        "speechiness": 0.0367,
+        "loudness": -17.234,
+        "tempo": 99.43,
+        "time_signature": 3,
+        "valence": 0.116,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 5
+    }
+}

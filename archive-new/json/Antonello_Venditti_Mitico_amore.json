@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Mitico_amore.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Mitico amore",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.449,
+        "acousticness": 0.25,
+        "danceability": 0.48,
+        "instrumentalness": 1.6e-06,
+        "liveness": 0.105,
+        "speechiness": 0.0304,
+        "loudness": -13.899,
+        "tempo": 127.882,
+        "time_signature": 4,
+        "valence": 0.236,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 28
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Ana_Caram\\La_Cumbia.mid",
+    "artist_band_name": "Ana Caram",
+    "song_title": "La Cumbia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.115,
+        "acousticness": 0.895,
+        "danceability": 0.551,
+        "instrumentalness": 0.001,
+        "liveness": 0.103,
+        "speechiness": 0.0615,
+        "loudness": -20.101,
+        "tempo": 83.984,
+        "time_signature": 3,
+        "valence": 0.598,
+        "genre": [],
+        "popularity": 4
+    }
+}

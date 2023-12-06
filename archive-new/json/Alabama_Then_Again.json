@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Then_Again.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Then Again",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.203,
+        "acousticness": 0.586,
+        "danceability": 0.517,
+        "instrumentalness": 1.71e-06,
+        "liveness": 0.146,
+        "speechiness": 0.0275,
+        "loudness": -14.531,
+        "tempo": 103.307,
+        "time_signature": 4,
+        "valence": 0.145,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 22
+    }
+}

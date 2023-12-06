@@ -1,0 +1,54 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\Try_Me.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "Try Me",
+    "lyrics": {
+        "Verse": [
+            "Try me (Try me), try me (Try me)",
+            "Darling tell me",
+            "I need you",
+            "Try me (Try me), try me (Try me)",
+            "And your love will always be true",
+            "Oh, I need you (I need you)",
+            "",
+            "Hold me (Hold me), hold me (Hold me)",
+            "I want you right here by my side",
+            "Hold me (Hold me), hold me (Hold me)",
+            "And your love we won't hide",
+            "Oh, I need you (I need you)",
+            "",
+            "Oh, oh, walk with me (Walk with me), talk with me (Talk with me)",
+            "I want you to stop my heart from crying",
+            "Walk with me (Walk with me), talk with me (Talk with me)",
+            "And your love stops my heart from dying",
+            "Oh, I need you (I need you, hoo, hoo)You might also like10Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "(Need you, need you)",
+            "",
+            "(Need you, need you)",
+            "",
+            "Oh, I need you (I need you)",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.224,
+        "acousticness": 0.931,
+        "danceability": 0.676,
+        "instrumentalness": 0,
+        "liveness": 0.302,
+        "speechiness": 0.0293,
+        "loudness": -15.193,
+        "tempo": 101.47,
+        "time_signature": 3,
+        "valence": 0.665,
+        "genre": [
+            "funk",
+            "soul"
+        ],
+        "popularity": 59
+    }
+}

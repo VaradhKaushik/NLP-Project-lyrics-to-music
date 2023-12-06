@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Aerosmith\\Dude_Looks_Like_A_Lady_.1.mid",
+    "artist_band_name": "Aerosmith",
+    "song_title": "Dude Looks Like A Lady .1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.982,
+        "acousticness": 0.435,
+        "danceability": 0.54,
+        "instrumentalness": 3.29e-05,
+        "liveness": 0.0457,
+        "speechiness": 0.0458,
+        "loudness": -2.962,
+        "tempo": 126.286,
+        "time_signature": 4,
+        "valence": 0.91,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 0
+    }
+}

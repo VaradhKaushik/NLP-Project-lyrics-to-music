@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Barry_Manilow\\Could_It_Be_Magic.mid",
+    "artist_band_name": "Barry Manilow",
+    "song_title": "Could It Be Magic",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.506,
+        "acousticness": 0.85,
+        "danceability": 0.315,
+        "instrumentalness": 0.0405,
+        "liveness": 0.131,
+        "speechiness": 0.0347,
+        "loudness": -7.283,
+        "tempo": 122.913,
+        "time_signature": 4,
+        "valence": 0.291,
+        "genre": [
+            "adult standards",
+            "mellow gold",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 46
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Blues_Traveler\\Crash_Burn.mid",
+    "artist_band_name": "Blues Traveler",
+    "song_title": "Crash Burn",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.935,
+        "acousticness": 0.00128,
+        "danceability": 0.427,
+        "instrumentalness": 0.178,
+        "liveness": 0.0321,
+        "speechiness": 0.17,
+        "loudness": -7.101,
+        "tempo": 157.609,
+        "time_signature": 4,
+        "valence": 0.459,
+        "genre": [
+            "heartland rock",
+            "jam band",
+            "pop rock",
+            "post-grunge"
+        ],
+        "popularity": 29
+    }
+}

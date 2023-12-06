@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Alan_Parsons\\Damned_If_I_Do.mid",
+    "artist_band_name": "Alan Parsons",
+    "song_title": "Damned If I Do",
+    "lyrics": {
+        "Verse": [
+            "I ain't got a heart of stone",
+            "I'm hurtin' more now than I've ever known",
+            "If you mean the things you said",
+            "I'm gonna wind up outa my head",
+            "",
+            "I don't want to tie you down",
+            "Don't need a reason to have you around",
+            "But each time you walk away",
+            "Don't be surprised if I ask you to stay",
+            "",
+            "I ain't got a heart of stone",
+            "You haven't left me a mind of my own",
+            "But it's got such a hold on me",
+            "I don't think I could ever be free",
+            ""
+        ],
+        "Chorus": [
+            "Can't sleep alone at night",
+            "I just can't seem to get it right",
+            "Damned if I do",
+            "Damned if I don't but I love you",
+            "",
+            "Can't sleep alone at night",
+            "I just can't seem to get it right",
+            "Damned if I do",
+            "And I'm damned if I don't but I love you",
+            "I said I'm damned if I do",
+            "And I'm damned if I don't cause I love you",
+            "You might also like[Instrumental Break]",
+            "",
+            "How can I survive",
+            "I'm fighting to keep myself alive",
+            "I'm damned if I do",
+            "Damned if I don't but I love you",
+            "Can't seem to see the light",
+            "I've done everything but I can't get it right",
+            "Damned if I do",
+            "Damned if I don't but I love youEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.639,
+        "acousticness": 0.732,
+        "danceability": 0.556,
+        "instrumentalness": 0.00214,
+        "liveness": 0.128,
+        "speechiness": 0.0382,
+        "loudness": -8.802,
+        "tempo": 134.721,
+        "time_signature": 4,
+        "valence": 0.567,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 38
+    }
+}

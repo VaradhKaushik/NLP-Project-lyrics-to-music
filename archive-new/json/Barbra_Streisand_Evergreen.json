@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\Evergreen.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "Evergreen",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.303,
+        "acousticness": 0.932,
+        "danceability": 0.335,
+        "instrumentalness": 0.0271,
+        "liveness": 0.0907,
+        "speechiness": 0.0315,
+        "loudness": -10.943,
+        "tempo": 114.224,
+        "time_signature": 4,
+        "valence": 0.186,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 63
+    }
+}

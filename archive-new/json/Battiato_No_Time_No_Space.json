@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\No_Time_No_Space.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "No Time No Space",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.639,
+        "acousticness": 0.294,
+        "danceability": 0.342,
+        "instrumentalness": 0,
+        "liveness": 0.134,
+        "speechiness": 0.0326,
+        "loudness": -6.667,
+        "tempo": 127.453,
+        "time_signature": 3,
+        "valence": 0.409,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 21
+    }
+}

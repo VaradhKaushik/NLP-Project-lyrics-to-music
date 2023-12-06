@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Tutto_cio_che_ho.mid",
+    "artist_band_name": "883",
+    "song_title": "Tutto cio che ho",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.815,
+        "acousticness": 0.223,
+        "danceability": 0.565,
+        "instrumentalness": 0,
+        "liveness": 0.357,
+        "speechiness": 0.0561,
+        "loudness": -7.239,
+        "tempo": 169.962,
+        "time_signature": 4,
+        "valence": 0.615,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 11
+    }
+}

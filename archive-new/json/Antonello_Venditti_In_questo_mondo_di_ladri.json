@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\In_questo_mondo_di_ladri.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "In questo mondo di ladri",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.663,
+        "acousticness": 0.0425,
+        "danceability": 0.64,
+        "instrumentalness": 0,
+        "liveness": 0.16,
+        "speechiness": 0.0326,
+        "loudness": -13.126,
+        "tempo": 112.012,
+        "time_signature": 4,
+        "valence": 0.638,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 42
+    }
+}

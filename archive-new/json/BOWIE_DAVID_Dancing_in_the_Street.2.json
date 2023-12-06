@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\BOWIE_DAVID\\Dancing_in_the_Street.2.mid",
+    "artist_band_name": "BOWIE DAVID",
+    "song_title": "Dancing in the Street.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.816,
+        "acousticness": 0.117,
+        "danceability": 0.6,
+        "instrumentalness": 0,
+        "liveness": 0.126,
+        "speechiness": 0.0431,
+        "loudness": -13.64,
+        "tempo": 130.99,
+        "time_signature": 4,
+        "valence": 0.744,
+        "genre": [
+            "art rock",
+            "classic rock",
+            "glam rock",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 61
+    }
+}

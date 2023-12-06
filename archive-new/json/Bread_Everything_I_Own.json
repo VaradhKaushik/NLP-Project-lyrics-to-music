@@ -1,0 +1,74 @@
+{
+    "midi_file_path": "archive-new\\Bread\\Everything_I_Own.mid",
+    "artist_band_name": "Bread",
+    "song_title": "Everything I Own",
+    "lyrics": {
+        "Verse": [
+            "You sheltered me from harm",
+            "Kept me warm, kept me warm",
+            "You gave my life to me",
+            "Set me free, set me free",
+            "",
+            "You taught me how to love",
+            "What it's of, what it's of",
+            "You never said too much",
+            "But still you showed the way",
+            "And I knew from watching you",
+            ""
+        ],
+        "Chorus": [
+            "The finest years I ever knew",
+            "Were all the years I had with you",
+            "",
+            "And I would give anything I own",
+            "Would give up my life, my heart, my home",
+            "I would give everything I own",
+            "Just to have you back again",
+            "",
+            "Nobody else could ever know",
+            "The part of me that can't let go",
+            "And I would give anything I own",
+            "Would give up my life, my heart, my home",
+            "I would give everything I own",
+            "Just to have you back again",
+            "",
+            "I would give anything I own",
+            "Would give up my life, my heart, my home",
+            "I would give everything I own",
+            "Just to have you back again",
+            "",
+            "[Post-Chorus]",
+            "Just to touch you once again6Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Is there someone you know",
+            "You're loving them so",
+            "But taking them all for granted?",
+            "You may lose them one day",
+            "Someone takes them away",
+            "And they don't hear the words",
+            "You long to say",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.338,
+        "acousticness": 0.735,
+        "danceability": 0.365,
+        "instrumentalness": 0,
+        "liveness": 0.104,
+        "speechiness": 0.0322,
+        "loudness": -13.406,
+        "tempo": 79.241,
+        "time_signature": 4,
+        "valence": 0.446,
+        "genre": [
+            "folk rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 73
+    }
+}

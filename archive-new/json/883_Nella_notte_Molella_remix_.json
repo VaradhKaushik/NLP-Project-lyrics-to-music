@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Nella_notte_Molella_remix_.mid",
+    "artist_band_name": "883",
+    "song_title": "Nella notte Molella remix ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.894,
+        "acousticness": 0.00221,
+        "danceability": 0.69,
+        "instrumentalness": 0.0188,
+        "liveness": 0.322,
+        "speechiness": 0.0299,
+        "loudness": -7.323,
+        "tempo": 129.83,
+        "time_signature": 4,
+        "valence": 0.726,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 29
+    }
+}

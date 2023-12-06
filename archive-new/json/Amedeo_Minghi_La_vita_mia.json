@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\La_vita_mia.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "La vita mia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.699,
+        "acousticness": 0.234,
+        "danceability": 0.548,
+        "instrumentalness": 5.15e-06,
+        "liveness": 0.115,
+        "speechiness": 0.0238,
+        "loudness": -5.297,
+        "tempo": 94.069,
+        "time_signature": 4,
+        "valence": 0.399,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

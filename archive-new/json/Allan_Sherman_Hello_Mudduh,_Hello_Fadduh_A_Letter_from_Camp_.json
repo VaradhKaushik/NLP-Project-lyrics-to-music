@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Allan_Sherman\\Hello_Mudduh,_Hello_Fadduh_A_Letter_from_Camp_.mid",
+    "artist_band_name": "Allan Sherman",
+    "song_title": "Hello Mudduh, Hello Fadduh A Letter from Camp ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.409,
+        "acousticness": 0.81,
+        "danceability": 0.619,
+        "instrumentalness": 0,
+        "liveness": 0.641,
+        "speechiness": 0.201,
+        "loudness": -12.887,
+        "tempo": 115.591,
+        "time_signature": 4,
+        "valence": 0.626,
+        "genre": [
+            "comic"
+        ],
+        "popularity": 0
+    }
+}

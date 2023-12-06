@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Medley.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Medley",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.357,
+        "acousticness": 0.396,
+        "danceability": 0.362,
+        "instrumentalness": 0.00952,
+        "liveness": 0.134,
+        "speechiness": 0.0263,
+        "loudness": -12.886,
+        "tempo": 78.081,
+        "time_signature": 3,
+        "valence": 0.28,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 19
+    }
+}

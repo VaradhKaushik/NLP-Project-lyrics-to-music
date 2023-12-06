@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barry_John\\Rescue_of_Dances_With_Wolves.mid",
+    "artist_band_name": "Barry John",
+    "song_title": "Rescue of Dances With Wolves",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.358,
+        "acousticness": 0.183,
+        "danceability": 0.147,
+        "instrumentalness": 0.926,
+        "liveness": 0.0933,
+        "speechiness": 0.0408,
+        "loudness": -13.98,
+        "tempo": 84.844,
+        "time_signature": 4,
+        "valence": 0.145,
+        "genre": [
+            "british soundtrack",
+            "classic soundtrack",
+            "orchestral soundtrack"
+        ],
+        "popularity": 28
+    }
+}

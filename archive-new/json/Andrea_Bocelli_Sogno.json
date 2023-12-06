@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Sogno.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Sogno",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.476,
+        "acousticness": 0.874,
+        "danceability": 0.207,
+        "instrumentalness": 0.00365,
+        "liveness": 0.683,
+        "speechiness": 0.0391,
+        "loudness": -6.932,
+        "tempo": 97.037,
+        "time_signature": 3,
+        "valence": 0.166,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 24
+    }
+}

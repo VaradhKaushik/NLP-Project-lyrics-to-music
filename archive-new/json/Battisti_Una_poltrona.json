@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Una_poltrona.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Una poltrona",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.577,
+        "acousticness": 0.0156,
+        "danceability": 0.227,
+        "instrumentalness": 0.733,
+        "liveness": 0.127,
+        "speechiness": 0.0378,
+        "loudness": -12.7,
+        "tempo": 174.205,
+        "time_signature": 4,
+        "valence": 0.203,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 16
+    }
+}

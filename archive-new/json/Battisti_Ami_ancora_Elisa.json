@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Ami_ancora_Elisa.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Ami ancora Elisa",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.497,
+        "acousticness": 0.247,
+        "danceability": 0.7,
+        "instrumentalness": 0.0235,
+        "liveness": 0.119,
+        "speechiness": 0.03,
+        "loudness": -10.808,
+        "tempo": 93.104,
+        "time_signature": 4,
+        "valence": 0.739,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 26
+    }
+}

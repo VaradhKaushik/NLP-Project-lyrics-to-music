@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\Papas_Got_a_Brand_New_Bag.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "Papas Got a Brand New Bag",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.541,
+        "acousticness": 0.292,
+        "danceability": 0.738,
+        "instrumentalness": 1.15e-05,
+        "liveness": 0.0861,
+        "speechiness": 0.09,
+        "loudness": -9.508,
+        "tempo": 127.942,
+        "time_signature": 4,
+        "valence": 0.925,
+        "genre": [
+            "funk",
+            "soul"
+        ],
+        "popularity": 58
+    }
+}

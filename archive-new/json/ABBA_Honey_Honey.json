@@ -1,0 +1,69 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Honey_Honey.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Honey Honey",
+    "lyrics": {
+        "Verse": [
+            "Honey, honey, how you thrill me, aha, honey honey",
+            "Honey, honey, nearly kill me, aha, honey honey",
+            "I'd heard about you before",
+            "I wanted to know some more",
+            "And now I know what they mean, you're a love machine",
+            "Oh, you make me dizzy",
+            "",
+            "Honey, honey, let me feel it, aha, honey honey",
+            "Honey, honey, don't conceal it, aha, honey honey",
+            "The way that you kiss goodnight",
+            "(The way that you kiss me goodnight)",
+            "The way that you hold me tight",
+            "(The way that you're holding me tight)",
+            "I feel like I wanna sing when you do your thing",
+            "",
+            "Honey, honey, touch me, baby, aha, honey honey",
+            "Honey, honey, hold me, baby, aha, honey honey",
+            "You look like a movie star",
+            "(You look like a movie star)",
+            "But I know just who you are",
+            "(I know just who you are)",
+            "And, honey, to say the least, you're a dog-gone beast",
+            "Honey, honey, how you thrill me, aha, honey honey",
+            "Honey, honey, nearly kill me, aha, honey honey",
+            "I heard about you before",
+            "(I heard about you before)",
+            "I wanted to know some more",
+            "(I wanted to know you some more)",
+            "And now I know what they mean",
+            "You're a love machine",
+            "Oh, you make me dizzy5Embed"
+        ],
+        "Chorus": [
+            "I don't wanna hurt you, baby, I don't wanna see you cry",
+            "So stay on the ground, girl, you better not get too high",
+            "But I'm gonna stick to you, boy, you'll never get rid of me",
+            "There's no other place in this world where I rather would be",
+            "",
+            "So stay on the ground, girl, you better not get too high",
+            "There's no other place in this world where I rather would be",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.804,
+        "acousticness": 0.309,
+        "danceability": 0.474,
+        "instrumentalness": 1.81e-06,
+        "liveness": 0.552,
+        "speechiness": 0.0473,
+        "loudness": -7.763,
+        "tempo": 140.507,
+        "time_signature": 4,
+        "valence": 0.757,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 66
+    }
+}

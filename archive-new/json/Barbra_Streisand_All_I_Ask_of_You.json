@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\All_I_Ask_of_You.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "All I Ask of You",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.168,
+        "acousticness": 0.916,
+        "danceability": 0.264,
+        "instrumentalness": 0.00232,
+        "liveness": 0.085,
+        "speechiness": 0.0362,
+        "loudness": -20.25,
+        "tempo": 127.212,
+        "time_signature": 1,
+        "valence": 0.183,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 46
+    }
+}

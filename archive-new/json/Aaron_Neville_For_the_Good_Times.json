@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Aaron_Neville\\For_the_Good_Times.mid",
+    "artist_band_name": "Aaron Neville",
+    "song_title": "For the Good Times",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.235,
+        "acousticness": 0.57,
+        "danceability": 0.408,
+        "instrumentalness": 0.11,
+        "liveness": 0.113,
+        "speechiness": 0.0312,
+        "loudness": -15.926,
+        "tempo": 70.836,
+        "time_signature": 4,
+        "valence": 0.28,
+        "genre": [],
+        "popularity": 15
+    }
+}

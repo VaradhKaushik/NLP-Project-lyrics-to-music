@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Andante,_Andante.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Andante, Andante",
+    "lyrics": {
+        "Verse": [
+            "Take it easy with me, please",
+            "Touch me gently like a summer evening breeze",
+            "Take your time, make it slow",
+            "Andante, andante, just let the feeling grow",
+            "",
+            "Make your fingers soft and light",
+            "Let your body be the velvet of the night",
+            "Touch my soul, you know how",
+            "Andante, andante, go slowly with me now",
+            "",
+            "There's a shimmer in your eyes",
+            "Like the feeling of a thousand butterflies",
+            "Please don't talk, go on, play",
+            "Andante, andante, and let me float away"
+        ],
+        "Chorus": [
+            "I'm your music (I am your music and I am your song)",
+            "I'm your song (I am your music and I am your song)",
+            "Play me time and time again and make me strong",
+            "(Play me again 'cause you're making me strong)",
+            "Make me sing, make me sound",
+            "(You make me sing and you make me)",
+            "Andante, andante, tread lightly on my ground",
+            "Andante, andante, oh, please don't let me down",
+            "",
+            "I'm your music (I am your music and I am your song)",
+            "I'm your song (I am your music and I am your song)",
+            "Play me time and time again and make me strong",
+            "(Play me again 'cause you're making me strong)",
+            "Make me sing, make me sound",
+            "(You make me sing and you make me)",
+            "Andante, andante, tread lightly on my ground",
+            "Andante, andante, oh, please don't let me down",
+            "",
+            "[Interlude]",
+            "",
+            "[Outro]",
+            "Make me sing, make me sound",
+            "(You make me sing and you make me)",
+            "Andante, andante, tread lightly on my ground",
+            "Andante, andante, oh, please don't let me down",
+            "Andante, andante, oh, please don't let me down2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.361,
+        "acousticness": 0.684,
+        "danceability": 0.523,
+        "instrumentalness": 0.000348,
+        "liveness": 0.0671,
+        "speechiness": 0.0238,
+        "loudness": -10.718,
+        "tempo": 101.887,
+        "time_signature": 3,
+        "valence": 0.38,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 58
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Vento_selvaggio.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Vento selvaggio",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.654,
+        "acousticness": 0.0152,
+        "danceability": 0.571,
+        "instrumentalness": 0,
+        "liveness": 0.0681,
+        "speechiness": 0.0303,
+        "loudness": -6.964,
+        "tempo": 119.053,
+        "time_signature": 4,
+        "valence": 0.261,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Boot_Scootin_Boogie.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Boot Scootin Boogie",
+    "lyrics": {
+        "Verse": [
+            "Out in the country past the city limits sign",
+            "Well there's a honky tonk near the county line",
+            "The joint starts jumpin' every night when the sun goes down",
+            "They got whiskey, women, music, and smoke",
+            "It's where all the cowboy folk go to boot scootin' boogie",
+            "",
+            "I've got a good job, I work hard for my money",
+            "When it's quittin' time I hit the door runnin'",
+            "I fire up my pickup truck and let the horses run",
+            "I go flyin' down that highway to that hide-a-way",
+            "Stuck out in the woods to do the boot scootin' boogie",
+            "",
+            "The bartender asks me, says son what'll it be",
+            "I want a shot of that redhead yonder lookin' at me",
+            "The dance floor's hoppin' and it's hotter than the fourth of July",
+            "I see outlaws, inlaws, crooks & straights all out makin' it shake",
+            "Doin' the boot scootin' boogie"
+        ],
+        "Chorus": [
+            "Yeah, heel, toe, do-si-do come on baby let's go boot scootin'",
+            "Oh Cadillac blackjack, baby meet me outback we're gonna boogie",
+            "Oh get down, turn around, go to town, boot scootin' boogie",
+            "",
+            "Yeah, heel, toe, do-si-do come on baby let's go boot scootin'",
+            "Cadillac blackjack, baby meet me outback we're gonna boogie",
+            "Oh, get down, turn around, go to town, boot scootin' boogie7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.817,
+        "acousticness": 0.22,
+        "danceability": 0.656,
+        "instrumentalness": 0,
+        "liveness": 0.304,
+        "speechiness": 0.0435,
+        "loudness": -4.296,
+        "tempo": 130.448,
+        "time_signature": 4,
+        "valence": 0.862,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 72
+    }
+}

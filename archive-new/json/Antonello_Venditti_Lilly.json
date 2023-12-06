@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Lilly.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Lilly",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.452,
+        "acousticness": 0.0461,
+        "danceability": 0.339,
+        "instrumentalness": 0.000356,
+        "liveness": 0.102,
+        "speechiness": 0.0345,
+        "loudness": -12.311,
+        "tempo": 124.038,
+        "time_signature": 4,
+        "valence": 0.414,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "midi_file_path": "archive-new\\Ben_Folds_Five\\Underground.mid",
+    "artist_band_name": "Ben Folds Five",
+    "song_title": "Underground",
+    "lyrics": {
+        "Verse": [
+            "(Who's got the looks?",
+            "Who's got the brains?",
+            "Who's got everything?)",
+            "I've got this pain in my heart, that's all",
+            "(Hey you, with the long and lonely face)",
+            "Well there's got to be something else",
+            "Let me tell you something else",
+            "There was a girl that passed me by",
+            "She gave a smile but I was shy and I looked down",
+            "So down",
+            "(Don't look down no no - go go underground)",
+            "But now there's a place to go",
+            "It's the morning now, it's the evening, it's everything",
+            "I click my heels and I'm there",
+            "And we'll be decked in all black",
+            "Slamming the pit fantastic",
+            "Officer Friendly's little boy's got a mohawk and he knows just where we're comin' from",
+            "(It's industrial, work it underground)",
+            "Get down (yeah), get down (yeah), get down",
+            "Yeah",
+            ""
+        ],
+        "Chorus": [
+            "(Underground, underground)",
+            "Everything's happy underground",
+            "(Underground) You been kicked around",
+            "(Underground) Did life bring you down here?",
+            "Everything's heavy underground",
+            "",
+            "(Underground, underground)",
+            "Everything's happy underground",
+            "(Underground) You been kicked around",
+            "(Underground) Did life bring you down here?",
+            "Everything's heavy underground",
+            "We can be happy, we can be happy, we can be happy underground",
+            "",
+            "(Underground, underground)",
+            "Everything's happy underground",
+            "(Underground) You been kicked around",
+            "(Underground) Did life bring you down here?",
+            "Everything's happy underground",
+            "",
+            "[Outro]",
+            "Bye-bye!Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "We can, we can, we can be!",
+            "Everything's happening!"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.675,
+        "acousticness": 0.136,
+        "danceability": 0.568,
+        "instrumentalness": 1.11e-05,
+        "liveness": 0.145,
+        "speechiness": 0.0394,
+        "loudness": -7.298,
+        "tempo": 103.984,
+        "time_signature": 4,
+        "valence": 0.322,
+        "genre": [
+            "permanent wave",
+            "piano rock",
+            "pop rock"
+        ],
+        "popularity": 40
+    }
+}

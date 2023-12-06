@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Barbra_Streisand\\Ive_Never_Been_in_Love_Before.mid",
+    "artist_band_name": "Barbra Streisand",
+    "song_title": "Ive Never Been in Love Before",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.126,
+        "acousticness": 0.972,
+        "danceability": 0.163,
+        "instrumentalness": 0.00251,
+        "liveness": 0.0993,
+        "speechiness": 0.0385,
+        "loudness": -15.037,
+        "tempo": 88.514,
+        "time_signature": 3,
+        "valence": 0.078,
+        "genre": [
+            "adult standards",
+            "operatic pop",
+            "soft rock"
+        ],
+        "popularity": 16
+    }
+}

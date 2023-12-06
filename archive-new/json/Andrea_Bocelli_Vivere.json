@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Vivere.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Vivere",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.436,
+        "acousticness": 0.752,
+        "danceability": 0.413,
+        "instrumentalness": 1.43e-06,
+        "liveness": 0.0974,
+        "speechiness": 0.0309,
+        "loudness": -8.527,
+        "tempo": 137.908,
+        "time_signature": 4,
+        "valence": 0.189,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 47
+    }
+}

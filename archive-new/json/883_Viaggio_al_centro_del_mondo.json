@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Viaggio_al_centro_del_mondo.mid",
+    "artist_band_name": "883",
+    "song_title": "Viaggio al centro del mondo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.95,
+        "acousticness": 0.0506,
+        "danceability": 0.7,
+        "instrumentalness": 2.66e-06,
+        "liveness": 0.346,
+        "speechiness": 0.033,
+        "loudness": -6.442,
+        "tempo": 124.009,
+        "time_signature": 4,
+        "valence": 0.975,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 38
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Se_e_vero_che_ci_sei.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Se e vero che ci sei",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.317,
+        "acousticness": 0.732,
+        "danceability": 0.553,
+        "instrumentalness": 0.00017,
+        "liveness": 0.309,
+        "speechiness": 0.0331,
+        "loudness": -13.898,
+        "tempo": 87.989,
+        "time_signature": 4,
+        "valence": 0.208,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 44
+    }
+}

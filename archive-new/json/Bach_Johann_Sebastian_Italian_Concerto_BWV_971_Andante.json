@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Italian_Concerto_BWV_971_Andante.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Italian Concerto BWV 971 Andante",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0185,
+        "acousticness": 0.994,
+        "danceability": 0.308,
+        "instrumentalness": 0.92,
+        "liveness": 0.0734,
+        "speechiness": 0.0474,
+        "loudness": -30.65,
+        "tempo": 66.322,
+        "time_signature": 4,
+        "valence": 0.0702,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 25
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "midi_file_path": "archive-new\\10cc\\Im_Not_In_Love.2.mid",
+    "artist_band_name": "10cc",
+    "song_title": "Im Not In Love.2",
+    "lyrics": {
+        "Verse": [
+            "I'm not in love, so don't forget it",
+            "It's just a silly phase I'm going through",
+            "And just because I call you up",
+            "Don't get me wrong, don't think you've got it made",
+            "",
+            "I like to see you, but then again",
+            "That doesn't mean you mean that much to me",
+            "So if I call you, don't make a fuss",
+            "Don't tell your friends about the two of us",
+            "",
+            "I keep your picture upon the wall",
+            "It hides a nasty stain that's lying there",
+            "So don't you ask me to give it back",
+            "I know you know it doesn't mean that much to me",
+            "",
+            "I'm not in love, so don't forget it",
+            "It's just a silly phase I'm going through",
+            "And just because I call you up",
+            "Don't get me wrong, don't think you've got it made, ooh",
+            ""
+        ],
+        "Chorus": [
+            "I'm not in love, no, no",
+            "(It's because)",
+            "",
+            "I'm not in love, no, no",
+            "(It's because)",
+            "",
+            "[Interlude]",
+            "Be quiet, big boys don't cry",
+            "Big boys don't cry",
+            "Big boys don't cry",
+            "Big boys don't cry",
+            "Big boys don't cry",
+            "Big boys don't cry...",
+            "I'm not in love, no, no",
+            "(It's because)",
+            "",
+            "I'm not in love",
+            "I'm not in love",
+            "[Instrumental Outro]29Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Ooh, you'll wait a long time for me",
+            "Ooh, you'll wait a long time",
+            "Ooh, you'll wait a long time for me",
+            "Ooh, you'll wait a long time",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.788,
+        "acousticness": 0.769,
+        "danceability": 0.346,
+        "instrumentalness": 0.000499,
+        "liveness": 0.266,
+        "speechiness": 0.0748,
+        "loudness": -8.17,
+        "tempo": 133.887,
+        "time_signature": 4,
+        "valence": 0.148,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "glam rock",
+            "mellow gold",
+            "new romantic",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 1
+    }
+}

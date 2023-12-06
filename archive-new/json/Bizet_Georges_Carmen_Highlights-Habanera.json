@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bizet_Georges\\Carmen_Highlights-Habanera.mid",
+    "artist_band_name": "Bizet Georges",
+    "song_title": "Carmen Highlights-Habanera",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.223,
+        "acousticness": 0.961,
+        "danceability": 0.492,
+        "instrumentalness": 0,
+        "liveness": 0.66,
+        "speechiness": 0.116,
+        "loudness": -12.979,
+        "tempo": 111.632,
+        "time_signature": 3,
+        "valence": 0.222,
+        "genre": [
+            "classical",
+            "french opera",
+            "french romanticism",
+            "late romantic era"
+        ],
+        "popularity": 2
+    }
+}

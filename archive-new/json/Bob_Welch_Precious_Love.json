@@ -1,0 +1,43 @@
+{
+    "midi_file_path": "archive-new\\Bob_Welch\\Precious_Love.mid",
+    "artist_band_name": "Bob Welch",
+    "song_title": "Precious Love",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "For your love, your precious love",
+            "I' d do anything, yes I would",
+            "I want your love, your precious love",
+            "I've been too lonely too long",
+            "",
+            "Yeah, your precious love",
+            "",
+            "You got a kind of walk that's just so fine",
+            "The way you fill those blue jeans baby, my my my",
+            "Yes and when you smiled at me like you did just now",
+            "All I want is just to get to you somehow",
+            "",
+            "Yeah those big dark eyes that flash at me",
+            "It's just your preicous love that I want, you to seeYou might also likeEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.558,
+        "acousticness": 0.188,
+        "danceability": 0.68,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "speechiness": 0.0293,
+        "loudness": -9.728,
+        "tempo": 120.02,
+        "time_signature": 4,
+        "valence": 0.943,
+        "genre": [
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 22
+    }
+}

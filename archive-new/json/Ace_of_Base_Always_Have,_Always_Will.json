@@ -1,0 +1,76 @@
+{
+    "midi_file_path": "archive-new\\Ace_of_Base\\Always_Have,_Always_Will.mid",
+    "artist_band_name": "Ace of Base",
+    "song_title": "Always Have, Always Will",
+    "lyrics": {
+        "Verse": [
+            "I was mesmerized when I first met you",
+            "I wouldn't let myself believe",
+            "That you could step right out of my wildest dreams",
+            "But you didn't know that secret part of me",
+            "Until we kissed and made it open up so easily",
+            "",
+            "Everything that you give into",
+            "Everything you'll ever need",
+            "Is locked up somewhere deep inside of me",
+            "You gotta know but more importantly",
+            "You've got to stay and hold me while we live this fantasy",
+            ""
+        ],
+        "Chorus": [
+            "I always have (even though it didn't show)",
+            "I always will",
+            "You know that I just wanna touch you whenever you're close to me",
+            "I always have (doesn't matter where we go)",
+            "I always will",
+            "You know that I just wanna show you just how much you mean to me",
+            "Always have",
+            "Always will...",
+            "",
+            "I always have (even though it didn't show)",
+            "I always will",
+            "You know that I just wanna touch you whenever you're close to me",
+            "I always have (doesn't matter where we go)",
+            "I always will",
+            "You know that I just wanna show you just how much you mean to me",
+            "I always have (even though it didn't show)",
+            "I always will",
+            "You know that I just wanna touch you whenever you're close to me",
+            "I always have (doesn't matter where we go)",
+            "I always will",
+            "You know that I just wanna show you just how much you mean to me",
+            "I always have (even though it didn't show)",
+            "I always will",
+            "You know that I just wanna touch you whenever you're close to me",
+            "I always have (doesn't matter where we go)",
+            "I always will",
+            "You know that I just wanna show you just how much you mean to meEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Sometimes we try too hard to please",
+            "We should let love come naturally",
+            "And sometimes I don't know just what you really do to me",
+            "But it's okay, 'cause it's all part of the mystery",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.913,
+        "acousticness": 0.0322,
+        "danceability": 0.679,
+        "instrumentalness": 0,
+        "liveness": 0.0459,
+        "speechiness": 0.0293,
+        "loudness": -2.701,
+        "tempo": 138.048,
+        "time_signature": 4,
+        "valence": 0.951,
+        "genre": [
+            "eurodance",
+            "europop",
+            "new wave pop"
+        ],
+        "popularity": 46
+    }
+}

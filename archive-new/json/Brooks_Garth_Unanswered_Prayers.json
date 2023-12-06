@@ -1,0 +1,56 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Unanswered_Prayers.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Unanswered Prayers",
+    "lyrics": {
+        "Verse": [
+            "Just the other night at a hometown football game",
+            "My wife and I ran into my old high school flame",
+            "And as I introduced them, the past came back to me",
+            "And I couldn't help but think of the way things used to be",
+            "",
+            "She was the one that I'd wanted for all times",
+            "And each night I'd spend prayin' that God would make her mine",
+            "And if He'd only grant me this wish I wished back then",
+            "I'd never ask for anything again",
+            "",
+            "She wasn't quite the angel that I remembered in my dreams",
+            "And I could tell that time had changed me, in her eyes too it seemed",
+            "We tried to talk about the old days, there wasn't much we could recall",
+            "I guess the Lord knows what He's doin', after all",
+            ""
+        ],
+        "Chorus": [
+            "Sometimes I thank God for unanswered prayers",
+            "Remember when you're talkin' to the man upstairs",
+            "And just because He doesn't answer doesn't mean He don't care",
+            "'Cause some of God's greatest gifts are unanswered prayers",
+            "",
+            "Sometimes I thank God for unanswered prayers",
+            "Remember when you're talkin' to the man upstairs",
+            "And just because He may not answer doesn't mean He don't care",
+            "'Cause some of God's greatest gifts are unanswered...",
+            "Some of God's greatest gifts are all too often unanswered...",
+            "Some of God's greatest gifts are unanswered prayers4Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "And as she walked away, well, I looked at my wife",
+            "And then and there I thanked the good Lord for the gifts in my life"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.556,
+        "acousticness": 0.365,
+        "danceability": 0.603,
+        "instrumentalness": 0,
+        "liveness": 0.25,
+        "speechiness": 0.0329,
+        "loudness": -5.676,
+        "tempo": 73.739,
+        "time_signature": 4,
+        "valence": 0.24,
+        "genre": [],
+        "popularity": 49
+    }
+}

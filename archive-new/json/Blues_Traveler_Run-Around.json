@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Blues_Traveler\\Run-Around.mid",
+    "artist_band_name": "Blues Traveler",
+    "song_title": "Run-Around",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.867,
+        "acousticness": 0.0865,
+        "danceability": 0.629,
+        "instrumentalness": 0,
+        "liveness": 0.126,
+        "speechiness": 0.0603,
+        "loudness": -7.307,
+        "tempo": 151.695,
+        "time_signature": 4,
+        "valence": 0.876,
+        "genre": [
+            "heartland rock",
+            "jam band",
+            "pop rock",
+            "post-grunge"
+        ],
+        "popularity": 65
+    }
+}

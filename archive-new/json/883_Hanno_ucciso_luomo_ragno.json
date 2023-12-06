@@ -1,0 +1,42 @@
+{
+    "midi_file_path": "archive-new\\883\\Hanno_ucciso_luomo_ragno.mid",
+    "artist_band_name": "883",
+    "song_title": "Hanno ucciso luomo ragno",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Hanno ucciso l'Uomo Ragno",
+            "Chi sia stato non si sa",
+            "Forse quelli della mala o forse la pubblicit\u00e0",
+            "Hanno ucciso l'Uomo Ragno",
+            "Non si sa neanche il perch\u00e9",
+            "Avr\u00e0 fatto qualche sgarro a qualche industria di caff\u00e8",
+            "",
+            "[Ritornello]",
+            "Hanno ucciso l'Uomo Ragno",
+            "Chi sia stato non si sa",
+            "Forse quelli della mala, forse la pubblicit\u00e0",
+            "Hanno ucciso l'Uomo Ragno",
+            "Non si sa neanche il perch\u00e9",
+            "Avr\u00e0 fatto qualche sgarro a qualche industria di caff\u00e8Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.96,
+        "acousticness": 0.0338,
+        "danceability": 0.629,
+        "instrumentalness": 0,
+        "liveness": 0.649,
+        "speechiness": 0.0431,
+        "loudness": -5.769,
+        "tempo": 119.971,
+        "time_signature": 4,
+        "valence": 0.696,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 57
+    }
+}

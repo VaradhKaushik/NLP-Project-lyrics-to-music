@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Dance_While_the_Music_Still_Goes_on_.2.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Dance While the Music Still Goes on .2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.747,
+        "acousticness": 0.245,
+        "danceability": 0.691,
+        "instrumentalness": 0,
+        "liveness": 0.951,
+        "speechiness": 0.0417,
+        "loudness": -8.366,
+        "tempo": 120.221,
+        "time_signature": 4,
+        "valence": 0.849,
+        "genre": [],
+        "popularity": 0
+    }
+}

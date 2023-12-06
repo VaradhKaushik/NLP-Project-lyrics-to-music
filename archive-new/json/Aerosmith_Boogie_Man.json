@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Aerosmith\\Boogie_Man.mid",
+    "artist_band_name": "Aerosmith",
+    "song_title": "Boogie Man",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.191,
+        "acousticness": 0.9,
+        "danceability": 0.492,
+        "instrumentalness": 0.838,
+        "liveness": 0.0444,
+        "speechiness": 0.0384,
+        "loudness": -13.693,
+        "tempo": 81.835,
+        "time_signature": 4,
+        "valence": 0.065,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 34
+    }
+}

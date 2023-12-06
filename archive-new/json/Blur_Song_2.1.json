@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Blur\\Song_2.1.mid",
+    "artist_band_name": "Blur",
+    "song_title": "Song 2.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.493,
+        "acousticness": 0.213,
+        "danceability": 0.651,
+        "instrumentalness": 0.538,
+        "liveness": 0.188,
+        "speechiness": 0.0286,
+        "loudness": -9.113,
+        "tempo": 168.544,
+        "time_signature": 4,
+        "valence": 0.719,
+        "genre": [
+            "alternative rock",
+            "britpop",
+            "madchester",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 0
+    }
+}

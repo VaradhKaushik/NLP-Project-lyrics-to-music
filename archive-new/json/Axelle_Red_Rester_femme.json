@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Axelle_Red\\Rester_femme.mid",
+    "artist_band_name": "Axelle Red",
+    "song_title": "Rester femme",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.301,
+        "acousticness": 0.0713,
+        "danceability": 0.69,
+        "instrumentalness": 0.0611,
+        "liveness": 0.117,
+        "speechiness": 0.0307,
+        "loudness": -13.823,
+        "tempo": 132.018,
+        "time_signature": 4,
+        "valence": 0.0396,
+        "genre": [
+            "belgian indie",
+            "belgian pop",
+            "french pop"
+        ],
+        "popularity": 40
+    }
+}

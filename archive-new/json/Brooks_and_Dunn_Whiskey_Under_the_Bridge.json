@@ -1,0 +1,57 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Whiskey_Under_the_Bridge.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Whiskey Under the Bridge",
+    "lyrics": {
+        "Verse": [
+            "There's not a heart that ain't been broken",
+            "A lie that ain't been spoken",
+            "A shattered dream that brand new love can't fix",
+            "I've been burned, I've been cheated",
+            "But this old heart's still beating",
+            "Ain't no big deal",
+            "It's just whiskey under the bridge",
+            "Let's dance a little closer",
+            "I'll help you get over",
+            "The hurt you thought you never could forget",
+            "The bitter tears you tasted",
+            "All those nights you wasted",
+            "Don't look back",
+            "It's just whiskey under the bridge",
+            ""
+        ],
+        "Chorus": [
+            "All those nights of drinking",
+            "Finally got me thinking",
+            "Heartache is just a waste of time",
+            "I've been burned, I've been cheated",
+            "But this old heart's still beating",
+            "Ain't no big deal",
+            "It's just whiskey under the bridge",
+            "",
+            "[Outro]",
+            "Ain't no big deal",
+            "It's just whiskey under the bridge[x2]You might also likeEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.861,
+        "acousticness": 0.148,
+        "danceability": 0.693,
+        "instrumentalness": 2.61e-05,
+        "liveness": 0.376,
+        "speechiness": 0.0362,
+        "loudness": -6.378,
+        "tempo": 138.589,
+        "time_signature": 4,
+        "valence": 0.821,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 37
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Al_Hirt\\Frankie_and_Johnny.mid",
+    "artist_band_name": "Al Hirt",
+    "song_title": "Frankie and Johnny",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0761,
+        "acousticness": 0.554,
+        "danceability": 0.482,
+        "instrumentalness": 0.866,
+        "liveness": 0.714,
+        "speechiness": 0.109,
+        "loudness": -20.062,
+        "tempo": 132.308,
+        "time_signature": 4,
+        "valence": 0.495,
+        "genre": [],
+        "popularity": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "midi_file_path": "archive-new\\Amos,_Tori\\Josephine.mid",
+    "artist_band_name": "Amos, Tori",
+    "song_title": "Josephine",
+    "lyrics": {
+        "Verse": [
+            "Not tonight, Josephine",
+            "In an army\u2019s strength therein lies the denouement",
+            "From here you\u2019re haunting me",
+            "By the Seine, so beautiful",
+            "Only not to be of use",
+            "Impossible, impossible",
+            "",
+            "So strange, victory",
+            "1200 spires, the only sound: Moscow burning",
+            "Empty like the Tuileries",
+            "Like a dream, Vienna seems",
+            "Only not to be of use",
+            "Impossible",
+            "",
+            "In the last extremity",
+            "To advance or not to advance, I hear you laughing",
+            "Even still you\u2019re calling me",
+            "Not tonight, not tonight",
+            "Not tonight, JosephineYou might also like1Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.288,
+        "acousticness": 0.75,
+        "danceability": 0.617,
+        "instrumentalness": 0.000626,
+        "liveness": 0.15,
+        "speechiness": 0.0307,
+        "loudness": -14.807,
+        "tempo": 125.948,
+        "time_signature": 4,
+        "valence": 0.483,
+        "genre": [
+            "dark pop",
+            "ectofolk",
+            "lilith",
+            "melancholia",
+            "new wave pop",
+            "permanent wave",
+            "piano rock",
+            "singer-songwriter"
+        ],
+        "popularity": 26
+    }
+}

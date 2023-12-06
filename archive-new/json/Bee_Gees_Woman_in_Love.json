@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Woman_in_Love.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Woman in Love",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.703,
+        "acousticness": 0.175,
+        "danceability": 0.601,
+        "instrumentalness": 8.4e-05,
+        "liveness": 0.571,
+        "speechiness": 0.0379,
+        "loudness": -6.24,
+        "tempo": 106.164,
+        "time_signature": 4,
+        "valence": 0.673,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 8
+    }
+}

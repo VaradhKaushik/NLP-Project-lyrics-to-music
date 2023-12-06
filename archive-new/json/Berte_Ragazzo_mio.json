@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Ragazzo_mio.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Ragazzo mio",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.701,
+        "acousticness": 0.0891,
+        "danceability": 0.761,
+        "instrumentalness": 1.63e-06,
+        "liveness": 0.748,
+        "speechiness": 0.0481,
+        "loudness": -7.393,
+        "tempo": 112.059,
+        "time_signature": 4,
+        "valence": 0.688,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 5
+    }
+}

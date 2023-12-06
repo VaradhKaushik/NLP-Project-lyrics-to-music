@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Backstreet_Boys\\Quit_Playin_Games.mid",
+    "artist_band_name": "Backstreet Boys",
+    "song_title": "Quit Playin Games",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.875,
+        "acousticness": 0.0615,
+        "danceability": 0.8,
+        "instrumentalness": 2.79e-06,
+        "liveness": 0.13,
+        "speechiness": 0.0338,
+        "loudness": -4.952,
+        "tempo": 100.033,
+        "time_signature": 4,
+        "valence": 0.882,
+        "genre": [
+            "boy band",
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 60
+    }
+}

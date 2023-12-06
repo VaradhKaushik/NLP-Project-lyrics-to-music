@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\My_Next_Broken_Heart.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "My Next Broken Heart",
+    "lyrics": {
+        "Verse": [
+            "You picked me up, you shot me down",
+            "Steppin' out all over town",
+            "Drove me back to drinkin' in this bar",
+            "I found myself a brand new friend",
+            "I'm headed down that road again",
+            "I'm workin' on my next broken heart",
+            "",
+            "Happy or sad, it's hard to tell",
+            "You taught me how to hurt so well",
+            "When it comes to love I know my part",
+            "Well, I'll play this game that I can't win",
+            "I'll be somebody's fool again",
+            "Workin' on my next broken heart",
+            ""
+        ],
+        "Chorus": [
+            "Well, I thought all along you'd be the death of me",
+            "But I met one tonight who wants what's left of me",
+            "I've seen that look before, she'll tear my world apart",
+            "I'm workin' on my next broken heart",
+            "",
+            "[Guitar Solo]",
+            "",
+            "Yeah, I thought all along you'd be the death of me",
+            "Well, I met one tonight who wants what's left of me",
+            "I've seen that look before, she'll tear my world apart",
+            "I'm workin' on my next broken heart",
+            "You might also like[Outro]",
+            "I'm workin' on my next broken heart",
+            "Oh, I'm workin' on my next broken heartEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.915,
+        "acousticness": 0.00217,
+        "danceability": 0.504,
+        "instrumentalness": 4.16e-05,
+        "liveness": 0.0925,
+        "speechiness": 0.0408,
+        "loudness": -3.354,
+        "tempo": 141.996,
+        "time_signature": 4,
+        "valence": 0.889,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 49
+    }
+}

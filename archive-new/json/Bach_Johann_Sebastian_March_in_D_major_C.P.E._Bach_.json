@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\March_in_D_major_C.P.E._Bach_.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "March in D major C.P.E. Bach ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.32,
+        "acousticness": 0.932,
+        "danceability": 0.469,
+        "instrumentalness": 0.956,
+        "liveness": 0.397,
+        "speechiness": 0.0313,
+        "loudness": -13.647,
+        "tempo": 98.26,
+        "time_signature": 4,
+        "valence": 0.762,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 8
+    }
+}

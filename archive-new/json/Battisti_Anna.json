@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Anna.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Anna",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Ho dormito l\u00ec",
+            "Fra i capelli suoi",
+            "Io insieme a lei",
+            "Ero un uomo",
+            "Quanti e quanti s\u00ec",
+            "Ha gridato lei",
+            "Quanti non lo sai",
+            "Ero un uomo",
+            "",
+            "[Strofa 3]",
+            "Cosa sono ora io?",
+            "Cosa sono, mio Dio?",
+            "Resta poco di me",
+            "Io che parlo con te",
+            "Io che parlo con te di",
+            "Anna",
+            "Anna",
+            "Voglio Anna",
+            "Voglio Anna",
+            "",
+            "[Outro]",
+            "Voglio Anna",
+            "Voglio Anna",
+            "Uh, ah",
+            "Ah (Anna)",
+            "Ah (Anna)",
+            "Ah (Na na na na na)",
+            "Voglio Anna (Na na na na na)",
+            "Ah, Anna, Anna, Anna...",
+            "Ah... (Na na na na na)",
+            "Ah... (Na na na na na)Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.41,
+        "acousticness": 0.0576,
+        "danceability": 0.353,
+        "instrumentalness": 0.0017,
+        "liveness": 0.0733,
+        "speechiness": 0.0397,
+        "loudness": -12.451,
+        "tempo": 86.706,
+        "time_signature": 4,
+        "valence": 0.402,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 37
+    }
+}

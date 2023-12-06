@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Anna_Oxa\\Ti_Lascero.mid",
+    "artist_band_name": "Anna Oxa",
+    "song_title": "Ti Lascero",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.567,
+        "acousticness": 0.752,
+        "danceability": 0.357,
+        "instrumentalness": 0,
+        "liveness": 0.126,
+        "speechiness": 0.0388,
+        "loudness": -5.059,
+        "tempo": 138.336,
+        "time_signature": 4,
+        "valence": 0.177,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

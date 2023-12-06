@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\BOWIE_DAVID\\Under_Pressure.mid",
+    "artist_band_name": "BOWIE DAVID",
+    "song_title": "Under Pressure",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.886,
+        "acousticness": 0.082,
+        "danceability": 0.622,
+        "instrumentalness": 3.44e-05,
+        "liveness": 0.983,
+        "speechiness": 0.0535,
+        "loudness": -5.225,
+        "tempo": 112.062,
+        "time_signature": 4,
+        "valence": 0.303,
+        "genre": [
+            "art rock",
+            "classic rock",
+            "glam rock",
+            "permanent wave",
+            "rock"
+        ],
+        "popularity": 46
+    }
+}

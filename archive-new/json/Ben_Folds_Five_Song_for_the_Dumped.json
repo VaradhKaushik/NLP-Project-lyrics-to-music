@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\Ben_Folds_Five\\Song_for_the_Dumped.mid",
+    "artist_band_name": "Ben Folds Five",
+    "song_title": "Song for the Dumped",
+    "lyrics": {
+        "Verse": [
+            "So you wanted",
+            "To take a break",
+            "Slow it down some",
+            "And have some space",
+            "Well, fuck you too",
+            "",
+            "I wish I hadn't",
+            "Bought you dinner",
+            "Right before you",
+            "Dumped me on your front porch",
+            "",
+            "So you wanted",
+            "To take a break",
+            "Slow it down some",
+            "And have some space",
+            ""
+        ],
+        "Chorus": [
+            "Give me my money back",
+            "Give me my money back",
+            "You bitch",
+            "I want my money back",
+            "And don't forget",
+            "Don't forget",
+            "To give me back my black T-shirt",
+            "",
+            "Give me my money back",
+            "Give me my money back",
+            "You bitch",
+            "I want my money back",
+            "And don't forget",
+            "Don't forget",
+            "To give me back my black T-shirt",
+            "Give me my money back",
+            "Give me my money back",
+            "You bitch",
+            "I want my money back",
+            "I want my money back",
+            "And don't forget2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.864,
+        "acousticness": 0.179,
+        "danceability": 0.549,
+        "instrumentalness": 0.00024,
+        "liveness": 0.158,
+        "speechiness": 0.0445,
+        "loudness": -6.615,
+        "tempo": 104.745,
+        "time_signature": 4,
+        "valence": 0.594,
+        "genre": [
+            "permanent wave",
+            "piano rock",
+            "pop rock"
+        ],
+        "popularity": 38
+    }
+}

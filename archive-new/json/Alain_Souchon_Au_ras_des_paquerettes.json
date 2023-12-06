@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Au_ras_des_paquerettes.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Au ras des paquerettes",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.538,
+        "acousticness": 0.0677,
+        "danceability": 0.621,
+        "instrumentalness": 0.0172,
+        "liveness": 0.0512,
+        "speechiness": 0.0261,
+        "loudness": -10.507,
+        "tempo": 113.321,
+        "time_signature": 3,
+        "valence": 0.151,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 24
+    }
+}

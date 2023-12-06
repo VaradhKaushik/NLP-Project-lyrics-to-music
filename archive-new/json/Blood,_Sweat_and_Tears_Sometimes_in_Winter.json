@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Blood,_Sweat_and_Tears\\Sometimes_in_Winter.mid",
+    "artist_band_name": "Blood, Sweat and Tears",
+    "song_title": "Sometimes in Winter",
+    "lyrics": {
+        "Verse": [
+            "Sometimes in Winter",
+            "I gaze into the streets",
+            "And walk through snow and city sleet",
+            "Behind your room",
+            "",
+            "Sometimes in Winter",
+            "Forgotten memories",
+            "Remember you behind the trees",
+            "With leaves that cried",
+            "",
+            "Sometimes In Winter",
+            "I love you when the good times",
+            "Seem like memories in the spring",
+            "That never came",
+            "",
+            "Sometimes In Winter",
+            "I wish the empty streets",
+            "Would fill with laughter from your tears",
+            "To ease my painEmbed"
+        ],
+        "Chorus": [
+            "By the window once I waited for you",
+            "Laughing slightly you would run",
+            "Trees alone would shield us in the meadow",
+            "Makin' love in the evening sun",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Now you're gone, girl",
+            "And the lamp posts call your name",
+            "I can hear them",
+            "In the spring of frozen rain",
+            "Now you're gone, girl",
+            "And the time's slowed down till dawn",
+            "It's a cold room and the walls ask",
+            "Where you've gone"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.347,
+        "acousticness": 0.301,
+        "danceability": 0.363,
+        "instrumentalness": 0.000712,
+        "liveness": 0.238,
+        "speechiness": 0.0474,
+        "loudness": -12.112,
+        "tempo": 81.206,
+        "time_signature": 4,
+        "valence": 0.11,
+        "genre": [
+            "album rock",
+            "blues rock",
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "jazz rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "southern rock"
+        ],
+        "popularity": 30
+    }
+}

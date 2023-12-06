@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Berte\\Stiamo_come_stiamo.mid",
+    "artist_band_name": "Berte",
+    "song_title": "Stiamo come stiamo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.892,
+        "acousticness": 0.361,
+        "danceability": 0.644,
+        "instrumentalness": 0,
+        "liveness": 0.977,
+        "speechiness": 0.112,
+        "loudness": -7.04,
+        "tempo": 113.955,
+        "time_signature": 4,
+        "valence": 0.399,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop",
+            "italian pop"
+        ],
+        "popularity": 4
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "midi_file_path": "archive-new\\Backstreet_Boys\\Shape_of_My_Heart.mid",
+    "artist_band_name": "Backstreet Boys",
+    "song_title": "Shape of My Heart",
+    "lyrics": {
+        "Verse": [
+            "Baby, please try to forgive me",
+            "Stay here, don't put out the glow",
+            "Hold me now don't bother",
+            "If every minute it makes me weaker",
+            "You can save me from the man",
+            "That I've become, oh yeah",
+            "",
+            "Sadness is beautiful",
+            "Loneliness that's tragical",
+            "So help me I can't win this war, oh no",
+            "Touch me now, don't bother",
+            "If every second it makes me weaker",
+            "You can save me from the man I've become",
+            ""
+        ],
+        "Chorus": [
+            "Looking back on the things I've done",
+            "I was trying to be someone",
+            "I played my part, kept you in the dark",
+            "Now let me show you the shape of my heart",
+            "",
+            "Looking back on the things I've done",
+            "I was trying to be someone",
+            "I played my part, kept you in the dark (in the dark)",
+            "Now let me show you the shape of my heart",
+            "I'm lookin' back on things I've done",
+            "I never wanna play the same old part",
+            "I'll keep you in the dark (keep you in the dark)",
+            "Now let me show you the shape of my heart (heart!)",
+            "Looking back on the things I've done",
+            "I was trying to be someone (trying to be someone)",
+            "I played my part, kept you in the dark",
+            "Now let me show you the shape of my heart",
+            "(Now let me show you the true shape of my heart!)",
+            "Looking back on the things I've done",
+            "I was trying to be someone",
+            "I played my part, kept you in the dark",
+            "Now let me show you the shape of...",
+            "",
+            "[Outro: AJ]",
+            "Show you the shape of my heart7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I'm here with my confession",
+            "Got nothing to hide no more",
+            "I don't know where to start",
+            "But to show you the shape of my heart",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.786,
+        "acousticness": 0.252,
+        "danceability": 0.575,
+        "instrumentalness": 0,
+        "liveness": 0.159,
+        "speechiness": 0.0296,
+        "loudness": -4.353,
+        "tempo": 96.102,
+        "time_signature": 4,
+        "valence": 0.518,
+        "genre": [
+            "boy band",
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 75
+    }
+}

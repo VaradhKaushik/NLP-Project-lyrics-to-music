@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Anna_Oxa\\Donna_con_te.mid",
+    "artist_band_name": "Anna Oxa",
+    "song_title": "Donna con te",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.675,
+        "acousticness": 0.218,
+        "danceability": 0.586,
+        "instrumentalness": 0.921,
+        "liveness": 0.184,
+        "speechiness": 0.0279,
+        "loudness": -8.742,
+        "tempo": 107.996,
+        "time_signature": 4,
+        "valence": 0.801,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 16
+    }
+}

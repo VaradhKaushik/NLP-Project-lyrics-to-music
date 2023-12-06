@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Adamo\\Affida_una_lacrima_al_vento.mid",
+    "artist_band_name": "Adamo",
+    "song_title": "Affida una lacrima al vento",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.421,
+        "acousticness": 0.0076,
+        "danceability": 0.602,
+        "instrumentalness": 0,
+        "liveness": 0.0846,
+        "speechiness": 0.196,
+        "loudness": -19.352,
+        "tempo": 74.961,
+        "time_signature": 4,
+        "valence": 0.77,
+        "genre": [],
+        "popularity": 34
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "midi_file_path": "archive-new\\Air_Supply\\Two_Less_Lonely_People_in_the_World.1.mid",
+    "artist_band_name": "Air Supply",
+    "song_title": "Two Less Lonely People in the World.1",
+    "lyrics": {
+        "Verse": [
+            "I was down, my dreams were wearin' thin",
+            "When you're lost, where do you begin?",
+            "My heart always seemed to drift from day to day",
+            "Looking for the love that never came my way",
+            "",
+            "Then you smiled, and I reached out to you",
+            "I could tell you were lonely too",
+            "One look, then it all began for you and me",
+            "The moment that we touched, I knew that there would be",
+            "",
+            "Just to think what I might have missed",
+            "Looking back, how did I exist?",
+            "I dreamed, still I never thought I'd come this far",
+            "But miracles come true, I know 'cause here we are"
+        ],
+        "Chorus": [
+            "Two less lonely people in the world",
+            "And it's gonna be fine",
+            "Out of all the people in the world",
+            "I just can't believe you're mine",
+            "In my life, where everything was wrong",
+            "Somethin' finally went right",
+            "Now there's two less lonely people in the world tonight",
+            "",
+            "Two less lonely people in the world",
+            "And it's gonna be fine",
+            "Out of all the people in the world",
+            "I just can't believe you're mine",
+            "In my life, where everything was wrong",
+            "Something finally went right",
+            "Now there's two less lonely people in the world tonight",
+            "",
+            "Two less lonely people in the world",
+            "And it's gonna be fine",
+            "Out of all the people in the world",
+            "I just can't believe you're mine",
+            "In my life, where everything was wrong",
+            "Somethin' finally went right",
+            "Now there's two less lonely people",
+            "Two less lonely people",
+            "Two less lonely people in the world tonight",
+            "Two less lonely people in the world",
+            "And it's gonna be fine",
+            "Out of all the people in the world",
+            "I just can't believe you're mine",
+            "In my life, where everything was wrong",
+            "Somethin' finally went right",
+            "Now there's two less lonely people in the world tonight2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Tonight, I fell in love with you",
+            "And all the things I never knew",
+            "Seemed to come to me somehow",
+            "Baby, love is here and now there's",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.446,
+        "acousticness": 0.68,
+        "danceability": 0.425,
+        "instrumentalness": 0,
+        "liveness": 0.482,
+        "speechiness": 0.0343,
+        "loudness": -8.915,
+        "tempo": 146.469,
+        "time_signature": 4,
+        "valence": 0.283,
+        "genre": [
+            "soft rock"
+        ],
+        "popularity": 14
+    }
+}

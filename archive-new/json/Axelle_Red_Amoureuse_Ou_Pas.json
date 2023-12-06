@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Axelle_Red\\Amoureuse_Ou_Pas.mid",
+    "artist_band_name": "Axelle Red",
+    "song_title": "Amoureuse Ou Pas",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.635,
+        "acousticness": 0.37,
+        "danceability": 0.639,
+        "instrumentalness": 0,
+        "liveness": 0.0796,
+        "speechiness": 0.0274,
+        "loudness": -10.248,
+        "tempo": 95.94,
+        "time_signature": 4,
+        "valence": 0.499,
+        "genre": [
+            "belgian indie",
+            "belgian pop",
+            "french pop"
+        ],
+        "popularity": 16
+    }
+}

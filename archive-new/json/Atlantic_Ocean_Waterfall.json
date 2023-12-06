@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Atlantic_Ocean\\Waterfall.mid",
+    "artist_band_name": "Atlantic Ocean",
+    "song_title": "Waterfall",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.978,
+        "acousticness": 0.00203,
+        "danceability": 0.621,
+        "instrumentalness": 0.813,
+        "liveness": 0.0907,
+        "speechiness": 0.0475,
+        "loudness": -7.567,
+        "tempo": 133.828,
+        "time_signature": 4,
+        "valence": 0.442,
+        "genre": [],
+        "popularity": 39
+    }
+}

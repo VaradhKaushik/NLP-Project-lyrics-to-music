@@ -1,0 +1,74 @@
+{
+    "midi_file_path": "archive-new\\Alannah_Myles\\Black_Velvet.mid",
+    "artist_band_name": "Alannah Myles",
+    "song_title": "Black Velvet",
+    "lyrics": {
+        "Verse": [
+            "Mississippi in the middle of a dry spell",
+            "Jimmie Rodgers on the Victrola up high",
+            "Mama's dancin' with baby on her shoulder",
+            "The sun is settin' like molasses in the sky",
+            "",
+            "Up in Memphis, the music's like a heatwave",
+            "White lightning, bound to drive you wild",
+            "Mama's baby's in the heart of every schoolgirl",
+            "\"Love Me Tender\" leaves 'em cryin' in the aisle",
+            ""
+        ],
+        "Chorus": [
+            "The boy could sing, knew how to move, everything",
+            "Always wanting more, he'd leave you longing for",
+            "",
+            "Black velvet and that little boy's smile",
+            "Black velvet with that slow southern style",
+            "A new religion that'll bring ya to your knees",
+            "Black velvet if you please",
+            "",
+            "The way he moved, it was a sin, so sweet and true",
+            "Always wanting more, he'd leave you longing for",
+            "Black velvet and that little boy's smile",
+            "Black velvet with that slow southern style",
+            "A new religion that'll bring ya to your knees",
+            "Black velvet if you please",
+            "",
+            "Black velvet and that little boy's smile",
+            "Black velvet with that slow southern style",
+            "A new religion that'll bring ya to your knees",
+            "Black velvet if you please",
+            "Black velvet and that little boy's smile",
+            "Black velvet with that slow southern style",
+            "A new religion that'll bring ya to your knees",
+            "Black velvet if you please",
+            "",
+            "[Outro]",
+            "If you please",
+            "If you please",
+            "If you please10Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Every word of every song that he sang was for you",
+            "In a flash, he was gone, it happened so soon",
+            "What could you do?",
+            "",
+            "[Guitar Solo]",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.366,
+        "acousticness": 0.273,
+        "danceability": 0.754,
+        "instrumentalness": 9.04e-05,
+        "liveness": 0.106,
+        "speechiness": 0.0312,
+        "loudness": -10.07,
+        "tempo": 91.147,
+        "time_signature": 4,
+        "valence": 0.469,
+        "genre": [
+            "classic canadian rock"
+        ],
+        "popularity": 74
+    }
+}

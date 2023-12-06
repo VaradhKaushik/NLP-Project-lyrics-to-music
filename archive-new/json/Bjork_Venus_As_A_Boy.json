@@ -1,0 +1,65 @@
+{
+    "midi_file_path": "archive-new\\Bjork\\Venus_As_A_Boy.mid",
+    "artist_band_name": "Bjork",
+    "song_title": "Venus As A Boy",
+    "lyrics": {
+        "Verse": [
+            "His wicked sense of humour",
+            "Suggests exciting sex",
+            "His fingers, they focus on her",
+            "Touches, he's Venus as a boy",
+            "He's exploring the taste of her",
+            "Arousal, so accurate",
+            "He sets off the beauty in her",
+            "He's Venus, Venus as a boy"
+        ],
+        "Chorus": [
+            "He believes in a beauty",
+            "He's Venus as a boy",
+            "He believes in a beauty",
+            "He believes in a beauty",
+            "He's Venus as a boy",
+            "He believes in a beauty",
+            "",
+            "He believes in a beauty",
+            "He's Venus as a boy",
+            "He believes in a beauty",
+            "He believes in a beauty",
+            "He's Venus as a boy",
+            "He believes in a beauty",
+            "[Outro]",
+            "[Gibberish]46Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "[Gibberish]",
+            "",
+            "[Gibberish]"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.393,
+        "acousticness": 0.0314,
+        "danceability": 0.617,
+        "instrumentalness": 0.00512,
+        "liveness": 0.067,
+        "speechiness": 0.0353,
+        "loudness": -11.767,
+        "tempo": 136.213,
+        "time_signature": 4,
+        "valence": 0.84,
+        "genre": [
+            "art pop",
+            "electronica",
+            "experimental pop",
+            "experimental vocal",
+            "icelandic experimental",
+            "icelandic pop",
+            "icelandic singer-songwriter",
+            "metropopolis",
+            "permanent wave",
+            "trip hop"
+        ],
+        "popularity": 55
+    }
+}

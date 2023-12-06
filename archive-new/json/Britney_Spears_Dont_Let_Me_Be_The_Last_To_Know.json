@@ -1,0 +1,78 @@
+{
+    "midi_file_path": "archive-new\\Britney_Spears\\Dont_Let_Me_Be_The_Last_To_Know.mid",
+    "artist_band_name": "Britney Spears",
+    "song_title": "Dont Let Me Be The Last To Know",
+    "lyrics": {
+        "Verse": [
+            "My friends say you're so into me",
+            "And that you need me desperately",
+            "They say you say we're so complete",
+            "But I need to hear it straight from you",
+            "If you want me to believe it's true",
+            "I've been waiting for so long, it hurts",
+            "I wanna hear you say the words, please",
+            "",
+            "Your body language says so much",
+            "Yeah, I feel it in the way you touch",
+            "But 'til you say the words, it's not enough",
+            "C'mon and tell me you're in love, please"
+        ],
+        "Chorus": [
+            "Don't, don't let me be the last to know",
+            "Don't hold back, just let it go",
+            "I need to hear you say",
+            "You need me all the way",
+            "Oh, if you love me so",
+            "Don't let me be the last to know",
+            "",
+            "[Post-Chorus]",
+            "Ooh, yeah",
+            "Ooh, yeah, baby",
+            "",
+            "Don't, don't let me be the last to know",
+            "Don't hold back, just let it go",
+            "I need to hear you say",
+            "You need me all the way",
+            "Oh, if you love me so",
+            "Don't let me be the last to know, yeah",
+            "",
+            "Don't (Don't), don't let me be the last to know",
+            "(Just let me be the one)",
+            "Don't (Don't) hold back (Hold back), just let it go (Just let it go)",
+            "I need to hear you say (I need to hear you say)",
+            "You need me all the way (You need me all the way)",
+            "So baby, if you love me",
+            "(Don't, don't, don't) Let me be the last to know8Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "C'mon, baby, c'mon, darling, ooh, yeah",
+            "C'mon, let me be the one",
+            "C'mon now, ooh",
+            "Oh, oh, yeah",
+            "(I need to hear you say) I need to hear you say",
+            "(You love me all the way) You love me all the way",
+            "(I don't wanna wait another day)",
+            "And I don't wanna wait another day",
+            "I wanna feel the way you feel, oh, c'mon",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.755,
+        "acousticness": 0.158,
+        "danceability": 0.633,
+        "instrumentalness": 0,
+        "liveness": 0.273,
+        "speechiness": 0.0421,
+        "loudness": -6.566,
+        "tempo": 138.96,
+        "time_signature": 4,
+        "valence": 0.729,
+        "genre": [
+            "dance pop",
+            "pop"
+        ],
+        "popularity": 56
+    }
+}

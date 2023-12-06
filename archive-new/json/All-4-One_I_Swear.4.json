@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\All-4-One\\I_Swear.4.mid",
+    "artist_band_name": "All-4-One",
+    "song_title": "I Swear.4",
+    "lyrics": {
+        "Verse": [
+            "I see the questions in your eyes",
+            "I know what's weighing on your mind",
+            "You can be sure I know my part",
+            "'Cause I stand beside you through the years",
+            "You'll only cry those happy tears",
+            "And though I make mistakes, I'll never break your heart",
+            "",
+            "I'll give you everything I can",
+            "I'll build your dreams with these two hands",
+            "We'll hang some memories on the walls",
+            "And when (And when) just the two of us are there",
+            "You won't have to ask if I still care",
+            "'Cause as the time turns the page",
+            "My love won't age at all"
+        ],
+        "Chorus": [
+            "And I swear by the moon and the stars in the sky",
+            "I'll be there",
+            "I swear like the shadow that's by your side",
+            "I'll be there",
+            "For better or worse, 'til death do us part",
+            "I'll love you with every beat of my heart",
+            "And I swear",
+            "",
+            "And I swear (I swear) by the moon",
+            "And the stars in the sky I'll be there (I'll be there)",
+            "I swear (and I swear) like the shadow that's by your side",
+            "I'll be there (I'll be there)",
+            "For better or worse, 'til death do us part",
+            "I'll love you with every beat of my heart",
+            "And I swear",
+            "",
+            "I swear (I swear) by the moon and the stars in the sky",
+            "I'll be there (I'll be there)",
+            "I swear like the shadow that's by your side",
+            "I'll be there (I'll be there)",
+            "For better or worse (Better or worse)",
+            "Till death do us part (Oh no) I'll love you",
+            "With every single beat of my heart",
+            "",
+            "[Outro]",
+            "I swear",
+            "I swear",
+            "Oh, I swear5Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.356,
+        "acousticness": 0.208,
+        "danceability": 0.53,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "speechiness": 0.0234,
+        "loudness": -10.686,
+        "tempo": 83.28,
+        "time_signature": 4,
+        "valence": 0.222,
+        "genre": [
+            "boy band",
+            "contemporary r&b",
+            "r&b"
+        ],
+        "popularity": 17
+    }
+}

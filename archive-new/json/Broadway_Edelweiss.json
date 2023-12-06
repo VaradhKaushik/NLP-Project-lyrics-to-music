@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Broadway\\Edelweiss.mid",
+    "artist_band_name": "Broadway",
+    "song_title": "Edelweiss",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.132,
+        "acousticness": 0.889,
+        "danceability": 0.571,
+        "instrumentalness": 0.032,
+        "liveness": 0.116,
+        "speechiness": 0.0299,
+        "loudness": -15.744,
+        "tempo": 111.074,
+        "time_signature": 3,
+        "valence": 0.315,
+        "genre": [],
+        "popularity": 14
+    }
+}

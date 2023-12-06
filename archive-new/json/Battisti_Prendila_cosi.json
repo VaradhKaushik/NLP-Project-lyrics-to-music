@@ -1,0 +1,48 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Prendila_cosi.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Prendila cosi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "No, che non vorrei",
+            "Io sto bene in questo posto",
+            "No, che non vorrei",
+            "Dopo corro e faccio presto...",
+            "...meno bella certo non sarai",
+            "",
+            "[Ritornello]",
+            "E siccome \u00e8 facile incontrarsi",
+            "Anche in una grande citt\u00e0",
+            "E tu sai che io potrei, purtroppo",
+            "(Anzi spero), non esser pi\u00f9 solo",
+            "Cerca di evitare tutti i posti",
+            "Che frequento e che conosci anche tu",
+            "Nasce l'esigenza di sfuggirsi",
+            "Per non ferirsi di pi\u00f9",
+            "[Outro]",
+            "Prendila cos\u00ec",
+            "Non possiamo farne un drammaEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.293,
+        "acousticness": 0.377,
+        "danceability": 0.57,
+        "instrumentalness": 0.000267,
+        "liveness": 0.0855,
+        "speechiness": 0.0456,
+        "loudness": -17.424,
+        "tempo": 103.305,
+        "time_signature": 4,
+        "valence": 0.488,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 47
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Arabesque\\Take_Me_Dont_Break_Me.mid",
+    "artist_band_name": "Arabesque",
+    "song_title": "Take Me Dont Break Me",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.775,
+        "acousticness": 0.179,
+        "danceability": 0.307,
+        "instrumentalness": 0,
+        "liveness": 0.337,
+        "speechiness": 0.233,
+        "loudness": -10.654,
+        "tempo": 199.339,
+        "time_signature": 4,
+        "valence": 0.739,
+        "genre": [],
+        "popularity": 6
+    }
+}

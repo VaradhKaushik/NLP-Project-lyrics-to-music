@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Online_Songs.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Online Songs",
+    "lyrics": {
+        "Verse": [
+            "Why do you still keep it around",
+            "When you know it brings me down? I'm hating everything",
+            "And I know that you dated other guys",
+            "But I got to wonder why you'd leave it out for me (Shit!)",
+            "",
+            "Why am I still hanging around",
+            "When I know it brings me down? I'm hating everything",
+            "And you are getting rides home in his car",
+            "You're making out in his front yard, I'm hating everything",
+            "",
+            "And if we can have another day",
+            "I've got so much left to say, I'd tell you everything",
+            "And I'll laugh when I think about the past",
+            "When I see you after class, you're hating everything",
+            ""
+        ],
+        "Chorus": [
+            "Please don't remind me, put your past behind me",
+            "It shines so bright, it blinds me, I wish that this would end",
+            "And I am not fine, last night, I saw you online",
+            "Your screen name used to be mine, why can't we just pretend?",
+            "Please don't remind me, put your past behind me",
+            "It shines so bright, it blinds me, I wish that this would end",
+            "And I am not fine, last night, I saw you online",
+            "Your screen name used to be mine, why can't we just pretend?",
+            "Please don't remind me, put your past behind me",
+            "It shines so bright, it blinds me, I wish that this would end",
+            "And I am not fine, last night, I saw you online",
+            "Your screen name used to be mine, why can't we just pretend?",
+            "",
+            "Please don't remind me, put your past behind me",
+            "It shines so bright, it blinds me, I wish that this would end",
+            "And I am not fine, last night, I saw you online",
+            "Your screen name used to be mine, why can't we just pretend?",
+            "Please don't remind me, put your past behind me",
+            "It shines so bright, it blinds me, I wish that this would end",
+            "And I am not fine, last night, I saw you online",
+            "Your screen name used to be mine, why can't we just pretend?",
+            "",
+            "[Outro: Mark Hoppus]",
+            "And she said na na na na na...5Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "And she said",
+            "Na na na na na na na na na na na na na...",
+            "\"I just forgot you were there...\"",
+            "Na na na na na na na na na na na na na...",
+            "\"I just forgot you were there...\"",
+            "Na na na na na na na na na na na na na na na na...",
+            "\"I just forgot you were there...\"",
+            "Na na na na na na na na na na na na na na na na..."
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.982,
+        "acousticness": 0.00456,
+        "danceability": 0.552,
+        "instrumentalness": 0,
+        "liveness": 0.337,
+        "speechiness": 0.0484,
+        "loudness": -3.227,
+        "tempo": 98.458,
+        "time_signature": 4,
+        "valence": 0.664,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 61
+    }
+}

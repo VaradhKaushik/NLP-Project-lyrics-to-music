@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Root_Beer_Rag.1.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Root Beer Rag.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.822,
+        "acousticness": 0.0469,
+        "danceability": 0.364,
+        "instrumentalness": 0.391,
+        "liveness": 0.178,
+        "speechiness": 0.0654,
+        "loudness": -11.666,
+        "tempo": 151.222,
+        "time_signature": 4,
+        "valence": 0.652,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 29
+    }
+}

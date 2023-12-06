@@ -1,0 +1,66 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\Paranoid.2.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "Paranoid.2",
+    "lyrics": {
+        "Verse": [
+            "Finished with my woman",
+            "'Cause she couldn't help me with my mind",
+            "People think I'm insane",
+            "Because I am frowning all the time",
+            "",
+            "All day long I think of things",
+            "But nothing seems to satisfy",
+            "Think I'll lose my mind",
+            "If I don't find something to pacify",
+            "",
+            "I need someone to show me",
+            "The things in life that I can't find",
+            "I can't see the things that make true happiness",
+            "I must be blind",
+            "",
+            "[Guitar Solo]",
+            "Make a joke and I will sigh",
+            "And you will laugh and I will cry",
+            "Happiness I cannot feel",
+            "And love to me is so unreal",
+            "",
+            "And so, as you hear these words",
+            "Telling you now of my state",
+            "I tell you to enjoy life",
+            "I wish I could but it's too late54Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Can you help me",
+            "Occupy my brain?",
+            "Oh yeah",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.658,
+        "acousticness": 4.52e-05,
+        "danceability": 0.412,
+        "instrumentalness": 0.000774,
+        "liveness": 0.176,
+        "speechiness": 0.0708,
+        "loudness": -12.051,
+        "tempo": 163.071,
+        "time_signature": 4,
+        "valence": 0.454,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 76
+    }
+}

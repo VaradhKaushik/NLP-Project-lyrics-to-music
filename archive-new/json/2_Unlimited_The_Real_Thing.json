@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\2_Unlimited\\The_Real_Thing.mid",
+    "artist_band_name": "2 Unlimited",
+    "song_title": "The Real Thing",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.969,
+        "acousticness": 0.00837,
+        "danceability": 0.594,
+        "instrumentalness": 0.00529,
+        "liveness": 0.212,
+        "speechiness": 0.0832,
+        "loudness": -9.392,
+        "tempo": 143.935,
+        "time_signature": 4,
+        "valence": 0.46,
+        "genre": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ],
+        "popularity": 49
+    }
+}

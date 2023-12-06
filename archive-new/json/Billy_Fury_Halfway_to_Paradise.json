@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Billy_Fury\\Halfway_to_Paradise.mid",
+    "artist_band_name": "Billy Fury",
+    "song_title": "Halfway to Paradise",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.43,
+        "acousticness": 0.191,
+        "danceability": 0.437,
+        "instrumentalness": 1.01e-06,
+        "liveness": 0.171,
+        "speechiness": 0.0328,
+        "loudness": -11.0,
+        "tempo": 122.692,
+        "time_signature": 4,
+        "valence": 0.745,
+        "genre": [
+            "british invasion",
+            "rock-and-roll"
+        ],
+        "popularity": 18
+    }
+}

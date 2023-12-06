@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Booker_T._and_The_MG_s\\Green_Onions.1.mid",
+    "artist_band_name": "Booker T. and The MG s",
+    "song_title": "Green Onions.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.387,
+        "acousticness": 0.134,
+        "danceability": 0.429,
+        "instrumentalness": 0.0174,
+        "liveness": 0.871,
+        "speechiness": 0.0307,
+        "loudness": -17.916,
+        "tempo": 140.357,
+        "time_signature": 4,
+        "valence": 0.783,
+        "genre": [
+            "blues",
+            "classic soul",
+            "instrumental funk",
+            "instrumental soul",
+            "memphis soul",
+            "soul",
+            "southern soul"
+        ],
+        "popularity": 7
+    }
+}

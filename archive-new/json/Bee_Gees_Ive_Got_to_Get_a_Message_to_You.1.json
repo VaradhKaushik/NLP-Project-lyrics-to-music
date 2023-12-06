@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Ive_Got_to_Get_a_Message_to_You.1.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Ive Got to Get a Message to You.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.56,
+        "acousticness": 0.324,
+        "danceability": 0.377,
+        "instrumentalness": 0.538,
+        "liveness": 0.943,
+        "speechiness": 0.0444,
+        "loudness": -14.165,
+        "tempo": 78.287,
+        "time_signature": 4,
+        "valence": 0.804,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 35
+    }
+}

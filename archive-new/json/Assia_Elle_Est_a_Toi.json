@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Assia\\Elle_Est_a_Toi.mid",
+    "artist_band_name": "Assia",
+    "song_title": "Elle Est a Toi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.574,
+        "acousticness": 0.122,
+        "danceability": 0.724,
+        "instrumentalness": 9.72e-05,
+        "liveness": 0.0482,
+        "speechiness": 0.145,
+        "loudness": -4.849,
+        "tempo": 174.08,
+        "time_signature": 4,
+        "valence": 0.652,
+        "genre": [],
+        "popularity": 46
+    }
+}

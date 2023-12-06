@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Axelle_Red\\Le_Monde_Tourne_Mal.mid",
+    "artist_band_name": "Axelle Red",
+    "song_title": "Le Monde Tourne Mal",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.598,
+        "acousticness": 0.0108,
+        "danceability": 0.629,
+        "instrumentalness": 1.36e-05,
+        "liveness": 0.0544,
+        "speechiness": 0.0321,
+        "loudness": -6.038,
+        "tempo": 100.314,
+        "time_signature": 4,
+        "valence": 0.68,
+        "genre": [
+            "belgian indie",
+            "belgian pop",
+            "french pop"
+        ],
+        "popularity": 6
+    }
+}

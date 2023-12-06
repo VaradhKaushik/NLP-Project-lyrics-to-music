@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Nord_Sud_Ovest_Est.mid",
+    "artist_band_name": "883",
+    "song_title": "Nord Sud Ovest Est",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.848,
+        "acousticness": 0.00226,
+        "danceability": 0.619,
+        "instrumentalness": 0.000484,
+        "liveness": 0.341,
+        "speechiness": 0.0327,
+        "loudness": -6.96,
+        "tempo": 119.977,
+        "time_signature": 4,
+        "valence": 0.51,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 58
+    }
+}

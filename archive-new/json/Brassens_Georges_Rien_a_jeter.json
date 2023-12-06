@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Rien_a_jeter.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Rien a jeter",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.17,
+        "acousticness": 0.889,
+        "danceability": 0.663,
+        "instrumentalness": 1.76e-05,
+        "liveness": 0.114,
+        "speechiness": 0.0952,
+        "loudness": -14.402,
+        "tempo": 120.249,
+        "time_signature": 4,
+        "valence": 0.481,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 8
+    }
+}

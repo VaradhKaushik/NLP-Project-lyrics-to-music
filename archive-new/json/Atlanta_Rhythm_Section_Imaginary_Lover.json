@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Atlanta_Rhythm_Section\\Imaginary_Lover.mid",
+    "artist_band_name": "Atlanta Rhythm Section",
+    "song_title": "Imaginary Lover",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.374,
+        "acousticness": 0.383,
+        "danceability": 0.598,
+        "instrumentalness": 0.548,
+        "liveness": 0.128,
+        "speechiness": 0.0259,
+        "loudness": -14.085,
+        "tempo": 109.499,
+        "time_signature": 4,
+        "valence": 0.413,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "country rock",
+            "mellow gold",
+            "soft rock",
+            "southern rock",
+            "yacht rock"
+        ],
+        "popularity": 45
+    }
+}

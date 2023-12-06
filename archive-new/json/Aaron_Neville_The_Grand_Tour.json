@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Aaron_Neville\\The_Grand_Tour.mid",
+    "artist_band_name": "Aaron Neville",
+    "song_title": "The Grand Tour",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.298,
+        "acousticness": 0.461,
+        "danceability": 0.567,
+        "instrumentalness": 0,
+        "liveness": 0.0794,
+        "speechiness": 0.0332,
+        "loudness": -13.626,
+        "tempo": 87.675,
+        "time_signature": 4,
+        "valence": 0.469,
+        "genre": [],
+        "popularity": 35
+    }
+}

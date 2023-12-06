@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Arrivederci_a_questa_sera.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Arrivederci a questa sera",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.753,
+        "acousticness": 0.0198,
+        "danceability": 0.75,
+        "instrumentalness": 0.000181,
+        "liveness": 0.323,
+        "speechiness": 0.0272,
+        "loudness": -9.11,
+        "tempo": 125.929,
+        "time_signature": 4,
+        "valence": 0.963,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 41
+    }
+}

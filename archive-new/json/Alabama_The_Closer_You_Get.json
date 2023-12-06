@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\The_Closer_You_Get.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "The Closer You Get",
+    "lyrics": {
+        "Verse": [
+            "The things that you say to me",
+            "The look on your face",
+            "Brings out the man in me",
+            "Do I see a trace in your eyes of love",
+            "",
+            "Could I be dreaming",
+            "Is this really real",
+            "Because there's something magic",
+            "The way that I feel in your arms tonight",
+            ""
+        ],
+        "Chorus": [
+            "The closer you get, the further I fall",
+            "I'll be over the edge now in no time at all",
+            "I'm falling faster and faster and faster with no time to stall",
+            "The closer you get, the further I fall",
+            "",
+            "The closer you get, the further I fall",
+            "I'll be over the edge now in no time at all",
+            "I'm falling faster and faster and faster with no time to stall",
+            "The closer you get, the further I fall",
+            "",
+            "The closer you get, oh yeah, the further I fall",
+            "I'll be over the edge now in no time at all",
+            "I'm falling faster and faster and faster with no time to stall",
+            "The closer you get, mmhmm, the further I fall",
+            "The closer you get, oh yeah, the further I fall, mmhmm",
+            "I'll be over the edge now in no time at all",
+            "I'm falling faster and faster and faster with no time to stall (Oh yeah)",
+            "The closer you get, mmhmm, the further I fall",
+            "The closer you get, the further I fall",
+            "I'll be over the edge now in no time at all",
+            "I'm falling faster and faster and faster with no time to stall",
+            "The closer you get1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Keep falling, oh, yeah, yeah, keep falling",
+            "Mmm falling, oh, yeah, yeah, I'm falling",
+            "Yes I'm falling (Yes I'm falling, yes I'm falling)",
+            "Yes I'm falling (Yes I'm falling, yes I'm falling)",
+            "Yes we're falling (Yes we're falling, yes we're falling)",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.416,
+        "acousticness": 0.18,
+        "danceability": 0.755,
+        "instrumentalness": 1.81e-06,
+        "liveness": 0.123,
+        "speechiness": 0.031,
+        "loudness": -14.941,
+        "tempo": 113.997,
+        "time_signature": 4,
+        "valence": 0.83,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 51
+    }
+}

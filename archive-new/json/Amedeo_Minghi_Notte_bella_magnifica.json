@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Notte_bella_magnifica.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Notte bella magnifica",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.383,
+        "acousticness": 0.8,
+        "danceability": 0.515,
+        "instrumentalness": 2.74e-06,
+        "liveness": 0.137,
+        "speechiness": 0.0295,
+        "loudness": -10.486,
+        "tempo": 140.014,
+        "time_signature": 4,
+        "valence": 0.233,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 27
+    }
+}

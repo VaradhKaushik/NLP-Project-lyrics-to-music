@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Roma_capoccia.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Roma capoccia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.472,
+        "acousticness": 0.813,
+        "danceability": 0.203,
+        "instrumentalness": 3.07e-06,
+        "liveness": 0.673,
+        "speechiness": 0.0397,
+        "loudness": -11.366,
+        "tempo": 73.778,
+        "time_signature": 4,
+        "valence": 0.233,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 14
+    }
+}

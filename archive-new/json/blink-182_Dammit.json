@@ -1,0 +1,68 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Dammit.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Dammit",
+    "lyrics": {
+        "Verse": [
+            "It's alright to tell me what you think about me",
+            "I won't try to argue or hold it against you",
+            "I know that you're leaving, you must have your reasons",
+            "The season is calling, your pictures are falling down",
+            "",
+            "The steps that I retrace, the sad look on your face",
+            "The timing and structure, did you hear he fucked her?",
+            "A day late, a buck short, I'm writing the report",
+            "On losing and failing, when I move, I'm flailing now",
+            "",
+            "And maybe I'll see you at a movie sneak preview",
+            "You'll show up and walk by on the arm of that guy",
+            "And I'll smile and you'll wave, we'll pretend it's okay",
+            "The charade, it won't last, when he's gone, I won't come back"
+        ],
+        "Chorus": [
+            "And it's happened once again, I'll turn to a friend",
+            "Someone that understands, and sees through the master plan",
+            "But everybody's gone, and I've been here for too long",
+            "To face this on my own, well, I guess this is growing up",
+            "",
+            "[Post-Chorus: Mark Hoppus]",
+            "Well, I guess this is growing up",
+            "",
+            "And it'll happen once again, you'll turn to a friend",
+            "Someone that understands and sees through the master plan",
+            "But everybody's gone, and you've been there for too long",
+            "To face this on your own, well, I guess this is growing up",
+            "[Instrumental Bridge]",
+            "",
+            "[Post-Chorus: Mark Hoppus]",
+            "Well, I guess this is growing up",
+            "Well, I guess this is growing up",
+            "Well, I guess this is growing up",
+            "Well, I guess this is growing up",
+            "Well, I guess this is growing up27Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.972,
+        "acousticness": 0.0017,
+        "danceability": 0.426,
+        "instrumentalness": 0,
+        "liveness": 0.171,
+        "speechiness": 0.0954,
+        "loudness": -5.122,
+        "tempo": 111.221,
+        "time_signature": 4,
+        "valence": 0.341,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 69
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "midi_file_path": "archive-new\\Belinda_Carlisle\\Circle_In_The_Sand.mid",
+    "artist_band_name": "Belinda Carlisle",
+    "song_title": "Circle In The Sand",
+    "lyrics": {
+        "Verse": [
+            "Sundown all around",
+            "Walking through the summer's end",
+            "Waves crash, baby, don't look back",
+            "I won't walk away again",
+            "",
+            "Cold wind, tide moves in",
+            "Shivers in the salty air",
+            "Day breaks, my heart aches",
+            "I will wait for you right here"
+        ],
+        "Chorus": [
+            "Oh, baby, anywhere you go",
+            "We are bound together",
+            "I begin, baby, where you end",
+            "Some things are forever",
+            "",
+            "Circle in the sand, round and round",
+            "Never ending love is what we've found",
+            "And you complete the heart of me",
+            "Our love is all we need",
+            "Circle in the sand (circle in the sand)",
+            "Circle in the sand (circle in the sand)",
+            "",
+            "Oh, baby, when you look for me",
+            "Can you see forever?",
+            "I begin, baby, where you end",
+            "We belong together",
+            "",
+            "Circle in the sand, round and round",
+            "Rising of the moon as the sun goes down",
+            "And you complete the heart of me",
+            "Our love is all we need",
+            "Circle in the sand (circle in the sand)",
+            "Circle in the sand (circle in the sand)",
+            "",
+            "Oh, baby, anywhere you go",
+            "We are bound together",
+            "And I begin, baby, where you end",
+            "Some things are forever",
+            "Circle in the sand, round and round",
+            "Never ending love is what we've found",
+            "And you complete the heart of me",
+            "Our love is all we need",
+            "Circle in the sand (circle in the sand)",
+            "Circle in the sand (circle in the sand)",
+            "Circle in the sand (circle in the sand)",
+            "Circle in the sand (circle in the sand)1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Baby, can you hear me?",
+            "Can you hear me calling?",
+            "",
+            "[Instrumental breakdown]",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.787,
+        "acousticness": 0.0592,
+        "danceability": 0.632,
+        "instrumentalness": 4.68e-06,
+        "liveness": 0.0949,
+        "speechiness": 0.0428,
+        "loudness": -7.658,
+        "tempo": 126.014,
+        "time_signature": 4,
+        "valence": 0.752,
+        "genre": [
+            "new romantic",
+            "new wave pop",
+            "soft rock"
+        ],
+        "popularity": 43
+    }
+}

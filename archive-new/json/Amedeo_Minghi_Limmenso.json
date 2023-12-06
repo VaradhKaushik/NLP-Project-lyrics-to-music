@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Limmenso.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Limmenso",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.49,
+        "acousticness": 0.326,
+        "danceability": 0.558,
+        "instrumentalness": 0.00705,
+        "liveness": 0.0891,
+        "speechiness": 0.0263,
+        "loudness": -8.626,
+        "tempo": 78.517,
+        "time_signature": 4,
+        "valence": 0.433,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 30
+    }
+}

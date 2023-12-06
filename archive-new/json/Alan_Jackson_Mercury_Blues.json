@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Alan_Jackson\\Mercury_Blues.mid",
+    "artist_band_name": "Alan Jackson",
+    "song_title": "Mercury Blues",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.786,
+        "acousticness": 0.371,
+        "danceability": 0.538,
+        "instrumentalness": 0.00258,
+        "liveness": 0.0517,
+        "speechiness": 0.0336,
+        "loudness": -7.69,
+        "tempo": 172.019,
+        "time_signature": 4,
+        "valence": 0.917,
+        "genre": [
+            "country"
+        ],
+        "popularity": 50
+    }
+}

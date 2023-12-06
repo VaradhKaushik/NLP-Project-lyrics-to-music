@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Il_tempo_di_morire.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Il tempo di morire",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.259,
+        "acousticness": 0.0331,
+        "danceability": 0.581,
+        "instrumentalness": 4.19e-06,
+        "liveness": 0.103,
+        "speechiness": 0.0732,
+        "loudness": -12.09,
+        "tempo": 107.514,
+        "time_signature": 4,
+        "valence": 0.785,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 46
+    }
+}

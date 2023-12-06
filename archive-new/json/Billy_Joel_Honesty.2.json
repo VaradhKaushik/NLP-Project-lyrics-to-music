@@ -1,0 +1,76 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Honesty.2.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Honesty.2",
+    "lyrics": {
+        "Verse": [
+            "If you search for tenderness",
+            "It isn't hard to find",
+            "You can have the love you need to live",
+            "But if you look for truthfulness",
+            "You might just as well be blind",
+            "It always seems to be so hard to give",
+            "",
+            "I can always find someone",
+            "To say they sympathize",
+            "If I wear my heart out on my sleeve",
+            "But I don't want some pretty face",
+            "To tell me pretty lies",
+            "All I want is someone to believe",
+            "",
+            "When I'm deep inside of me",
+            "Don't be too concerned",
+            "I won't ask for nothin' while I'm gone",
+            "But when I want sincerity",
+            "Tell me, where else can I turn?",
+            "'Cause you're the one that I depend upon",
+            ""
+        ],
+        "Chorus": [
+            "\"Honesty\" is such a lonely word",
+            "Everyone is so untrue",
+            "Honesty is hardly ever heard",
+            "And mostly what I need from you",
+            "",
+            "\"Honesty\" is such a lonely word",
+            "Everyone is so untrue",
+            "Honesty is hardly ever heard",
+            "And mostly what I need from you",
+            "\"Honesty\" is such a lonely word",
+            "Everyone is so untrue",
+            "Honesty is hardly ever heard",
+            "And mostly what I need from you10Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I can find a lover, I can find a friend",
+            "I can have security until the bitter end",
+            "Anyone can comfort me with promises again",
+            "I know, I know, I know",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.52,
+        "acousticness": 0.816,
+        "danceability": 0.425,
+        "instrumentalness": 0,
+        "liveness": 0.922,
+        "speechiness": 0.0283,
+        "loudness": -5.683,
+        "tempo": 134.932,
+        "time_signature": 4,
+        "valence": 0.238,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 27
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "midi_file_path": "archive-new\\Brian_McKnight\\Back_at_One.mid",
+    "artist_band_name": "Brian McKnight",
+    "song_title": "Back at One",
+    "lyrics": {
+        "Verse": [
+            "It's undeniable",
+            "That we should be together",
+            "It's unbelievable how I used to say that I'd fall never",
+            "The basis is need to know, if you don't know just how I feel",
+            "Then let me show you now that I'm for real",
+            "If all things in time, time will reveal",
+            "Yeah",
+            "",
+            "It's so incredible the way things work themselves out",
+            "And all emotional, once you know what it's all about, babe",
+            "And undesirable for us to be apart",
+            "Never would've made it very far",
+            "'Cause you know you've got the keys to my heart",
+            "'Cause..."
+        ],
+        "Chorus": [
+            "One, you're like a dream come true",
+            "Two, just wanna be with you",
+            "Three, girl, it's plain to see",
+            "That you're the only one for me, and",
+            "Four, repeat steps one through three",
+            "Five, make you fall in love with me",
+            "If ever I believe my work is done",
+            "Then I start back at one",
+            "Yeah, yeah",
+            "",
+            "One, you're like a dream come true",
+            "Two, just wanna be with you",
+            "Three, girl, it's plain to see",
+            "That you're the only one for me, and",
+            "Four, repeat steps one through three",
+            "Five, make you fall in love with me",
+            "If ever I believe my work is done",
+            "Then I start back at one",
+            "",
+            "One, you're like a dream come true",
+            "Two, just wanna be with you",
+            "Three, girl, it's plain to see",
+            "That you're the only one for me, and",
+            "Four, repeat steps one through three",
+            "Five, make you fall in love with me",
+            "If ever I believe my work is done",
+            "Then I start back at one22Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Say farewell to the dark of night, I see the coming of the sun",
+            "I feel like a little child whose life has just begun",
+            "You came and breathed new life into this lonely heart of mine",
+            "You threw out the lifeline just in the nick of time",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.346,
+        "acousticness": 0.452,
+        "danceability": 0.661,
+        "instrumentalness": 0,
+        "liveness": 0.131,
+        "speechiness": 0.03,
+        "loudness": -9.115,
+        "tempo": 129.752,
+        "time_signature": 4,
+        "valence": 0.256,
+        "genre": [
+            "contemporary r&b",
+            "quiet storm",
+            "r&b",
+            "urban contemporary"
+        ],
+        "popularity": 70
+    }
+}

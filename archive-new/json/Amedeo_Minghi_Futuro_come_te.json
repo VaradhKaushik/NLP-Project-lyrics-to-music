@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amedeo_Minghi\\Futuro_come_te.mid",
+    "artist_band_name": "Amedeo Minghi",
+    "song_title": "Futuro come te",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.826,
+        "acousticness": 0.0971,
+        "danceability": 0.693,
+        "instrumentalness": 9.04e-06,
+        "liveness": 0.102,
+        "speechiness": 0.0358,
+        "loudness": -5.825,
+        "tempo": 118.007,
+        "time_signature": 4,
+        "valence": 0.461,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 22
+    }
+}

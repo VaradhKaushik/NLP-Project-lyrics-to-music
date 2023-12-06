@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Adamo\\Sans_toi,_ma_mie.mid",
+    "artist_band_name": "Adamo",
+    "song_title": "Sans toi, ma mie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.41,
+        "acousticness": 0.699,
+        "danceability": 0.733,
+        "instrumentalness": 4.87e-06,
+        "liveness": 0.243,
+        "speechiness": 0.0353,
+        "loudness": -8.515,
+        "tempo": 119.376,
+        "time_signature": 4,
+        "valence": 0.819,
+        "genre": [],
+        "popularity": 35
+    }
+}

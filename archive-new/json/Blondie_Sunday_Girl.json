@@ -1,0 +1,72 @@
+{
+    "midi_file_path": "archive-new\\Blondie\\Sunday_Girl.mid",
+    "artist_band_name": "Blondie",
+    "song_title": "Sunday Girl",
+    "lyrics": {
+        "Verse": [
+            "I know a girl from a lonely street",
+            "Cold as ice cream but still as sweet",
+            "Dry your eyes, Sunday Girl",
+            "Hey, I saw your guy with a different girl",
+            "Looks like he's in another world",
+            "Run and hide, Sunday Girl",
+            "",
+            "She can't catch up with the working crowd",
+            "The weekend mood and she's feeling proud",
+            "Live in dreams, Sunday Girl",
+            "Baby, I would like to go out tonight",
+            "If I go with you my folks'll get uptight",
+            "Stay at home, Sunday Girl",
+            "Ooh",
+            "",
+            "Hey, I saw your guy with a different girl",
+            "Looks like he's in another world",
+            "Run and hide, Sunday Girl",
+            "When I saw you again in the summertime",
+            "If your love was as sweet as mine",
+            "I could be Sunday's girl"
+        ],
+        "Chorus": [
+            "Hurry up, hurry up and wait",
+            "I stay away all week and still I wait",
+            "I got the blues, please come see",
+            "What your loving means to me",
+            "",
+            "Hurry up, hurry up and wait",
+            "I stay away all week and still I wait",
+            "I got the blues, please come see",
+            "What your loving means to me",
+            "Hurry up, hurry up, hurry up and wait",
+            "I got the blues, please, please",
+            "Please come see what'cha do to me",
+            "I got the blues",
+            "",
+            "[Outro]",
+            "Hurry up, hurry up, hurry up and wait",
+            "Hurry up, please come see what'cha do to me3Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.756,
+        "acousticness": 0.073,
+        "danceability": 0.587,
+        "instrumentalness": 1.33e-05,
+        "liveness": 0.221,
+        "speechiness": 0.039,
+        "loudness": -5.377,
+        "tempo": 146.111,
+        "time_signature": 4,
+        "valence": 0.801,
+        "genre": [
+            "candy pop",
+            "new wave pop",
+            "permanent wave",
+            "power pop",
+            "rock",
+            "synthpop"
+        ],
+        "popularity": 45
+    }
+}

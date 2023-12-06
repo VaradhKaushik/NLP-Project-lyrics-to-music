@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Its_Still_Rock_n_Roll_to_Me.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Its Still Rock n Roll to Me",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.684,
+        "acousticness": 0.0994,
+        "danceability": 0.752,
+        "instrumentalness": 0,
+        "liveness": 0.0897,
+        "speechiness": 0.15,
+        "loudness": -7.599,
+        "tempo": 141.075,
+        "time_signature": 4,
+        "valence": 0.539,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 72
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\Words.1.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "Words.1",
+    "lyrics": {
+        "Verse": [
+            "Smile an everlasting smile",
+            "A smile can bring you near to me",
+            "Don't ever let me find you gone",
+            "Cause that would bring a tear to me",
+            "",
+            "This world has lost its glory",
+            "Let's start a brand new story",
+            "Now my love, right now",
+            "There'll be no other time",
+            "And I can show you how, my love",
+            "",
+            "Talk in everlasting words",
+            "And dedicate them all to me",
+            "And I will give you all my life",
+            "I'm here if you should call to me",
+            ""
+        ],
+        "Chorus": [
+            "You think that I don't even mean",
+            "A single word I say",
+            "",
+            "It's only words, and words are all I have",
+            "To take your heart away",
+            "You think that I don't even mean",
+            "A single word I say",
+            "",
+            "It's only words, and words are all I have",
+            "To take your heart away",
+            "",
+            "[Outro]",
+            "It's only words, and words are all I have",
+            "To take your heart away",
+            "It's only words, and words are all I have",
+            "To take your heart away1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.128,
+        "acousticness": 0.632,
+        "danceability": 0.371,
+        "instrumentalness": 0.105,
+        "liveness": 0.914,
+        "speechiness": 0.0424,
+        "loudness": -20.737,
+        "tempo": 121.018,
+        "time_signature": 4,
+        "valence": 0.357,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 32
+    }
+}

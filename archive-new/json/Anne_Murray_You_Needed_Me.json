@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Anne_Murray\\You_Needed_Me.mid",
+    "artist_band_name": "Anne Murray",
+    "song_title": "You Needed Me",
+    "lyrics": {
+        "Verse": [
+            "I cried a tear",
+            "You wiped it dry",
+            "I was confused",
+            "You cleared my mind",
+            "I sold my soul",
+            "You bought it back for me",
+            "And held me up",
+            "And gave me dignity",
+            "Somehow, you needed me",
+            "",
+            "You held my hand",
+            "When it was cold",
+            "When I was lost",
+            "You took me home",
+            "You gave me hope",
+            "When I was at the end",
+            "And turned my lies",
+            "Back into truth again",
+            "You even called me friend",
+            ""
+        ],
+        "Chorus": [
+            "You gave me strength",
+            "To stand alone again",
+            "To face the world",
+            "Out on my own again",
+            "You put me high",
+            "Upon a pedestal",
+            "So high that I could almost see eternity",
+            "You needed me",
+            "You needed me",
+            "",
+            "You gave me strength",
+            "To stand alone again",
+            "To face the world",
+            "Out on my own again",
+            "You put me high",
+            "Upon a pedestal",
+            "So high that I could almost see eternity",
+            "You needed me",
+            "You needed me",
+            "",
+            "[Outro]",
+            "You needed me",
+            "You needed meEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "And I can't believe it's you I can't believe it's true!",
+            "I needed you",
+            "And you were there",
+            "And I'll never leave, why should I leave? I'd be a fool",
+            "'Cause I finally found someone who really cares"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.296,
+        "acousticness": 0.431,
+        "danceability": 0.497,
+        "instrumentalness": 0,
+        "liveness": 0.106,
+        "speechiness": 0.0302,
+        "loudness": -10.756,
+        "tempo": 62.204,
+        "time_signature": 4,
+        "valence": 0.171,
+        "genre": [
+            "adult standards",
+            "canadian country",
+            "canadian pop",
+            "classic country pop",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 65
+    }
+}

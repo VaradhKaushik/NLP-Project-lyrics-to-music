@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\Cold_Sweat.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "Cold Sweat",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.557,
+        "acousticness": 0.289,
+        "danceability": 0.746,
+        "instrumentalness": 1.19e-06,
+        "liveness": 0.0996,
+        "speechiness": 0.0405,
+        "loudness": -11.072,
+        "tempo": 119.748,
+        "time_signature": 4,
+        "valence": 0.892,
+        "genre": [
+            "funk",
+            "soul"
+        ],
+        "popularity": 48
+    }
+}

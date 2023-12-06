@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Black_Fooss\\Mer_losse_dr_Dom_en_Kolle.mid",
+    "artist_band_name": "Black Fooss",
+    "song_title": "Mer losse dr Dom en Kolle",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.565,
+        "acousticness": 0.648,
+        "danceability": 0.719,
+        "instrumentalness": 0,
+        "liveness": 0.272,
+        "speechiness": 0.0324,
+        "loudness": -10.044,
+        "tempo": 106.032,
+        "time_signature": 4,
+        "valence": 0.833,
+        "genre": [
+            "karneval",
+            "kolsche karneval"
+        ],
+        "popularity": 0
+    }
+}

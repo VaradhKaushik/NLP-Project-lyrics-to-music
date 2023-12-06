@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Rain.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Rain",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.707,
+        "acousticness": 0.611,
+        "danceability": 0.631,
+        "instrumentalness": 2.48e-05,
+        "liveness": 0.111,
+        "speechiness": 0.0337,
+        "loudness": -4.343,
+        "tempo": 96.54,
+        "time_signature": 4,
+        "valence": 0.675,
+        "genre": [
+            "gospel singers"
+        ],
+        "popularity": 11
+    }
+}

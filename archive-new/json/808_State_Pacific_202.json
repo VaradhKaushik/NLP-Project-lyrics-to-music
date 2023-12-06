@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\808_State\\Pacific_202.mid",
+    "artist_band_name": "808 State",
+    "song_title": "Pacific 202",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.894,
+        "acousticness": 0.00742,
+        "danceability": 0.543,
+        "instrumentalness": 0.387,
+        "liveness": 0.135,
+        "speechiness": 0.06,
+        "loudness": -7.743,
+        "tempo": 128.275,
+        "time_signature": 4,
+        "valence": 0.502,
+        "genre": [
+            "acid house",
+            "classic house",
+            "intelligent dance music",
+            "madchester",
+            "rave",
+            "techno"
+        ],
+        "popularity": 43
+    }
+}

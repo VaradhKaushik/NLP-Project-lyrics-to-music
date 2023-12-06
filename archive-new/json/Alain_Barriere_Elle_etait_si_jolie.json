@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Barriere\\Elle_etait_si_jolie.mid",
+    "artist_band_name": "Alain Barriere",
+    "song_title": "Elle etait si jolie",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.326,
+        "acousticness": 0.863,
+        "danceability": 0.496,
+        "instrumentalness": 0.0144,
+        "liveness": 0.232,
+        "speechiness": 0.037,
+        "loudness": -11.332,
+        "tempo": 113.475,
+        "time_signature": 4,
+        "valence": 0.448,
+        "genre": [
+            "chanson",
+            "ye ye"
+        ],
+        "popularity": 55
+    }
+}

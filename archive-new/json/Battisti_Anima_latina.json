@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Anima_latina.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Anima latina",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.632,
+        "acousticness": 0.411,
+        "danceability": 0.416,
+        "instrumentalness": 0.0022,
+        "liveness": 0.0714,
+        "speechiness": 0.0866,
+        "loudness": -11.967,
+        "tempo": 117.085,
+        "time_signature": 4,
+        "valence": 0.68,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 40
+    }
+}

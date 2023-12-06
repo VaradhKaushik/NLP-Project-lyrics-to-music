@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Alexander_Peter\\Hier_ist_ein_Mensch.mid",
+    "artist_band_name": "Alexander Peter",
+    "song_title": "Hier ist ein Mensch",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.383,
+        "acousticness": 0.522,
+        "danceability": 0.54,
+        "instrumentalness": 0,
+        "liveness": 0.118,
+        "speechiness": 0.0307,
+        "loudness": -12.981,
+        "tempo": 128.194,
+        "time_signature": 4,
+        "valence": 0.679,
+        "genre": [
+            "classic schlager"
+        ],
+        "popularity": 14
+    }
+}

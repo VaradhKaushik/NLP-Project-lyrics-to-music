@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Ace_of_Base\\Living_in_Danger.mid",
+    "artist_band_name": "Ace of Base",
+    "song_title": "Living in Danger",
+    "lyrics": {
+        "Verse": [
+            "You're living your life in peace and in harmony",
+            "You making your own decisions",
+            "That's how it's got to be for you and me",
+            "So many people are running around and 'round",
+            "Without a sense of logic",
+            "",
+            "People are the same today as they used to be",
+            "The same expectations",
+            "So high, no-one can reach that high",
+            "Nor I, nor you get satisfied today",
+            "We never get enough"
+        ],
+        "Chorus": [
+            "I see lies in the eyes of a stranger, whoa",
+            "(Live for yourself, it's a wonderful thing",
+            "You can do what you want, you can live in a dream)",
+            "You'll be living in danger",
+            "I see lies in the eyes of a stranger, whoa",
+            "([?])",
+            "You'll be living in danger",
+            "I see lies in the eyes of a stranger, whoa",
+            "You'll be living in danger",
+            "(Huh)",
+            "",
+            "I see lies in the eyes of a stranger, whoa",
+            "(Live for yourself, it's a wonderful thing",
+            "You can do what you want, you can live in a dream)",
+            "You'll be living in danger",
+            "I see lies in the eyes of a stranger, whoa",
+            "([?])",
+            "You'll be living in danger",
+            "I see lies in the eyes of a stranger, whoa",
+            "(Live for yourself, it's a wonderful thing",
+            "You can do what you want, you can live in a dream)",
+            "You'll be living in danger",
+            "I see lies in the eyes of a stranger, whoa",
+            "You'll be living in danger",
+            "",
+            "Oh, so much danger (In the eyes of a stranger)",
+            "Oh, I look into the eyes of a stranger, whoa",
+            "Oh, yeah",
+            "You'll be living in danger",
+            "(I see lies in the eyes of a stranger, whoa)",
+            "In the eyes of a stranger",
+            "You'll be living in danger",
+            "You'll be living in danger",
+            "I see lies in the eyes of a stranger, whoa",
+            "You'll be living in danger",
+            "I see lies in the eyes of a stranger, whoa",
+            "You'll be living in dangerEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "People are the same today as they used to be",
+            "We never get enough",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.931,
+        "acousticness": 0.000573,
+        "danceability": 0.669,
+        "instrumentalness": 0.56,
+        "liveness": 0.106,
+        "speechiness": 0.0488,
+        "loudness": -7.161,
+        "tempo": 102.079,
+        "time_signature": 4,
+        "valence": 0.829,
+        "genre": [
+            "eurodance",
+            "europop",
+            "new wave pop"
+        ],
+        "popularity": 47
+    }
+}

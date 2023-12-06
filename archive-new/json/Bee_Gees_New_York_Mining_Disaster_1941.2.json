@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Bee_Gees\\New_York_Mining_Disaster_1941.2.mid",
+    "artist_band_name": "Bee Gees",
+    "song_title": "New York Mining Disaster 1941.2",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.317,
+        "acousticness": 0.382,
+        "danceability": 0.427,
+        "instrumentalness": 0,
+        "liveness": 0.141,
+        "speechiness": 0.039,
+        "loudness": -11.206,
+        "tempo": 90.373,
+        "time_signature": 4,
+        "valence": 0.317,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "soft rock"
+        ],
+        "popularity": 8
+    }
+}

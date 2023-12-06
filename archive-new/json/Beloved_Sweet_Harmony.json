@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Beloved\\Sweet_Harmony.mid",
+    "artist_band_name": "Beloved",
+    "song_title": "Sweet Harmony",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "\ud835\udc0b\ud835\udc1e\ud835\udc2d'\ud835\udc2c \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc2d\ud835\udc28\ud835\udc20\ud835\udc1e\ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2b",
+            "\ud835\udc11\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d \ud835\udc27\ud835\udc28\ud835\udc30, \ud835\udc28\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "\ud835\udc08\ud835\udc27 \ud835\udc2c\ud835\udc30\ud835\udc1e\ud835\udc1e\ud835\udc2d \ud835\udc21\ud835\udc1a\ud835\udc2b\ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc32",
+            "",
+            "Time is running out",
+            "Let there be no doubt",
+            "We should sort things out",
+            "If we care",
+            "Like we say we do",
+            "Not just empty words",
+            "For a week or two",
+            "Make the world",
+            "Your priority",
+            "Try to live your life",
+            "Ecologically",
+            "Play a part",
+            "In a greater scheme",
+            "Try to live the dream",
+            "On a wider scene",
+            "",
+            "\ud835\udc0b\ud835\udc1e\ud835\udc2d'\ud835\udc2c \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc2d\ud835\udc28\ud835\udc20\ud835\udc1e\ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2b",
+            "\ud835\udc11\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d \ud835\udc27\ud835\udc28\ud835\udc30",
+            "\ud835\udc0e\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "",
+            "\ud835\udc0e\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "\ud835\udc0e\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "\ud835\udc0e\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "\"Right now\"",
+            "\ud835\udc0e\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "\ud835\udc0e\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "\ud835\udc0e\ud835\udc21 \ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc21",
+            "\"Right now\"",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.837,
+        "acousticness": 0.0144,
+        "danceability": 0.573,
+        "instrumentalness": 0.0889,
+        "liveness": 0.0544,
+        "speechiness": 0.0337,
+        "loudness": -8.352,
+        "tempo": 101.59,
+        "time_signature": 4,
+        "valence": 0.796,
+        "genre": [
+            "hip house"
+        ],
+        "popularity": 64
+    }
+}

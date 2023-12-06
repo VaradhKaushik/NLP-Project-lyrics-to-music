@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Amy_Grant\\Heirlooms.mid",
+    "artist_band_name": "Amy Grant",
+    "song_title": "Heirlooms",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.206,
+        "acousticness": 0.764,
+        "danceability": 0.273,
+        "instrumentalness": 0,
+        "liveness": 0.14,
+        "speechiness": 0.0299,
+        "loudness": -9.348,
+        "tempo": 173.546,
+        "time_signature": 3,
+        "valence": 0.128,
+        "genre": [
+            "christian music"
+        ],
+        "popularity": 43
+    }
+}

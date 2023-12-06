@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Adriano_Celentano\\Una_carezza_in_un_pugno.mid",
+    "artist_band_name": "Adriano Celentano",
+    "song_title": "Una carezza in un pugno",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.474,
+        "acousticness": 0.657,
+        "danceability": 0.462,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "speechiness": 0.0294,
+        "loudness": -7.458,
+        "tempo": 90.533,
+        "time_signature": 4,
+        "valence": 0.8,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 27
+    }
+}

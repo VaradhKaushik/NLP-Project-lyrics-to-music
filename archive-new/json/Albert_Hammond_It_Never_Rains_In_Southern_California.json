@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Albert_Hammond\\It_Never_Rains_In_Southern_California.mid",
+    "artist_band_name": "Albert Hammond",
+    "song_title": "It Never Rains In Southern California",
+    "lyrics": {
+        "Verse": [
+            "Got on board a westbound 747",
+            "Didn't think before deciding what to do",
+            "Ooh, that talk of opportunities",
+            "TV breaks and movies",
+            "Rang true, sure rang true",
+            "",
+            "Out of work, I'm out of my head",
+            "I'm out of self respect, I'm out of bread",
+            "I'm under-loved, I'm underfed",
+            "I wanna go home",
+            "",
+            "Will you tell the folks back home I nearly made it?",
+            "Had offers but don't know which one to take",
+            "Please don't tell 'em how you found me",
+            "Don't tell 'em how you found me",
+            "Gimme a break, give me a break",
+            ""
+        ],
+        "Chorus": [
+            "Seems it never rains in southern California",
+            "Seems I've often heard that kind of talk before",
+            "",
+            "It never rains in California",
+            "But girl, don't they warn ya?",
+            "It pours, man, it pours",
+            "",
+            "It never rains in California",
+            "But girl, don't they warn ya?",
+            "It pours, man, it pours",
+            "Seems it never rains in southern California",
+            "Seems I've often heard that kind of talk before",
+            "",
+            "It never rains in California",
+            "But girl, don't they warn ya?",
+            "It pours, man, it pours4Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.565,
+        "acousticness": 0.124,
+        "danceability": 0.626,
+        "instrumentalness": 0,
+        "liveness": 0.0811,
+        "speechiness": 0.0271,
+        "loudness": -10.027,
+        "tempo": 116.61,
+        "time_signature": 4,
+        "valence": 0.924,
+        "genre": [
+            "classic uk pop",
+            "rock of gibraltar"
+        ],
+        "popularity": 68
+    }
+}

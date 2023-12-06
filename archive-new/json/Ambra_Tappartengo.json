@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Ambra\\Tappartengo.mid",
+    "artist_band_name": "Ambra",
+    "song_title": "Tappartengo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.758,
+        "acousticness": 0.377,
+        "danceability": 0.645,
+        "instrumentalness": 3.06e-06,
+        "liveness": 0.228,
+        "speechiness": 0.0738,
+        "loudness": -8.906,
+        "tempo": 173.367,
+        "time_signature": 4,
+        "valence": 0.781,
+        "genre": [
+            "italian pop rock"
+        ],
+        "popularity": 55
+    }
+}

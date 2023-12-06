@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\Fallin_Again.mid",
+    "artist_band_name": "Alabama",
+    "song_title": "Fallin Again",
+    "lyrics": {
+        "Verse": [
+            "Thinking of the faces I've seen",
+            "Back when I was young and green",
+            "I was fallin' back then",
+            "Now I'm workin' on building a fire",
+            "And flirtin' with that old desire",
+            "And fallin' again into the wind",
+            "",
+            "Well, you'd think that I would learn by now",
+            "To keep from fallin' somehow",
+            "But I'm fallin' again",
+            "'Cause when I caught that look in your eyes",
+            "That's when I realized",
+            "I was fallin' again into the wind",
+            ""
+        ],
+        "Chorus": [
+            "I fall in love again",
+            "I'm fallin' again",
+            "",
+            "I fall in love again",
+            "",
+            "I fall in love again",
+            "Fallin' again into the wind",
+            "",
+            "I fall in love again",
+            "Fallin' again into the windEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Fall, fall, fall, fallin' again",
+            "Fall, fall, fall, fallin' again",
+            "Fall, fall, fall, fallin' again",
+            "Fall, fall, fall, fallin' again",
+            "Fall, fall, fall, fallin' again",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.527,
+        "acousticness": 0.0963,
+        "danceability": 0.646,
+        "instrumentalness": 0.000168,
+        "liveness": 0.0917,
+        "speechiness": 0.0269,
+        "loudness": -8.962,
+        "tempo": 119.933,
+        "time_signature": 4,
+        "valence": 0.547,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 31
+    }
+}

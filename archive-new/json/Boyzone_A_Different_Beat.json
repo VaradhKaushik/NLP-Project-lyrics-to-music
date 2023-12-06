@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Boyzone\\A_Different_Beat.mid",
+    "artist_band_name": "Boyzone",
+    "song_title": "A Different Beat",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.505,
+        "acousticness": 0.479,
+        "danceability": 0.529,
+        "instrumentalness": 0,
+        "liveness": 0.0696,
+        "speechiness": 0.0336,
+        "loudness": -9.923,
+        "tempo": 178.274,
+        "time_signature": 4,
+        "valence": 0.384,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 42
+    }
+}

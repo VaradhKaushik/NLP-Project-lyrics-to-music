@@ -1,0 +1,56 @@
+{
+    "midi_file_path": "archive-new\\Bread\\If.mid",
+    "artist_band_name": "Bread",
+    "song_title": "If",
+    "lyrics": {
+        "Verse": [
+            "If a picture paints a thousand words",
+            "Then why can't I paint you?",
+            "The words will never show",
+            "The you I've come to know",
+            "",
+            "If a face could launch a thousand ships",
+            "Then where am I to go?",
+            "There's no one home but you",
+            "You're all that's left me too",
+            "",
+            "If a man could be two places at one time",
+            "I'd be with you",
+            "Tomorrow and today",
+            "Beside you all the way",
+            "",
+            "If the world should stop revolving",
+            "Spinning slowly down to die",
+            "I'd spend the end with you",
+            "And when the world was through"
+        ],
+        "Chorus": [
+            "And when my love for life is running dry",
+            "You come and pour yourself on me",
+            "",
+            "Then one by one the stars would all go out",
+            "Then you and I would simply fly away8Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.176,
+        "acousticness": 0.912,
+        "danceability": 0.388,
+        "instrumentalness": 0.000336,
+        "liveness": 0.0977,
+        "speechiness": 0.0299,
+        "loudness": -16.952,
+        "tempo": 97.628,
+        "time_signature": 4,
+        "valence": 0.342,
+        "genre": [
+            "folk rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 69
+    }
+}

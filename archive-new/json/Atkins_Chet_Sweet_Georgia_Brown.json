@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Atkins_Chet\\Sweet_Georgia_Brown.mid",
+    "artist_band_name": "Atkins Chet",
+    "song_title": "Sweet Georgia Brown",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.403,
+        "acousticness": 0.967,
+        "danceability": 0.644,
+        "instrumentalness": 0.86,
+        "liveness": 0.12,
+        "speechiness": 0.0314,
+        "loudness": -11.456,
+        "tempo": 89.355,
+        "time_signature": 4,
+        "valence": 0.704,
+        "genre": [
+            "fingerstyle",
+            "nashville sound"
+        ],
+        "popularity": 3
+    }
+}

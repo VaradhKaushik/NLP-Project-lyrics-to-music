@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Alexandra\\Sehnsucht_Das_Lied_der_Taiga_.mid",
+    "artist_band_name": "Alexandra",
+    "song_title": "Sehnsucht Das Lied der Taiga ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.398,
+        "acousticness": 0.495,
+        "danceability": 0.253,
+        "instrumentalness": 1.72e-06,
+        "liveness": 0.396,
+        "speechiness": 0.0316,
+        "loudness": -11.096,
+        "tempo": 111.266,
+        "time_signature": 3,
+        "valence": 0.312,
+        "genre": [
+            "classic schlager"
+        ],
+        "popularity": 34
+    }
+}

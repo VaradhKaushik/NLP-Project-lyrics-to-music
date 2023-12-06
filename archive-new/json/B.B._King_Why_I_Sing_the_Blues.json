@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\B.B._King\\Why_I_Sing_the_Blues.mid",
+    "artist_band_name": "B.B. King",
+    "song_title": "Why I Sing the Blues",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.495,
+        "acousticness": 0.239,
+        "danceability": 0.792,
+        "instrumentalness": 0.00175,
+        "liveness": 0.074,
+        "speechiness": 0.0527,
+        "loudness": -11.603,
+        "tempo": 118.066,
+        "time_signature": 4,
+        "valence": 0.719,
+        "genre": [
+            "blues",
+            "blues rock",
+            "classic rock",
+            "electric blues",
+            "jazz blues",
+            "soul blues",
+            "traditional blues"
+        ],
+        "popularity": 54
+    }
+}

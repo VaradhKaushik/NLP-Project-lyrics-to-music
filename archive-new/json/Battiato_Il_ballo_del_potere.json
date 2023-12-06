@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Il_ballo_del_potere.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Il ballo del potere",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.894,
+        "acousticness": 0.0184,
+        "danceability": 0.606,
+        "instrumentalness": 5e-06,
+        "liveness": 0.0674,
+        "speechiness": 0.0725,
+        "loudness": -7.693,
+        "tempo": 128.021,
+        "time_signature": 4,
+        "valence": 0.535,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 28
+    }
+}

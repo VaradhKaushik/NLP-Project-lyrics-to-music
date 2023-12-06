@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Mouton_de_Panurge.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Mouton de Panurge",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.243,
+        "acousticness": 0.887,
+        "danceability": 0.692,
+        "instrumentalness": 6.13e-06,
+        "liveness": 0.248,
+        "speechiness": 0.057,
+        "loudness": -12.197,
+        "tempo": 117.463,
+        "time_signature": 4,
+        "valence": 0.72,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 11
+    }
+}

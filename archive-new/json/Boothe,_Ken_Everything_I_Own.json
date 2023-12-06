@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Boothe,_Ken\\Everything_I_Own.mid",
+    "artist_band_name": "Boothe, Ken",
+    "song_title": "Everything I Own",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.434,
+        "acousticness": 0.15,
+        "danceability": 0.719,
+        "instrumentalness": 0,
+        "liveness": 0.261,
+        "speechiness": 0.0863,
+        "loudness": -9.359,
+        "tempo": 76.669,
+        "time_signature": 4,
+        "valence": 0.583,
+        "genre": [
+            "lovers rock",
+            "reggae",
+            "rocksteady",
+            "roots reggae"
+        ],
+        "popularity": 50
+    }
+}

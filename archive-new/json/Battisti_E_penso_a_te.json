@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\E_penso_a_te.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "E penso a te",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.195,
+        "acousticness": 0.636,
+        "danceability": 0.399,
+        "instrumentalness": 0.00554,
+        "liveness": 0.0812,
+        "speechiness": 0.0501,
+        "loudness": -15.341,
+        "tempo": 138.01,
+        "time_signature": 4,
+        "valence": 0.187,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 55
+    }
+}

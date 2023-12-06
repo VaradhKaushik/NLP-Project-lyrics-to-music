@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\BAP\\Nix_wie_bessher.mid",
+    "artist_band_name": "BAP",
+    "song_title": "Nix wie bessher",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.805,
+        "acousticness": 0.000143,
+        "danceability": 0.559,
+        "instrumentalness": 0.000236,
+        "liveness": 0.958,
+        "speechiness": 0.0308,
+        "loudness": -5.506,
+        "tempo": 128.953,
+        "time_signature": 4,
+        "valence": 0.515,
+        "genre": [
+            "kolsche karneval"
+        ],
+        "popularity": 12
+    }
+}

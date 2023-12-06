@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\Billy_Idol\\White_Wedding.1.mid",
+    "artist_band_name": "Billy Idol",
+    "song_title": "White Wedding.1",
+    "lyrics": {
+        "Verse": [
+            "Hey, little sister, what have you done?",
+            "Hey, little sister, who's the only one?",
+            "Hey, little sister, who's your Superman?",
+            "Hey, little sister, who's the one you want?",
+            "Hey, little sister, shotgun",
+            "",
+            "Hey, little sister, who is it you're with?",
+            "Hey, little sister, what's your vice or wish?",
+            "Hey, little sister, shotgun, oh yeah",
+            "Hey, little sister, who's your Superman?",
+            "Hey, little sister, shotgun",
+            "",
+            "Hey, little sister, what have you done?",
+            "Oh, hey, little sister, who's the only one?",
+            "I've been away for so long",
+            "I've been away for so long",
+            "I let you go for so long",
+            ""
+        ],
+        "Chorus": [
+            "It's a nice day to start again",
+            "It's a nice day for a white wedding",
+            "It's a nice day to start again",
+            "",
+            "It's a nice day to start again",
+            "It's a nice day for a white wedding",
+            "It's a nice day to start again, ow!",
+            "",
+            "[Guitar solo]",
+            "It's a nice day to start again",
+            "Come on, it's a nice day for a white wedding",
+            "It's a nice day to start again, wow!",
+            "",
+            "Come on, It's a nice day for a white wedding, woow!",
+            "It's a nice day to start again",
+            "It's a nice day to start again",
+            "It's a nice day to start again21Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Pick it up",
+            "Take me back home, yeah",
+            "",
+            "There is nothin' fair in this world, girl",
+            "There is nothin' safe in this world",
+            "And there's nothin' sure in this world",
+            "And there's nothin' pure in this world",
+            "Look for something left in this world",
+            "Start again",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.814,
+        "acousticness": 0.0133,
+        "danceability": 0.673,
+        "instrumentalness": 0.00293,
+        "liveness": 0.343,
+        "speechiness": 0.0367,
+        "loudness": -5.411,
+        "tempo": 147.193,
+        "time_signature": 4,
+        "valence": 0.728,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "dance rock",
+            "hard rock",
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "rock",
+            "soft rock"
+        ],
+        "popularity": 75
+    }
+}

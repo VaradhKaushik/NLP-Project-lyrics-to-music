@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Baglioni_Claudio\\Amore_bello.mid",
+    "artist_band_name": "Baglioni Claudio",
+    "song_title": "Amore bello",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.175,
+        "acousticness": 0.727,
+        "danceability": 0.322,
+        "instrumentalness": 3.67e-05,
+        "liveness": 0.121,
+        "speechiness": 0.0335,
+        "loudness": -13.048,
+        "tempo": 117.205,
+        "time_signature": 4,
+        "valence": 0.135,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 51
+    }
+}

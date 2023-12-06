@@ -1,0 +1,57 @@
+{
+    "midi_file_path": "archive-new\\Boy_George\\The_Crying_Game.mid",
+    "artist_band_name": "Boy George",
+    "song_title": "The Crying Game",
+    "lyrics": {
+        "Verse": [
+            "One day soon, I'm gonna tell the moon about the crying game",
+            "And if he knows, maybe he'll explain",
+            "Why there are heartaches (Heartaches)",
+            "Why there are tears (So sad)",
+            "Then what to do to stop feeling blue",
+            "When love disappears",
+            ""
+        ],
+        "Chorus": [
+            "I know all there is to know about the crying game",
+            "I've had my share of the crying game",
+            "First there are kisses",
+            "Then there are sighs",
+            "And then, before you know where you are",
+            "You're sayin' goodbye",
+            "",
+            "I know all there is to know about the crying game",
+            "I've had my share of the crying game",
+            "First there are kisses (Kisses)",
+            "Then there are sighs (So sad)",
+            "And then, before you know where you are",
+            "You're sayin' goodbye",
+            "",
+            "[Outro]",
+            "Don't want no more of the crying game (Don't want no more)",
+            "Don't want no more of the crying game (Don't want no more)",
+            "Don't want no more of the crying game (Don't want no more)",
+            "Don't want no more of the crying gameYou might also like1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.54,
+        "acousticness": 0.076,
+        "danceability": 0.593,
+        "instrumentalness": 0.00108,
+        "liveness": 0.111,
+        "speechiness": 0.0299,
+        "loudness": -13.302,
+        "tempo": 99.995,
+        "time_signature": 4,
+        "valence": 0.577,
+        "genre": [
+            "new romantic",
+            "new wave",
+            "new wave pop"
+        ],
+        "popularity": 50
+    }
+}

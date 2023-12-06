@@ -1,0 +1,50 @@
+{
+    "midi_file_path": "archive-new\\883\\Chiuditi_nel_cesso.mid",
+    "artist_band_name": "883",
+    "song_title": "Chiuditi nel cesso",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "(Chiuditi nel cesso)",
+            "(Per\u00f2 fallo adesso)",
+            "",
+            "[Strofa 3]",
+            "Ogni sera tu guardi il telegiornale",
+            "Con aria schifata",
+            "Guarda te a che punto siamo",
+            "La fine del mondo \u00e8 arrivata (Uoh, uoh)",
+            "Non ti chiedi che cosa fai",
+            "Tu per far ritornare il sereno",
+            "Tu che guardi solo dentro al tuo guscio",
+            "E poi il resto non lo caghi nemmeno",
+            "",
+            "[Ritornello]",
+            "Chiuditi nel cesso",
+            "L\u00ec vedrai nessuno ti toccher\u00e0",
+            "Per\u00f2 fallo adesso",
+            "Senn\u00f2 l'uomo nero ti prender\u00e0",
+            "Chiuditi nel cesso",
+            "Porta dentro tutta la tua realt\u00e0",
+            "Per\u00f2 fallo adesso",
+            "Senn\u00f2 prima o poi qualcuno entrer\u00e0Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.906,
+        "acousticness": 0.022,
+        "danceability": 0.72,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "speechiness": 0.029,
+        "loudness": -6.25,
+        "tempo": 124.015,
+        "time_signature": 4,
+        "valence": 0.818,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

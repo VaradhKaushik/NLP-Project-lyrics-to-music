@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\War_Pigs.1.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "War Pigs.1",
+    "lyrics": {
+        "Verse": [
+            "Generals gathered in their masses",
+            "Just like witches at black masses",
+            "Evil minds that plot destruction",
+            "Sorcerer of death's construction",
+            "In the fields, the bodies burning",
+            "As the war machine keeps turning",
+            "Death and hatred to mankind",
+            "Poisoning their brainwashed minds",
+            "",
+            "[Refrain]",
+            "Oh, Lord, yeah",
+            "",
+            "Now, in darkness, world stops turning",
+            "Ashes where their bodies burning",
+            "No more war pigs have the power",
+            "Hand of God has struck the hour",
+            "Day of Judgment, God is calling",
+            "On their knees, the war pigs crawling",
+            "Begging mercies for their sins",
+            "Satan, laughing, spreads his wings",
+            "",
+            "[Refrain]",
+            "Oh, Lord, yeah",
+            "",
+            "[Instrumental Outro: Luke's Wall]55Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Politicians hide themselves away",
+            "They only started the war",
+            "Why should they go out to fight?",
+            "They leave that all to the poor, yeah",
+            "Time will tell on their power minds",
+            "Making war just for fun",
+            "Treating people just like pawns in chess",
+            "Wait till their judgment day comes, yeah",
+            "[Guitar Solo]"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.93,
+        "acousticness": 9.05e-05,
+        "danceability": 0.339,
+        "instrumentalness": 0.173,
+        "liveness": 0.855,
+        "speechiness": 0.0825,
+        "loudness": -5.793,
+        "tempo": 101.392,
+        "time_signature": 4,
+        "valence": 0.141,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 12
+    }
+}

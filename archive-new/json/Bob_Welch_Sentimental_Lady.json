@@ -1,0 +1,70 @@
+{
+    "midi_file_path": "archive-new\\Bob_Welch\\Sentimental_Lady.mid",
+    "artist_band_name": "Bob Welch",
+    "song_title": "Sentimental Lady",
+    "lyrics": {
+        "Verse": [
+            "You are here and warm",
+            "But I could look away and you'd be gone",
+            "'Cause we live in a time",
+            "When meaning falls in splinters from our lives",
+            "And that's why I've traveled far",
+            "'Cause I come so together where you are",
+            "",
+            "Yes, and all of the things that I said that I wanted",
+            "Come rushing by in my head when I'm with you",
+            "Fourteen joys and a will to be merry",
+            "All of the things that they say are very",
+            "All of the things that I said that I wanted",
+            "Come rushing by in my head when I'm with you",
+            "Fourteen joys and a will to be merry",
+            "All of the things that they say are very (All I need is you)",
+            "",
+            "All of the things that I said that I wanted",
+            "Come rushing by in my head when I'm with you1Embed"
+        ],
+        "Chorus": [
+            "Sentimental gentle wind",
+            "Blowing through my life again",
+            "Sentimental lady, gentle one (All I need is you)",
+            "Sentimental gentle wind",
+            "Blowing through my life again",
+            "Sentimental lady, gentle one",
+            "",
+            "Ooh, sentimental lady",
+            "",
+            "Sentimental gentle wind",
+            "Blowing through my life again",
+            "Sentimental lady, gentle one (All I need is you)",
+            "Sentimental gentle wind",
+            "Blowing through my life again",
+            "Sentimental lady, gentle one (All I need is you)",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Yes, and all of the things that I said that I wanted",
+            "Come rushing by in my head when I'm with you",
+            "Fourteen joys and a will to be merry",
+            "All of the things that they say are very",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.471,
+        "acousticness": 0.107,
+        "danceability": 0.445,
+        "instrumentalness": 0,
+        "liveness": 0.268,
+        "speechiness": 0.0328,
+        "loudness": -16.218,
+        "tempo": 71.041,
+        "time_signature": 4,
+        "valence": 0.562,
+        "genre": [
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 58
+    }
+}

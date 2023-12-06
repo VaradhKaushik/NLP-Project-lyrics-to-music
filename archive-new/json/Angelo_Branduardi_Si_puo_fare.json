@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Angelo_Branduardi\\Si_puo_fare.mid",
+    "artist_band_name": "Angelo Branduardi",
+    "song_title": "Si puo fare",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.343,
+        "acousticness": 0.0238,
+        "danceability": 0.576,
+        "instrumentalness": 0.000226,
+        "liveness": 0.224,
+        "speechiness": 0.0308,
+        "loudness": -13.64,
+        "tempo": 123.954,
+        "time_signature": 4,
+        "valence": 0.479,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 33
+    }
+}

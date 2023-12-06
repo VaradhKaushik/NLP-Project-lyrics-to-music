@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Per_una_lira.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Per una lira",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.465,
+        "acousticness": 0.247,
+        "danceability": 0.384,
+        "instrumentalness": 3.94e-06,
+        "liveness": 0.297,
+        "speechiness": 0.0315,
+        "loudness": -11.411,
+        "tempo": 111.313,
+        "time_signature": 4,
+        "valence": 0.701,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 33
+    }
+}

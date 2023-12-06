@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Les_Amours_dantan.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Les Amours dantan",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.0852,
+        "acousticness": 0.931,
+        "danceability": 0.594,
+        "instrumentalness": 1.06e-06,
+        "liveness": 0.108,
+        "speechiness": 0.158,
+        "loudness": -18.256,
+        "tempo": 143.381,
+        "time_signature": 4,
+        "valence": 0.529,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 9
+    }
+}

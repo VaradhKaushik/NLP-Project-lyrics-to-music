@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Alain_Souchon\\Foule_sentimentale.mid",
+    "artist_band_name": "Alain Souchon",
+    "song_title": "Foule sentimentale",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.798,
+        "acousticness": 0.0447,
+        "danceability": 0.709,
+        "instrumentalness": 0.00169,
+        "liveness": 0.225,
+        "speechiness": 0.0258,
+        "loudness": -8.29,
+        "tempo": 110.045,
+        "time_signature": 4,
+        "valence": 0.957,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 61
+    }
+}

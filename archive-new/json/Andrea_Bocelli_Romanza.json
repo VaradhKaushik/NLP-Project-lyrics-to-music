@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andrea_Bocelli\\Romanza.mid",
+    "artist_band_name": "Andrea Bocelli",
+    "song_title": "Romanza",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.255,
+        "acousticness": 0.883,
+        "danceability": 0.349,
+        "instrumentalness": 1.69e-06,
+        "liveness": 0.11,
+        "speechiness": 0.0323,
+        "loudness": -8.915,
+        "tempo": 104.446,
+        "time_signature": 4,
+        "valence": 0.125,
+        "genre": [
+            "classical tenor",
+            "italian tenor",
+            "operatic pop"
+        ],
+        "popularity": 57
+    }
+}

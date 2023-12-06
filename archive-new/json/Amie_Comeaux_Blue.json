@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Amie_Comeaux\\Blue.mid",
+    "artist_band_name": "Amie Comeaux",
+    "song_title": "Blue",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.51,
+        "acousticness": 0.545,
+        "danceability": 0.68,
+        "instrumentalness": 1.38e-06,
+        "liveness": 0.118,
+        "speechiness": 0.0238,
+        "loudness": -9.418,
+        "tempo": 98.921,
+        "time_signature": 4,
+        "valence": 0.429,
+        "genre": [
+            "country dawn",
+            "deep contemporary country"
+        ],
+        "popularity": 2
+    }
+}

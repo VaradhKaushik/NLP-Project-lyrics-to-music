@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Borg_Andy\\Arrivederci_Claire.mid",
+    "artist_band_name": "Borg Andy",
+    "song_title": "Arrivederci Claire",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.468,
+        "acousticness": 0.741,
+        "danceability": 0.534,
+        "instrumentalness": 2.57e-05,
+        "liveness": 0.0902,
+        "speechiness": 0.0331,
+        "loudness": -12.247,
+        "tempo": 107.55,
+        "time_signature": 4,
+        "valence": 0.858,
+        "genre": [
+            "classic schlager",
+            "schlager",
+            "volksmusik"
+        ],
+        "popularity": 4
+    }
+}

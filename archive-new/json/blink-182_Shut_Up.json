@@ -1,0 +1,83 @@
+{
+    "midi_file_path": "archive-new\\blink-182\\Shut_Up.mid",
+    "artist_band_name": "blink-182",
+    "song_title": "Shut Up",
+    "lyrics": {
+        "Verse": [
+            "\"Shut the fuck up\", she said, \"I'm going fucking deaf",
+            "You're always too loud, everything's too loud",
+            "Now that all my friends left, this place is fucking dead",
+            "I wanna move out, when can we move out?\"",
+            "",
+            "[Interlude: Mark Hoppus]",
+            "This shit has gotta stop",
+            "I'll run away...",
+            "",
+            "\"Get the fuck up\", she said, \"your life is meaningless",
+            "It's going nowhere, you're going nowhere",
+            "You're just a fuck up\", she said, \"I'll live alone instead\"",
+            "She said, \"you don't care\", I know, I don't care",
+            "",
+            "I got too fucked up again and passed out on the plane",
+            "Tried to forget you, I can't forget you",
+            "Now sleep on this flight, I'll think about the nights",
+            "We had to get through, I didn't get you"
+        ],
+        "Chorus": [
+            "I'll never ask permission from you",
+            "Fuck off, I'm not listening to you",
+            "I'm not coming home",
+            "I'm never going to come back home",
+            "",
+            "I'll never ask permission from you",
+            "Fuck off, I'm not listening to you",
+            "I'm not coming home",
+            "I'm never going to come back home",
+            "",
+            "[Post-Chorus: Mark Hoppus]",
+            "I'll run away...",
+            "",
+            "I'll never ask permission from you",
+            "Fuck off, I'm not listening to you",
+            "I'm not coming home",
+            "I'm never going to come back home",
+            "",
+            "[Outro: Mark Hoppus]",
+            "(I'll run away) I think it's time for me to leave",
+            "(I'll run away) I think it's time for me to leave",
+            "(I'll run away) I think it's time for me to leave",
+            "(I'll run away) I think it's time for me to leave5Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "I think it's time that I should leave",
+            "I think it's time that I should leave",
+            "I think it's time that I should leave",
+            "I think it's time that I should leave",
+            "",
+            "[Guitar Solo]",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.918,
+        "acousticness": 0.000499,
+        "danceability": 0.53,
+        "instrumentalness": 0,
+        "liveness": 0.113,
+        "speechiness": 0.036,
+        "loudness": -3.065,
+        "tempo": 114.061,
+        "time_signature": 4,
+        "valence": 0.658,
+        "genre": [
+            "alternative metal",
+            "modern rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "socal pop punk"
+        ],
+        "popularity": 53
+    }
+}

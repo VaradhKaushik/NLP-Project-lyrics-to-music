@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Il_nostro_caro_angelo.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Il nostro caro angelo",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.341,
+        "acousticness": 0.541,
+        "danceability": 0.478,
+        "instrumentalness": 0.000241,
+        "liveness": 0.123,
+        "speechiness": 0.0325,
+        "loudness": -14.239,
+        "tempo": 86.377,
+        "time_signature": 4,
+        "valence": 0.574,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 42
+    }
+}

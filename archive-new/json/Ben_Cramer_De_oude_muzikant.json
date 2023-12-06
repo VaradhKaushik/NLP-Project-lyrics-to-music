@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Ben_Cramer\\De_oude_muzikant.mid",
+    "artist_band_name": "Ben Cramer",
+    "song_title": "De oude muzikant",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.519,
+        "acousticness": 0.616,
+        "danceability": 0.378,
+        "instrumentalness": 2.57e-05,
+        "liveness": 0.178,
+        "speechiness": 0.127,
+        "loudness": -10.691,
+        "tempo": 181.358,
+        "time_signature": 3,
+        "valence": 0.601,
+        "genre": [
+            "classic belgian pop",
+            "levenslied",
+            "nederpop",
+            "vintage dutch pop"
+        ],
+        "popularity": 8
+    }
+}

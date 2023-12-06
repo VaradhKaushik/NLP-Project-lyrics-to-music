@@ -1,0 +1,60 @@
+{
+    "midi_file_path": "archive-new\\Alice_in_Chains\\Dont_Follow.mid",
+    "artist_band_name": "Alice in Chains",
+    "song_title": "Dont Follow",
+    "lyrics": {
+        "Verse": [
+            "Hey, I ain't never coming home",
+            "Hey, I'll just wander my own road",
+            "Hey, hey, I can't meet you here tomorrow, no",
+            "Say goodbye, don't follow",
+            "Misery so hollow",
+            "",
+            "Hey, you, you're livin' life full throttle",
+            "Hey, you, pass me down that bottle, yeah",
+            "Hey, hey, you, you can't shake me 'round now",
+            "I get so lost and don't know how, yeah",
+            "And it hurts to care, I'm going down",
+            "",
+            "Ooh, forgot my woman, lost my friends",
+            "Things I'd done and where I've been",
+            "Sleep in sweat, the mirror's cold",
+            "See my face, it's growin' old",
+            "Scared to death, no reason why",
+            "Do whatever to get me by",
+            "Think about the things I said",
+            "Read the page, it's cold and dead",
+            "And take me home",
+            "Yeah, take me home, oh oh",
+            "Take me home",
+            "Take me home, yeah",
+            "Take me home",
+            "You might also like[Outro: Jerry Cantrell]",
+            "Say goodbye, don't follow23Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.37,
+        "acousticness": 0.781,
+        "danceability": 0.314,
+        "instrumentalness": 0.139,
+        "liveness": 0.122,
+        "speechiness": 0.0286,
+        "loudness": -9.921,
+        "tempo": 116.066,
+        "time_signature": 1,
+        "valence": 0.28,
+        "genre": [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "nu metal",
+            "rock"
+        ],
+        "popularity": 59
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\ABBA\\Gimme_Gimme_Gimme.mid",
+    "artist_band_name": "ABBA",
+    "song_title": "Gimme Gimme Gimme",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.491,
+        "acousticness": 0.02,
+        "danceability": 0.749,
+        "instrumentalness": 0.00899,
+        "liveness": 0.159,
+        "speechiness": 0.0403,
+        "loudness": -9.655,
+        "tempo": 119.528,
+        "time_signature": 4,
+        "valence": 0.536,
+        "genre": [
+            "europop",
+            "swedish pop"
+        ],
+        "popularity": 82
+    }
+}

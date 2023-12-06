@@ -1,0 +1,35 @@
+{
+    "midi_file_path": "archive-new\\Black_Sabbath\\Laguna_Sunrise.mid",
+    "artist_band_name": "Black Sabbath",
+    "song_title": "Laguna Sunrise",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.179,
+        "acousticness": 0.508,
+        "danceability": 0.332,
+        "instrumentalness": 0.173,
+        "liveness": 0.105,
+        "speechiness": 0.0315,
+        "loudness": -16.886,
+        "tempo": 81.677,
+        "time_signature": 4,
+        "valence": 0.258,
+        "genre": [
+            "album rock",
+            "alternative metal",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 37
+    }
+}

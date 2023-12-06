@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Boyzone\\Father_Son.mid",
+    "artist_band_name": "Boyzone",
+    "song_title": "Father Son",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.319,
+        "acousticness": 0.324,
+        "danceability": 0.522,
+        "instrumentalness": 0,
+        "liveness": 0.15,
+        "speechiness": 0.0274,
+        "loudness": -12.802,
+        "tempo": 146.036,
+        "time_signature": 4,
+        "valence": 0.153,
+        "genre": [
+            "boy band"
+        ],
+        "popularity": 57
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Corne_dAurochs.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Corne dAurochs",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.339,
+        "acousticness": 0.65,
+        "danceability": 0.808,
+        "instrumentalness": 0,
+        "liveness": 0.0946,
+        "speechiness": 0.352,
+        "loudness": -10.639,
+        "tempo": 138.823,
+        "time_signature": 4,
+        "valence": 0.775,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 1
+    }
+}

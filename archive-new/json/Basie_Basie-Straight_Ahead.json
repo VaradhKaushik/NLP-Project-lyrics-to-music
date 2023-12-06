@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Basie-Straight_Ahead.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Basie-Straight Ahead",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.539,
+        "acousticness": 0.472,
+        "danceability": 0.438,
+        "instrumentalness": 0.598,
+        "liveness": 0.0682,
+        "speechiness": 0.0345,
+        "loudness": -9.444,
+        "tempo": 171.281,
+        "time_signature": 3,
+        "valence": 0.696,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 35
+    }
+}

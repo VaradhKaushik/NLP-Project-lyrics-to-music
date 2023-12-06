@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Amy_Grant\\Everywhere_I_Go.mid",
+    "artist_band_name": "Amy Grant",
+    "song_title": "Everywhere I Go",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.759,
+        "acousticness": 0.0909,
+        "danceability": 0.645,
+        "instrumentalness": 1.44e-06,
+        "liveness": 0.114,
+        "speechiness": 0.0299,
+        "loudness": -5.798,
+        "tempo": 80.247,
+        "time_signature": 4,
+        "valence": 0.772,
+        "genre": [
+            "christian music"
+        ],
+        "popularity": 27
+    }
+}

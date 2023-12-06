@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Babyface\\Change_the_World.mid",
+    "artist_band_name": "Babyface",
+    "song_title": "Change the World",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.853,
+        "acousticness": 0.0768,
+        "danceability": 0.56,
+        "instrumentalness": 1.04e-05,
+        "liveness": 0.97,
+        "speechiness": 0.0454,
+        "loudness": -7.407,
+        "tempo": 107.395,
+        "time_signature": 4,
+        "valence": 0.4,
+        "genre": [
+            "contemporary r&b",
+            "r&b"
+        ],
+        "popularity": 32
+    }
+}

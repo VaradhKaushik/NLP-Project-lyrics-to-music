@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Bread\\Baby_Im_A_Want_You.mid",
+    "artist_band_name": "Bread",
+    "song_title": "Baby Im A Want You",
+    "lyrics": {
+        "Verse": [
+            "Baby, I'm-a want you, baby, I'm-a need you",
+            "You're the only one I care enough to hurt about",
+            "",
+            "Your loving and affection, giving me direction",
+            "Like a guiding light to help me through my darkest hour",
+            ""
+        ],
+        "Chorus": [
+            "Used to be my life was just emotions passing by",
+            "Feeling all the while and never really knowing why",
+            "",
+            "[Guitar Solo]",
+            "",
+            "Used to be my life was just emotions passing by",
+            "Then you came along and made me laugh and made me cry",
+            "You might also like[Post-Chorus]",
+            "You taught me why",
+            "",
+            "[Outro]",
+            "Baby, I'm-a want you, baby, I'm-a need you",
+            "Oh, it took so long to find you, baby",
+            "Baby, I'm-a want you, baby, I'm-a need you2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Maybe I'm-a crazy, but I just can't live without",
+            "",
+            "Lately I'm-a praying, that you'll always be a-staying",
+            "Beside me",
+            "",
+            "Lately I'm-a praying, that you'll always be a-staying",
+            "Beside me",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.289,
+        "acousticness": 0.743,
+        "danceability": 0.613,
+        "instrumentalness": 1.57e-06,
+        "liveness": 0.0617,
+        "speechiness": 0.0305,
+        "loudness": -16.529,
+        "tempo": 144.188,
+        "time_signature": 4,
+        "valence": 0.553,
+        "genre": [
+            "folk rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 68
+    }
+}

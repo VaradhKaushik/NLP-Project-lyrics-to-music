@@ -1,0 +1,74 @@
+{
+    "midi_file_path": "archive-new\\Billy_Ocean\\Suddenly.mid",
+    "artist_band_name": "Billy Ocean",
+    "song_title": "Suddenly",
+    "lyrics": {
+        "Verse": [
+            "I used to think that love was just a fairy tale",
+            "Until that first hello, until that first smile",
+            "But if I had to do it all again",
+            "I wouldn't change a thing",
+            "Cause this love is everlasting",
+            "",
+            "Girl you're everything a man could want and more",
+            "One thousand words are not enough",
+            "To say what I feel inside",
+            "Holding hands as we walk along the shore",
+            "Never felt like this before",
+            "Now you're all I'm living for",
+            ""
+        ],
+        "Chorus": [
+            "Suddenly, life has new meaning to me",
+            "There's beauty up above",
+            "And things we never take notice of",
+            "You wake up, and suddenly you're in love",
+            "",
+            "Ooh yeah",
+            "",
+            "Suddenly, life has new meaning to me",
+            "There's beauty up above",
+            "And things we never take notice of",
+            "You wake up, and suddenly you're in love",
+            "Suddenly, life has new meaning to me",
+            "There's beauty up above",
+            "And things we never take notice of",
+            "You wake up, suddenly you're in love",
+            "",
+            "[Outro]",
+            "Ooh",
+            "There's beauty up above",
+            "And things we never take notice of",
+            "You wake up, suddenly you're in love",
+            "Ooh...2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Each day",
+            "I pray, this love affair would last forever",
+            "Oh hoh",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.338,
+        "acousticness": 0.733,
+        "danceability": 0.496,
+        "instrumentalness": 0,
+        "liveness": 0.115,
+        "speechiness": 0.0316,
+        "loudness": -9.512,
+        "tempo": 129.486,
+        "time_signature": 4,
+        "valence": 0.202,
+        "genre": [
+            "disco",
+            "mellow gold",
+            "new romantic",
+            "new wave pop",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 63
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Liberatemi.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Liberatemi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.754,
+        "acousticness": 0.145,
+        "danceability": 0.673,
+        "instrumentalness": 0,
+        "liveness": 0.093,
+        "speechiness": 0.0462,
+        "loudness": -10.629,
+        "tempo": 140.031,
+        "time_signature": 4,
+        "valence": 0.555,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 33
+    }
+}

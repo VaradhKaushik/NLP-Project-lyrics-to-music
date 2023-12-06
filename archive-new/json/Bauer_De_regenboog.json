@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Bauer\\De_regenboog.mid",
+    "artist_band_name": "Bauer",
+    "song_title": "De regenboog",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.66,
+        "acousticness": 0.343,
+        "danceability": 0.663,
+        "instrumentalness": 0,
+        "liveness": 0.264,
+        "speechiness": 0.0268,
+        "loudness": -8.895,
+        "tempo": 106.695,
+        "time_signature": 4,
+        "valence": 0.818,
+        "genre": [
+            "carnaval",
+            "levenslied"
+        ],
+        "popularity": 5
+    }
+}

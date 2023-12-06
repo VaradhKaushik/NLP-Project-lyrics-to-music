@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Bob_Dylan\\Blowing_in_the_Wind.1.mid",
+    "artist_band_name": "Bob Dylan",
+    "song_title": "Blowing in the Wind.1",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.931,
+        "acousticness": 0.196,
+        "danceability": 0.302,
+        "instrumentalness": 0.0152,
+        "liveness": 0.995,
+        "speechiness": 0.0779,
+        "loudness": -6.193,
+        "tempo": 78.008,
+        "time_signature": 4,
+        "valence": 0.344,
+        "genre": [
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "rock",
+            "roots rock",
+            "singer-songwriter"
+        ],
+        "popularity": 21
+    }
+}

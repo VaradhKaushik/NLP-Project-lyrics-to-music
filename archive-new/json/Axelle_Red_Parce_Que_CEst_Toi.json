@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Axelle_Red\\Parce_Que_CEst_Toi.mid",
+    "artist_band_name": "Axelle Red",
+    "song_title": "Parce Que CEst Toi",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.2,
+        "acousticness": 0.933,
+        "danceability": 0.663,
+        "instrumentalness": 1.6e-05,
+        "liveness": 0.121,
+        "speechiness": 0.0405,
+        "loudness": -9.094,
+        "tempo": 116.061,
+        "time_signature": 4,
+        "valence": 0.253,
+        "genre": [
+            "belgian indie",
+            "belgian pop",
+            "french pop"
+        ],
+        "popularity": 56
+    }
+}

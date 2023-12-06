@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Brooks_and_Dunn\\Honky_Tonk_Truth.mid",
+    "artist_band_name": "Brooks and Dunn",
+    "song_title": "Honky Tonk Truth",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.847,
+        "acousticness": 0.0642,
+        "danceability": 0.574,
+        "instrumentalness": 8.07e-05,
+        "liveness": 0.383,
+        "speechiness": 0.0341,
+        "loudness": -7.251,
+        "tempo": 153.973,
+        "time_signature": 4,
+        "valence": 0.795,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road"
+        ],
+        "popularity": 41
+    }
+}

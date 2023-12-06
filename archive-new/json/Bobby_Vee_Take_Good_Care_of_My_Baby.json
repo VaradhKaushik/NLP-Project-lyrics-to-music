@@ -1,0 +1,65 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Vee\\Take_Good_Care_of_My_Baby.mid",
+    "artist_band_name": "Bobby Vee",
+    "song_title": "Take Good Care of My Baby",
+    "lyrics": {
+        "Verse": [
+            "Take good care of my baby",
+            "Please don't ever make her blue",
+            "Just tell her that you love her",
+            "Make sure you're thinkin' of her",
+            "In everything you say and do",
+            "",
+            "Oh, take good care of my baby",
+            "Now don't you ever make her cry",
+            "Just let your love surround her",
+            "Paint a rainbow all around her",
+            "Don't let her see a cloudy sky",
+            "",
+            "So, take good care of my baby",
+            "Be just as kind as you can be",
+            "And if you should discover",
+            "That you don't really love her",
+            "Just send my baby back home to me",
+            "",
+            "Well, take good care of my baby",
+            "Be just as kind as you can be",
+            "And if you should discover",
+            "That you don't really love her",
+            "Just send my baby back home to me",
+            "",
+            "[Outro]",
+            "Oh, take good care of my baby",
+            "Well, take good care of my baby",
+            "Just take good care of my baby3Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Once upon a time",
+            "That little girl was mine",
+            "If I'd been true",
+            "I know she'd never be with you"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.441,
+        "acousticness": 0.761,
+        "danceability": 0.487,
+        "instrumentalness": 0,
+        "liveness": 0.15,
+        "speechiness": 0.0722,
+        "loudness": -11.297,
+        "tempo": 82.707,
+        "time_signature": 4,
+        "valence": 0.604,
+        "genre": [
+            "adult standards",
+            "brill building pop",
+            "doo-wop",
+            "rock-and-roll",
+            "rockabilly"
+        ],
+        "popularity": 57
+    }
+}

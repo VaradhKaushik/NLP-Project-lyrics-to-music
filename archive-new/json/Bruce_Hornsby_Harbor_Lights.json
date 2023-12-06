@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bruce_Hornsby\\Harbor_Lights.mid",
+    "artist_band_name": "Bruce Hornsby",
+    "song_title": "Harbor Lights",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.678,
+        "acousticness": 0.0797,
+        "danceability": 0.586,
+        "instrumentalness": 0.00138,
+        "liveness": 0.189,
+        "speechiness": 0.0314,
+        "loudness": -9.944,
+        "tempo": 89.996,
+        "time_signature": 4,
+        "valence": 0.408,
+        "genre": [
+            "album rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 27
+    }
+}

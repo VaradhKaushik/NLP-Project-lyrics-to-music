@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Angelo_Branduardi\\La_pulce_dacqua.mid",
+    "artist_band_name": "Angelo Branduardi",
+    "song_title": "La pulce dacqua",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.461,
+        "acousticness": 0.763,
+        "danceability": 0.591,
+        "instrumentalness": 6.36e-05,
+        "liveness": 0.126,
+        "speechiness": 0.032,
+        "loudness": -15.45,
+        "tempo": 99.788,
+        "time_signature": 4,
+        "valence": 0.857,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop"
+        ],
+        "popularity": 41
+    }
+}

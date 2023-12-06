@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Grazie_mille.mid",
+    "artist_band_name": "883",
+    "song_title": "Grazie mille",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.878,
+        "acousticness": 0.0264,
+        "danceability": 0.541,
+        "instrumentalness": 0,
+        "liveness": 0.406,
+        "speechiness": 0.0393,
+        "loudness": -7.083,
+        "tempo": 106.087,
+        "time_signature": 4,
+        "valence": 0.545,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 44
+    }
+}

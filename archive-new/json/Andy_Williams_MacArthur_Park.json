@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Andy_Williams\\MacArthur_Park.mid",
+    "artist_band_name": "Andy Williams",
+    "song_title": "MacArthur Park",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.425,
+        "acousticness": 0.548,
+        "danceability": 0.324,
+        "instrumentalness": 0.261,
+        "liveness": 0.0523,
+        "speechiness": 0.057,
+        "loudness": -11.821,
+        "tempo": 177.042,
+        "time_signature": 1,
+        "valence": 0.262,
+        "genre": [
+            "adult standards",
+            "easy listening"
+        ],
+        "popularity": 21
+    }
+}

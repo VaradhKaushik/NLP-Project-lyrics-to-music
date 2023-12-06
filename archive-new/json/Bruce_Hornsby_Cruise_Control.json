@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bruce_Hornsby\\Cruise_Control.mid",
+    "artist_band_name": "Bruce Hornsby",
+    "song_title": "Cruise Control",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.896,
+        "acousticness": 0.128,
+        "danceability": 0.52,
+        "instrumentalness": 0.000711,
+        "liveness": 0.037,
+        "speechiness": 0.0581,
+        "loudness": -6.951,
+        "tempo": 194.824,
+        "time_signature": 4,
+        "valence": 0.925,
+        "genre": [
+            "album rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 16
+    }
+}

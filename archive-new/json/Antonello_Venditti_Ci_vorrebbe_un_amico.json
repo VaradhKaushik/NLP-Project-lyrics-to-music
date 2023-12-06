@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Ci_vorrebbe_un_amico.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Ci vorrebbe un amico",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.578,
+        "acousticness": 0.324,
+        "danceability": 0.573,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "speechiness": 0.0334,
+        "loudness": -13.016,
+        "tempo": 83.837,
+        "time_signature": 4,
+        "valence": 0.792,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 53
+    }
+}

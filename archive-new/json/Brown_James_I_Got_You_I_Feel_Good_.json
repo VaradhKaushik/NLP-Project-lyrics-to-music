@@ -1,0 +1,62 @@
+{
+    "midi_file_path": "archive-new\\Brown_James\\I_Got_You_I_Feel_Good_.mid",
+    "artist_band_name": "Brown James",
+    "song_title": "I Got You I Feel Good ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "Wow! I feel good, I knew that I would now",
+            "I feel good, I knew that I would now",
+            "So good, so good, I got you",
+            "",
+            "Wow! I feel nice, like sugar and spice",
+            "I feel nice, like sugar and spice",
+            "So nice, so nice, I got you",
+            "",
+            "And I feel nice, like sugar and spice",
+            "I feel nice, like sugar and spice",
+            "So nice, so nice, I got you",
+            "",
+            "And I feel nice, like sugar and spice",
+            "I feel nice, like sugar and spice",
+            "So nice, so nice, well I got you",
+            "",
+            "Wo! I feel good, I knew that I would, now",
+            "I feel good, I knew that I would",
+            "So good, so good, 'cause I got you",
+            "So good, so good, 'cause I got you",
+            "So good, so good, 'cause I got you",
+            "",
+            "[Outro]",
+            "Hey! Oh10Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "When I hold you in my arms",
+            "I know that I can do no wrong",
+            "And when I hold you in my arms",
+            "My love won't do you no harm",
+            "",
+            "When I hold you in my arms",
+            "I know that I can't do no wrong",
+            "And when I hold you in my arms",
+            "My love can't do me no harm"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.487,
+        "acousticness": 0.412,
+        "danceability": 0.613,
+        "instrumentalness": 1.02e-05,
+        "liveness": 0.286,
+        "speechiness": 0.0935,
+        "loudness": -8.781,
+        "tempo": 143.332,
+        "time_signature": 4,
+        "valence": 0.699,
+        "genre": [
+            "soul"
+        ],
+        "popularity": 72
+    }
+}

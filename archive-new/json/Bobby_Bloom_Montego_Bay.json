@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Bobby_Bloom\\Montego_Bay.mid",
+    "artist_band_name": "Bobby Bloom",
+    "song_title": "Montego Bay",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.586,
+        "acousticness": 0.734,
+        "danceability": 0.765,
+        "instrumentalness": 0.00218,
+        "liveness": 0.113,
+        "speechiness": 0.0367,
+        "loudness": -10.332,
+        "tempo": 105.567,
+        "time_signature": 4,
+        "valence": 0.943,
+        "genre": [],
+        "popularity": 43
+    }
+}

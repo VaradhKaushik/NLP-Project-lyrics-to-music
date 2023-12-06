@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Boney_James\\Aint_No_Sunshine.mid",
+    "artist_band_name": "Boney James",
+    "song_title": "Aint No Sunshine",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.473,
+        "acousticness": 0.51,
+        "danceability": 0.61,
+        "instrumentalness": 0.0374,
+        "liveness": 0.085,
+        "speechiness": 0.0409,
+        "loudness": -11.646,
+        "tempo": 154.073,
+        "time_signature": 4,
+        "valence": 0.555,
+        "genre": [
+            "smooth jazz",
+            "smooth saxophone"
+        ],
+        "popularity": 45
+    }
+}

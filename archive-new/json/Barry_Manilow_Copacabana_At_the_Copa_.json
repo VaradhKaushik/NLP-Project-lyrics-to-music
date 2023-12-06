@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Barry_Manilow\\Copacabana_At_the_Copa_.mid",
+    "artist_band_name": "Barry Manilow",
+    "song_title": "Copacabana At the Copa ",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.899,
+        "acousticness": 0.333,
+        "danceability": 0.606,
+        "instrumentalness": 0.000102,
+        "liveness": 0.0754,
+        "speechiness": 0.0758,
+        "loudness": -6.412,
+        "tempo": 116.735,
+        "time_signature": 4,
+        "valence": 0.66,
+        "genre": [
+            "adult standards",
+            "mellow gold",
+            "soft rock",
+            "yacht rock"
+        ],
+        "popularity": 74
+    }
+}

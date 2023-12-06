@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Innamorare_tanto.mid",
+    "artist_band_name": "883",
+    "song_title": "Innamorare tanto",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.935,
+        "acousticness": 0.0738,
+        "danceability": 0.57,
+        "instrumentalness": 0,
+        "liveness": 0.4,
+        "speechiness": 0.0457,
+        "loudness": -5.769,
+        "tempo": 127.982,
+        "time_signature": 4,
+        "valence": 0.709,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 36
+    }
+}

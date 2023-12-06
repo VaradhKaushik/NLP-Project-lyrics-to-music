@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battiato\\Lera_del_cinghiale_bianco.mid",
+    "artist_band_name": "Battiato",
+    "song_title": "Lera del cinghiale bianco",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.684,
+        "acousticness": 0.142,
+        "danceability": 0.582,
+        "instrumentalness": 0.0394,
+        "liveness": 0.165,
+        "speechiness": 0.0379,
+        "loudness": -9.685,
+        "tempo": 131.079,
+        "time_signature": 3,
+        "valence": 0.477,
+        "genre": [
+            "classic italian pop",
+            "experimental",
+            "italian adult pop"
+        ],
+        "popularity": 35
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bizet_Georges\\Carmen.mid",
+    "artist_band_name": "Bizet Georges",
+    "song_title": "Carmen",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.00674,
+        "acousticness": 0.952,
+        "danceability": 0.248,
+        "instrumentalness": 0.271,
+        "liveness": 0.155,
+        "speechiness": 0.0417,
+        "loudness": -36.547,
+        "tempo": 176.236,
+        "time_signature": 3,
+        "valence": 0.185,
+        "genre": [
+            "classical",
+            "french opera",
+            "french romanticism",
+            "late romantic era"
+        ],
+        "popularity": 64
+    }
+}

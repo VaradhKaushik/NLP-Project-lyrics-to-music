@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Brandenburg_Concerto_No._2_in_F_major,_BWV_1047_III._Allegro_assai.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Brandenburg Concerto No. 2 in F major, BWV 1047 III. Allegro assai",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.343,
+        "acousticness": 0.931,
+        "danceability": 0.73,
+        "instrumentalness": 0.835,
+        "liveness": 0.0677,
+        "speechiness": 0.0706,
+        "loudness": -16.566,
+        "tempo": 108.824,
+        "time_signature": 4,
+        "valence": 0.961,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 38
+    }
+}

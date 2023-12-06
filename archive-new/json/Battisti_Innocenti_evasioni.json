@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\Innocenti_evasioni.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "Innocenti evasioni",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.383,
+        "acousticness": 0.591,
+        "danceability": 0.56,
+        "instrumentalness": 0.000503,
+        "liveness": 0.0589,
+        "speechiness": 0.171,
+        "loudness": -15.797,
+        "tempo": 115.141,
+        "time_signature": 4,
+        "valence": 0.528,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 45
+    }
+}

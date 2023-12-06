@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Bon_Jovi\\Santa_Fe.mid",
+    "artist_band_name": "Bon Jovi",
+    "song_title": "Santa Fe",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.507,
+        "acousticness": 0.126,
+        "danceability": 0.518,
+        "instrumentalness": 0,
+        "liveness": 0.0457,
+        "speechiness": 0.0295,
+        "loudness": -9.693,
+        "tempo": 140.106,
+        "time_signature": 4,
+        "valence": 0.299,
+        "genre": [
+            "hard rock"
+        ],
+        "popularity": 54
+    }
+}

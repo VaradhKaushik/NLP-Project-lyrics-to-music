@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Annie_Lennox\\Missionary_Man.mid",
+    "artist_band_name": "Annie Lennox",
+    "song_title": "Missionary Man",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.429,
+        "acousticness": 0.885,
+        "danceability": 0.572,
+        "instrumentalness": 1.68e-05,
+        "liveness": 0.168,
+        "speechiness": 0.125,
+        "loudness": -16.268,
+        "tempo": 129.584,
+        "time_signature": 4,
+        "valence": 0.4,
+        "genre": [],
+        "popularity": 0
+    }
+}

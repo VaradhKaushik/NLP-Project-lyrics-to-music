@@ -1,0 +1,61 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Longneck_Bottle.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Longneck Bottle",
+    "lyrics": {
+        "Verse": [
+            "Hey barroom mirror on the wall",
+            "Go stare at someone else",
+            "Don't show the world the fool I am",
+            "Just keep it to yourself",
+            "",
+            "Hey, dance floor, seems you're underneath my feet",
+            "Everywhere I turn",
+            "I ought to waltz right out of them swingin' doors",
+            "But that's a step I just can't learn"
+        ],
+        "Chorus": [
+            "Longneck bottle let go of my hand",
+            "Hey jukebox don't start playing that song again",
+            "'Cause there's a girl at home who loves me",
+            "You know she won't understand",
+            "Longneck bottle let go of my hand",
+            "",
+            "Longneck bottle let go of my hand",
+            "Whoa, jukebox don't start playing that song again",
+            "'Cause there's a girl at home who loves me",
+            "You know she won't understand",
+            "Longneck bottle let go of my hand",
+            "Let it go",
+            "",
+            "[Interlude]",
+            "",
+            "Longneck bottle let go of my hand",
+            "Hey, jukebox don't start playin' that song again",
+            "'Cause there's a girl at home who loves me",
+            "You know she won't understand",
+            "Longneck bottle let go of my hand",
+            "",
+            "[Outro]",
+            "There's a girl at home who loves me",
+            "You know she won't understand",
+            "Longneck bottle let go of my hand1Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.833,
+        "acousticness": 0.561,
+        "danceability": 0.502,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "speechiness": 0.0775,
+        "loudness": -2.717,
+        "tempo": 179.171,
+        "time_signature": 4,
+        "valence": 0.862,
+        "genre": [],
+        "popularity": 36
+    }
+}

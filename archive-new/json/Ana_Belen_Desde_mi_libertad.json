@@ -1,0 +1,31 @@
+{
+    "midi_file_path": "archive-new\\Ana_Belen\\Desde_mi_libertad.mid",
+    "artist_band_name": "Ana Belen",
+    "song_title": "Desde mi libertad",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.265,
+        "acousticness": 0.836,
+        "danceability": 0.457,
+        "instrumentalness": 7.34e-05,
+        "liveness": 0.981,
+        "speechiness": 0.0292,
+        "loudness": -14.322,
+        "tempo": 83.825,
+        "time_signature": 4,
+        "valence": 0.287,
+        "genre": [
+            "cancion melodica",
+            "cantautor",
+            "nueva cancion",
+            "spanish pop",
+            "trova"
+        ],
+        "popularity": 32
+    }
+}

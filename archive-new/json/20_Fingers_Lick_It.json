@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\20_Fingers\\Lick_It.mid",
+    "artist_band_name": "20 Fingers",
+    "song_title": "Lick It",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.403,
+        "acousticness": 0.00403,
+        "danceability": 0.918,
+        "instrumentalness": 0.579,
+        "liveness": 0.0713,
+        "speechiness": 0.0821,
+        "loudness": -14.439,
+        "tempo": 127.005,
+        "time_signature": 4,
+        "valence": 0.286,
+        "genre": [
+            "eurodance",
+            "hip house"
+        ],
+        "popularity": 38
+    }
+}

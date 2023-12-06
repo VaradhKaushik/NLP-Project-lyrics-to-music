@@ -1,0 +1,33 @@
+{
+    "midi_file_path": "archive-new\\Alan_Parsons\\Time.mid",
+    "artist_band_name": "Alan Parsons",
+    "song_title": "Time",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.349,
+        "acousticness": 0.272,
+        "danceability": 0.338,
+        "instrumentalness": 0.0677,
+        "liveness": 0.143,
+        "speechiness": 0.0264,
+        "loudness": -12.7,
+        "tempo": 146.827,
+        "time_signature": 4,
+        "valence": 0.109,
+        "genre": [
+            "album rock",
+            "art rock",
+            "classic rock",
+            "mellow gold",
+            "progressive rock",
+            "soft rock",
+            "symphonic rock"
+        ],
+        "popularity": 55
+    }
+}

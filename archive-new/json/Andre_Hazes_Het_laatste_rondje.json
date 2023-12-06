@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Andre_Hazes\\Het_laatste_rondje.mid",
+    "artist_band_name": "Andre Hazes",
+    "song_title": "Het laatste rondje",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.742,
+        "acousticness": 0.0174,
+        "danceability": 0.341,
+        "instrumentalness": 0,
+        "liveness": 0.0569,
+        "speechiness": 0.106,
+        "loudness": -7.907,
+        "tempo": 205.914,
+        "time_signature": 4,
+        "valence": 0.749,
+        "genre": [
+            "dutch rock",
+            "kermis",
+            "levenslied"
+        ],
+        "popularity": 51
+    }
+}

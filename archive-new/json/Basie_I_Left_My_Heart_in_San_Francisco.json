@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\I_Left_My_Heart_in_San_Francisco.mid",
+    "artist_band_name": "Basie",
+    "song_title": "I Left My Heart in San Francisco",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.112,
+        "acousticness": 0.879,
+        "danceability": 0.618,
+        "instrumentalness": 0.466,
+        "liveness": 0.254,
+        "speechiness": 0.0316,
+        "loudness": -17.216,
+        "tempo": 106.775,
+        "time_signature": 4,
+        "valence": 0.452,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 28
+    }
+}

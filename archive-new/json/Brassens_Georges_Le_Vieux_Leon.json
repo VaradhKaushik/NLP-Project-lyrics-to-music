@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Le_Vieux_Leon.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Le Vieux Leon",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.142,
+        "acousticness": 0.918,
+        "danceability": 0.782,
+        "instrumentalness": 1.31e-06,
+        "liveness": 0.227,
+        "speechiness": 0.136,
+        "loudness": -14.023,
+        "tempo": 108.363,
+        "time_signature": 3,
+        "valence": 0.657,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 5
+    }
+}

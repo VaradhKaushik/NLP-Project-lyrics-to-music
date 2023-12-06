@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\883\\Le_luci_di_Natale.mid",
+    "artist_band_name": "883",
+    "song_title": "Le luci di Natale",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.749,
+        "acousticness": 0.0784,
+        "danceability": 0.589,
+        "instrumentalness": 0,
+        "liveness": 0.115,
+        "speechiness": 0.0296,
+        "loudness": -8.107,
+        "tempo": 140.074,
+        "time_signature": 4,
+        "valence": 0.667,
+        "genre": [
+            "italian adult pop"
+        ],
+        "popularity": 1
+    }
+}

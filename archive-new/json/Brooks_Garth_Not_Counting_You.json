@@ -1,0 +1,51 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Not_Counting_You.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Not Counting You",
+    "lyrics": {
+        "Verse": [
+            "When loving turns to parting, I'm always the first to leave",
+            "'Cause when it comes to heartaches I'd rather give than to receive",
+            "I've never cried myself to sleep just praying I'll get through",
+            "I've never lost at love not counting you",
+            "",
+            "I've never got down on my knees and asked the Lord above",
+            "If He would only bring to me the one I'm dreaming of",
+            "Begging to be taken back and swearin' I'll be true",
+            "Has never crossed my mind not counting you",
+            ""
+        ],
+        "Chorus": [
+            "Not counting you, I've never had a heartache",
+            "Not counting you, I never have been blue",
+            "There's no exceptions to the rule, I've never been nobody's fool",
+            "I've never lost at love not counting you",
+            "",
+            "Not counting you, I've never had a heartache",
+            "Not counting you, I never have been blue",
+            "There's no exceptions to the rule, I've never been nobody's fool",
+            "I've never lost at love not counting you",
+            "",
+            "[Outro]",
+            "There's no exceptions to the rule, I've never been nobody's fool",
+            "I've never lost at love not counting you",
+            "No, I've never lost at love not counting youYou might also likeEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.411,
+        "acousticness": 0.00494,
+        "danceability": 0.527,
+        "instrumentalness": 1.51e-06,
+        "liveness": 0.141,
+        "speechiness": 0.0517,
+        "loudness": -17.037,
+        "tempo": 161.014,
+        "time_signature": 4,
+        "valence": 0.943,
+        "genre": [],
+        "popularity": 2
+    }
+}

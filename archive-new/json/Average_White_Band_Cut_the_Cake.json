@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Average_White_Band\\Cut_the_Cake.mid",
+    "artist_band_name": "Average White Band",
+    "song_title": "Cut the Cake",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.632,
+        "acousticness": 0.284,
+        "danceability": 0.807,
+        "instrumentalness": 0.668,
+        "liveness": 0.0364,
+        "speechiness": 0.0524,
+        "loudness": -11.925,
+        "tempo": 108.622,
+        "time_signature": 4,
+        "valence": 0.964,
+        "genre": [
+            "classic soul",
+            "disco",
+            "funk",
+            "p funk",
+            "quiet storm",
+            "soul"
+        ],
+        "popularity": 38
+    }
+}

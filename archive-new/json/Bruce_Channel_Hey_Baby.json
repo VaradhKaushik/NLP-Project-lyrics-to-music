@@ -1,0 +1,71 @@
+{
+    "midi_file_path": "archive-new\\Bruce_Channel\\Hey_Baby.mid",
+    "artist_band_name": "Bruce Channel",
+    "song_title": "Hey Baby",
+    "lyrics": {
+        "Verse": [
+            "When I saw you walkin' down the street",
+            "I said that's the kind of gal I'd like to meet",
+            "She's so pretty, Lord, she's fine",
+            "I'm gonna make her mine all mine",
+            "",
+            "When you turned and walked away",
+            "That's when I wanna say",
+            "Come on, baby, give me a whirl",
+            "I wanna know if you'll be my girl",
+            "When you turned and walked away",
+            "That's when I wanna say",
+            "Come on, baby, give me a whirl",
+            "I wanna know if you'll be my girl",
+            ""
+        ],
+        "Chorus": [
+            "Hey",
+            "Hey, baby",
+            "I wanna know",
+            "If you'll be my girl",
+            "",
+            "Hey",
+            "Hey, baby",
+            "I wanna know",
+            "If you'll be my girl",
+            "",
+            "Hey",
+            "Hey, baby",
+            "I wanna know",
+            "If you'll be my girl",
+            "",
+            "Hey",
+            "Hey, baby",
+            "I wanna know",
+            "If you'll be my girl",
+            "",
+            "Hey",
+            "Hey, baby",
+            "I wanna know",
+            "If you'll be my girl",
+            "",
+            "[Outro]",
+            "Hey",
+            "Hey-ey-ey-eyEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.623,
+        "acousticness": 0.359,
+        "danceability": 0.515,
+        "instrumentalness": 0,
+        "liveness": 0.274,
+        "speechiness": 0.036,
+        "loudness": -5.597,
+        "tempo": 64.253,
+        "time_signature": 4,
+        "valence": 0.643,
+        "genre": [
+            "rock-and-roll"
+        ],
+        "popularity": 65
+    }
+}

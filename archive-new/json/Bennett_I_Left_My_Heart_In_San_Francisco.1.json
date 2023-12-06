@@ -1,0 +1,45 @@
+{
+    "midi_file_path": "archive-new\\Bennett\\I_Left_My_Heart_In_San_Francisco.1.mid",
+    "artist_band_name": "Bennett",
+    "song_title": "I Left My Heart In San Francisco.1",
+    "lyrics": {
+        "Verse": [
+            "The loveliness of Paris seems somehow sadly gay",
+            "The glory that was Rome is of another day",
+            "I've been terribly alone and forgotten in Manhattan",
+            "I'm going home to my city by the Bay",
+            "",
+            "I left my heart in San Francisco",
+            "High on a hill, it calls to me",
+            "To be where little cable cars climb halfway to the stars",
+            "The morning fog may chill the air, I don't care",
+            "",
+            "My love waits there in San Francisco",
+            "Above the blue and windy sea",
+            "When I come home to you, San Francisco",
+            "Your golden sun will shine for meYou might also like4Embed"
+        ],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.528,
+        "acousticness": 0.588,
+        "danceability": 0.326,
+        "instrumentalness": 2.07e-05,
+        "liveness": 0.97,
+        "speechiness": 0.0691,
+        "loudness": -15.09,
+        "tempo": 67.675,
+        "time_signature": 4,
+        "valence": 0.453,
+        "genre": [
+            "adult standards",
+            "easy listening",
+            "lounge",
+            "vocal jazz"
+        ],
+        "popularity": 20
+    }
+}

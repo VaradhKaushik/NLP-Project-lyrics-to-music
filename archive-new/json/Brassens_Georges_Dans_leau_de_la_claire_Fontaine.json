@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Dans_leau_de_la_claire_Fontaine.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Dans leau de la claire Fontaine",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.242,
+        "acousticness": 0.863,
+        "danceability": 0.56,
+        "instrumentalness": 1.55e-05,
+        "liveness": 0.111,
+        "speechiness": 0.0599,
+        "loudness": -15.793,
+        "tempo": 88.225,
+        "time_signature": 4,
+        "valence": 0.471,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 21
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Biagio_Antonacci\\Non_e_mai_stato_subito.mid",
+    "artist_band_name": "Biagio Antonacci",
+    "song_title": "Non e mai stato subito",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.681,
+        "acousticness": 0.348,
+        "danceability": 0.553,
+        "instrumentalness": 0,
+        "liveness": 0.062,
+        "speechiness": 0.0384,
+        "loudness": -9.167,
+        "tempo": 157.759,
+        "time_signature": 4,
+        "valence": 0.658,
+        "genre": [
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 23
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "midi_file_path": "archive-new\\Broadway\\Bring_on_the_Storm.mid",
+    "artist_band_name": "Broadway",
+    "song_title": "Bring on the Storm",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [
+            "And I finally did it. And I\u2019m finally warm",
+            "So shut down America and bring on the storm",
+            "Oh, I finally did it. And I\u2019m finally warm",
+            "So shut down America, bring on the storm",
+            "",
+            "Without a clue or a hypothesis I survived the bitter cold",
+            "And I write you from the frozen sea",
+            "The first of many stories told of feeling trapped",
+            "Collapsed. Couldn\u2019t balance on my own two feet",
+            "I saw my friends shake, shaking uncontrollably from lack of heat",
+            "",
+            "And I finally did it. And I\u2019m finally warm",
+            "So shut down America and bring on the storm",
+            "Oh, I finally did it. And I\u2019m finally warm",
+            "So shut down America, bring on the storm",
+            "",
+            "The Pacific freezes over and I step onto the ice",
+            "I walk out to an island never seen by human eyes",
+            "I light a fire and wait for you, so look for smoke and sparks tonight",
+            "And I finally did it. And I\u2019m finally warm",
+            "So shut down America and bring on the storm",
+            "Oh, I finally did it. And I\u2019m finally warm",
+            "So shut down America, bring on the storm",
+            "And I finally did it. And I\u2019m finally warm",
+            "So shut down America and bring on the storm",
+            "Oh, I finally did it. And I\u2019m finally warm",
+            "So shut down America, bring on the stormEmbed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.981,
+        "acousticness": 0.00404,
+        "danceability": 0.342,
+        "instrumentalness": 0,
+        "liveness": 0.0731,
+        "speechiness": 0.18,
+        "loudness": -3.947,
+        "tempo": 181.442,
+        "time_signature": 4,
+        "valence": 0.319,
+        "genre": [
+            "orgcore"
+        ],
+        "popularity": 11
+    }
+}

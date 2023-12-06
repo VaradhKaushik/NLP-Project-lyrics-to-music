@@ -1,0 +1,34 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Shameless.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Shameless",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.918,
+        "acousticness": 0.0839,
+        "danceability": 0.391,
+        "instrumentalness": 1.21e-06,
+        "liveness": 0.998,
+        "speechiness": 0.0473,
+        "loudness": -3.054,
+        "tempo": 129.435,
+        "time_signature": 4,
+        "valence": 0.337,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 42
+    }
+}

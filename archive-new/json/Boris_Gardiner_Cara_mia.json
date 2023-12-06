@@ -1,0 +1,25 @@
+{
+    "midi_file_path": "archive-new\\Boris_Gardiner\\Cara_mia.mid",
+    "artist_band_name": "Boris Gardiner",
+    "song_title": "Cara mia",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.559,
+        "acousticness": 0.221,
+        "danceability": 0.62,
+        "instrumentalness": 0,
+        "liveness": 0.184,
+        "speechiness": 0.0465,
+        "loudness": -12.371,
+        "tempo": 172.356,
+        "time_signature": 4,
+        "valence": 0.859,
+        "genre": [],
+        "popularity": 8
+    }
+}

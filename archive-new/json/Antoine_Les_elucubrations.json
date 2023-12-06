@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Antoine\\Les_elucubrations.mid",
+    "artist_band_name": "Antoine",
+    "song_title": "Les elucubrations",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.912,
+        "acousticness": 0.559,
+        "danceability": 0.57,
+        "instrumentalness": 1.2e-05,
+        "liveness": 0.0493,
+        "speechiness": 0.196,
+        "loudness": -4.582,
+        "tempo": 85.072,
+        "time_signature": 4,
+        "valence": 0.871,
+        "genre": [
+            "ye ye"
+        ],
+        "popularity": 12
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "midi_file_path": "archive-new\\Alanis_Morissette\\Uninvited.mid",
+    "artist_band_name": "Alanis Morissette",
+    "song_title": "Uninvited",
+    "lyrics": {
+        "Verse": [
+            "Like anyone would be",
+            "I am flattered by your fascination with me",
+            "Like any hot blooded woman",
+            "I have simply wanted an object to crave",
+            "",
+            "Must be strangely exciting",
+            "To watch the stoic squirm",
+            "Must be somewhat heartening",
+            "To watch shepherd meet shepherd",
+            "",
+            "Like any uncharted territory",
+            "I must seem greatly intriguing",
+            "You speak of my love like",
+            "You have experienced love like mine before"
+        ],
+        "Chorus": [
+            "But you, you're not allowed",
+            "You're uninvited",
+            "An unfortunate slight",
+            "",
+            "But you, you're not allowed",
+            "You're uninvited",
+            "An unfortunate slight",
+            "",
+            "But this is not allowed",
+            "You're uninvited",
+            "An unfortunate slight",
+            "",
+            "[Outro]",
+            "I don't think you unworthy",
+            "But I need a moment to deliberate7Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.538,
+        "acousticness": 0.0223,
+        "danceability": 0.38,
+        "instrumentalness": 0.00487,
+        "liveness": 0.094,
+        "speechiness": 0.0313,
+        "loudness": -5.493,
+        "tempo": 127.416,
+        "time_signature": 4,
+        "valence": 0.193,
+        "genre": [
+            "canadian pop",
+            "canadian singer-songwriter",
+            "lilith",
+            "neo mellow",
+            "pop rock",
+            "singer-songwriter"
+        ],
+        "popularity": 62
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Bilk\\Fond_Memories.mid",
+    "artist_band_name": "Bilk",
+    "song_title": "Fond Memories",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.662,
+        "acousticness": 0.752,
+        "danceability": 0.311,
+        "instrumentalness": 0.762,
+        "liveness": 0.167,
+        "speechiness": 0.0472,
+        "loudness": -11.761,
+        "tempo": 98.042,
+        "time_signature": 4,
+        "valence": 0.535,
+        "genre": [
+            "easy listening",
+            "jazz clarinet"
+        ],
+        "popularity": 18
+    }
+}

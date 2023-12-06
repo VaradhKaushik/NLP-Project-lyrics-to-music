@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Billie_Jo_Spears\\Blanket_On_The_Ground.mid",
+    "artist_band_name": "Billie Jo Spears",
+    "song_title": "Blanket On The Ground",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.519,
+        "acousticness": 0.394,
+        "danceability": 0.465,
+        "instrumentalness": 0.00156,
+        "liveness": 0.204,
+        "speechiness": 0.0239,
+        "loudness": -11.819,
+        "tempo": 86.6,
+        "time_signature": 4,
+        "valence": 0.881,
+        "genre": [
+            "classic country pop"
+        ],
+        "popularity": 53
+    }
+}

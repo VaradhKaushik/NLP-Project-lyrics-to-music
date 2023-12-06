@@ -1,0 +1,46 @@
+{
+    "midi_file_path": "archive-new\\Battisti\\29_Settembre.mid",
+    "artist_band_name": "Battisti",
+    "song_title": "29 Settembre",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Quasi come se non ci fosse che lei",
+            "Come se non ci fosse che lei",
+            "You might also like[Strofa 3]",
+            "Mi son svegliato e",
+            "E sto pensando a te",
+            "Ricordo solo che",
+            "Che ieri non eri con me",
+            "Il sole ha cancellato tutto",
+            "Di colpo volo gi\u00f9 dal letto",
+            "E corro l\u00ec al telefono",
+            "Parlo, rido e tu, tu non sai perch\u00e9",
+            "T'amo, t'amo e tu, tu non sai perch\u00e9",
+            "Parlo, rido e tu, tu non sai perch\u00e9",
+            "T'amo, t'amo e tu, tu non sai perch\u00e9",
+            "T'amo, rido e tu, tu non sai perch\u00e9",
+            "T'amo, t'amo, tu, tu non sai perch\u00e9...Embed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.392,
+        "acousticness": 0.724,
+        "danceability": 0.468,
+        "instrumentalness": 0,
+        "liveness": 0.096,
+        "speechiness": 0.0275,
+        "loudness": -10.576,
+        "tempo": 90.327,
+        "time_signature": 4,
+        "valence": 0.405,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 48
+    }
+}

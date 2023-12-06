@@ -1,0 +1,29 @@
+{
+    "midi_file_path": "archive-new\\Antonello_Venditti\\Lottimista.mid",
+    "artist_band_name": "Antonello Venditti",
+    "song_title": "Lottimista",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.593,
+        "acousticness": 0.284,
+        "danceability": 0.737,
+        "instrumentalness": 0.000103,
+        "liveness": 0.129,
+        "speechiness": 0.0294,
+        "loudness": -13.67,
+        "tempo": 108.465,
+        "time_signature": 4,
+        "valence": 0.851,
+        "genre": [
+            "canzone d'autore",
+            "classic italian pop",
+            "italian adult pop"
+        ],
+        "popularity": 25
+    }
+}

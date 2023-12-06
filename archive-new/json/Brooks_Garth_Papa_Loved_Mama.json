@@ -1,0 +1,59 @@
+{
+    "midi_file_path": "archive-new\\Brooks_Garth\\Papa_Loved_Mama.mid",
+    "artist_band_name": "Brooks Garth",
+    "song_title": "Papa Loved Mama",
+    "lyrics": {
+        "Verse": [
+            "Papa drove a truck nearly all his life",
+            "You know it drove mama crazy bein' a trucker's wife",
+            "The part she couldn't handle was the bein' alone",
+            "I guess she needed more to hold than just a telephone",
+            "Papa called Mama each and every night",
+            "Just to ask her how she was and if us kids were alright",
+            "Mama would wait for that call to come in",
+            "But when Daddy'd hang up she was gone again",
+            "",
+            "Well, it was bound to happen and one night it did",
+            "Papa came home and it was just us kids",
+            "He had a dozen roses and a bottle of wine",
+            "If he was lookin' to surprise us he was doin' fine",
+            "I heard him cry for Mama up and down the hall",
+            "Then I heard a bottle break against the bedroom wall",
+            "That old diesel engine made an eerie sound",
+            "When Papa fired it up and headed into town"
+        ],
+        "Chorus": [
+            "Mama was a looker, Lord, how she shined",
+            "Papa was a good 'ne, but the jealous kind",
+            "Papa loved Mama, Mama loved men",
+            "Mama's in the graveyard, Papa's in the pen",
+            "",
+            "Mama was a looker, Lord, how she shined",
+            "Papa was a good'n, but the jealous kind",
+            "Papa loved Mama, Mama loved men",
+            "Mama's in the graveyard, Papa's in the pen2Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Oh, the picture in the paper showed the scene real well",
+            "Papa's rig was buried in the local motel",
+            "The desk clerk said he saw it all real clear",
+            "He never hit the brakes and he was shiftin' gears",
+            ""
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.767,
+        "acousticness": 0.0112,
+        "danceability": 0.53,
+        "instrumentalness": 0.00142,
+        "liveness": 0.107,
+        "speechiness": 0.0392,
+        "loudness": -10.069,
+        "tempo": 161.982,
+        "time_signature": 4,
+        "valence": 0.906,
+        "genre": [],
+        "popularity": 23
+    }
+}

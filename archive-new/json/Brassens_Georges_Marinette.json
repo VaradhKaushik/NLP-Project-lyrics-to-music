@@ -1,0 +1,28 @@
+{
+    "midi_file_path": "archive-new\\Brassens_Georges\\Marinette.mid",
+    "artist_band_name": "Brassens Georges",
+    "song_title": "Marinette",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.341,
+        "acousticness": 0.608,
+        "danceability": 0.854,
+        "instrumentalness": 1.69e-06,
+        "liveness": 0.205,
+        "speechiness": 0.364,
+        "loudness": -9.613,
+        "tempo": 129.613,
+        "time_signature": 4,
+        "valence": 0.925,
+        "genre": [
+            "chanson",
+            "french rock"
+        ],
+        "popularity": 21
+    }
+}

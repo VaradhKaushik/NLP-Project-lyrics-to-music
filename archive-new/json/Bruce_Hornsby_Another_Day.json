@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Bruce_Hornsby\\Another_Day.mid",
+    "artist_band_name": "Bruce Hornsby",
+    "song_title": "Another Day",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.89,
+        "acousticness": 0.184,
+        "danceability": 0.669,
+        "instrumentalness": 0.00112,
+        "liveness": 0.0423,
+        "speechiness": 0.0602,
+        "loudness": -6.239,
+        "tempo": 123.92,
+        "time_signature": 4,
+        "valence": 0.962,
+        "genre": [
+            "album rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 12
+    }
+}

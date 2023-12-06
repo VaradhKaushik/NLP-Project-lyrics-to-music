@@ -1,0 +1,75 @@
+{
+    "midi_file_path": "archive-new\\A_Taste_of_Honey\\Boogie_Oogie_Oogie.mid",
+    "artist_band_name": "A Taste of Honey",
+    "song_title": "Boogie Oogie Oogie",
+    "lyrics": {
+        "Verse": [
+            "If you're thinkin' you're too cool to boogie",
+            "Boy oh boy, have I got news for you",
+            "Everybody here tonight must boogie",
+            "Let me tell ya, you are no exception to the rule",
+            "",
+            "There's no time to waste, let's get this show on the road (Ooo)",
+            "Listen to the music and let your body flow",
+            "The sooner we begin, the longer we've got to groove (Ooo)",
+            "Listen to the music and let your body move (This is feeling good)",
+            ""
+        ],
+        "Chorus": [
+            "Get on up on the floor",
+            "'Cause we're gonna boogie oogie oogie",
+            "Till you just can't boogie no more (No more boogie)",
+            "Boogie no more",
+            "You can't boogie no more (No more boogie)",
+            "Boogie no more, listen to the music",
+            "",
+            "Now get on up on the floor",
+            "'Cause we're gonna boogie oogie oogie",
+            "Till you just can't boogie no more (No more boogie)",
+            "Boogie no more",
+            "You can't boogie no more (No more boogie)",
+            "Boogie no more, listen to my bass here",
+            "You might also like[Instrumental]",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Boogie",
+            "Boogie",
+            "Boogie",
+            "Boogie",
+            "",
+            "Get down, boogie oogie oogie",
+            "Get down, boogie oogie oogie",
+            "Get down, boogie oogie oogie",
+            "Get down",
+            "",
+            "Get down, boogie oogie oogie",
+            "Get down, boogie oogie oogie",
+            "Get down, boogie oogie oogie",
+            "Get down",
+            "",
+            "Boogie",
+            "Boogie",
+            "Boogie",
+            "BoogieEmbed"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.569,
+        "acousticness": 0.133,
+        "danceability": 0.791,
+        "instrumentalness": 0.00035,
+        "liveness": 0.139,
+        "speechiness": 0.0553,
+        "loudness": -10.372,
+        "tempo": 123.977,
+        "time_signature": 4,
+        "valence": 0.889,
+        "genre": [
+            "boogie",
+            "disco"
+        ],
+        "popularity": 53
+    }
+}

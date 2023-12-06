@@ -1,0 +1,57 @@
+{
+    "midi_file_path": "archive-new\\Blood,_Sweat_and_Tears\\Go_Down_Gamblin.mid",
+    "artist_band_name": "Blood, Sweat and Tears",
+    "song_title": "Go Down Gamblin",
+    "lyrics": {
+        "Verse": [
+            "Born a natural loser -- can't recall just where",
+            "Raised on brew and poker and a dollar here and there",
+            "Blackjack hand, dealer man, you better pay off that last bet",
+            "Two-bit hand, a 21 is all I ever get",
+            "",
+            "Down in a crap game, I've been losin' at roulette",
+            "Cards are bound to break me, but I ain't busted yet",
+            "Cause I've been called a natural lover by that lady over there",
+            "Honey, I'm just a natural gambler but I try to do my share",
+            "",
+            "[Guitar Solo 2]",
+            ""
+        ],
+        "Chorus": [
+            "Go down gamblin', say it when you're runnin' low",
+            "Go down gamblin' -- you may never have to go no",
+            "",
+            "[Guitar Solo 1]",
+            ""
+        ],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.792,
+        "acousticness": 0.0944,
+        "danceability": 0.417,
+        "instrumentalness": 0.00585,
+        "liveness": 0.354,
+        "speechiness": 0.0678,
+        "loudness": -10.47,
+        "tempo": 106.395,
+        "time_signature": 4,
+        "valence": 0.632,
+        "genre": [
+            "album rock",
+            "blues rock",
+            "classic rock",
+            "country rock",
+            "folk",
+            "folk rock",
+            "heartland rock",
+            "jazz rock",
+            "mellow gold",
+            "singer-songwriter",
+            "soft rock",
+            "southern rock"
+        ],
+        "popularity": 40
+    }
+}

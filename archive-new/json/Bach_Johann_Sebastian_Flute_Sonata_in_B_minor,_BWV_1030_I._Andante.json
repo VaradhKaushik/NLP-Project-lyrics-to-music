@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Bach_Johann_Sebastian\\Flute_Sonata_in_B_minor,_BWV_1030_I._Andante.mid",
+    "artist_band_name": "Bach Johann Sebastian",
+    "song_title": "Flute Sonata in B minor, BWV 1030 I. Andante",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.175,
+        "acousticness": 0.914,
+        "danceability": 0.4,
+        "instrumentalness": 5.82e-05,
+        "liveness": 0.271,
+        "speechiness": 0.0444,
+        "loudness": -18.532,
+        "tempo": 123.298,
+        "time_signature": 4,
+        "valence": 0.413,
+        "genre": [
+            "baroque",
+            "classical",
+            "early music",
+            "german baroque"
+        ],
+        "popularity": 19
+    }
+}

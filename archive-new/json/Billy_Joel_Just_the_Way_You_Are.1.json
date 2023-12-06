@@ -1,0 +1,73 @@
+{
+    "midi_file_path": "archive-new\\Billy_Joel\\Just_the_Way_You_Are.1.mid",
+    "artist_band_name": "Billy Joel",
+    "song_title": "Just the Way You Are.1",
+    "lyrics": {
+        "Verse": [
+            "Don't go changing to try and please me",
+            "You never let me down before, mm",
+            "And don't imagine you're too familiar",
+            "And I don't see you anymore",
+            "",
+            "Don't go trying some new fashion",
+            "Don't change the color of your hair, mm",
+            "You always have my unspoken passion",
+            "Although I might not seem to care",
+            ""
+        ],
+        "Chorus": [
+            "I would not leave you in times of trouble",
+            "We never could have come this far, mm",
+            "I took the good times, I'll take the bad times",
+            "I take you just the way you are",
+            "",
+            "I don't want clever conversation",
+            "Never want to work that hard, mm",
+            "I just want someone that I can talk to",
+            "I want you just the way you are",
+            "",
+            "I said, \u201cI love you,\u201d that's forever",
+            "And this, I promise from the heart, mm",
+            "I couldn't love you any better",
+            "I love you just the way you are",
+            "",
+            "[Break]",
+            "Alright",
+            "",
+            "I don't want clever conversation",
+            "I never want to work that hard, mm",
+            "I just want someone that I can talk to",
+            "I want you just the way you are, oh10Embed"
+        ],
+        "Pre-Chorus": [],
+        "Bridge": [
+            "Need to know that you will always be",
+            "The same old someone that I knew",
+            "Oh, what will it take till you believe in me",
+            "The way that I believe in you?"
+        ]
+    },
+    "spotify_metadata": {
+        "energy": 0.549,
+        "acousticness": 0.525,
+        "danceability": 0.541,
+        "instrumentalness": 0,
+        "liveness": 0.325,
+        "speechiness": 0.0368,
+        "loudness": -8.891,
+        "tempo": 135.665,
+        "time_signature": 4,
+        "valence": 0.251,
+        "genre": [
+            "album rock",
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "piano rock",
+            "rock",
+            "singer-songwriter",
+            "soft rock"
+        ],
+        "popularity": 36
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "midi_file_path": "archive-new\\Alabama\\T.L.C._A.S.A.P..mid",
+    "artist_band_name": "Alabama",
+    "song_title": "T.L.C. A.S.A.P.",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.67,
+        "acousticness": 0.116,
+        "danceability": 0.637,
+        "instrumentalness": 4.4e-06,
+        "liveness": 0.07,
+        "speechiness": 0.0267,
+        "loudness": -12.698,
+        "tempo": 148.429,
+        "time_signature": 4,
+        "valence": 0.961,
+        "genre": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+        ],
+        "popularity": 29
+    }
+}

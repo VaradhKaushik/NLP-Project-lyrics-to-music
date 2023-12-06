@@ -1,0 +1,27 @@
+{
+    "midi_file_path": "archive-new\\Billy_Swan\\I_Can_Help.mid",
+    "artist_band_name": "Billy Swan",
+    "song_title": "I Can Help",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.675,
+        "acousticness": 0.511,
+        "danceability": 0.471,
+        "instrumentalness": 0.019,
+        "liveness": 0.232,
+        "speechiness": 0.0513,
+        "loudness": -9.07,
+        "tempo": 125.313,
+        "time_signature": 4,
+        "valence": 0.53,
+        "genre": [
+            "swamp pop"
+        ],
+        "popularity": 49
+    }
+}

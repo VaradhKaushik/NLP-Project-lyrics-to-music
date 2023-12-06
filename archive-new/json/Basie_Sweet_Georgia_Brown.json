@@ -1,0 +1,32 @@
+{
+    "midi_file_path": "archive-new\\Basie\\Sweet_Georgia_Brown.mid",
+    "artist_band_name": "Basie",
+    "song_title": "Sweet Georgia Brown",
+    "lyrics": {
+        "Verse": [],
+        "Chorus": [],
+        "Pre-Chorus": [],
+        "Bridge": []
+    },
+    "spotify_metadata": {
+        "energy": 0.298,
+        "acousticness": 0.207,
+        "danceability": 0.46,
+        "instrumentalness": 0.234,
+        "liveness": 0.106,
+        "speechiness": 0.138,
+        "loudness": -16.224,
+        "tempo": 123.177,
+        "time_signature": 4,
+        "valence": 0.66,
+        "genre": [
+            "big band",
+            "harlem renaissance",
+            "jazz",
+            "jazz piano",
+            "swing",
+            "vocal jazz"
+        ],
+        "popularity": 18
+    }
+}
