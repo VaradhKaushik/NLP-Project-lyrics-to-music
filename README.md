@@ -1,5 +1,14 @@
 # Lyrics to music using MusicGen
 
+-- archive-new folder: contains midi files by artists/bands - collected from Lakh Midi dataset -cleaned subset
+-- getlyrics.ipynb notebook: contains the script to collect the lyrics of the songs using Genius API and song features metadata using spotify WebAPI.
+-- jsonAnalysis.ipynb notebook: contains the script to extract the features of midi files and analyse the common generes/ sentiments/ musical features.
+-- lyricAnalysis.ipynb notebook: contains the script to extract sentiment, keywords and topic words from the song lyrics and generates a uniform styled textual prompt for each song based on the analyzed lyrical features and musical features.
+-- processed_lyrics_sentiment_keywords.csv: contains data  of idi_file_path, artist_name, song_title, sentiment, keywords, spotify_metadata, topics, prompt
+
+
+
+
 ## How to run
     - Navigate into the musicGenInference directory.
     - In that there are three notebooks which have self-contained codes
