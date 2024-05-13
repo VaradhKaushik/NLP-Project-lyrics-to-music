@@ -1,0 +1,10 @@
+music21
+matplotlib
+pandas
+textblob
+rake-nltk
+tqdm
+gensim
+nltk
+lyricsgenius
+spotipy
